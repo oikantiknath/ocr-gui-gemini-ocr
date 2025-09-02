@@ -72,7 +72,8 @@ for img_path, js_path in pairs:
     col_img, col_txt = st.columns([1, 1])
     with col_img:
         try:
-            st.image(Image.open(img_path), caption=img_path.name, use_column_width=True)
+            st.image(Image.open(img_path), caption=img_path.name, use_container_width=True)
+
         except UnidentifiedImageError:
             st.error(f"Invalid image file: {img_path.name}")
     with col_txt:
