@@ -6,6 +6,7 @@ from typing import Dict, List, Tuple
 import streamlit as st
 from PIL import Image
 from PIL import UnidentifiedImageError
+import os
 
 # --- Config ---
 BASE_DIR = Path(os.environ.get("BASE_DIR", Path(__file__).parent))
