@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_gu_000681_1_14_ordered-list.png",
+      "width": 409,
+      "height": 180
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        409.0,
+        180.0
+      ],
+      "area": 73620.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          409.0,
+          0.0,
+          409.0,
+          180.0,
+          0.0,
+          180.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "૧૧૫. સ્થાવર મિલકતનો કોઈ પટ્ટાકૃત વકત કે ગર્ભિત રીતે સોંપી દેવાશે, મદદએ મૂળ પટ્ટાના લેવી જ\n(ભાડાની રકમ સંભાળી હોય તે સિવાયની) શરતોએ અગાઉ કરી આપેલા તે મિલકતના કે તેના કોઈ\nભાગના પેટા-પટ્ટાને પ્રતિકૂળ અસર થઈ નહિ; પણ નવો પટ્ટો મેળવવાના હેતુથી પટ્ટાકૃત સોંપી દેવામાં આવ્યો\nહોય તે સિવાય, પેટા-પટ્ટાદારે ચૂકવવાનું ભાડું તેણે પટ્ટા આપનારને ચૂકવવાનું રહેશે અને પેટા-પટ્ટાને બંધનકર્તા\nકરારોનો અમલ તે કરાવી શકશે.\n\nપેટા-પટ્ટાદારો સામે કપટ કરવા પટ્ટો આપનારે પટ્ટો ગુમાવ્યો હોય અથવા કલમ ૧૧૪ હેઠળ પટ્ટો ન\nગુમાવાય તે માટે રાહત આપવામાં આવી હોય તે સિવાય, પટ્ટો ગુમાવાયો એવા તમામ પેટા-પટ્ટાઓ પણ\nગુમાવાય છે.\n\n૧૧૬. કોઈ મિલકતનો પટ્ટાંદાર અથવા પેટા-પટ્ટાંદાર, પોતાને આપવામાં આવેલ પટ્ટો સમાપ્ત થયા પછી\nમિલકત પોતાના કબજામાં રાખે, અને પટ્ટો આપનાર અથવા તેના પ્રતિનિધિ પટ્ટાંદાર અથવા પેટા-પટ્ટાંદાર\nપાસેથી ભાડું સ્વીકારે અથવા તેને પોતાનો કબજો ચાલુ રાખવાની સંમતિ આપે તે ! તે પટ્ટો, એવી વિરુદ્ધ\nકબૂલાત ન હોય તો જે હેતુ માટે તે મિલકત પટ્ટે આપી હોય તે અનુસાર કલમ ૧૦૬માં નિર્દિષ્ટ કર્યા પ્રમાણે વરસ\nવરસના અથવા મહિના મહિનાના પટ્ટા તરીકે કરી આપેલો ગણાય."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

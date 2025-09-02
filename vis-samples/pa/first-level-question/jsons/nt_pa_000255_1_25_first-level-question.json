@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_pa_000255_1_25_first-level-question.png",
+      "width": 329,
+      "height": 214
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 8,
+      "bbox": [
+        0.0,
+        0.0,
+        329.0,
+        214.0
+      ],
+      "area": 70406.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          329.0,
+          0.0,
+          329.0,
+          214.0,
+          0.0,
+          214.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "12. ਹੇਠ ਲਿਖੇ ਪ੍ਰਸ਼ਨਾਂ ਦੇ ਉੱਤਰ ਇੱਕ ਸ਼ਬਦ ਜਾਂ ਇੱਕ ਵਾਕ ਵਿੱਚ ਦਿਓ:-\n\n1. ਸੰਵਿਧਾਨਕ ਸੰਵਿਧਾਨ ਤੋਂ ਤੁਹਾਡਾ ਕੀ ਭਾਵ ਹੈ?\n2. ਅਵਿਸ਼ਵਾਸ ਪ੍ਰਸਤਾਵ ਤੋਂ ਤੁਹਾਡਾ ਕੀ ਭਾਵ ਹੈ?\n3. ਮੁੱਖ ਮੰਤਰੀ ਦੀ ਨਿਯੁਕਤੀ ਕਿਵੇਂ ਅਤੇ ਕਿਸ ਦੁਆਰਾ ਕੀਤੀ ਜਾਂਦੀ ਹੈ?\n4. ਸਰਵੋਚ ਅਦਾਲਤ ਲਈ ਕੀ ਯੋਗਤਾਵਾਂ ਹੁੰਦੀਆਂ ਹਨ?\n\nਖਾਲੀ ਥਾਵਾਂ / ਬਹੁ ਵਿਕਲਪੀ ਪ੍ਰਸ਼ਨ\n\n5. ਸੰਯੁਕਤ ਰਾਸ਼ਟਰ ਸੰਘ ਦੀ ਸਥਾਪਨਾ ________ ਈ. ਵਿੱਚ ਹੋਈ।\n\n6. ਹਾਈ ਕੋਰਟ ਦੇ ਜੱਜ ਕਿੰਨੇ ਸਾਲ ਦੀ ਉਮਰ ਤੱਕ ਆਪਣੇ ਅਹੁਦੇ ਤੇ ਰਹਿੰਦੇ ਹਨ?\n(ੳ) 60 (ਅ) 62 (ੲ) 65 (ਸ) 70"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

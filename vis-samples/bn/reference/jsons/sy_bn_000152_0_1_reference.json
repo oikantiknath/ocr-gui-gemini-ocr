@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_bn_000152_0_1_reference.png",
+      "width": 647,
+      "height": 563
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        647.0,
+        563.0
+      ],
+      "area": 364261.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          647.0,
+          0.0,
+          647.0,
+          563.0,
+          0.0,
+          563.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "আহমদ দে : আধুনিক বাংলা প্রবন্ধ সাহিত্যের ধারা\nআনিসুজ্জামান : মোতোহের হোসেন চৌধুরী\nআবুল কাসেম ফজলুল হক : বাংলাদেশের প্রবন্ধ সাহিত্য\nআফজুলুল বাসার (সম্পাদক) : আহমদ শরীফ শ্রদ্ধাঞ্জলি\nখান সারওয়ার মুরশিদ (সম্পাদক) : সমকালীন বাংলা সাহিত্য\nবাংলা একাডেমী (প্রকাশক) : বাংলাদেশের সাহিত্য\nবিশিজিৎ ঘোষ : বাংলাদেশের সাহিত্য\nমাহবুব বারান : আবদুল হক : জীবন ও সাহিত্য\nমুস্তাফা মজিদ ও আফজুলুল বাসার (সম্পাদক) : আহমদ শরীফ স্মারকগ্রন্থ\nমুহাম্মদ সাইফুল ইসলাম (সম্পাদক) : সংস্কৃতি-সাধক মোতোহের হোসেন চৌধুরী\nমোর্শেদ শফিউল হাসান : পূর্ব বাংলায় চিন্তাচর্চা ১৯৪৭-১৯৭০ : দ্বন্দ্ব ও প্রতিক্রিয়া\nরবিউল হোসেন : সমকাল পত্রিকার সাহিত্যিক ও সাংস্কৃতিক ভূমিকা; বাঙালির\nজাগরণ : বঙ্গীয় মুসলমান সাহিত্য-সমিতি\nসৈয়দ আজিজুল হক : মন ও মনন\nসৈয়দ মোহাম্মদ শাহেদ ও বিশিজিৎ ঘোষ (সম্পাদক) : রমেশ দাশগুপ্ত স্মারকগ্রন্থ\nহাবিব রহমান : মোতোহের হোসেন চৌধুরীর জীবনভাবনা"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_gu_000302_0_4_subsub-headline.png",
+      "width": 954,
+      "height": 310
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        954.0,
+        310.0
+      ],
+      "area": 295740.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          954.0,
+          0.0,
+          954.0,
+          310.0,
+          0.0,
+          310.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(૧) તલાટી જે કાંઈ રકમ વસુલ લે તેની પહોંચ આપવી જોઈએ અને વસુલ રકમ મળ્યાની નોંધ ખેડૂત ખાતાવાળીમાં\nકરી આપવી જોઈએ.\n(૨) લેણી રકમ કરતાં ઓછી રકમ ભરવા આવે તો તે રકમ લઈને પહોંચ આપવી.\n(૩) બે જુદાજુદા ખાતાના લેણાં માટે એક જ માણસ રકમ ભરે તો દરેક ખાતા માટે જુદી પહોંચ આપવી.\n(૪) જે રકમ રજુ થાય તે પ્રથમ ચાલુ વર્ષના માંગણા પેટે જમા લેવી.\n(૫) કોઈ ખાતેદાર ભવિષ્યમાં પોતાને તલાટીએ પહોંચ આપી નથી તેવી તકરાર ઉભી કરનારો જણાંઈ આવે\nતો તેવા ખાતેદારની અડધીયામાં સહી કરાઈ લેવી.\n(૬) ખાતેદાર લેણા બાબતની વિગત સમજવા માંગતો હોય તો તે સમજાવવી.\n(૭) કોઈ ખાતાના લેણાં પેટે ખાતેદાર સિવાય બીજો વ્યકિત રકમ ભરવા આવે તો પણ તે રકમ લઈ પહોંચ\nઆપવી."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_001111_0_4_subsub-headline.png",
+      "width": 725,
+      "height": 475
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        725.0,
+        475.0
+      ],
+      "area": 344375.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          725.0,
+          0.0,
+          725.0,
+          475.0,
+          0.0,
+          475.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(i) அரசமைப்பின் உறுப்பு 258இன் கூறு (1)இன்படி ஒரு\\nமாநிலத்தின் அரசாங்கத்திடம் ஒப்படைக்கப்பட்ட\\nசெயற்பணிகள் தொடர்பாக, அந்தக் கூற்றின்படி அதற்கு\\nஅளிக்கப்பட்ட அதிகார வீச்சுக்குள் செயலுறும் மாநில\\nஅரசாங்கத்தையும்;\\n(ii) அரசமைப்பு (ஏழாம் திருத்தம்) சட்டம், 1956இன் தொடக்க\\nநிலைக்கு முன்பு, பகுதி 2 மாநிலத்தின் நிர்வாகம்\\nதொடர்பாக, அரசமைப்பின் உறுப்பு 239 அல்லது,\\nநேர்வுக்கேற்ப, உறுப்பு 243இன்படி, அவருக்கு அல்லது அதற்கு\\nஅளிக்கப்பட்ட அதிகார வீச்சுக்குள் செயலுறும் தலைமை\\nஆணையர் அல்லது துணை நிலை ஆளுநரையும் அல்லது\\nஅண்டை மாநிலத்தின் அரசாங்கம் அல்லது பிற\\nஅதிகார அமைப்பையும், மற்றும்\\n(iii) ஒன்றியத்து ஆட்சி நிலவரையின் நிர்வாகம் தொடர்பாக,\\nஅரசமைப்பின் உறுப்பு 239இன்படி அவருக்கு அளிக்கப்பட்ட\\nவீச்சுக்குள் செயலுறும் அதன் ஆளுகையையும்\\nஉள்ளடக்கும்;"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

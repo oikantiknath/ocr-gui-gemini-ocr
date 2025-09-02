@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_te_000608_0_13_footnote.png",
+      "width": 777,
+      "height": 351
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 12,
+      "bbox": [
+        0.0,
+        0.0,
+        777.0,
+        351.0
+      ],
+      "area": 272727.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          777.0,
+          0.0,
+          777.0,
+          351.0,
+          0.0,
+          351.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. కవిజనాశ్రయము భీమనకృతమనియు అభిప్రాయపడి, ఆంధ్ర సాహిత్యపరిషత్తువా\nరా రీతిని రెండు సార్లు ముద్రించియున్నారు.\n2. క. అని యిటు దళవిధిములుగ, ముని మతమునఁ గావ్యదోషములు; వాని నెఱుం\nగనివాఁ డెవ్వఁడు నెఱుం గునుదా త్తకృతి ప్రసంగ గుణదోషములన్.\n[దోషాధికారము. ప. 3]\n3. గూఢార్థ మన్యార్థ మర్ధహీనం భిన్నార్థ మేకార్థ మభిప్రేతార్థమ్,\nన్యాయాదపేతం విషమంధి శుభ్రత్వంచ దళ కావ్య దోషాః. [నాట్య. 16]\n4. రూపిణి పురుష కిష్కరా పార విషంధి సంశయ చ్యుతార్థం\nగ్రామ్యక మయథార్థం విరూఢి హీన శ్లోకశబ్దములు విదోష కృతులన్.\nఅపార్థం వ్యర్థ మేకార్థం ససంశయ మపక్రమమ్\nకష్టార్థం యథార్థం భిన్నార్థం విసంధి కమకమ్\nదేశ కాల కళాలోక న్యాయాగమ విరోధి చ.\n[2]\n[కావ్యాద 8 అ.]"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

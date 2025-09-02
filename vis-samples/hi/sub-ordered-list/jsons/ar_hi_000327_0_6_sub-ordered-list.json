@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_hi_000327_0_6_sub-ordered-list.png",
+      "width": 1404,
+      "height": 467
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        1404.0,
+        467.0
+      ],
+      "area": 655668.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1404.0,
+          0.0,
+          1404.0,
+          467.0,
+          0.0,
+          467.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "5क. श्रमजीवी पत्रकार द्वारा नामनिर्देशन—(1) तत्समय प्रवृत्त किसी विधि में, या वसीयत द्वारा अथवा अन्यथा किए गए\nकिसी व्ययन में, श्रमजीवी पत्रकार को संदेय किसी उपदान की बाबत किसी बात के होते हुए भी, जहां किसी श्रमजीवी पत्रकार को\nतत्समय देय उपदान का संदाय प्राप्त करने का अधिकार किसी व्यक्ति को प्रदत्त करना विहित रीति से किए गए किसी नामनिर्देशन से\nतात्पर्यित है वहां नामनिर्देशिती, उस श्रमजीवी पत्रकार की मृत्यु पर, अन्य सब व्यक्तियों का अपवर्जन करके उस उपदान का और\nउसकी बाबत देयराशि का संदाय प्राप्त करने का हकदार होगा जब तक कि वह नामनिर्देशन विहित रीति से परिवर्तित नहीं कर दिया\nजाता या रद्द नहीं कर दिया जाता।\n\n(2) उपधारा (1) में निर्दिष्ट नामनिर्देशन उस दशा में शून्य हो जाएगा जिसमें नामनिर्देशिती की मृत्यु या जहां दो या अधिक\nनामनिर्देशिती हों वहां सब नामनिर्देशितियों की मृत्यु, नामनिर्देशन करने वाले श्रमजीवी पत्रकार से पहले हो जाती है।\n\n(3) जहां नामनिर्देशिती अवयस्क है वहां नामनिर्देशन करने वाले श्रमजीवी पत्रकार के लिए यह विधिपूर्ण होगा कि वह\nनामनिर्देशिती की अवयस्कता के दौरान अपनी मृत्यु हो जाने की दशा में उपदान प्राप्त करने के लिए किसी व्यक्ति को विहित रीति से\nनियुक्त कर दे।]"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_hi_000261_0_0_ordered-list.png",
+      "width": 751,
+      "height": 825
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        751.0,
+        825.0
+      ],
+      "area": 619575.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          751.0,
+          0.0,
+          751.0,
+          825.0,
+          0.0,
+          825.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(११) कम से कम एक माला अर्थात् १०८ मंत्र नित्य जपने चाहिए।\nइससे अधिक जितना बन पड़े उत्तम है।\n(१२) प्रातःकाल की साधना के लिए पूर्व को मुँह करके बैठना\nचाहिए और शाम को पश्चिम को मुँह करके। प्रकाश की ओर-सूर्य की\nओर मुँह उचित है।\n(१३) पूजा के लिए फूल न मिलने पर चावल या नारियल की गिरी\nको कद्दूकस पर कसकर उसके बारीक पत्रों को काम में लाना चाहिए। यदि\nकिसी विधान में रंगीन पुष्पों की आवश्यकता हो, तो चावल या गिरी के पत्रों\nको केशर, हल्दी, गेरू, मेंहदी के देशी रंगों से रंगा जा सकता है। विदेशी\nअशुद्ध चीजों से बने रंग काम में नहीं लेने चाहिए।\n(१४) मंत्र जप इस प्रकार करना चाहिए, जिसमें कण्ठ, ओष्ठ, जिह्वा\nतो चलते रहें, परन्तु उच्चारण इतना मंद हो कि पास में बैठा हुआ व्यक्ति भी\nउसे ठीक तरह सुन न सके।\n(१५) पूजा के समय कलश रूप में जल पात्र रखना चाहिए और\nअग्नि की साक्षी के लिए दीपक या धूपबत्ती जला लेनी चाहिए। इस प्रकार\nअग्नि और जल की साक्षी में किया हुआ जप अधिक प्रभावशाली होता है।\nआचमन के लिए जल-पात्र अलग से रखना चाहिए। पूजा के अन्त में कलश\nरूप में स्थापित जल सूर्य की दिशा में प्रातःकाल पूर्व में और सायंकाल\nपश्चिम में अर्घ्य जल को चढ़ा दिया जाए।\n(१६) महिलाएँ मासिक धर्म के दिनों में माला सहित जप न करें।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

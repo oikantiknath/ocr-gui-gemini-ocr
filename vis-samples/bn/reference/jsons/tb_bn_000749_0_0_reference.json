@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "tb_bn_000749_0_0_reference.png",
+      "width": 546,
+      "height": 949
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        546.0,
+        949.0
+      ],
+      "area": 518154.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          546.0,
+          0.0,
+          546.0,
+          949.0,
+          0.0,
+          949.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "http://www.nidcd.nih.gov/health/hearing/pages/coch.as\npx.\n15 Retina Implant, http://www.retina-\nimplant.de/en/doctors/technology/default.aspx.\n16 David Brown, ‘For 1st Woman With Bionic Arm, a\nNew Life is Within Reach’, Washington Post, 14\nSeptember 2006, accessed 10 December 2010,\nhttp://www.washingtonpost.com/wp-\ndzn/content/article/2006/09/13/AR2006091302271.htm\nl?nav=E8.\n17 Miguel Nicolelis, Beyond Boundaries: The New\nNeuroscience of Connecting Brains and Machines –\nand How it Will Change Our Lives (New York: Times\nBooks, 2011).\n18 Chris Berdik, ‘Turning Thought into Words’, BU Today,\n15 October 2008, accessed 22 March 2012,\nhttp://www.bu.edu/today/2008/turning-thoughts-into-\nwords/.\n19 Jonathan Fildes, ‘Artificial Brain ‘10 years away’, BBC\nNews, 22 July 2009, accessed 19 September 2012,\nhttp://news.bbc.c0.uk/2/hi/8164060.stm.\n20 Radoje Drmanac et al., ‘Human Genome Sequencing\nUsing Unchained Base Reads on Self-Assembling\nDNA Nanoarrays’, Science 327:5961 (2010), 78–81;\n‘Complete Genomics’ website:\nhttp://www.completegenomics.com/; Rob Waters,\n‘Complete Genomics Gets Gene Sequencing under\n$5000 (Update 1)’, Bloomberg, 5 November 2009,\naccessed 10 December 2010;\nhttp://www.bloomberg.com/apps/news?pid=newsarchi\nve&sid=aWutnyE4S0Ww; Fergus Walsh, ‘Era of\nPersonalized Medicine Awaits’, BBC News, last\nupdated 8 April 2009, accessed 22 March 2012,\nhttp://news.bbc.co.Uk/2/hi/health/7954968.stm; Leena\nRao, ‘PayPal Co-Founder and Founders Fund Partner"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

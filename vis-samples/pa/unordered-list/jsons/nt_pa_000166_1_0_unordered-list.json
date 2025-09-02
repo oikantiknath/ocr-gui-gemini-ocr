@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_pa_000166_1_0_unordered-list.png",
+      "width": 436,
+      "height": 227
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        436.0,
+        227.0
+      ],
+      "area": 98972.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          436.0,
+          0.0,
+          436.0,
+          227.0,
+          0.0,
+          227.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ਸਕੂਲ ਮੁਖੀ ਦੁਆਰਾ ਟਰਾਂਸਫਰ ਸਰਟੀਫਿਕੇਟ/ਨਤੀਜਾ ਕਾਰਡ ਕਿਸੇ ਹੋਰ ਅਥਾਰਟੀ ਤੋਂ\nਵੈਰੀਫਾਈ ਕਰਵਾਉਣ ਦੀ ਲੋੜ ਨਹੀਂ ਹੋਵੇਗੀ। ਇਸ ਸਬੰਧ ਵਿੱਚ ਸਕੂਲ ਮੁਖੀ\nਸੀ.ਬੀ.ਐਸ.ਈ ਜਾਂ ਦੂਜੇ ਬੋਰਡਾਂ ਦੀ ਵੈਬਸਾਈਟ ਤੇ ਜਾ ਕੇ ਸਕੂਲ ਬਾਰੇ\nਵੈਰੀਫਾਈ ਕਰ ਲੈਣ ਕਿ ਸਰਟੀਫਿਕੇਟ ਜਾਰੀ ਕਰਨ ਵਾਲੀ ਸੰਸਥਾ/ਸਕੂਲ ਬੋਰਡ ਨਾਲ\nਐਫੀਲੀਏਟਡ ਹੈ ਜਾਂ ਨਹੀਂ। ਨਾਲ ਹੀ ਸਕੂਲ ਮੁਖੀ ਜਾਂ ਕਾਲਜ ਵਿਭਾਗ ਵੈਬਸਾਈਟ ਤੇ\nਜਾ ਕੇ ਵੈਰੀਫਾਈ ਕਰਨ ਉਪਰੰਤ ਇਸ ਸਬੰਧ ਵਿੱਚ ਆਪਣੇ ਰਿਕਾਰਡ ਨਾਲ ਸਬੰਧਤ ਵੇਰਵੇ\nਦਰਜ ਕਰ ਲੈਣ।\n੦ ਜਿਹੜੇ ਵਿਦਿਆਰਥੀ ਦਾਖਲ ਹੋਣ ਸਮੇਂ ਨਤੀਜਾ ਕਾਰਡ ਜਾਂ ਟਰਾਂਸਫਰ ਸਰਟੀਫਿਕੇਟ ਕਿਸੇ\nਵਜ੍ਹਾ ਨਾਲ ਨਾ ਦੇ ਸਕਣ, ਤਾਂ ਉਨ੍ਹਾਂ ਵਿਦਿਆਰਥੀਆਂ ਨੂੰ ਪ੍ਰੋਵੀਜਨਲ ਦਾਖਲਾ ਦੇ ਦਿੱਤਾ\nਜਾਵੇ ਪਰੰਤੂ ਸਲਾਨਾ ਪ੍ਰੀਖਿਆਵਾਂ ਸ਼ੁਰੂ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ ਉਕਤ ਦੋਨਾਂ ਵਿੱਚੋਂ ਕੋਈ ਇੱਕ\nਸਰਟੀਫਿਕੇਟ ਸਬੰਧਤ ਵਿਦਿਆਰਥੀ ਦੁਆਰਾ ਸਕੂਲ ਮੁਖੀ ਨੂੰ ਪੇਸ਼ ਕਰੇ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

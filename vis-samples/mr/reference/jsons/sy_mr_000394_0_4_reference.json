@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_mr_000394_0_4_reference.png",
+      "width": 1180,
+      "height": 826
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        1180.0,
+        826.0
+      ],
+      "area": 974680.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1180.0,
+          0.0,
+          1180.0,
+          826.0,
+          0.0,
+          826.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "संदर्भग्रंथ\n१. मराठी रीतीपुस्तक - मृदुला जोशी, हर्ष प्रकाशन, मुंबई, २०१५.\n२. लीळाचरित्र वाद संपादने - स्नेहा म्हांबरे.\n३. मराठी लेखकोश, अरुण फडके - अंकुर प्रकाशन, ठाणे, २००८.\n४. देवनागरी लिपीची घडण - क.रा. परांजपे, मराठी सत्यशोधक मंडळ, मुंबई, १९६८.\n५. देवनागरी लिपी स्वरूप, विकास और समस्याएँ - एन.सी. जोगळेकर, बी. तिवारी, हिंदी\nसाहित्य भांडार, लखनऊ, १९७४.\n६. मराठी लेखन मार्गदर्शिका - यास्मिन शेख, प्रका. राज्य मराठी विकास संस्था, मुंबई, १९९७.\n७. संपादक आणि संपादकीय - एकनाथ पोतदार, कौस्तुभ प्रकाशन, नागपूर, १९९९.\n८. कोशवाङ्मय विचार आणि व्यवहार - सदाशिव देव, डायमंड प्रकाशन, पुणे, १९९४.\n९. कोशविज्ञान - सुमित मंगेश कत्रे, केंद्रीय हिन्दी संस्थान, आग्रा, १९८०.\n१०. मुद्रणपूर्व - दीपक घारे.\n११. देवनागरी - बापूराव नाईक.\n१२. सदानंदयात्रा - सदानंद भटकळ.\n१३. भाषिक सर्जन आणि उपयोजन - राजन गवस, अरुण शिंदे, गोमटेश्वर पाटील, दर्या प्रकाशन,\nपुणे, २०१२."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

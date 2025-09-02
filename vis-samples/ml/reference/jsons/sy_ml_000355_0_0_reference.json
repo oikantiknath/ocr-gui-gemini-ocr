@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_ml_000355_0_0_reference.png",
+      "width": 746,
+      "height": 1078
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        746.0,
+        1078.0
+      ],
+      "area": 804188.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          746.0,
+          0.0,
+          746.0,
+          1078.0,
+          0.0,
+          1078.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ലീലാമണി, എം., 2011, മലയാളകവിത സാഹിത്യചരിത്രം, തൃശൂർ: കേരളസാഹിത്യ\nഅക്കാദമി.\nവേലായുധൻ പിള്ള, പി.വി., മനസ്സിൻ്റെ കവിത.\nവൈലോപ്പിള്ളി, കാവ്യലോകസ്മരണകൾ.\nശൂരനാട്ടു കുഞ്ഞൻ പിള്ള, (എഡി.), സമകാലീന കവിതയുടെ ലക്ഷങ്ങൾ.\nസുകുമാരൻനായർ, എം.പി., കാവ്യപൂന്തോപ്പ്.\nസുകുമാരൻ, 2014, മലയാള കവിതാനഗരങ്ങൾ, കോഴിക്കോട്: മാതൃഭൂമി ബുക്സ്.\nനിരണം വാടാനികൾ, തൃശൂർ പി. ശങ്കരൻ നമ്പ്യാർ പഠനങ്ങൾ.\nഇന്നോ ഒരു കവി, കൊച്ചി: സ്റ്റേറ്റ് പബ്ലിക്കേഷൻസ്.\nഗംഗാധരൻ നായർ, ജി., നാടകം പ്രസ്ഥാനവും രംഗാവിഷ്കാരവും\nഗംഗാധരൻ നായർ.ജി., മലയാള നാടകം നൂറ്റാണ്ടുകൾ.\nചന്ദ്രശേഖരൻ നായർ, വൈക്കം, പ്രഭാഷണസങ്കലനയുടെ ഒരു പുസ്തകം.\nചിന്ത പബ്ലിക്കേഷൻ, ഭാരതീയ കാവ്യശാസ്ത്രസിദ്ധാന്തം.\nതോമസ്, സി.ജെ., 2010, ഉയരുന്ന യവനിക, കോട്ടയം: നാഷണൽ ബുക്ക് സ്റ്റാൾ.\nതോമസ്, പി.ജെ., ഉണ്മയെന്ന സത്യം ലോകത്തിലെ.\nനരേന്ദ്രപ്രസാദ്, നാടകം ഉറവയും.\nനമ്പ്യാതിരി, എ.പി.പി., നാടകത്തിലേക്കൊരു നടപ്പാത.\nനാടകങ്ങൾ, അഞ്ച് 1968.\nനാരായണപിള്ള.കെ.എസ്., ദൃശ്യവേദി.\nനാരായണൻ കാളിദാസം, 1978, നാടകപരിഷ്കൃത, കോട്ടയം: സാഹിത്യപ്രവർത്തക\nസഹകരണ സംഘം.\nനാരായണൻ കാളിദാസം, മലയാള നാടകങ്ങളിലൂടെ\nനാരായണൻ കാളിദാസം, 1990, മലയാള നാടകപ്രസ്ഥാനം, തൃശൂർ: കേരള സാഹിത്യ\nഅക്കാദമി.\nപവിത്രൻ, ടി., നാടകസിദ്ധാന്തം\nപിള്ള, എൻ.എൻ., 2012, നാടകദർപ്പണം, കോട്ടയം: ഡി.സി. ബുക്സ്.\nദാസ്, ബോണി, മലയാള നാടകവേദിയുടെ കഥ\nമാരാർ ശങ്കരൻ പുത്തൻകാവ്, പാശ്ചാത്യനാടകദർശനം\nAlex Preminger (Ed.), 1974, The New Princeton Encyclopedia of poetry and poet-\nics, Brogan.T.V.F., Frank, J. Warnke & O.B. Hardison, Jr and Earl Miner (Associate\nEditors), Princeton University Press.\nCecil Day, Lewis, 2006, The poetic Image, Hesperides Press.\nJames Reeves, 1972, Understanding Poetry, Pan Books.\nKrishna, Rayan, Prof., 1991, Sahitya: A Theory, Sterling Publications.\nMeyer, Howard Abrams, 1971, The Mirror and the lamp: Romantic Theory and the\nCritical Tradition, Oxford University Press.\nMohan Thampy, G.B., Response to Poetry.\nStephen, Spender, H., 1955, The making of a poem, Hamilton."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

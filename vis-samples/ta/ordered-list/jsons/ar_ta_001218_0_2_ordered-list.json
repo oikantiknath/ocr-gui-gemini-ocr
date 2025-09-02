@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_001218_0_2_ordered-list.png",
+      "width": 736,
+      "height": 494
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        736.0,
+        494.0
+      ],
+      "area": 363584.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          736.0,
+          0.0,
+          736.0,
+          494.0,
+          0.0,
+          494.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(அ) நேர்வுக்குக்கேற்ப, பணச்செலுத்துகை அல்லது ஏற்பு அல்லது மேம்பட்ட\nபிணையும் சான்றுறுதி அதிகாரி ஒருவரால் அத்தகைய நபர்மீருந்து\nகோரப்பட்டிருந்தது என்ற ஓர் உரையை, அவரது மறுமொழி\nஏதேனுமிருப்பின், அதன் சொற்றொடர்கள் அல்லது அவர் மறுமொழி\nஎதுவும் கூறவில்லை என்ற ஓர் உரையை அல்லது அவரைக்\nகண்டுபிடிக்க முடியவில்லை என்ற உரையை,\n\n(ஈ) கடனுறுதிச் சீட்டு அல்லது மாற்றுச்சீட்டு மதிப்பு\nமறுக்கப்பட்டள்ளபோது, மதிப்பு மறுக்கப்பட்ட இடத்தையும்\nகாலத்தையும் மற்றும் மேம்பட்ட பிணையும் மறுக்கப்பட்டுள்ளபோது\nமறுக்கப்பட்ட இடத்தையும் காலத்தையும்,\n\n(உ) அந்த மறுப்புக் குறிப்பினை எழுதும் சான்றுறுதி அதிகாரியின்\nஅடிக்கையொப்பத்தையும்,\n\n(ஊ) மதிப்பளிப்புக்கு ஏற்பு அல்லது மதிப்பளிப்புக்குப்\nபணச்செலுத்துகையின் போது; எந்த நபரால் எந்த நபருக்காக மற்றும்\nஎந்த முறையில் அத்தகைய ஏற்பு அல்லது பணச் செலுத்துகை\nகொடுக்க முனைப்புப்பட்டதோ மற்றும் செதிற்றப்படுத்தப்பட்டதோ\nஅந்த நபர்களின் பெயர்களையும் முறையையும்,"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

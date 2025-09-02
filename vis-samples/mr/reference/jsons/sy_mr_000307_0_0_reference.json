@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_mr_000307_0_0_reference.png",
+      "width": 1225,
+      "height": 589
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        1225.0,
+        589.0
+      ],
+      "area": 721525.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1225.0,
+          0.0,
+          1225.0,
+          589.0,
+          0.0,
+          589.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "संदर्भग्रंथ\n१. मराठी ग्रंथमुद्रणाची वाटचाल - शं.गो. तळपुळे.\n२. मराठी ग्रंथप्रकाशानाची २०० वर्षे - शरद गोगटे, राजहंस, पुणे २००८.\n३. मराठी ग्रंथांचे आदर्श संग्रहालय - अ.का. प्रियोळकर, मुंबई मराठी साहित्य संघ, १९६१.\n४. मराठी दोलामुद्रिते - अ.का. प्रियोळकर, आर.आर. गवसकर, मुंबई मराठी साहित्य संग्रहालय, १९६१.\n५. आधुनिक मराठी साहित्याची सांस्कृतिक पार्श्वभूमी - गो.म. कुलकर्णी, मेहता प्रकाशन, पुणे, १९९४.\n६. विष्णुवंत भागवत गौरवग्रंथ - भागवत स्मारक समिती, १९८४.\n७. सोन्याबापू ढवळे गौरवग्रंथ.\n८. सदानंदयात्रा - सदानंद भटकळ.\n९. किर्लोस्करीय - मंगेश कश्यप.\n१०. ‘कवितातरंग’ ची वाङ्मयीन कामगिरी - आशुतोष पाटील."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

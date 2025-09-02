@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "qp_bn_000541_1_7_answer.png",
+      "width": 2030,
+      "height": 1883
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        2030.0,
+        1883.0
+      ],
+      "area": 3822490.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          2030.0,
+          0.0,
+          2030.0,
+          1883.0,
+          0.0,
+          1883.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "উত্তর: একক ভরের কোন বস্তুকে অসীম দূরত্ব থেকে মহাকর্ষ ক্ষেত্রের কোন বিন্দুতে আনার জন্য কোন\\nবহিঃস্থ এজেন্টকে যে পরিমাণ কার্য করতে হয়, তাকে ওই বিন্দুর মহাকর্ষীয় বিভব বলা হয়।\\nM ভরের কোন বস্তুর r দূরত্বে বিভব:\\nমহাকর্ষীয় প্রাবল্য f = GM\\n                                 r²\\nযেখানে G → মহাকর্ষীয় ধ্রুবক।\\nএখন f = GM একক ভরের ওপর ক্রিয়াশীল মহাকর্ষীয় বল। একক ভরের dr\\n                 r²\\nসরণ হলে বহিঃস্থ এজেন্ট দ্বারা কৃতকার্য = -f.dr = -(-fdr) = fdr\\nযেহেতু f এবং dr বিপরীতমুখী তাই f.dr = -fdr বস্তুর অসীম দূরত্ব থেকে r\\nদূরত্বে আনতে কৃতকার্য করতে হবে\\n= ∫fdr = ∫ GM dr = GM∫ dr = GM [-1]\\n   α         α  r²           α r²           r  α\\n= -GM\\n      r\\n∴ M ভরের বস্তু কণার r দূরত্বে বিভব = -GM\\n                                                r"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

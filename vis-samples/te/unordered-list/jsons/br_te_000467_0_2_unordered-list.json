@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_te_000467_0_2_unordered-list.png",
+      "width": 544,
+      "height": 675
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        544.0,
+        675.0
+      ],
+      "area": 367200.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          544.0,
+          0.0,
+          544.0,
+          675.0,
+          0.0,
+          675.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* స్థానిక పరిధిలకు చెందిన విద్యుత్ పారుదల నిధులతో చేర్చాలి.\n  దీనివలన జిల్లాలో స్థానిక ప్రాధాన్యతతో పారుదలైన కార్యా\n  కలుగుతుంది.\n* సమాచార సాంకేతిక వ్యవస్ధలను పంచాయతీ స్థాయి వరకు\n  విస్తరించి పదిహేడు వారీగా ఈ-గవర్నెన్సు ప్రాజెక్టును రానున్న 3\n  సంవత్సరాలలో అమలుచేయాలి.\n* ఇద్దరు పిల్లల కంటే ఎక్కువ ఉంటే పోటీకి అనర్హత వంటి నిబంధన\n  తొలగించాలి. ఇది పంచాయతీ స్థాయి ఎన్నికల్లో ప్రతిభావంతమైన\n  నాయకత్వాన్ని నిరోధిస్తుంది.\n* పంచాయతీ రాజ్ చట్టాలలో పంచాయతీ పాలకులన్ని తొలగించి\n  ప్రత్యేక అధికారులను నియమించడానికి వెసులుబాటు కల్పించే\n  నిబంధనలను తొలగించాలి.\n* గ్రామ పంచాయతీ/మండల/జిల్లా స్థాయిలో వికేంద్రీకృత\n  ప్రణాళికలు తయారు చేయడానికి వివిధ కేంద్ర ప్రభుత్వ\n  పథకాలన్నిటికీ ఒక సమగ్రమైన ప్రణాళికను తయారుచేయడానికి\n  పంచాయతీ రాజ్ సంస్థలను ప్రాతిపదికగా తీసుకోవాలి.\n  పంచాయతీలు తయారు చేసిన ప్రణాళికలను ప్రభుత్వంలోని\n  అత్యున్నత స్థాయిలో గౌరవించి విధిగా మార్పులు చేయరాదు."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

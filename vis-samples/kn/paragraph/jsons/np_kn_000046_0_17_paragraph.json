@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_kn_000046_0_17_paragraph.png",
+      "width": 192,
+      "height": 462
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        192.0,
+        462.0
+      ],
+      "area": 88704.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          192.0,
+          0.0,
+          192.0,
+          462.0,
+          0.0,
+          462.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಮುಂಬಯಿ ರಾಜ್ಯದಲ್ಲಿ ಒಟ್ಟು ೨೧೧\nಕೈಗಾರಿಕೆಗಳು ಈ ಯೋಜನೆಯಿಂದ ಲಾಭ ಪಡೆದಿರು\nವವು. ಆದರೆ ಇದಲ್ಲದೆ ಕೋಲಾರ ಮತ್ತು ಮೈಸೂರು\n೨೦೦೦ ದಿಂದ ೫೦೦೦ ವರೆಗೆ ಜನಸಂಖ್ಯೆಯುಳ್ಳ\nಪ್ರಮುಖ ಗ್ರಾಮಗಳಿಗೆ ಮೊದಲ, ೧೦೦೦\nದಿಂದ ೨೦೦೦ ವರೆಗೆ ಜನಸಂಖ್ಯೆಯುಳ್ಳ, ಕೈಗಾರಿಕಾ\nನಗರ, ಜಿಲ್ಲಾ ಕೇಂದ್ರಗಳಿಗೆ ಉಳಿದ ಸಣ್ಣ ಪಟ್ಟ\nಣಗಳಿಗೆ-ಒಂದಕ್ಕೆ ೧೦೦೦ ಕ್ಕಿಂತ ಕಡಿಮೆ ಜನಸಂಖ್ಯೆ\nಯಿರುವಲ್ಲಿ ಎಲ್ಲ ಸೌಲಭ್ಯಗಳನ್ನೊದಗಿಸಲಾಗುವುದೆಂದು\nಸಚಿವರು ಆಗಲೇ ಹೇಳಿರುವುದು ಸ್ಮರಣೀಯವಾಗಿದೆ.\n\nಅವರ ಕೊನೆಯ ಭಾಷಣದ ಸಾರಾಂಶ, ಈ ಸಭೆ\nಯಾದರು ಪ್ರಾದೇಶಿಕ ಈ ರೀತಿ ಮಾಡಲಾಯಿತು\nವಾಗಿ ಸಾರಾಂಶ ಎಲ್ಲ ಭಾಗದಲ್ಲಿಯೂ ಹರಡ\nಲಿದೆ. ಕರ್ನಾಟಕದ ಹಾಲು ಇದರಲ್ಲದೆ ಸುವರ್ಣ\nಸಮೃದ್ಧಿ ಹೊಂದುತ್ತಾ ಸಾಗುವದು. ಬೆಳಗಾವಿ, ಧಾರವಾಡ\nಮಂಡ್ಯ, ವಿಜಾಪುರ, ಕಡೂರು ಈ ನಾಲ್ಕು\nಜಿಲ್ಲೆಗಳಲ್ಲಿ ಒಟ್ಟು ಸುಮಾರು ೪೮೭೬ ಹಳ್ಳಿ\nಗಳು ಪಟ್ಟಣಗಳಿವೆ. ಈಗಾಗಲೇ ಸುಮಾರು\nಒಂದೂವರೆ ಸಾವಿರ ಗ್ರಾಮಗಳಲ್ಲಿಯೂ\nಮೂಲ ಸೌಲಭ್ಯಗಳಿಲ್ಲದೆ ಕಷ್ಟ ಪಡುತ್ತಿ\nವೆ. ಎಂದು ಸ್ಪಷ್ಟವಾಗಿ ಹೇಳಿದವರು.\nಅವುಗಳಲ್ಲಿ ಮುಂಬಯಿ ಸರಕಾರದ ಪ್ರಾದೇಶಿಕ\nಕೈಗಾರಿಕೆಯನ್ನು ಮೇಲಕ್ಕೆತ್ತಿ ಸಾರ್ವಜನಿಕ\nಗ್ರಾಮಗಳನ್ನಾಲೋಚಿಸಬೇಕು. ಅವುಗಳ\nಸಂಖ್ಯೆ ೮೯೭೦ ಈ ಸಂಖ್ಯೆಯು ಅತಿ\nಬೃಹತ್ತಾಗಿರುವುದುದನ್ನು ಸಾರ್ವಜನಿಕರ\nಮತ್ತು ಸಣ್ಣ ಕೈಗಾರಿಕೆಯನ್ನು ಮಾಡಲಾಯಿತು\nವನ್ನು ಸೃಷ್ಟಿಸಬೇಕಾದದ್ದು ಅವಶ್ಯ. ಹಾಗಾಗಿ\nದಕ್ಷಿಣದಲ್ಲಿ ಇಂತಹ ಹಳ್ಳಿಯ ಸಾರ್ವಜನಿಕ\nಗಳ ಸಂಖ್ಯೆ ೨೨೨೨ ಇರಬಹುದುಗಿದೆ."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

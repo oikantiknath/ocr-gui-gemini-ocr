@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ml_000597_0_7_subsub-headline.png",
+      "width": 821,
+      "height": 605
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        821.0,
+        605.0
+      ],
+      "area": 496705.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          821.0,
+          0.0,
+          821.0,
+          605.0,
+          0.0,
+          605.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(i) സ്കൂൾ ഓഫ് ഹ്യൂമാനിറ്റീസ് ആൻഡ് സോഷ്യൽ സയൻസസ്;\n(ii) സ്കൂൾ ഓഫ് സയൻസസ്;\n(iii) സ്കൂൾ ഓഫ് ലാംഗ്വേജസ്;\n(iv) സ്കൂൾ ഓഫ് കമ്മ്യൂണിക്കേഷൻസ് ആൻഡ് ഇൻഫർമേഷൻ സയൻസസ്;\n(v) സ്കൂൾ ഓഫ് ഇൻഡ്യൻലിസ്റ്റിക്സ് ആൻഡ് ട്രാൻസ്ഡിസിപ്ലിനറി സ്റ്റഡീസ്;\n(vi) സ്കൂൾ ഓഫ് വൊക്കേഷണൽ എഡ്യൂക്കേഷൻ ആൻഡ് ട്രെയിനിംഗ്;\n(vii) സ്കൂൾ ഓഫ് ലോ ആൻഡ് ബിൽഡിംഗ് സ്റ്റഡീസ്;\n(viii) സ്കൂൾ ഓഫ് പബ്ലിക് അഡ്മിനിസ്ട്രേഷൻ ആൻഡ് പോളിസി റിസർച്ച്;\n(ix) മറ്റുള്ളവ ഉൾക്കൊള്ളുന്നതും ഒരു സ്കൂളുകൾ."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

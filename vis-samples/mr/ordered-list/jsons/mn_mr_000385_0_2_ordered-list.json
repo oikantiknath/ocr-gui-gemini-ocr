@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_mr_000385_0_2_ordered-list.png",
+      "width": 1269,
+      "height": 363
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        1269.0,
+        363.0
+      ],
+      "area": 460647.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1269.0,
+          0.0,
+          1269.0,
+          363.0,
+          0.0,
+          363.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "① विविध प्रकारचे वाट्या आणि ताटल्याउपलब्ध आहेत .त्यांचा विशिष्ट आकार, प्रकार, वजन, रंग, रचना\nयावरून मुले त्यांची पसंती ठरवतात आणि त्या वस्तू वापरल्या तर छान जेवतात.मुलांची आवड, क्षमता आणि\nगरज लक्षात घेऊन त्यांच्यासाठी कप, चमचे निवडा .\n② टेबलावरकिंवा ट्रेमध्ये ताटली किंवा वाटीखाली एखादी छोटी सतरंजी किंवा बसकर टाका .चिकटून बसणारी\nबसकरे, वाट्या आणि ताटल्या जेवताना हालत नाहीत आणि खूप सोयीची असतात .काही मुलांना त्यांचे\nविविध आकार, प्रकार, रचना आणि रंग आवडतात आणि त्यामुळे मुले जेवणाकडे लक्ष केंद्रित करू\nशकतात .दृष्टि दोष असलेल्या मुलांच्या ताट, वाटीखाली काळ्या रंगाचे बसकर टाकले तर त्यांना वस्तू शोधणं\nसोपं जातं ."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

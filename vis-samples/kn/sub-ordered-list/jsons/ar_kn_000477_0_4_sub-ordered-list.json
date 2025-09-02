@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_kn_000477_0_4_sub-ordered-list.png",
+      "width": 873,
+      "height": 362
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        873.0,
+        362.0
+      ],
+      "area": 316026.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          873.0,
+          0.0,
+          873.0,
+          362.0,
+          0.0,
+          362.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ಎ) ಮೃತ ವ್ಯಕ್ತಿಯು ಜೀವಿತ ಕಾಲದಲ್ಲಿ ವಾಸವಾಗಿದ್ದನು ಮತ್ತು ಅವನ ಮರಣದ ಕಾಲದಲ್ಲಿ ಗರ್ಭಿಣಿಯಾಗಿದ್ದು ಅದರ\\nತರುವಾಯ ಜೀವಂತವಾಗಿ ಹುಟ್ಟಿದವರ ಮಧ್ಯೆ ಯಾವ ಭೇದಭಾವವೂ ಇರುವುದಿಲ್ಲ;\\n(ಬಿ) ಮರಣಶಾಸನ ರಚಿತನ ಜೀವಿತ ಕಾಲದಲ್ಲಿ ವಿಧವೆಯನ್ನು ಅಥವಾ ವಿಧುರನನ್ನು ಅಥವಾ ಯಾವನೇ ಪಿತೃವಂಶಜನನ್ನು\\nಅಥವಾ ಯಾವನೇ ಪಿತೃವಂಶಜ ವಿಧವೆಯನ್ನು ಅಥವಾ ವಿಧುರನನ್ನು ಬಿಡದ ಮೃತನಾ ಪಿತೃವಂಶಜನನ್ನು ಮರಣ\\nಶಾಸನ ರಚಿತನು ಯಾವ ಸ್ತ್ರೀಗೆ ಬಗ್ಗೆ ಮರಣ ಶಾಸನ ರಚಿತನಾಗಿ ಮರಣ ಹೊಂದಿದನೋ ಆ ಸ್ತ್ರೀಗೆ ವಿಭಜನೆಗಳಿಂದ\\nರೀತಿಯನ್ನು ನಿರ್ಧರಿಸುವಲ್ಲಿ ಲೆಕ್ಕಕ್ಕೆ ತೆಗೆದುಕೊಳ್ಳತಕ್ಕುದಲ್ಲ;\\n(ಸಿ) ಮರಣ ಶಾಸನ ರಚಿತನ ಯಾವನೇ ಬಂಧುವಿನ ವಿಧವೆಯು ಅಥವಾ ವಿಧುರನು ಮರಣ ಶಾಸನ ರಚಿತನ ಜೀವಿತ\\nಕಾಲದಲ್ಲಿಯೇ ಪುನಃ ವಿವಾಹವಾಗಿರುವಲ್ಲಿ, ಅಂಥ ವಿಧವೆಯು ಅಥವಾ ವಿಧುರನು, ಮರಣ ಶಾಸನ ರಚಿತನು\\nಯಾವ ಸ್ತ್ರೀಗೆ ಬಗ್ಗೆ ಮರಣ ಶಾಸನ ರಚಿತನಾಗಿ ಮರಣ ಹೊಂದಿದನೋ ಆ ಸ್ತ್ರೀಗೆ ಯಾವದೇ ಭಾಗವನ್ನು\\nಪಡೆಯಲು ಹಕ್ಕುಳ್ಳವರಾಗಿರತಕ್ಕುದಲ್ಲ ಮತ್ತು ಅಂಥ ವಿಧವೆಯು ಅಥವಾ ವಿಧುರನು ಮರಣ ಶಾಸನ ರಚಿತನ ಮರಣ\\nಕಾಲದಲ್ಲಿ ಅಸ್ತಿತ್ವದಲ್ಲಿರಲಿಲ್ಲವೆಂದು ಭಾವಿಸತಕ್ಕುದದು."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

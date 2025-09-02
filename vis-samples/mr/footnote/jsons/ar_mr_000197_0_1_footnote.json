@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_mr_000197_0_1_footnote.png",
+      "width": 1088,
+      "height": 314
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 12,
+      "bbox": [
+        0.0,
+        0.0,
+        1088.0,
+        314.0
+      ],
+      "area": 341632.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1088.0,
+          0.0,
+          1088.0,
+          314.0,
+          0.0,
+          314.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "१. हा अधिनियम जम्मू आणि काश्मीर राज्याला लागू करताना, कलम २५ मध्ये, पोटकलम (२)\nनंतर पुढील पोटकलम घालण्यात येईल, *ते असे :—\n“ (इ) (क्) या कलमातील, या अधिनियमाच्या प्रारंभासंबंधीच्या निर्देशांचा अर्थ, अन्न\nभेसळ प्रतिबंधक (विशोधन) अधिनियम, १९७१, याच्या प्रारंभासंबंधीचे *निर्देश म्हणून लावला जाईल.\n(ख्) शंकानिरसनार्थ याद्वारे असे जाहीर केले आहे की, पोटकलम (२) चे उपबंध\nसर्वसाधारण वाक्खंड अधिनियम, १८९७, (१८९७ चा १०) याच्या कलम ६ मधील उपबंधांना बाध\nआणणार नाहीत आणि जम्मू व काश्मीर राज्यामध्ये अंमलात असलेला समनुरूप कायदा म्हणजे एखादी\nअधिनियमिती असावी त्याप्रमाणे ते अशा समनुरूप कायद्याच्या निरसनालाही लागू होतील.”\n*२६ जानेवारी, १९७२ (१९७१ चा अधिनियम ४१, कलम ४ पहा)."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

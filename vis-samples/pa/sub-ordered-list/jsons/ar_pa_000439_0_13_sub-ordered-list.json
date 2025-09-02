@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_pa_000439_0_13_sub-ordered-list.png",
+      "width": 1046,
+      "height": 834
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        1046.0,
+        834.0
+      ],
+      "area": 872364.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1046.0,
+          0.0,
+          1046.0,
+          834.0,
+          0.0,
+          834.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "28. (1) ਜਿਥੇ ਇਸ ਐਕਟ ਵਿੱਚ ਹੇਠਾਂ ਬੁਧਪਤ ਤੇ ਉਸ ਦੇ ਬੱਚੇ, ਹੇਠ-ਲਿਖਿਆਂ ਦੇ ਸਿਵਾਏ,\nਕੋਈ ਵਿਅਕਤੀ ਸਰਬਤਨ ਮਿਆਦਣੀ ਦੀ ਕਿਸੇ ਸ਼੍ਰੇਣੀ ਵਿੱਚ ਹਾਜ਼ਰ ਨਹੀਂ ਹੋਵੇਗਾ,—\n(ੳ) ਸਰਬਤਨ ਮਿਆਦਣੀ ਦਾ ਕੋਈ ਮੈਂਬਰ, ਜਾਂ\n(ਅ) ਸਰਬਤਨ ਮਿਆਦਣੀ ਅੱਗੇ ਜੀਵਾਂ ਪਤੀ, ਬਾਲਕ ਦਾ ਮਾਤਾ, ਪਿਤਾ ਜਾਂ\nਸਰਪ੍ਰਸਤ ਅਤੇ ਜੀਵ ਵਿੱਚ ਜਿੱਥੇ ਤੱਕ ਤੇ ਬੁਧਪਤ ਹਰ ਵਿਅਕਤੀ ਜਿਨ੍ਹਾਂ ਵਿੱਚ\nਪੁਲਿਸ ਅਫਸਰ, ਅਤੇ ਕਾਨੂੰਨੀ ਪ੍ਰੈਕਟੀਸ਼ਨਰ ਸ਼ਾਮਲ ਹਨ;\n(ੲ) ਅਜਿਹੇ ਹੋਰ ਵਿਅਕਤੀ ਜਿਨ੍ਹਾਂ ਨੂੰ ਸਰਬਤਨ ਮਿਆਦਣੀ ਹਾਜ਼ਰ ਹੋਣ ਦੀ ਇਜਾਜ਼ਤ\nਦੇਵੇ ।\n(2) ਉਪ-ਧਾਰਾ (1) ਵਿੱਚ ਦਰਜ ਗੱਲ ਦੇ ਹੁੰਦਿਆਂ ਹੋਇਆਂ ਵੀ, ਜੇਕਰ ਜੇਕਰ ਦੇ ਦੌਰਾਨ\nਕਿਸੇ ਸਟੇਜ ਤੇ, ਸਰਬਤਨ ਮਿਆਦਣੀ, ਬਾਲਕ ਦੇ ਹਿੱਤ ਵਿੱਚ ਜਿਸਦਾਚਾਰਾ ਜਾਂ ਸਵਾਰਾ ਦੇ ਆਧਾਰ ਤੇ\nਹਾਲਾਤ ਅਨੁਸਾਰ ਇਹ ਉਚਿਤ ਸਮਝੇ ਕਿ ਕਿਸੇ ਵਿਅਕਤੀ ਨੂੰ, ਜਿਸ ਵਿੱਚ ਪੁਲਿਸ ਅਫਸਰ ਕਾਨੂੰਨੀ ਪ੍ਰੈਕਟੀਸ਼ਨਰ,\nਮਾਤਾ, ਪਿਤਾ ਸਰਪ੍ਰਸਤ ਜਾਂ ਪੁਣੇ ਬਾਲਕ ਸ਼ਾਮਲ ਹੋਣ, ਉਥੇ ਨਿਕਲ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ, ਤਾਂ ਸਰਬਤਨ ਮਿਆਦਣੀ\nਅਜਿਹਾ ਨਿਦੇਸ਼ ਦੇ ਸਕੇਗੀ, ਅਤੇ ਜੇ ਕੋਈ ਵਿਅਕਤੀ ਅਜਿਹੇ ਨਿਦੇਸ਼ ਦਾ ਪਾਲਣ ਕਰਨ ਤੋਂ, ਇਨਕਾਰ ਕਰਦਾ ਹੈ,\nਤਾਂ ਸਰਬਤਨ ਮਿਆਦਣੀ ਉਸ ਨੂੰ ਹਟਾਣ ਸਕੇਗੀ, ਇਸ ਪ੍ਰਯੋਜਨ ਲਈ, ਅਜਿਹੇ ਬਲ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕੇਗੀ\nਜੋ ਜ਼ਰੂਰੀ ਹੋਵੇ ।\n\n(3) ਕੋਈ ਕਾਨੂੰਨੀ ਪ੍ਰੈਕਟੀਸ਼ਨਰ ਕਿਸੇ ਬਾਲਕ ਲਈ ਕਿਸੇ ਮਾਮਲੇ ਜਾਂ ਕਾਰਵਾਈ ਵਿੱਚ ਉਸ\nਬਾਲਕ ਦੀ ਵਿਸ਼ੇਸ਼ ਇਜਾਜ਼ਤ ਤੋਂ ਬਿਨਾਂ ਹਾਜ਼ਰ ਹੋਣ ਦਾ ਹੱਕਦਾਰ ਨਹੀਂ ਹੋਵੇਗਾ ।\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

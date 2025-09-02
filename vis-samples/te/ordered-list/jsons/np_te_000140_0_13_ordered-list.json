@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_te_000140_0_13_ordered-list.png",
+      "width": 283,
+      "height": 543
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        283.0,
+        543.0
+      ],
+      "area": 153669.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          283.0,
+          0.0,
+          283.0,
+          543.0,
+          0.0,
+          543.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1 వేమ్యుసాకింగ్ కవిన్సు — 1\n2 లేబొటరి కవిన్సులు — 3\n3 ఫోర్ మెన్ — 1\n4 అసిస్టెంటు ఫోర్ మెన్ — 1\n5 వేక్యం క్లీలర్ ఆపరేటర్లు — 3\n6 వర్కుమెనులు — 1\n7 డార్క్-రూమ్ బాయ్స్ — 3\n8 నంబర్ ప్లేట్ వర్కర్లు — 3\n9 నెం(ట్రిక్యుగల్ ఆపరేటర్లు — 10\nఎలక్ట్రికల్ సెక్షన్సు:\n10 మూర్కుమెనులు — 1\n11 ఎలక్ట్రిషియను — 2\nమెకానికల్ సెక్షన్సు:\n12 ఫిట్టరు — 1\n13 వర్కుషాపు ఫోర్ మెన్ — 1\n14 మిల్లు ఫోర్మెను డ్రైవర్లు — 2\n15 బాయిలర్ అటెండరు(1క్లాసు) — 1\n16 ఫైర్ మెన్ — 4\n17 కరాసి — 2\n18 బటర్ ఫిట్టరు — 2\n19 వర్కరు — 1\n20 బాయిలర్ వాలరుమెన్ — 3"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

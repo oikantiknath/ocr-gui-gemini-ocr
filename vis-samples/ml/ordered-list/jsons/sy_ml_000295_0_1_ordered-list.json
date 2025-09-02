@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_ml_000295_0_1_ordered-list.png",
+      "width": 848,
+      "height": 614
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        848.0,
+        614.0
+      ],
+      "area": 520672.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          848.0,
+          0.0,
+          848.0,
+          614.0,
+          0.0,
+          614.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. കേരളപാണിനീയ ഭാഷ്യം : സി. എൽ. ആന്റണി.\n2. കേരള ഭാഷാ വ്യാകരണതീയം : ഡോ. കെ. ഗോദവർമ്മ.\n3. ഭാഷാപഠനങ്ങൾ : സി. എൽ. ആന്റണി.\n4. കൈരളീ ശബ്ദാനുശാസനം : കെ. സുകുമാരപിള്ള.\n5. മലയാളിയുടെ വ്യാകരണം : ജോർജ്ജ് മാത്തൻ.\n6. മലയാള ഭാഷാ വ്യാകരണം : ഡോ. ഹെർമ്മൻ ഗുണ്ടർട്ട്.\n7. വ്യാകരണമിതം : ശേഷഗിരി പ്രഭു.\n8. കേരളപാണിനീയ പാഠങ്ങൾ : സി. പി. വാസുദേവ ഭട്ടതിരി.\n9. കേരള ഭാഷാ വ്യാകരണം : ഇ. വി. എൻ. നമ്പൂതിരി.\n10. വ്യാകരണവിവേകം : സി. എൻ. മുത്തത്.\n11. വാക്യഘടന : ഇ. വി. എൻ. നമ്പൂതിരി.\n12. മലയാള ഭാഷാ വ്യാകരണം ഒരു സമീപനം : പ്രൊഫ. അബ്ദിനാഷ് ഗോപി.\n13. ശബ്ദബന്ധം : ഡോ. ജോൺ കുന്നപ്പള്ളി.\n14. ദ്രാവിഡ ഭാഷാശാസ്ത്രം : റോബർട്ട് കാൾഡ്വൽ (വിവ: എസ്. കെ. നായർ).\n15. കേരളപാണിനീയം - വ്യാഖ്യാനവും വിമർശനവും : പ്രൊഫ. സുന്ദരം\nയമ്പുച്ചൂരം."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

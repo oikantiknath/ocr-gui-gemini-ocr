@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_ml_000833_0_0_reference.png",
+      "width": 1811,
+      "height": 2789
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        1811.0,
+        2789.0
+      ],
+      "area": 5050879.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1811.0,
+          0.0,
+          1811.0,
+          2789.0,
+          0.0,
+          2789.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "വേലായുധൻ, പണിക്കശ്ശേരി. 2017, നവോത്ഥാനം കണ്ട കേരളം, ഒന്നാം പതിപ്പ്,\nകറന്റ് ബുക്സ്, പൃ. 152-153\nഅതേ പുസ്തകം, പൃ. 185\nഎഴുത്തച്ഛൻ, തുഞ്ചത്ത്. 1998, മഹാഭാരതം കിളിപ്പാട്ട്, സാഹിത്യ.പ്ര.ക (എഡി),\nഒന്നാം പതിപ്പ്, തുഞ്ചൻ സ്മാരക ഗവേഷണകേന്ദ്രം, പൃ. 285\nസുബ്രഹ്മണ്യൻ, പി.കെ. 2019, നവോത്ഥാനകാലത്തെ കേരളം, മൂന്നാം പതിപ്പ്,\nഗ്രാന്റ് ബുക്സ്, പൃ.27-28\nവേലായുധൻ, പണിക്കശ്ശേരി. 2017, നവോത്ഥാനം കണ്ട കേരളം, ഒന്നാം പതിപ്പ്,\nകറന്റ് ബുക്സ്, പൃ. 285\nഅതേ പുസ്തകം, പൃ. 278\nരാധാകൃഷ്ണൻ, എം. പി. 2015, മഹാഭാരതഗ്രന്ഥം സാമൂഹിക സാംസ്കാരിക\nസവിശേഷതകൾ, ഒന്നാം പതിപ്പ്, സാഹിത്യ പ്രവർത്തന സഹകരണ സംഘം,\nപൃ.72\nഗണേശ്. കെ.എൻ. കേരളത്തിന്റെ ഉത്ഭവകഥ, 2015, നാലാം പതിപ്പ്, കേരള\nഭാഷാ ഇൻസ്റ്റിറ്റ്യൂട്ട്, പൃ.183\nP. T. Sreenivesa Iyyankar,2001, History of the Tamils From The Earliest\nTimes to 600 AD, Asian Educational Serveces, P.152\nഅച്യുതവാര്യർ, എ.സി. 2016, കേരള സംസ്കാരം, ഏഴാം പതിപ്പ്, കേരള ഭാഷാ\nഇൻസ്റ്റിറ്റ്യൂട്ട്, പൃ.123\nദേവിക, ജെ. 2015, കുലസ്ത്രീയും ചന്തപ്പെണ്ണും ഉണ്ടായതെങ്ങനെ?, ഒന്നാം പതി\nപ്പ്, കേരള ശാസ്ത്ര സാഹിത്യ പരിഷത്ത്, പൃ.100\nമാധ്യമം ദിനപത്രം, ഒക്ടോബർ 20, 2019,\nഅച്യുതവാര്യർ, എ.സി. 2016, കേരള സംസ്കാരം, ഏഴാം പതിപ്പ്, കേരള ഭാഷാ\nഇൻസ്റ്റിറ്റ്യൂട്ട്, പൃ.129\nവേലായുധൻ, പണിക്കശ്ശേരി. 2017, നവോത്ഥാനം കണ്ട കേരളം, ഒന്നാം പതിപ്പ്,\nകറന്റ് ബുക്സ്, പൃ. 243\nഅതേ പുസ്തകം, പൃ. 147"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

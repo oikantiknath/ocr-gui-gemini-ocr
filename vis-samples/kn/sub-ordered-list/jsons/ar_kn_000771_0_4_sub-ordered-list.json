@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_kn_000771_0_4_sub-ordered-list.png",
+      "width": 981,
+      "height": 283
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        981.0,
+        283.0
+      ],
+      "area": 277623.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          981.0,
+          0.0,
+          981.0,
+          283.0,
+          0.0,
+          283.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "10. ನ್ಯಾಯಿಕ ಪ್ರತ್ಯೇಕೀಕರಣ.- (1) ಈ ಅಧಿನಿಯಮ ಪ್ರಾರಂಭಕ್ಕೆ ಮೊದಲು ಅಥವಾ ಅನಂತರ ಅನುಮತಿವಾಗಿರುವ\nವಿವಾಹದ ಪಕ್ಷಕಾರರಲ್ಲಿ ಯಾರಾದರೂ ಒಬ್ಬರು, 13ನೇ ಪ್ರಕರಣದ (1)ನೇ ಉಪಪ್ರಕರಣದಲ್ಲಿ ನಿರ್ದಿಷ್ಟಪಡಿಸಿದ ಯಾವ ಕಾರಣಗಳ\nಮೇಲೆ ಮತ್ತು ಹಂಡತಿಯ ಸಂದರ್ಭದಲ್ಲಿ ಕೂಡ ಉಪ (2)ನೇ ಉಪಪ್ರಕರಣದಲ್ಲಿ ನಿರ್ದಿಷ್ಟಪಡಿಸಿದ ಯಾವದೇ ಕಾರಣಗಳ ಮೇಲೆ,\nವಿವಾಹ ವಿಚ್ಛೇದನಕ್ಕಾಗಿ ಅರ್ಜಿಯನ್ನು ಸಲ್ಲಿಸಬಹುದಾದ ಕಾರಣಗಳಿಂಬಂತೆ ನ್ಯಾಯಿಕ ಪ್ರತ್ಯೇಕೀಕರಣಕ್ಕೆ ಡಿಗ್ರಿ ಕೋರಿಕೊಂಡು ಪ್ರಾರ್ಥಿಸಿ\nಅರ್ಜಿಯನ್ನು ಸಲ್ಲಿಸಬಹುದು.\n\n(2) ನ್ಯಾಯಿಕ ಪ್ರತ್ಯೇಕೀಕರಣಕ್ಕಾಗಿ ಡಿಗ್ರಿ ಮಾಡಿರುವಾಗ ಅರ್ಜಿದಾರನು /ಳು ಪ್ರತಿ ಅರ್ಜಿದಾರನಿಗೆ /ಳಿಗೆ ತರುವಾಯ\nಸಹ ವಾಸಿಸಲು ಬದ್ಧನಾಗಿರುವುದಿಲ್ಲ /ಳಾಗಿರುವುದಿಲ್ಲ, ಆದರೆ, ನ್ಯಾಯಾಲಯವು, ಪಕ್ಷಕಾರರಲ್ಲಿ ಯಾರಾದರೂ ಒಬ್ಬರ ಅರ್ಜಿಯ\nಮೂಲಕ ಆದೇಶದ ಮೇಲೆ ಮತ್ತು ಆ ಅರ್ಜಿಯಲ್ಲಿರುವ ಹೇಳಿಕೆಗಳ ಸತ್ಯಾಂಶದ ಬಗ್ಗೆ ತನಗೆ ಮನವರಿಕೆಯಾದ ಹಾಗೆ ಮಾಡುವ\nನ್ಯಾಯಸಮ್ಮತವೆಂದು ಮತ್ತು ಯುಕ್ತವೆಂದು ತಾನು ಪರ್ಯಾಲೋಚಿಸಿದರೆ, ಆ ಡಿಗ್ರಿಯನ್ನು ರದ್ದುಗೊಳಿಸಬಹುದು."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

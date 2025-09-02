@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_hi_000176_0_1_ordered-list.png",
+      "width": 798,
+      "height": 551
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        798.0,
+        551.0
+      ],
+      "area": 439698.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          798.0,
+          0.0,
+          798.0,
+          551.0,
+          0.0,
+          551.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(क) क किसी गांव में स्थित ऐसा गृह, जो ड को 30 रुपये\nऔर एक मोटी भेड़ के परिदान के वार्षिक भाटक पर पट्टे पर दिया हुआ है, ख, ग\nऔर घ को बेचता है । क्रय मूल्य का ख ने आधा रुपया और ग और घ में से\nहर एक ने एक चौथाई दिया है । ड को उसकी सूचना है अतः वह पन्द्रह\nरुपये ख को, साढ़े सात रुपये ग को, साढ़े सात रुपये घ को देगा और भेड़\nका परिदान ख, ग और घ के संयुक्त निदेश के अनुसार करेगा ।\n\n(ख) उसी दृष्टान्त में गांव का हर एक गृह बाढ़ रोकने के लिए तट-\nबन्ध में प्रति वर्ष 10 दिन के श्रम का प्रदाय करने के लिए आबद्ध है और\nड ने अपने पट्टे के निबन्धन के तौर पर फ के लिए यह काम करने का करार\nकिया था । ख, ग और घ में से हर एक अपने गृह की ओर से अलग अलग 10\nदिन तक काम करने की अपेक्षा ड से करते हैं । ड ऐसे निदेशों के अनुसार जैसा\nसम्मिलित हो कर ख, ग और घ दें, कुल 10 दिन से अधिक काम करने के लिए\nआबद्ध नहीं है ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

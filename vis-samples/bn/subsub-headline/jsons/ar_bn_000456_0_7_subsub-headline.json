@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000456_0_7_subsub-headline.png",
+      "width": 442,
+      "height": 373
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        442.0,
+        373.0
+      ],
+      "area": 164866.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          442.0,
+          0.0,
+          442.0,
+          373.0,
+          0.0,
+          373.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ক) কোন নাবালক স্ত্রীলোককে এরূপ কোন ব্যক্তির\nসাময়িক অভিভাবকত্বে রাখিতে কোন আদালতকে\nপ্রাধিকৃত করিবে না, যে ব্যক্তি তাহার অভি-\nভাবক হইবার দাবি করেন এই হেতুতে যে\nতিনি তাহার স্বামী, যদি না ইতিমধ্যেই ঐ\nনাবালক, তাহার পিতামাতা, কেহ থাকিলে,\nতাঁহার বা তাঁহাদের সম্মতি সহ ঐ ব্যক্তির\nঅভিভাবকত্বে থাকে, অথবা\n(খ) কোন ব্যক্তি যাঁহার উপর কোন নাবালকের সম্পত্তির\nসাময়িক অভিভাবকত্ব ও রক্ষণ ন্যস্ত আছে\nতাঁহাকে এরূপ কোন সম্পত্তির দখলিকার\nকোন ব্যক্তিকে বিধির যথাযথ অনুক্রম অনুসারে\nব্যতীত অন্যথা দখলচ্যুত করিতে প্রাধিকৃত\nকরিবে না।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

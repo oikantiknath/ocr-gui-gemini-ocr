@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_kn_000432_0_0_sub-ordered-list.png",
+      "width": 963,
+      "height": 521
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        963.0,
+        521.0
+      ],
+      "area": 501723.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          963.0,
+          0.0,
+          963.0,
+          521.0,
+          0.0,
+          521.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "20. ವ್ಯವಹಾರಗಳ ಪ್ರಾರಂಭ ಮತ್ತು ಮುಕ್ತಾಯ:- (1) ಸಂಧಾನ ವ್ಯವಹಾರವು ಸಂದರ್ಭಾನುಸಾರ, 22ನೇ ಪ್ರಕರಣದ\\nಮೇರೆಗೆ ಸಂಧಾನ ಅಧಿಕಾರಿಯು ಅಥವಾ ಉಪ ವಿಧೇಯಕವು ಸೂಚಿಸುವಲ್ಲಿ ಸಿಕ್ಕಿಬಿದ್ದಿದೆಯಾದ್ದರಿಂದ ಅಥವಾ ವಿವಾದವನ್ನು\\nಒಂದು ಮಂಡಳಿಗೆ ಉಲ್ಲೇಖಿಸಿದ ಆದೇಶದ ದಿನಾಂಕದಿಂದ ಪ್ರಾರಂಭವಾಗಿದೆಯೆಂದು ಭಾವಿಸತಕ್ಕುದು.\\n(2) ಸಂಧಾನ ವ್ಯವಹಾರವು-\\n(ಎ) ತೀರ್ಪನ್ನು ತಲುಪುವಲ್ಲಿ, ವಿವಾದ ಪಕ್ಷಕಾರರು ತೀರ್ಪಿಗೆ ಸಮ್ಮತಿ ನೀಡಿದಾಗ;\\n(ಬಿ) ಯಾವುದೇ ತೀರ್ಪನ್ನು ತಲುಪಿಲ್ಲದಿದ್ದಲ್ಲಿ, ಸಂದರ್ಭಾನುಸಾರ ಸಂಧಾನ ಅಧಿಕಾರಿಯ ವರದಿಯನ್ನು ಸಮುಚಿತ\\nಸರ್ಕಾರವು ಸ್ವೀಕರಿಸಿದಾಗ ಅಥವಾ 17ನೇ ಪ್ರಕರಣದ ಮೇರೆಗೆ ಮಂಡಳಿಯ ವರದಿಯನ್ನು ಸ್ವೀಕರಿಸಿದಾಗ; ಅಥವಾ\\n(ಸಿ) ಸಂಧಾನ ವ್ಯವಹಾರವು ತೀರ್ಪಿನ ಅವಧಿಯಲ್ಲಿ 10ನೇ ಪ್ರಕರಣದ ಮೇರೆಗೆ ನ್ಯಾಯಾಲಯ, ಕಾರ್ಮಿಕ ನ್ಯಾಯಾಲಯ,\\nನ್ಯಾಯಾಧಿಕರಣ ಅಥವಾ ರಾಜ್ಯೀಯ ನ್ಯಾಯಾಧಿಕರಣಕ್ಕೆ ಉಲ್ಲೇಖ ಮಾಡಿದಾಗ\\n- ಮುಕ್ತಾಯವಾಗಿದೆಯೆಂದು ಭಾವಿಸತಕ್ಕುದು.\\n(3) 10ಬಿ ಪ್ರಕರಣದ ಮೇರೆಗೆ ಮಧ್ಯಸ್ಥ ನ್ಯಾಯಾಲಯ ಅಥವಾ ಕಾರ್ಮಿಕ ನ್ಯಾಯಾಲಯ, ನ್ಯಾಯಾಧಿಕರಣ ಅಥವಾ\\nರಾಜ್ಯೀಯ ನ್ಯಾಯಾಧಿಕರಣದ ಮುಂದಿರುವ ವ್ಯವಹಾರಗಳು, ಸಂದರ್ಭಾನುಸಾರ, ವಿವಾದವನ್ನು ಮುಕ್ತಾಯಗೊಳಿಸಿ ಅಥವಾ ನ್ಯಾಯ\\nನಿರ್ಣಯಕ್ಕಾಗಿ ಉಲ್ಲೇಖಿಸಿದ ದಿನಾಂಕದಿಂದ ಪ್ರಾರಂಭವಾಗಿದೆಯೆಂದು ಭಾವಿಸತಕ್ಕುದು ಮತ್ತು ಅಂಥ ವ್ಯವಹಾರವು 17ಎ ಪ್ರಕರಣದ\\nಮೇರೆಗೆ ವಿಶೇಷ ಪೂರ್ವನಿರ್ಣಯದ ದಿನಾಂಕದಿಂದ ಮುಕ್ತಾಯವಾಗಿದೆಯೆಂದು ಭಾವಿಸತಕ್ಕುದು."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

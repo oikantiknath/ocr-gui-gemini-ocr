@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_kn_000412_1_6_subsub-headline.png",
+      "width": 449,
+      "height": 203
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        449.0,
+        203.0
+      ],
+      "area": 91147.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          449.0,
+          0.0,
+          449.0,
+          203.0,
+          0.0,
+          203.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ಎ) ಯಾವುದೇ ಸ್ಥಳವನ್ನು ಸಾರ್ವಜನಿಕ ಸ್ಥಳವೆಂದು ಅಧಿಸೂಚಿಸುವುದು;\n(ಬಿ) 17ನೇ ಪ್ರಕರಣದ (1)ನೇ ಉಪಪ್ರಕರಣದ ಮೇರೆಗೆ ಯಾವ ವ್ಯಕ್ತಿಗಳ ಸುರಕ್ಷಿತ ಅಭಿರಕ್ಷೆಗಾಗಿ\nಆದೇಶವನ್ನು ಹೊರಡಿಸಲಾಗಿದೆಯೋ ಆ ವ್ಯಕ್ತಿಗಳನ್ನು ಅಭಿರಕ್ಷೆಯಲ್ಲಿರಿಸುವುದು ಮತ್ತು ಅವರ\nಪೋಷಣೆ;\n(ಬಿಎ) 10ಎ ಪ್ರಕರಣದ (3)ನೇ ಉಪಪ್ರಕರಣದ ಮೇರೆಗೆ ಸುಧಾರಕ ಸಂಸ್ಥೆಯಿಂದ ಅಪರಾಧಿಯನ್ನು\nಬಿಡುಗಡೆ ಮಾಡುವುದು ಮತ್ತು ಅಂಥ ಅಪರಾಧಿ ನಿರೀಕ್ಷಕನ ಲೈಸೆನ್ಸಿನ ನಮೂನೆ;\n(ಸಿ) ಈ ಅಧಿನಿಯಮದ ಮೇರೆಗೆ ಸಂರಕ್ಷಣ ಗೃಹಗಳಲ್ಲಿ ಅಥವಾ ಸಂದರ್ಭಾನುಸಾರ ಸುಧಾರಕ\nಸಂಸ್ಥೆಗಳಲ್ಲಿ ವ್ಯಕ್ತಿಗಳನ್ನು ತಡೆಹಿಡಿದಿಡುವುದು ಮತ್ತು ಒಪ್ಪಿಸುವುದು ಮತ್ತು ಅವರ ಪೋಷಣೆ;\n(ಡಿ) ಬಿಡುಗಡೆ ಮಾಡಲ್ಪಟ್ಟ ಅಪರಾಧ ನಿರ್ದಿಷ್ಟ ವ್ಯಕ್ತಿಗಳು, ತಮ್ಮ ವಾಸಸ್ಥಳದ ಅಥವಾ ಅಂಥ\nವಾಸಸ್ಥಳದ ಬದಲಾವಣೆಯ ಅಥವಾ ವಾಸಸ್ಥಳದಿಂದ ಗೈರು ಹಾಜರಾಗುವುದನ್ನು"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

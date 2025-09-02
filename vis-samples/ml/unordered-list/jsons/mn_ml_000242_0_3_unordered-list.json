@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_ml_000242_0_3_unordered-list.png",
+      "width": 941,
+      "height": 892
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        941.0,
+        892.0
+      ],
+      "area": 839372.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          941.0,
+          0.0,
+          941.0,
+          892.0,
+          0.0,
+          892.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* റോഡിന്റെ നീളം കിലോ മീറ്ററിലും, റോഡിന്റെ വീതി മീറ്ററിലുമാണ് രേഖപ്പെടുത്തേണ്ടത്.\nറോഡിന്റെ വീതി അനുസരിച്ച് താഴെ പറയുന്നവ തരം തിരിച്ച് നൽകിയിട്ടുണ്ട് (8 & Above, From 6 to 8\nMeter, From 3 to 6 Meter, From 1 to 2.99 Meter, Below 1 Meter) തുടർന്ന് റോഡ് വീതി\nവർഷവും രേഖപ്പെടുത്തുക.\nRoad Measurement 2 Length 0.12 km Width 4 metre\nCarriage way width 3 meter Category of road 3 From 3 to 6 meter\nYear of construction 0\n\n* റോഡിനു വശത്തായി സംരക്ഷണ ഭിത്തികൾ നിർമ്മിച്ചിട്ടുണ്ടെങ്കിൽ Protection wall exist എന്ന\nചെക്ക് ബോക്സ് ടിക്ക് ചെയ്ത് അതിൻ്റെ നീളം Length(KM) എന്നെടത്ത് ബോക്സിൽ\nഅതിൻ്റെ നീളവും രേഖപ്പെടുത്തുക. അതുപോലെ റോഡിനു വശത്തായി അഴുക്കുചാൽ\nനിർമ്മിച്ചിട്ടുണ്ടെങ്കിൽ Drainage exist എന്ന ചെക്ക് ബോക്സ് ടിക്ക് ചെയ്ത് അതിൻ്റെ\nLength(Meter) എന്നെടത്ത് ബോക്സിൽ നീളവും രേഖപ്പെടുത്തുക.\nProtection wall exist Count (Wall Measurement) 0 Length 0 km\nDrainage exist Count (Drainage Measurement) 0 Length 400 metre\n\n* ഈ റോഡ് എന്ന അസറ്റിൽ നിർമ്മാണചിലവാണ് രേഖപ്പെടുത്തേണ്ടത്, താഴെ കാണുന്ന\nചിത്രം പരിശോധിക്കുക. ഇവിടെ Construction cost, Last Maintanance Details, Remark എന്നിവ\nരേഖപ്പെടുത്തുക. കൂടാതെ താഴെ രേഖപ്പെടുത്തുന്ന ഈ അസറ്റിൽ ഏതെങ്കിലും സ്കീം പ്രകാരം\nനിർമ്മിച്ചതാണെങ്കിൽ Whether included in scheme എന്ന ചെക്ക് ബോക്സ് ടിക്ക്\nചെയ്ത് അതിൻ്റെ Scheme എന്ന കോളോം ബോക്സിൽ നിന്നും ആവശ്യമായത്\nതെരഞ്ഞെടുക്കുക.\nConstruction cost (95-06) 335000 Rupees Whether included in scheme Scheme ...\nLast Maintenance Details Retar\nRemarks"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

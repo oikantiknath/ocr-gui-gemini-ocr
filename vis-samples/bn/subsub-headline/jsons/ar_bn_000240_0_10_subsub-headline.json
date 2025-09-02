@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000240_0_10_subsub-headline.png",
+      "width": 727,
+      "height": 397
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        727.0,
+        397.0
+      ],
+      "area": 288619.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          727.0,
+          0.0,
+          727.0,
+          397.0,
+          0.0,
+          397.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(কক) বহিসমূহ ১৬ক ধারার (১) উপধারা অনুযায়ী কম্পিউটার ফ্লপি বা ডিস্কেটে বা অন্য কোন\nবৈদ্যুতিন প্রকারে যে প্রণালীতে ও যে রক্ষাকবচ সাপেক্ষে রক্ষণ করা যাইতে পারিবে\nতাহার ব্যবস্থা করা;\n(খ) কোন্ কোন্ ভাষা সাধারণত প্রত্যেক জেলায় ব্যবহৃত হয় বলিয়া গণ্য হইবে তাহা\nঘোষণা করা;\n(গ) ২১ ধারা অনুযায়ী কোন্ কোন্ রাজ্যক্ষেত্রাধীন বিভাগ স্বীকৃত হইবে তাহা ঘোষণা\nকরা;\n(ঘ) যথাক্রমে ২৬ ও ৩৪ ধারা অনুযায়ী আরোপিত জরিমানার অর্থপরিমাণ প্রনিযন্ত্রণ\nকরা;\n(ঙ) রেজিস্ট্রিকরণে ৩০ ধারা দ্বারা প্রদত্ত ছবিকেসর প্রয়োগ প্রনিযন্ত্রণ করা;\n(চ) রেজিস্ট্রিকারী আধিকারিকগণ যে ফরমে দস্তাবেজসমূহের সারকলিপি প্রস্তুত\nকরিবেন তাহা প্রনিযন্ত্রণ করা;"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

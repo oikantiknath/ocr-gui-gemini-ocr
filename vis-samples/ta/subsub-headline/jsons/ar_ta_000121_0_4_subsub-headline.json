@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_000121_0_4_subsub-headline.png",
+      "width": 873,
+      "height": 431
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        873.0,
+        431.0
+      ],
+      "area": 376263.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          873.0,
+          0.0,
+          873.0,
+          431.0,
+          0.0,
+          431.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(அ) 239அஅ எனும் உறுப்பின் அல்லது அந்த உறுப்பினைப் பின்பற்றி இயற்றப்பட்ட\nசட்டம் எதனின் வகைகளுக்கும் இணங்க, தேசிய தலைநகர ஆட்சி\nநிலவரையின் நிர்வாகத்தை நடத்திச் செல்ல இயலாத ஒரு நிலைமை\nஎழுந்துள்ளதென, அல்லது\n(ஆ) தேசிய தலைநகர ஆட்சிநிலவரையினை முறையாக நிர்வாகம் செய்வதற்கு\nஅவ்வாறு செய்வது தேவையென அல்லது உகந்ததென\nதெளிவுறுக்கான்பாராட்டின், குடியரசுத்தலைவர், ஆணையின் வழி, 239 அஅ எனும்\nஉறுப்பின் வகையெதனின் அல்லது அந்த உறுப்பினைப் பின்பற்றி இயற்றப்பட்ட சட்டம்\nஎதனின் வகையங்கள் அனைத்தின் அல்லது அவற்றில் எதனின் செயற்பாட்டினையும்,\nஅந்தச்சட்டத்தில் குறித்துரைக்கப்படும் காலஅளவுக்கும், வரக்கட்டுக்களுக்கு உட்பட்டும்,\nதற்காலிகமாக நிறுத்திவைத்து, தேசிய தலைநகர ஆட்சிநிலவரையினை 239 ஆம் உறுப்பின்\nமற்றும் 239 அஅ உறுப்பின் வகையங்களுக்கு இணங்க, நிர்வாகம் செய்வதற்கு\nதேவையென அல்லது தமக்கு உகந்ததெனத் தோன்றும் சார்வுறு மற்றும் விளைவுறு\nஏற்பாடுகளைச் செய்யலாம்.]"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

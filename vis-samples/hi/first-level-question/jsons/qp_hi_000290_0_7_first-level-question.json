@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "qp_hi_000290_0_7_first-level-question.png",
+      "width": 687,
+      "height": 941
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 8,
+      "bbox": [
+        0.0,
+        0.0,
+        687.0,
+        941.0
+      ],
+      "area": 646467.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          687.0,
+          0.0,
+          687.0,
+          941.0,
+          0.0,
+          941.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "81. केंद्रीय सिविल सेवा (वर्गीकरण, नियंत्रण एवं अपील)\nनियम, 1965 के अंतर्गत, निम्नलिखित में से\nकिसे/किन्हें कोई शास्ति नहीं माना जाएगा ?\n1. किसी सरकारी कर्मचारी की उसके सेवा नियमों के\nअनुसार कोई विभागीय परीक्षा उत्तीर्ण करने में\nअसफल रहने पर वेतनवृद्धि रोकना ।\n2. किसी सरकारी कर्मचारी की अधिवर्षिता अथवा\nसेवानिवृत्ति से संबंधित उपबंधों के अनुसार\nअनिवार्य सेवानिवृत्ति ।\n3. किसी सरकारी कर्मचारी द्वारा उपेक्षा अथवा\nआदेशों के भंग से सरकार को पहुँचाई गई\nधन-संबंधी हानि की वेतन में से पूर्णतः अथवा\nभागशः वसूली ।\n\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए :\n(a) केवल 1\n(b) केवल 2\n(c) केवल 1 और 2\n(d) 1, 2 और 3"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

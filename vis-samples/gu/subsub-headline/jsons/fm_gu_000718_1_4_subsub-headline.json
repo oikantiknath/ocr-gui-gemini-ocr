@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_gu_000718_1_4_subsub-headline.png",
+      "width": 479,
+      "height": 287
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        479.0,
+        287.0
+      ],
+      "area": 137473.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          479.0,
+          0.0,
+          479.0,
+          287.0,
+          0.0,
+          287.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(i) If the Officer's integrity is beyond doubt, it may be stated.\n(ii) If there is any doubt or suspicion, the column should be left blank and action taken as under:\n\n(a) A separate secret note should be recorded and followed up. A copy of the note\nshould also be sent together with the Performance Appraisal Report to the next superior\nofficer who will ensure that the follow up action is taken expeditiously. Where it is not\npossible either to certify the integrity or to record the secret note, the Reporting Officer\nshould state either that he/she had not watched the officer's work for sufficient time to\nform a definite judgement or that he/she has heard nothing against the officer, as the\ncase may be.\n\n(b) If, as a result of the follow up action, the doubts or suspicions are cleared, the officer's\nintegrity should be certified and an entry made accordingly in the Performance Appraisal\nReport.\n\n(c) If the doubts or suspicions are confirmed, this fact should also be recorded and duly\ncommunicated to the officer concerned.\n\n(d) If as a result of the follow up action, the doubts or suspicions are neither cleared nor\nconfirmed, the officers conduct should be watched for a further period and thereafter\naction taken as indicated at (b) and (c) above."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_kn_000416_0_3_paragraph.png",
+      "width": 679,
+      "height": 236
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        679.0,
+        236.0
+      ],
+      "area": 160244.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          679.0,
+          0.0,
+          679.0,
+          236.0,
+          0.0,
+          236.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಹಾಗೆ ನೋಡಿದರೆ ಟಿ.ವಿ ಸಿಂಗ್ ಠಾಕೂರ್ ನಿರ್ದೇಶಕಾಗಲು ಕ್ರಮಬದ್ಧ\nಶಿಕ್ಷಣವನ್ನೇನೂ ಪಡೆದವರಲ್ಲ. ವ್ಯವಹಾರಿಕವಾದಷ್ಟು ಕನ್ನಡ ಭಾಷೆಯ ಅರಿವು\nಬಿಟ್ಟರೆ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಂಸ್ಕೃತಿಯ ಗಾಢಾನುಭವ ಇದ್ದವರಲ್ಲ. ಆದರೆ ಅವರು ಕನ್ನಡ\nಸಾಹಿತ್ಯಕೃತಿಗಳನ್ನು ಚಲನಚಿತ್ರಕ್ಕೆ ಅಳವಡಿಸುವ ದೊಡ್ಡ ಪರಂಪರೆಯೊಂದನ್ನು\nಉದ್ದಾಪಿಡಿಸಿದವರು. ತಮ್ಮ ಬದುಕಿನ ಬಹುಪಾಲು ಸಮಯವನ್ನು ಅಂದಿನ\nಮದರಾಸಿನಲ್ಲಿಯೇ ಕಳೆದ ಅವರು ಇವತ್ತು ಅರವತ್ತರ ದಶಕದಲ್ಲಿ ಕನ್ನಡ ಚಿತ್ರರಂಗಕ್ಕೆ\nಭದ್ರ ಬುನಾದಿ ಹಾಕಿದ ನಿರ್ದೇಶಕರಲ್ಲಿ ಅಗ್ರಗಣ್ಯರನಿಸಿದರು. ಆದುದರಿಂದ ಠಾಕೂರ್"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "qp_bn_000395_1_10_answer.png",
+      "width": 2488,
+      "height": 1181
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        2488.0,
+        1181.0
+      ],
+      "area": 2938328.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          2488.0,
+          0.0,
+          2488.0,
+          1181.0,
+          0.0,
+          1181.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "উঃ সরকারের চলতি খাতে যে আয় হয় তার বেশি ব্যয় করাকে ঘাটতি ব্যয় বলে।\nঘাটতি ব্যয়ের পক্ষে যুক্তিগুলি হল :\n(i) বেকার সমস্যার সমাধান : অর্থনীতিবিদ কেইনসের মতে, অনুন্নত দেশে অব্যবহৃত সম্পদের সদা\nব্যবহারে সাহায্য করে ঘাটতি ব্যয়।\n(ii) আয় বৃদ্ধির গতি : যে কোনো উন্নয়নশীল দেশে আয়গুণক এর পরিমাণ বেশি হলে ঘাটতি ব্যয়\nআয় বৃদ্ধির গতি বাড়াতে সাহায্য করে।\nঘাটতি ব্যয়ের বিপক্ষে যুক্তিগুলি হল :\n(i) দ্রব্যমূল্য বৃদ্ধি : ঘাটতি ব্যয় মুদ্রাস্ফীতি ঘটার কারণ অর্থের জোগান বৃদ্ধি পেলেও তাৎক্ষণিক\nদ্রব্যসামগ্রীর জোগান বৃদ্ধি পায় না।\n(ii) ভোগদ্রব্যের ঘাটতি : শিল্পায়নের প্রাথমিক দিকে মূল ও ভারী শিল্পের উন্নতি ঘটাতে গিয়ে\nশিল্পের উৎপন্ন দ্রব্য ভোগের জন্য ব্যবহৃত হয় না। ফলে ভোগদ্রব্যের ঘাটতির সুবাদে দাম স্তর\nবাড়ে।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

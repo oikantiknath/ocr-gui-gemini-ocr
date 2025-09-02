@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nv_bn_000562_0_3_paragraph.png",
+      "width": 1877,
+      "height": 667
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        1877.0,
+        667.0
+      ],
+      "area": 1251959.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1877.0,
+          0.0,
+          1877.0,
+          667.0,
+          0.0,
+          667.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "উত্তমস্তক রাঘব সরকার দ্বিপ্রহরে নিদারুণ রৌদ্র উপেক্ষা করিয়া দ্রুতপদে পথ\nচলিতেছিলেন। তাঁহার পরিধানে খদ্দর, মাথায় ছাতা নাই, পায়ে জুতা অবশ্য আছে,\nকিন্তু তাহা এমন কণ্টকসঙ্কুল যে, বিক্ষত পদদ্বয়কে শরশয্যাশায়ী ভীষ্মের মর্যাদা দিলে\nখুব বেশি অন্যায় হয় না। উত্তমস্তক রাঘব সরকারের কিছু ভ্রূক্ষেপ নাই, তিনি\nদ্রুতপদেই চলিয়াছেন। সুনির্দিষ্ট-নীতি-অনুসরণকারী অনমনীয়-চরিত্র রাঘব সরকার\nচিরকালই উত্তমস্তক। তিনি কখনও কাহারও অনুগ্রহের প্রত্যাশী নহেন, কাহারও\nস্কন্ধারূঢ় হইয়া থাকেন না, যথাসাধ্য সকলের উপকার করেন, পারতপক্ষে কাহারও দ্বারা\nউপকৃত হন না। স্বকীয় মস্তক সর্বদা উন্নত রাখাই তাঁহার জীবনের সাধনা।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

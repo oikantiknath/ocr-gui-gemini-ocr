@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_mr_000557_1_1_ordered-list.png",
+      "width": 421,
+      "height": 187
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        421.0,
+        187.0
+      ],
+      "area": 78727.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          421.0,
+          0.0,
+          421.0,
+          187.0,
+          0.0,
+          187.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1) सदर नियुक्ती ही खालील प्रमुख व इतर अनुषंगिक विवक्षित कामासाठी राहील.\nअ) प्रादेशिक योजना व विकास योजनेतील अनुज्ञेय भूवापराशी मूल्यविभाग सुसंगत करणे.\nब) मूल्यविभागाचे स्थानानुसार दरातील तफावती दूर करणे व इतर कामे.\n2) करार पध्दतीने नियुक्ती करताना कमाल वयोमर्यादा ही 70 वर्षांपेक्षा अधिक नसावी.\n3) ही नियुक्ती प्रथमतः नियुक्तीच्या दिनांकापासून 6 महिने कालावधीसाठी असेल.\n4) करार पध्दतीने नियुक्ती देण्यात आल्यामुळे संबंधितास शासनाच्या कोणत्याही संवर्गात सेवा\nसमावेशनाबाबत / सामावून घेण्याबाबत या नियमित सेवेचे इतर कोणतेही लाभ मिळण्याचा अधिकार /\nहक्क नसेल.\n5) नियुक्तीच्या कालावधीत करार पध्दतीने विवक्षित काम पूर्ण करण्याची जबाबदारी संबंधित व्यक्तीची\nराहील व तसे बंधपत्र /हमीपत्र त्यांच्याकडून घेण्यात येईल."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

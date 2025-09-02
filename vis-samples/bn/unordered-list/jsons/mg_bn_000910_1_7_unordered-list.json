@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_bn_000910_1_7_unordered-list.png",
+      "width": 443,
+      "height": 1231
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        443.0,
+        1231.0
+      ],
+      "area": 545333.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          443.0,
+          0.0,
+          443.0,
+          1231.0,
+          0.0,
+          1231.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "টুইঙ্গো মেলাও\n* নাফিসা নাবিল\n  মাইলস্টোন স্কুল অ্যান্ড কলেজ, ঢাকা\n* মুশফিকুর রহমান, হাজী মুহম্মদ মুহসীন\n  সরকারি উচ্চবিদ্যালয়, রাজশাহী\n* সাদমান সারার, বীরশ্রেষ্ঠ মুন্সী আব্দুর\n  রউফ পাবলিক কলেজ, জামালপুর\n\nচলচিত্র কুইজ\n* সামাদীপ গাইন, গাজীপুর ক্যান্টনমেন্ট\n  পাবলিক স্কুল অ্যান্ড কলেজ, গাজীপুর\n* কুবরাতুল আইন, ক্যান্টনমেন্ট পাবলিক\n  স্কুল অ্যান্ড কলেজ, দিনাজপুর\n* মো. শাহরিয়ার নাফিস, মেহেরপুর\n  সরকারি উচ্চবিদ্যালয়, মেহেরপুর\n\nসুজোকু\n* মাইশা হাসান, বিন্দুবাসিনী সরকারি\n  বালিকা উচ্চবিদ্যালয়, টাঙ্গাইল\n* আরিফ আহমেদ, ব্রাহ্মণ কে কে এম\n  সরকারি উচ্চবিদ্যালয়, নরসিংদী\n* আরিফ ভূঁইয়া, সামসুল হক খান স্কুল\n  অ্যান্ড কলেজ, ঢাকা\n\nসংস্কার পিরামিড\n* সেতু আক্তার, এ ওয়াহেদ মাধ্যমিক\n  বালিকা বিদ্যালয়, বরিশাল\n* মো. মতিউর রহমান, নূতন বন্দর বেহারী\n  উচ্চবিদ্যালয়, পাবনা\n* জ্যোতির্ময় বিশ্বাস, কেনেডোকা প্রিপারেটরি\n  স্কুল, দিনাজপুর\n\nকিবোর্ড মাঝে লুকিয়ে আছে\n* মো. আরাফাত হোসেন, কোমতলা সরকারি\n  ফকিরিয়া উচ্চবিদ্যালয়, নোয়াখালী\n* সাকিব হোসাইন, সরকারি জুবিলী\n  উচ্চবিদ্যালয়, সুনামগঞ্জ\n* অপর্ণা হালদার, সরকারি হরগঙ্গা কলেজ,\n  মুন্সিগঞ্জ"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

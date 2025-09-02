@@ -1,0 +1,299 @@
+IndicDLP OCR Sampling Summary
+==================================================
+
+Target samples per region per language: 50
+Total languages processed: 8
+
+
+Language: bn
+--------------------
+  answer: 50 samples
+  author: 50 samples
+  chapter-title: 50 samples
+  contact-info: 50 samples
+  dateline: 50 samples
+  figure-caption: 50 samples
+  first-level-question: 50 samples
+  flag: 50 samples
+  folio: 50 samples
+  footnote: 50 samples
+  headline: 50 samples
+  jumpline: 50 samples
+  options: 50 samples
+  ordered-list: 50 samples
+  page-number: 50 samples
+  paragraph: 50 samples
+  quote: 50 samples
+  reference: 50 samples
+  second-level-question: 50 samples
+  section-title: 50 samples
+  sub-headline: 50 samples
+  sub-ordered-list: 50 samples
+  sub-section-title: 50 samples
+  sub-unordered-list: 6 samples
+  subsub-headline: 50 samples
+  subsub-ordered-list: 50 samples
+  subsub-section-title: 50 samples
+  subsub-unordered-list: 28 samples
+  table-caption: 50 samples
+  third-level-question: 23 samples
+  unordered-list: 50 samples
+  website-link: 50 samples
+  Total for bn: 1507 files
+
+Language: gu
+--------------------
+  answer: 50 samples
+  author: 50 samples
+  chapter-title: 50 samples
+  contact-info: 50 samples
+  dateline: 50 samples
+  figure-caption: 50 samples
+  first-level-question: 50 samples
+  flag: 50 samples
+  folio: 50 samples
+  footnote: 50 samples
+  headline: 50 samples
+  jumpline: 50 samples
+  options: 50 samples
+  ordered-list: 50 samples
+  page-number: 50 samples
+  paragraph: 50 samples
+  quote: 50 samples
+  reference: 50 samples
+  second-level-question: 50 samples
+  section-title: 50 samples
+  sub-headline: 50 samples
+  sub-ordered-list: 50 samples
+  sub-section-title: 50 samples
+  sub-unordered-list: 21 samples
+  subsub-headline: 50 samples
+  subsub-ordered-list: 50 samples
+  subsub-section-title: 50 samples
+  subsub-unordered-list: 50 samples
+  table-caption: 50 samples
+  third-level-question: 50 samples
+  unordered-list: 50 samples
+  website-link: 50 samples
+  Total for gu: 1571 files
+
+Language: hi
+--------------------
+  answer: 50 samples
+  author: 50 samples
+  chapter-title: 50 samples
+  contact-info: 50 samples
+  dateline: 50 samples
+  figure-caption: 50 samples
+  first-level-question: 50 samples
+  flag: 50 samples
+  folio: 50 samples
+  footnote: 50 samples
+  headline: 50 samples
+  jumpline: 50 samples
+  options: 50 samples
+  ordered-list: 50 samples
+  page-number: 50 samples
+  paragraph: 50 samples
+  quote: 50 samples
+  reference: 50 samples
+  second-level-question: 50 samples
+  section-title: 50 samples
+  sub-headline: 50 samples
+  sub-ordered-list: 50 samples
+  sub-section-title: 50 samples
+  sub-unordered-list: 8 samples
+  subsub-headline: 50 samples
+  subsub-ordered-list: 50 samples
+  subsub-section-title: 50 samples
+  subsub-unordered-list: 50 samples
+  table-caption: 50 samples
+  third-level-question: 50 samples
+  unordered-list: 50 samples
+  website-link: 50 samples
+  Total for hi: 1558 files
+
+Language: ml
+--------------------
+  answer: 50 samples
+  author: 50 samples
+  chapter-title: 50 samples
+  contact-info: 50 samples
+  dateline: 50 samples
+  figure-caption: 50 samples
+  first-level-question: 50 samples
+  flag: 50 samples
+  folio: 50 samples
+  footnote: 50 samples
+  headline: 50 samples
+  jumpline: 50 samples
+  options: 50 samples
+  ordered-list: 50 samples
+  page-number: 50 samples
+  paragraph: 50 samples
+  quote: 50 samples
+  reference: 50 samples
+  second-level-question: 50 samples
+  section-title: 50 samples
+  sub-headline: 50 samples
+  sub-ordered-list: 50 samples
+  sub-section-title: 50 samples
+  sub-unordered-list: 2 samples
+  subsub-headline: 50 samples
+  subsub-ordered-list: 50 samples
+  subsub-section-title: 40 samples
+  subsub-unordered-list: 50 samples
+  table-caption: 50 samples
+  third-level-question: 50 samples
+  unordered-list: 50 samples
+  website-link: 50 samples
+  Total for ml: 1542 files
+
+Language: mr
+--------------------
+  answer: 50 samples
+  author: 50 samples
+  chapter-title: 50 samples
+  contact-info: 50 samples
+  dateline: 50 samples
+  figure-caption: 50 samples
+  first-level-question: 50 samples
+  flag: 50 samples
+  folio: 50 samples
+  footnote: 50 samples
+  headline: 50 samples
+  jumpline: 50 samples
+  options: 50 samples
+  ordered-list: 50 samples
+  page-number: 50 samples
+  paragraph: 50 samples
+  quote: 50 samples
+  reference: 50 samples
+  second-level-question: 50 samples
+  section-title: 50 samples
+  sub-headline: 50 samples
+  sub-ordered-list: 50 samples
+  sub-section-title: 50 samples
+  sub-unordered-list: 1 samples
+  subsub-headline: 50 samples
+  subsub-ordered-list: 50 samples
+  subsub-section-title: 11 samples
+  subsub-unordered-list: 50 samples
+  table-caption: 50 samples
+  third-level-question: 28 samples
+  unordered-list: 50 samples
+  website-link: 50 samples
+  Total for mr: 1490 files
+
+Language: or
+--------------------
+  answer: 50 samples
+  author: 50 samples
+  chapter-title: 50 samples
+  contact-info: 50 samples
+  dateline: 50 samples
+  figure-caption: 50 samples
+  first-level-question: 50 samples
+  flag: 50 samples
+  folio: 50 samples
+  footnote: 50 samples
+  headline: 50 samples
+  jumpline: 50 samples
+  options: 50 samples
+  ordered-list: 50 samples
+  page-number: 50 samples
+  paragraph: 50 samples
+  quote: 50 samples
+  reference: 50 samples
+  second-level-question: 50 samples
+  section-title: 50 samples
+  sub-headline: 50 samples
+  sub-ordered-list: 50 samples
+  sub-section-title: 50 samples
+  sub-unordered-list: 2 samples
+  subsub-headline: 50 samples
+  subsub-ordered-list: 50 samples
+  subsub-section-title: 34 samples
+  subsub-unordered-list: 50 samples
+  table-caption: 50 samples
+  third-level-question: 14 samples
+  unordered-list: 50 samples
+  website-link: 50 samples
+  Total for or: 1500 files
+
+Language: pa
+--------------------
+  answer: 50 samples
+  author: 50 samples
+  chapter-title: 50 samples
+  contact-info: 50 samples
+  dateline: 50 samples
+  figure-caption: 50 samples
+  first-level-question: 50 samples
+  flag: 50 samples
+  folio: 50 samples
+  footnote: 50 samples
+  headline: 50 samples
+  jumpline: 50 samples
+  options: 50 samples
+  ordered-list: 50 samples
+  page-number: 50 samples
+  paragraph: 50 samples
+  quote: 16 samples
+  reference: 50 samples
+  second-level-question: 50 samples
+  section-title: 50 samples
+  sub-headline: 50 samples
+  sub-ordered-list: 50 samples
+  sub-section-title: 50 samples
+  sub-unordered-list: 43 samples
+  subsub-headline: 50 samples
+  subsub-ordered-list: 50 samples
+  subsub-section-title: 50 samples
+  subsub-unordered-list: 49 samples
+  table-caption: 50 samples
+  third-level-question: 50 samples
+  unordered-list: 50 samples
+  website-link: 50 samples
+  Total for pa: 1558 files
+
+Language: te
+--------------------
+  answer: 50 samples
+  author: 50 samples
+  chapter-title: 50 samples
+  contact-info: 50 samples
+  dateline: 50 samples
+  figure-caption: 50 samples
+  first-level-question: 50 samples
+  flag: 50 samples
+  folio: 50 samples
+  footnote: 50 samples
+  headline: 50 samples
+  jumpline: 50 samples
+  options: 50 samples
+  ordered-list: 50 samples
+  page-number: 50 samples
+  paragraph: 50 samples
+  quote: 50 samples
+  reference: 50 samples
+  second-level-question: 50 samples
+  section-title: 50 samples
+  sub-headline: 50 samples
+  sub-ordered-list: 50 samples
+  sub-section-title: 50 samples
+  sub-unordered-list: 6 samples
+  subsub-headline: 50 samples
+  subsub-ordered-list: 50 samples
+  subsub-section-title: 31 samples
+  subsub-unordered-list: 50 samples
+  table-caption: 50 samples
+  third-level-question: 50 samples
+  unordered-list: 50 samples
+  website-link: 50 samples
+  Total for te: 1537 files
+
+Overall Summary:
+Total files copied: 12263
+Total regions sampled: 256
+Average files per region: 47.9

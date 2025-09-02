@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_or_000335_1_6_unordered-list.png",
+      "width": 452,
+      "height": 108
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        452.0,
+        108.0
+      ],
+      "area": 48816.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          452.0,
+          0.0,
+          452.0,
+          108.0,
+          0.0,
+          108.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "*   ସମାଜମଙ୍ଗଳ ଅଧିକାରୀଙ୍କୁ ସୂଚନାଦେବା।\n*   ସମାଜମଙ୍ଗଳ ଅଧିକାରୀ, ଗ୍ରାମ୍ୟ ମଙ୍ଗଳକର୍ମୀଙ୍କଠାରୁ ସମସ୍ତ ପ୍ରମାଣପତ୍ର ସଂଗ୍ରହ ଲାଗି ସୁବିଧା କରିବା।\n*   ସମାଜମଙ୍ଗଳ ବିଭାଗୀୟ କର୍ମଚାରୀଙ୍କୁ ଯୋଗାଯୋଗ କରିବାକୁ ସାହାଯ୍ୟ କରିବା।\n*   ଯେକୌଣସି ଘର ଘାତକ ମହିଳାଙ୍କୁ ଚିହ୍ନଟ କରିବାକୁ ହେବ। ୮୦ ବର୍ଷରୁ ଉର୍ଦ୍ଧ୍ୱ ବୃଦ୍ଧାମାନଙ୍କୁ ସହାୟତା କରିବା।\n*   ଗ୍ରାମପଞ୍ଚାୟତର ବର୍ଷ ପୂର୍ତ୍ତି ଦିବସରେ ଲାଭାର୍ଥୀଙ୍କୁ ୬୦ ବର୍ଷରୁ ୭-ମାସରୁ ଉର୍ଦ୍ଧ୍ୱ ବୃଦ୍ଧାମାନଙ୍କୁ ୬୦୦୦ ଟଙ୍କା ପ୍ରଦାନ କରିବାକୁ।\n*   ଯେକୌଣସି ସମସ୍ୟା ହେଲେ ୧ ମାସ ପୂର୍ବରୁ ସମାଜମଙ୍ଗଳ ବିଭାଗକୁ ଜଣାଇବା।\n*   ବର୍ଷକୁଥରେ ସେବାକାର୍ଯ୍ୟର ଅଗ୍ରଗତି ତଥା ସମସ୍ୟା ସମ୍ବନ୍ଧରେ ସମୀକ୍ଷା କରିବାକୁ ବୈଠକ ଅନୁଷ୍ଠିତ ହେବାକଥା।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

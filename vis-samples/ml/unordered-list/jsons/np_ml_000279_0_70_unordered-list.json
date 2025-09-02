@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_ml_000279_0_70_unordered-list.png",
+      "width": 293,
+      "height": 577
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        293.0,
+        577.0
+      ],
+      "area": 169061.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          293.0,
+          0.0,
+          293.0,
+          577.0,
+          0.0,
+          577.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ൻസിപ്പാലിറ്റി, തൃക്കരുവാ, നിലമേൽ, ഉ\\nമ്മന്നൂർ പഞ്ചായത്തുകൾ\\nഅലപ്പുഴ (3)\\nചെങ്ങന്നൂർ മുൻസിപ്പാലിറ്റി, മാവേലിക്കര,\\nചെറിയനാട് പഞ്ചായത്തുകൾ\\nപത്തനംതിട്ട (7)\\nഅടൂർ മുൻസിപ്പാലിറ്റി, വടശ്ശേരിക്കര,\\nആറന്മുള, റാന്നിപഴവങ്ങാടി, കോഴ\\nഞ്ചേരി, ഓമല്ലൂർ, വെളിയന്നൂർ പഞ്ചാ\\nയത്തുകൾ\\nകോട്ടയം ജില്ല (1)\\nതിരുവാർപ്പ് പഞ്ചായത്ത്\\nഇടുക്കി (6)\\nതൊടുപുഴ മുൻസിപ്പാലിറ്റി, കഞ്ഞിക്കുഴി,\\nമരിയപുരം, അടിമാലി, നെടുങ്കണ്ടം,\\nസേനാപതി പഞ്ചായത്തുകൾ\\nഎറണാകുളം (2)\\nകൊച്ചി കോർപ്പറേഷൻ, മുളവുകാട് പ\\nഞ്ചായത്ത്\\nതൃശ്ശൂർ (3)\\nചാലക്കുടി മുൻസിപ്പാലിറ്റി, വള്ളത്തോൾ\\nനഗർ, മതിലകം പഞ്ചായത്തുകൾ\\nപാലക്കാട് (4)\\nപാലക്കാട് മുൻസിപ്പാലിറ്റി, കാരക്കുറി\\nശ്ശി, കോട്ടോപ്പാടം, കാഞ്ഞിരപ്പുഴ പഞ്ചാ\\nയത്തുകൾ\\nമലപ്പുറം (13)\\nമലപ്പുറം, തിരൂരങ്ങാടി, മഞ്ചേരി മു"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

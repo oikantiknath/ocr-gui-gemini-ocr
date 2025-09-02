@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_ml_000148_0_1_unordered-list.png",
+      "width": 960,
+      "height": 834
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        960.0,
+        834.0
+      ],
+      "area": 800640.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          960.0,
+          0.0,
+          960.0,
+          834.0,
+          0.0,
+          834.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "• വിത്തുകളുടെ അറ്റകുറ്റ പണികൾ നടത്തുമ്പോൾ, പ്രത്യേകിച്ചും നടിപ്പടങ്ങളുടെ\nകേസ്സുകൾ; ഇവയിൽ നിന്നുള്ള ഉൽപ്പാദനവും വരുമാനവും എന്നിവ\nമാറ്റുക.\n• ഭ്രൂണ സസ്യത്തെ ഒന്നിലധികം കന്നുകാലികളെയും മറ്റ് വളർത്തുന്ന\nമൃഗങ്ങളെയും അഴിച്ചു വിട്ട് അവയുടെ സൂക്ഷ്മമായ ഉറപ്പ് വരുത്തുക\n• കൊടച്ചാറ്റ്, വേലിയേറ്റം, വെള്ളപ്പൊക്കം തുടങ്ങിയ അപകട\nമുന്നറിയിപ്പുകൾ കിട്ടുകയാണെങ്കിൽ ഏറ്റവും അടുത്തുള്ള സുരക്ഷിത\nസ്ഥലങ്ങളും അങ്ങോട്ടുള്ള വഴികളും നേരത്തെ അറിഞ്ഞിരിക്കുക.\n• ഭ്രൂണ സസ്യത്തെ ഒന്നിലധികം കഴിന്നാൽ അത്യാവശ്യം രണ്ടു\nആഴ്ചകളിലേക്കു വേണ്ടുന്ന അവശ്യ ഭക്ഷ്യവസ്തുക്കളും (ready-to-eat)\nശുദ്ധജലവും സംഭരിച്ച് വയ്ക്കുക\n• വിത്തുകൾക്കും മറ്റ് നടിപ്പടങ്ങൾക്കും ഭീഷണിയുയർത്തുന്ന വ്യക്തികളെയും\nസംഘങ്ങളെയും അതാത് അധികാരികളുടെ അനുമതിയോടുകൂടി\nഒഴിവാക്കുകയോ ചോദ്യം ചെയ്യുകയോ ചെയ്യുക.\n• വാതിലുകളും ജനലുകളും സുരക്ഷിതമായി അടച്ചിടുക\n• ഒരുവേളയിലെ അതിഥികൾക്ക് ലഭിച്ച കഴിന്നാൽ എത്രയും പെട്ടെന്ന്\nസുരക്ഷിത സ്ഥാനങ്ങളിലേക്ക് മാറ്റുക."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

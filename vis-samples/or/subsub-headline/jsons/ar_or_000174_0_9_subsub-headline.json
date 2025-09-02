@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_or_000174_0_9_subsub-headline.png",
+      "width": 805,
+      "height": 373
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        805.0,
+        373.0
+      ],
+      "area": 300265.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          805.0,
+          0.0,
+          805.0,
+          373.0,
+          0.0,
+          373.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(କ) ଯଦି କୌଣସି ମାହାତ୍ମ୍ୟର ସେବାରେ ରଖାଯାଇ ନଥାଏ । କୌଣସି ବ୍ୟକ୍ତି ଧାରା 12 ର ଅଧୀନ ।\n(1) ଅଧୀନରେ ନିର୍ଦ୍ଦେଶକଙ୍କ ଜାମିନ ଉପରେ କିମ୍ବା ଜାମିନ ଦେବା ବ୍ୟବସ୍ଥା\nକରାଯାଇ ନାହିଁ ଅଥବା ଧାରା 25 ର ଅଧୀନ । (1) ଅଧୀନରେ ଏକ ଆବେଦନ ଜାମିନ\nଅଧିକାରୀଙ୍କୁ ଦେବାପରେ ସେହିପରି ଜାମିନ ଦାୟ ଅଧିକାରୀଙ୍କ ଦ୍ଵାରା ମଞ୍ଜୁର ନାହିଁ, ଅଥବା\n(ଖ) ଯଦି ନ୍ୟାୟାଳୟ ଦ୍ଵାରା ନିଯୁକ୍ତ ବା କୌଣସି ଅଧିକାରୀଙ୍କ ଧାରା 34 ର ଖଣ୍ଡ (ଖ) ଦ୍ଵାରା ବା\nଅଧୀନରେ ଦିଆଯାଇଥିବା ସମସ୍ତ ମଧ୍ୟରେ ସେହି ଅଧୀନରେ ଅନ୍ୟପକ୍ଷେ ହେଉଥିବା ଏକ ବିଭିନ୍ନ\nନ୍ୟାୟାଳୟ ପ୍ରଦାନ କରି ନାହିଁ କିମ୍ବା ସେହି ଧାରା 34 ର ଖଣ୍ଡ (କ) ଅଧୀନରେ କୌଣସି ଅଧିକାରୀଙ୍କ\nଜାମିନ ଉପରେ କିମ୍ବା ବିବାଦ ସହ ପ୍ରଦର୍ଶନ କରି ନାହିଁ କିମ୍ବା ସେହି ଧାରା 34 ର ଖଣ୍ଡ (କ) ଅନୁଯାୟୀ\nକୌଣସି ଅଧିକାରୀଙ୍କ ଜାମିନ ଉପରେ ସେହି ବିବାଦ ଉପରେ ତାଙ୍କଠାରୁ ପ୍ରାପ୍ତ ଅନୁମତି\nନ୍ୟାୟାଳୟରେ ଦିଆଯାଇ ନାହିଁ ଅଥବା,\n(ଗ) ଯେଉଁ ବ୍ୟକ୍ତି ଧାରା ଅଧିନିୟମ ନ ରହି ସେହି ବ୍ୟକ୍ତି ବା ସେହି ବ୍ୟକ୍ତିଙ୍କ ପ୍ରତିନିଧି ଧାରା 41 ର\nଅଧୀନ । (3) ଅଧୀନରେ କୌଣସି ଅଧିକାରୀଙ୍କ ଜାମିନ ଉପରେ ସେହି କୌଣସି ବି.ଏ.ବି. ବା\nବିବାଦ ସହ ଦିଆଯାଇ ନାହିଁ,\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

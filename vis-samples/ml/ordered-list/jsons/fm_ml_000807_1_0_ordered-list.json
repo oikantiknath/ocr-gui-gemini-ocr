@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_ml_000807_1_0_ordered-list.png",
+      "width": 522,
+      "height": 229
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        522.0,
+        229.0
+      ],
+      "area": 119538.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          522.0,
+          0.0,
+          522.0,
+          229.0,
+          0.0,
+          229.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(I) പാസ്പോർട്ട് / വിസയുടെ പകർപ്പുകൾ\n(II) വർക്ക് പെർമിറ്റ് / ജോലി കരാർ / നിയമന ഉത്തരവ്\n(III) ബാങ്കിന്റെ ഫോർമാറ്റ് അനുസരിച്ചുള്ള പവർ ഓഫ് അറ്റോർണി,\nഎംബസിയിലെ ഉദ്യോഗസ്ഥരുടെ സാന്നിദ്ധ്യത്തിൽ യഥാവിധി നടപ്പിലാക്കുകയും\nഇന്ത്യയിൽ വിധികുകയും ചെയ്യുന്നു.\n(IV) ഏറ്റവും പുതിയ ആറ് മാസത്തെ ശമ്പള സർട്ടിഫിക്കറ്റുകൾ കിഴിവുകളോടെ /\nമൂന്ന് വർഷത്തേക്കുള്ള ITR.\n(V) ശമ്പളം ക്രെഡിറ്റ് ചെയ്ത ബാങ്ക് അക്കൗണ്ടിന്റെ ഏറ്റവും പുതിയ 6\nമാസത്തെ സ്റ്റേറ്റ്മെന്റ്. (VI) NRE/NRO അക്കൗണ്ടിൽ നിന്നുള്ള മാർജിൻ\nപണത്തിന്റെ തെളിവ്.\n(VII) വിദേശത്ത് നിന്ന് മടങ്ങിവരുമ്പോൾ വീട് / ഫ്ലാറ്റ് സ്വന്തം ഉപയോഗത്തിന്\nഉപയോഗിക്കുമെന്ന പ്രഖ്യാപനവും സമർപ്പിക്കേണ്ട വിദേശത്ത്\nതാമസിക്കുന്നതിന് നിരീക്ഷിത കാലയളവും."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

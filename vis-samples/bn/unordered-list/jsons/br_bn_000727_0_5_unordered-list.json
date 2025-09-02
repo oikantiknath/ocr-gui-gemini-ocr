@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_bn_000727_0_5_unordered-list.png",
+      "width": 443,
+      "height": 777
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        443.0,
+        777.0
+      ],
+      "area": 344211.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          443.0,
+          0.0,
+          443.0,
+          777.0,
+          0.0,
+          777.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "১২ সপ্তাহের মধ্যে ANM দ্বারা উপস্বাস্থ্য কেন্দ্রে অথবা\nভিলেজ হেল্থ অ্যান্ড নিউট্রিশন ডে (VHND)-তে\nগর্ভবতী মহিলার নাম নথিবদ্ধকরণ চিহ্নিত করা।\nনিজের এলাকায় নথিবদ্ধ সব গর্ভবতী মহিলার\nসম্পূর্ণ গর্ভকালীন পরিষেবা নিশ্চিত করা।\nস্বাস্থ্যকেন্দ্রে প্রসবের জন্য গর্ভবতী মহিলাদের\nসরকারি স্বাস্থ্যকেন্দ্রে নিয়ে যাওয়া।\nমাতৃমৃত্যুর ব্যাপারে ANM-কে জানানো (স্বাস্থ্যকেন্দ্রে\nমৃত্যু ছাড়া)।\nনবজাতকদের ৪২ দিন পর্যন্ত দেখা (বাড়িতে প্রসবের\nক্ষেত্রে ১ ম দিন, ৩য় দিন, ১৪তম দিন, ২১তম দিন,\n২৮তম দিন ও ৪২তম দিন। স্বাস্থ্যকেন্দ্রে প্রসবের\nক্ষেত্রে ৩য় দিন, ১৪তম দিন, ২১তম দিন, ২৮তম\nদিন ও ৪২তম দিন)।\nএকবছরের মধ্যে সমস্ত শিশুর প্রাথমিক টিকাকরণ\nসম্পূর্ণকরণ নিশ্চিত করা।\n১ থেকে ২ বছরের মধ্যে শিশুদের টিকাকরণ\nসম্পূর্ণকরণ নিশ্চিত করা।\nসক্ষম দম্পতিদের বিয়ের অন্তত দু-বছর পরে\nগর্ভধারণ করা।\nসক্ষম দম্পতিদের কাউন্সেলিং করে ১ ম ও ২য়\nসন্তানের মধ্যে তিন বছরের ব্যবধান নিশ্চিত করা।\nকুষ্ঠ, ম্যালেরিয়া এবং কালাজ নিয়ন্ত্রণে সাহায্য\nকরা।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

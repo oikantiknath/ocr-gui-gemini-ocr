@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_kn_000080_0_0_reference.png",
+      "width": 832,
+      "height": 698
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        832.0,
+        698.0
+      ],
+      "area": 580736.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          832.0,
+          0.0,
+          832.0,
+          698.0,
+          0.0,
+          698.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಪರಾಮರ್ಶನ ಗ್ರಂಥಗಳು:\n೧.  ಹೊಸಬೆಟ್ಟು ಹಿರಣ್ಯಪ್ಪನವರ ಪದ್ಯಗಳು:\n೨.  ಹೊಸಬೆಟ್ಟು ಹಿರಣ್ಯಪ್ಪನವರ ತತ್ವಜ್ಞಾನ ಮತ್ತು ಸಿದ್ಧಾಂತಗಳು\n೩.  ಕೃಷ್ಣಮೂರ್ತಿ ಹನೂರು : ಅಧ್ಯಾಪಕನಾಗಿ ಅಲೆಮಾರಿ\n೪.  ಪ್ರಸಾದ್ ಕಡಬ : ಕೆ. : ಮೌನಮಂದಿರ\n೫.  ಪರಶುರಾಮ ಮಠದ : ಕರ್ನಾಟಕ ದಿವಿ ಧಾಮದ\n೬.  ಪರಶುರಾಮ ಅರಸೀಮ : ಕರ್ನಾಟಕ ಜನಪದ\n೭.  ಚಲುವರಾಜು: ಬಂಡಾಯ\n೮.  ಪರಶುರಾಮ ಅರಸೀಮ : ಜನಪದ ಸಂಚಯ\n೯.  ತಿಪ್ಪೇಸ್ವಾಮಿರಾಮಯ್ಯ ಜನಪದ ಸಿದ್ಧ-ಸಿದ್ದಿ, ಕಥೆ ಭಾರತ, ಕವ್ಯಂದ ದಿವಿ.\n೧೦.  ನಾಗೇಶ ಮಡಿವಾಳ : ಜನಪದ ಸಿದ್ಧಾಂತ\n೧೧.  ಮಂಜೇಗೌಡ: ಸಿ & ಪಿ ಜೋಡಿಲಿಂಗಯ್ಯ ( ಮೀರಿದ ಮೂಲ, ಪ್ರಕಟಣೆ ಪ್ರಕಾಶಕರು: ಕಥೆ\n೧೨.  ದಿವಿ ಕಂಪಿ)\n೧೩.  ರಾಜಶೇಖರ್ ಪಿ ಕೆ(ಸಂ.), ಜನಪದ ರಾಮಾಯಣ ಮತ್ತು ಜನಪದ ಮಹಾಭಾರತ\n೧೪.  ಬಸವಣ್ಣಪ್ಪ ಬಿದರಿಹಳ್ಳಿ : ಮೈಲಾರಲಿಂಗನ ಕಾವ್ಯ\n೧೫.  ಪರಶುರಾಮ ಮಠ ಸಿದ್ಧಾಂತಗಳು: ವೀರಪ್ಪ ದಂಡಿ\n೧೬.  ಕುವೆಂಪು ವಿಮರ್ಶೆ\n೧೭.  ಬೀರಪ್ಪ ಬಸವಪ್ಪ ದಿವಿ : ಮಾನವನಾದ್ಯಂತ\n೧೮.  ಸ್ವಾಮಿಯಾರ್ ದಿವಿಗಂ ಅಫ್ ಸೀನಿಯರ್ ಮೈಥಾಲಜಿ ಅಂಡ್ ಫೋಕ್ಲೋರ್ ( ಸಂ) ಮಾರುಕಟ್ಟೆ\n೧೯.  ಸಮಾದಾನಪ್ಪನವರ ವಿಶ್ಲೇಷಣೆಗಳು"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

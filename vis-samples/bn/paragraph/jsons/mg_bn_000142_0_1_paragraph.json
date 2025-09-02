@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_bn_000142_0_1_paragraph.png",
+      "width": 314,
+      "height": 452
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        314.0,
+        452.0
+      ],
+      "area": 141928.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          314.0,
+          0.0,
+          314.0,
+          452.0,
+          0.0,
+          452.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "চিত্তরঞ্জন স্পোর্টিং ক্লাবঃ—\nসম্প্রতি এই সমিতি Bengal Bridge\nAssociation-এর সদস্যভুক্ত হয়েছে। এঁরা\nসদস্যভুক্ত হয়েই Auction (singles)\nপ্রতিযোগিতা বের করেছেন। এঁদের\nসমিতিটি এত সত্বর উন্নতি লাভ করেছে এবং\nপ্রতিযোগিতার খেলা গুলি এত সুন্দরভাবে\nসহিত চলিত হচ্ছে যে এঁদের উজ্জ্বল ভবিষ্যৎ\nঅব্যম্ভাবী; বলা বাহুল্য যে এর জন্য\nসেক্রেটারী শ্রীযুক্ত পরেশনাথ দত্তের অক্লান্ত\nপরিশ্রমই সর্বতোভাবে দায়ী! এমন কি\nআদর আপ্যায়ন বিভাগেও সুন্দর সুমিষ্ট\nব্যবহারে এঁরা অনেক পুরাতন সমিতিকে\nছাপিয়ে উঠেছেন। তাই আমাদের কামনা\nএই, যে মহাপুরুষের নামটিকে পাথেয় করে\nএঁদের সমিতির যাত্রা শুরু হয়েছে সেই\nমহাপুরুষের মতই এঁদের সমিতি চিরস্মরণীয়\nহয়ে থাকুক।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

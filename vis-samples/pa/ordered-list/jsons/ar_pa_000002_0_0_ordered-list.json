@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_pa_000002_0_0_ordered-list.png",
+      "width": 845,
+      "height": 1305
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        845.0,
+        1305.0
+      ],
+      "area": 1102725.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          845.0,
+          0.0,
+          845.0,
+          1305.0,
+          0.0,
+          1305.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1.  ਸੰਖੇਪ ਨਾਂ ।\n    ਵਿਸਤਾਰ ।\n    ਅਰੰਭ ।\n    ਬਚਾਓ ।\n2.  ਅਰਥ-ਨਿਰਣਾ ਪੱਤਰ ।\n\n    ਅਨੁਸੂਚੀ I\n\n    ਤਬਦੀਲੀਆਂ ਦੀ ਮਨਜ਼ੂਰ, ਸੋਧਿਤਾ ਅਤੇ ਪਰਾਤਬੱਧ ਬਾਰੇ\n3.  ਤਬਦੀਲੀਆਂ ਦੀ ਮਨਜ਼ੂਰ, ਸੋਧਿਤਾ ਅਤੇ ਪਰਾਤਬੱਧ ।\n4.  ਮਨਜ਼ੂਰ ਕਦੋਂ ਪੂਰੀ ਹੁੰਦੀ ਹੈ ।\n5.  ਤਬਦੀਲੀਆਂ ਅਤੇ ਸੋਧਿਤੀਆਂ ਦਾ ਪਰਾਤਬੱਧ ।\n6.  ਪਰਾਤਬੱਧ ਕਿਵੇਂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ।\n7.  ਸੋਧਿਤੀ ਕਦੋਂ ਹੁੰਦੇ ।\n8.  ਸਰਤੀ ਦੇ ਪਾਲਣ ਜਾਂ ਬਦਲ ਦੀ ਪ੍ਰਾਪਤੀ ਦੁਆਰਾ ਸੋਧਿਤੀ ।\n9.  ਬਚਨ, ਸੁਣਨਣ ਅਤੇ ਅਰਥਾਏ ।\n\n    ਅਨੁਸੂਚੀ II\n\n    ਮੁਆਇਨਿਆਂ, ਨਿਗਰਾਨੀਆ ਮੁਆਇਨਿਆਂ ਅਤੇ ਹੋਰ ਕਰਾਰਾਂ ਬਾਰੇ\n10. ਕਿਹੜੇ ਕਰਾਰ ਮੁਆਇਨੇ ਹਨ ।\n11. ਮੁਆਇਨੇ ਕਰਨ ਲਈ ਕੌਣ ਜਵਾਬਦੇਹ ਹਨ ।\n12. ਮੁਆਇਨੇ ਕਰਨ ਦੇ ਪ੍ਰਬੰਧਨ ਲਈ ਫੀਕਾ-ਫੁਤ ਕੀ ਹੈ ।\n13. ‘ਸੰਮਤੀ’ ਦੀ ਪਰਿਭਾਸ਼ਾ ।\n14. ‘‘ਸਤੰਤਰ ਸੰਮਤੀ’’ ਦੀ ਪਰਿਭਾਸ਼ਾ ।\n15. ‘‘ਜਬਰ’’ ਦੀ ਪਰਿਭਾਸ਼ਾ ।\n16. ‘‘ਨਾਜਾਇਜ਼ ਜਬਰ’’ ਦੀ ਪਰਿਭਾਸ਼ਾ ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

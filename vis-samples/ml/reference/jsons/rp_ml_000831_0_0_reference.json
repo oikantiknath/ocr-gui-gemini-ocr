@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_ml_000831_0_0_reference.png",
+      "width": 1743,
+      "height": 2586
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        1743.0,
+        2586.0
+      ],
+      "area": 4507398.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1743.0,
+          0.0,
+          1743.0,
+          2586.0,
+          0.0,
+          2586.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "അച്യുതവാരിയർ, എസ്. 2016, കേരളസംസ്കാരം, ഏഴാം പതിപ്പ്, കേരള ഭാഷാ\nഇൻസ്റ്റിറ്റ്യൂട്ട്, പ.1\nരാധാകൃഷ്ണൻ, എം. പി, 2015, നവോത്ഥാനാനന്തര സാമൂഹിക സാമ്പത്തിക\nസമീപനങ്ങൾ, ഒന്നാം പതിപ്പ്, സാഹിത്യ പ്രവർത്തക സഹകരണ സംഘം,\nപ.71\nWilliam James Durant, 1935, The Story of Civilisation, Our Oriental\nHeritage, Part One, New York:Simon & Schuster, p.34\nഅച്യുതവാരിയർ എസ്, 2016, കേരള സംസ്കാരം, ഏഴാം പതിപ്പ്, കേരള ഭാഷാ\nഇൻസ്റ്റിറ്റ്യൂട്ട്, പ. 107\nലീലാബായി, സി. ഭാരതീയകഥകൾ നൂറ്റൊരെണ്ണം, ഒന്നാം പതിപ്പ്, മാതൃ\nഭൂമി ബുക്സ്, പ.137\nവേലായുധൻ, പണിക്കശ്ശേരി. 2017, സന്മാദികൾ കണ്ട കേരളം, രണ്ടാം പതിപ്പ്,\nകറന്റ് ബുക്സ്, പ. 133\nRobert Sewell, A Forgotten Empire, 1900, Swan Sonnenschein & Co,P.\n236-290\nഅച്യുതവാരിയർ, എസ്, 2016, കേരള സംസ്കാരം, ഏഴാം പതിപ്പ്, കേരള ഭാഷാ\nഇൻസ്റ്റിറ്റ്യൂട്ട്, പ.37-40\nഐഷ, മാഹി, 2018, ഞാനെന്നുമെന്റെ ഒരു ഹിന്ദുവല്ല(ലേഖനം), മൂന്നാം പതിപ്പ്,\nഡി. സി. ബുക്സ്, പ.23).\nലീലാബായി, സി. 2012, ഭാരതീയകഥകൾ നൂറ്റൊരെണ്ണം, രണ്ടാം പതിപ്പ്,\nമാതൃഭൂമി ബുക്സ്, പ.79\nഎഴുമറ്റൂർ, രാജരാജവർമ്മ. 1998, മഹാഭാരതം കിളിപ്പാട്ട്, സാഹിത്യ.പ്ര.ക (എഡി),\nഒന്നാം പതിപ്പ്, സാഹിത്യ പ്രവർത്തക സഹകരണസംഘം, പ. 1103\nനീലകണ്ഠൻനായർ, എം.പി. 2017,കുടിയേറ്റവും മതനവീകരണവും, രണ്ടാം പതി\nപ്പ്, ആദിത്യ പബ്ലിക്കേഷൻസ്, പ.106"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

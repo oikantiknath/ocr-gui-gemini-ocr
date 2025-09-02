@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_mr_000484_0_0_reference.png",
+      "width": 1278,
+      "height": 1923
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        1278.0,
+        1923.0
+      ],
+      "area": 2457594.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1278.0,
+          0.0,
+          1278.0,
+          1923.0,
+          0.0,
+          1923.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "4. Blanning, T.C .W Ed. The Nineteenth Century: Europe 1789-1914 (Short Oxford\nHistory of Europe) (2000)\n5. Bridge, F.R & Roger bullen. The Great Powers and the European States System 1814-\n1914, 2nd Ed. (2005)\n6. Brunn, Geoffery, Europe and the French Imperium, 1799-1814 (1938)\n7. Bury. J.P.T Ed. The new Cambridge Modern History: Vol. 10: The Zenith ofEuropean\nPower 1830-70 (1964)\n8. Cameron, Rondo France and the Economics Development of Europe, 1800-1914:\nConquest of Peace and Seeds of War (1961), a wide –ranging economic and business\nHistory.\n9. Crawley, C.W Ed.The New Cambridge Modern History, Vol. 14: Altas (1972)\n10. Evans, Richard j The Pursuit of power Europe 1815-1914 (2015)\n11. Gildea, Robert Barricades and Boders: europe 1800-1914 (3rd Ed. 2003)\n12. Gooch, G.P History of modern Europe 1878-1919 (1923)\n13. Grab, Alexander Napolean and the Transformation of Europe (2003)\n14. Grant & Temperley: Europe in the Ninteenth and twentieth century's.\n15. Hayes C.J.H. A political and Cultural History of Europe, 1830-1839.\n16. Herring, George C Years of Peril and Ambition U.S foreign Relations. 1776-1921\n(2017)\n17. Hinsley F.H Ed the New Cambridge modern History Vol. 11 Material Progress and\nWorld Wide Problems 1870-1898 (1979)\n18. Kennedy, Paul The Rise and Fall of the Great powers Economic Change and Military\nConflict from 1500-2000 (1987), stress on economic and military factors\n19. Ketelbey, C.D.M A history of Modern Times (English or Hindi)\n20. Langer, William European Alliances and Alignments 1870-1890 (1950) Advanced\nhistory\n21. Langer, William The Diplomacy of Imperialism 1890-1902 (1950) advanced History\n22. Lipson Europe in the Nineteenth and Twentieth centuries\n23. Mason, David S A Concise History of Modern Europe, Liberty, Equality, Solidarity\n(2011). Since 1700\n24. Merriman, John and J.M Winter eds. Europe 1789-1914. Encyclopaedia of the Age of\nIndustry and Empire (5 vol. 2005)\n25. Mowat, RB: A History of European Diplomacy 1815-1914 (1922)\n26. New Cambridge modern History (13 vol 1957-79), old but thorough coverage, mostly\nof Europe, strong on Diplomacy\n27. Osterhammel, Jurgen: The transformation of the world: A Global History of the\nnineteenth Century (2015)\n28. Porter, Andrew Ed.: The Oxford History of the British Empire Volume III: The\nNineteenth century (2001)\n29. Saimi Hannu: 19th Century Europe A cultural History (2008)\n30. Sontag, Raymond European Diplomatic history: 1871-1932 (1933) Basic Summary\n425pp\n31. Steinberg, Jonathan: Bismarck A Life (2011)"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

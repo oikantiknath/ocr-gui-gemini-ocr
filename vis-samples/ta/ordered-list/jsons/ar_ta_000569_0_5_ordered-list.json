@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_000569_0_5_ordered-list.png",
+      "width": 792,
+      "height": 290
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        792.0,
+        290.0
+      ],
+      "area": 229680.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          792.0,
+          0.0,
+          792.0,
+          290.0,
+          0.0,
+          290.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(அ). ‘அ’ என்பவர் விற்பனைக்காக ‘ஆ’ என்பவருக்குப் பொருள்\nகளை அனுப்புகிறார். மேலும், ஒரு குறிக்கப்பட்ட விலைக்குக்\nகுறைத்து விற்கக் கூடாது என்று ஏவுரைகள் செய்கிறார். ‘ஆ’ வுக்குக்\nகிடைத்த ஏவுரைகளை அறியாத ‘இ’ என்பவர் குறிக்கப்பட்ட\nவிலைக்கும் குறைவான விலைக்கு அந்தப் பொருள்களை வாங்க ‘ஆ’ வுடன்\nஒப்பந்தம் செய்து கொள்கிறார். ‘அ’ அந்த ஒப்பந்தத்தால் கட்டுப்\nபட்டவராவார்.\n\n(ஆ) வெற்று மேற்குறிப்புச் செய்யப்பட்ட (endorsed in blank)\nசெலாவணிச் சீட்டுக்களை ‘அ’ என்பவரிடம் ‘ஆ’ என்பவர் ஒப்படை\nகிறார். ‘அ’ விடமிருந்து கிடைத்த தனிப்பட்ட ஆணைகளை மீறி\n‘ஆ’ அவற்றை ‘இ’ என்பவருக்கு விற்று விடுகிறார். இந்த விற்பனை\nசெல்லும்."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

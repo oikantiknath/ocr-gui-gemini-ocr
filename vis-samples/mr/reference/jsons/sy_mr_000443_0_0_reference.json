@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_mr_000443_0_0_reference.png",
+      "width": 1257,
+      "height": 1760
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        1257.0,
+        1760.0
+      ],
+      "area": 2212320.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1257.0,
+          0.0,
+          1257.0,
+          1760.0,
+          0.0,
+          1760.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "3. Barbara D Metcalf and T.R. Metcalf; A Concise History of India, Cambridge, 2002\n4. Bipan Chandra, Aditya Mukherjee, India After Independence, Viking, 1999.\n5. Bipan Chandra: Nationalism and Colonialism.\n6. C.A. Bayly: An Illustrated History of Modern India 1600 - 1947, London 1990\n7. Francine Frankel; India's Political Economy 1947- 1977.\n8. Gail Omvedt; Dalits and Democratic Revolution.\n9. K.G. Subramanian; The Living Tradition: Perspectives on Modern Indian Art.\n10. Lloyd and Susan Rudolph In Pursuit of Laxmi: the Political Economy of the Indian\nState, Chicago, 1987\n11. Mushirul Hasan; From Company to the Republic: A story of Modern India\n12. Parul Brass; The Politics of India since Independence.\n13. R. Jeffery; J Masseloss, From Rebellion to the Republic.\n14. R.L. Shukla; Adunik Bharat (ed). Delhi University Hindi Madhyam Kriyanwanyan\nNideshalaya. 2012.\n15. R.P. Dutt, India Today.\n16. Ramachandra Guha The Fissured Land.\n17. Shekhar Bandopadhyya :Plassy to Partation Orient Black Swan(Hindi & English)\n18. Sumit Sarkar Modern India 1885 1947, Macmillan, 1983\n19. Sunder Lal; Bharat mein Angreji Raj 2 vol.(National Book Trust of India)\n20. Thomas Metcalf; Ideologies of the Raj.\n21. Urvashi Butalia; The Other side of Silence.\n22. Sumit Sarkar: Modern India 1885 n 1947. Macmillan, 1983\n23. R. Jeffery, J Masseloss: From Rebellion to the Republic\n24. Paul Brass: The Politics of India since Independence\n25. K.G Subramanian: The Living Tradition: perspectives on Modern Indian Art.\n26. Dutta. K.K: Social History of Modern India\n27. Desai A.R.: Social background of Indian Nationalism\n28. Desai A.R.: India's Path of Development\n29. Prasad, Bisheswar: Bondage and Freedom, Vol. 2\n30. Vallabh Bhai Patel: Correspondence, Writings and Speeches\n31. Satya Rai: भारत मे उपनिवेशवाद और राष्ट्रवाद का उदय\n32. D. Agrow: Moderates and Extremist in the Indian National Movement\n33. M.N. Gupta: History of the revolutionary Movement in India\n34. Penderal Moon: Divide and Quit\n35. Sumit Sarkar: आधुनिक भारत\n36. Tara Chand: History of Freedom Movement in India, Vol. 3\n37. S.R Mehrotra: The Emergence of Indian National congress\n38. Bipan Chandra and Others: Freedom Struggle\n39. Gerard Delanty & Krishna Kumar, Nations & Nationalism"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

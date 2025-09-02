@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_or_000025_0_5_sub-ordered-list.png",
+      "width": 632,
+      "height": 382
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        632.0,
+        382.0
+      ],
+      "area": 241424.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          632.0,
+          0.0,
+          632.0,
+          382.0,
+          0.0,
+          382.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "୪୮୩—(କ) ୧୯୬୫ ମସିହା ପୂର୍ବରୁ ଉତ୍ପନ୍ନ ଓ ଆବଦ୍ଧ ଥିବା ୪ ଇଞ୍ଚ ବା ୪ ଇଞ୍ଚରୁ\\nଅଧିକ ବ୍ୟାସଯୁକ୍ତ ହୋଇଥିବ ।\\n\\n(ଖ) ଯେଉଁ ସ୍ଥାନରେ ୬୦ ଫୁଟରୁ ଅଧିକ ଦୂର ପଥ ଖୋଳା ହେବ\\nସେହି ସ୍ଥାନରେ ୧୦ ଫୁଟରୁ ଅଧିକ ପଥ ଖୋଳା ହେବ ନାହିଁ । ସେହି ସ୍ଥାନରେ ସାମାନ୍ୟ ବା ରାସ୍ତା-\\nଘାଟ ଉପରେ ପଡ଼ିଥିବା ସେ ସାମାନ୍ୟ କିମ୍ବା ରାସ୍ତାଘାଟରେ ୪ ଇଞ୍ଚରୁ କମାକାର\\nପଥର ଥୁଆଯିବ । ୩ ଇଞ୍ଚରୁ ଅଧିକାକାର ହେବ ନାହିଁ । ରାସ୍ତା ତିଆରି କରିବା\\nପାଇଁ ଖର୍ଚ୍ଚ ହେବ ନାହିଁ; ନୂତନ ନଳ ଥୁଆ ବ୍ୟବସ୍ଥା ଅନୁସାରେ ସାଧାରଣ\\nବ୍ୟବସ୍ଥାକୁ ସ୍ୱଳ୍ପ କରାଯିବ ।\\n\\n(ଗ) ବର୍ତ୍ତମାନ ପଥାକାର ନଳକୁ ଖୋଳା ଅବସ୍ଥାରେ ପରିମାପରୁ ସମାନତାକୁ\\nନେବା ସାଧାରଣ ସମୀକରଣର ୧୯ ମସିହା ସାମୁଦ୍ରିକ ମାପ ୬” ବାହାରେ\\n୪୧୨ ମସିହା ୯୦ ଦେବ ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

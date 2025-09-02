@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_pa_000180_0_2_unordered-list.png",
+      "width": 746,
+      "height": 658
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        746.0,
+        658.0
+      ],
+      "area": 490868.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          746.0,
+          0.0,
+          746.0,
+          658.0,
+          0.0,
+          658.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* ਟੈਸਟ ਸ਼ੁਰੂ ਕਰੋ — ਜੇਕਰ ਸਕਰੀਨ ਖਾਲੀ ਹੈ (ਜਿਵੇਂ ਸਿਰਫ ਇੱਕ ਬਲਿੰਕਿੰਗ ਨੰਬਰ ਨਜ਼ਰ\n  ਆ ਰਿਹਾ ਹੈ), ਤਾਂ ਇਸਨੂੰ ਚਲਾਉਣ ਲਈ ਸਕਰੀਨ ਨੂੰ ਟੈਪ ਕਰੋ।\n* ਮਕਬੂਲ ਫੀਚਰ — ਕਿਸੇ ਟੈਸਟ ਦੇ ਦੌਰਾਨ ਤੁਸੀਂ ਇੱਕ ਪ੍ਰਸ਼ਨ ਨੂੰ ਮਕਬੂਲ (ਛੱਡਣ)\n  ਦਾ ਫੈਸਲਾ ਦੇਵੋਗੇ। ਜੇਕਰ ਤੁਹਾਨੂੰ ਕੋਈ ਸਵਾਲ ਔਖਾ ਲੱਗਦਾ ਹੈ, ਤਾਂ ਮਕਬੂਲ ਬਟਨ\n  ਨੂੰ ਦਬਾਓ। ਤੁਹਾਡੇ ਸਕੋਰ ਤੇ ਨਿਰਭਰ ਕਰਦੇ ਹੋਏ, ਤੁਸੀਂ ਇਸ ਸਵਾਲ ਨੂੰ ਦੁਬਾਰਾ ਦੇਖ\n  ਸਕਦੇ ਹੋ ਜਾਂ ਨਹੀਂ ਵੀ ਦੇਖ ਸਕਦੇ ਹੋ। ਬਲਕਿ, ਹੋਇਆ ਸਵਾਲ ਅਖੀਰ ਵਿੱਚ ਦੁਬਾਰਾ\n  ਨਜ਼ਰ ਆਵੇਗਾ। ਤੁਸੀਂ ਸਾਰੇ ਸਵਾਲਾਂ ਨੂੰ ਦੋ ਵਾਰ ਤੱਕ ਛੱਡ ਸਕਦੇ ਹੋ।\n* ਸਟੇਟਸ ਫੀਚਰ — ਤੁਸੀਂ ਆਪਣੀ ਸਕਰੀਨ ਦੇ ਹੇਠਾਂ ਦੇਖ ਸਕਦੇ ਹੋ ਕਿ ਤੁਸੀਂ ਟੈਸਟ\n  ਕਿਵੇਂ ਕਰ ਰਹੇ ਹੋ। ਜਦੋਂ ਤੁਸੀਂ ਪ੍ਰਸ਼ਨਾਂ ਦੇ ਲੱਭੀਦੇ ਸਹੀ ਜਵਾਬ ਦੇ ਦਿੰਦੇ ਹੋ ਜਾਂ ਗਲਤ\n  ਜਵਾਬਾਂ ਦੀ ਦਿੱਤੀ ਗਈ ਮਨਜ਼ੂਰੀ ਦੀ ਗਿਣਤੀ ਨੂੰ ਪਾਰ ਕਰ ਲੈਂਦੇ ਹੋ ਤਾਂ ਇਹ ਟੈਸਟ\n  ਪੂਰਾ ਹੋ ਜਾਵੇਗਾ।\n* ਸਪੋਰਟ ਕਰੋ — ਜੇਕਰ ਤੁਸੀਂ ਕਿਸੇ ਯਾਤਰੀ ਗੱਡੀ ਜਾਂ ਮੋਟਰਸਾਈਕਲ ਦਾ ਟੈਸਟ ਦੇ ਰਹੇ\n  ਹੋ, ਜੇਕਰ ਤੁਹਾਨੂੰ ਕੋਈ ਸਵਾਲ ਸਮਝ ਨਾ ਆਵੇ ਤਾਂ ਤੁਸੀਂ ਕਿਸੇ ਸਟਾਫ ਮੈਂਬਰ ਨੂੰ ਬੁਲਾ\n  ਕੇ ਸਵਾਲ ਨੂੰ ਦੁਬਾਰਾ ਬੋਲਣ ਨਾਲ ਸਮਝਾਉਣ ਲਈ ਮਦਦ ਕਰਨ ਲਈ ਕਹਿ ਸਕਦੇ ਹੋ।\n  ਅਸੀਂ ਤੁਹਾਨੂੰ ਕੋਈ ਸੰਕੇਤ ਨਹੀਂ ਦੇਵਾਂਗੇ ਪਰ ਕਈ ਵਾਰ ਕਿਸੇ ਸਵਾਲ ਨੂੰ ਵੱਖਰੇ ਤਰੀਕੇ\n  ਨਾਲ ਸੁਣਨਾ, ਮਦਦ ਕਰਦਾ ਹੈ।\n* ਟੈਸਟ ਤੋਂ ਬਾਅਦ — ਟੈਸਟ ਪੂਰਾ ਕਰਨ ਤੋਂ ਬਾਅਦ ਤੁਹਾਨੂੰ ਸਲਾਹ ਦਿੱਤੀ ਜਾਵੇਗੀ ਕਿ\n  ਤੁਸੀਂ ਕੀ ਕਰਨਾ ਹੈ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

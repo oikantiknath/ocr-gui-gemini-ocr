@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_kn_000163_0_5_reference.png",
+      "width": 937,
+      "height": 487
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        937.0,
+        487.0
+      ],
+      "area": 456319.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          937.0,
+          0.0,
+          937.0,
+          487.0,
+          0.0,
+          487.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಪರಾಮರ್ಶನ ಗ್ರಂಥಗಳು:-\n೧. ಭಾಷಾಂತರ – ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಹಂಪಿ\n೨. ಭಾಷಾಂತರ ಕಲೆ : ಪ್ರಧಾನ ಗುರುದತ್ತ, ದಶಮಾನೋತ್ಸವ ಕೃತಿಮಾಲೆ -೧, ಬಿ.ಎಂ.ಶ್ರೀ ಸ್ಮಾರಕ ಪ್ರತಿಷ್ಠಾನ,\nಬೆಂಗಳೂರು ೧೯೯೯\n೩. ಭಾಷಾಂತರ ಪಿ. ಎಲ್. ನಾಗಭೂಷಣ ಸ್ವಾಮಿ, ಪ್ರಸಾರಾಂಗ, ಕನ್ನಡ ವಿಶ್ವವಿದ್ಯಾಲಯ, ಹಂಪಿ\n೪. ಭಾಷಾಂತರದ ಸಾಂಸ್ಕೃತಿಕ ನೆಲೆಗಳು: ಕರಿಗೌಡ ಬೀಚನಹಳ್ಳಿ, ಪ್ರಸಾರಾಂಗ, ಕನ್ನಡ ವಿ.ವಿ.ವಿ. ಹಂಪಿ,೧೯೯೯\n೫. ಅನುವಾದ ಕಲೆ: ಜಿ. ಹೆಚ್. ಕೃಷಿ ಮತ್ತು ಮುರಡಿ, ಕರ್ನಾಟಕ ವಿ.ವಿ. ಧಾರವಾಡ, ೧೯೭೫\n೬. ಭಾಷೆ ಮತ್ತು ಸೃಜನಶೀಲತೆ: ಹೆಚ್. ಎಂ. ಮರುಳಸಿದ್ದಯ್ಯ\n೭. ತೌಲನಿಕ ಸಾಹಿತ್ಯ: ದೇ. ಜವರೇಗೌಡ\n೮. ಭಾಷಾಂತರದ ನೆಲೆಗಳು: ಕರಿಗೌಡ ಬೀಚನಹಳ್ಳಿ (ಸಂ)\n೯. ನಾಗವಲ್ಲಿ; ಎಫ್. ಎಲ್. ನಾಗೇಗೌಡ ಅಭಿನಂದನ ಗ್ರಂಥ\n೧೦. ಭಾಷಾಂತರ ಸ್ವರೂಪ- ಎನ್. ಲಕ್ಷ್ಮೀ ನಾರಾಯಣ ಅರೋರ\n11. Linguistic theory of Translation : J.C. Cottord"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

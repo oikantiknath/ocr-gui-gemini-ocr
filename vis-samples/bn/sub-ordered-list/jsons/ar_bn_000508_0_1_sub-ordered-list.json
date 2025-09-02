@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000508_0_1_sub-ordered-list.png",
+      "width": 603,
+      "height": 482
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        603.0,
+        482.0
+      ],
+      "area": 290646.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          603.0,
+          0.0,
+          603.0,
+          482.0,
+          0.0,
+          482.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "২১৪। (১) এই আইন অনুযায়ী কোন দরখাস্তের বিচার,\nবিচার সম্পর্কে ন্যায়ের স্বার্থের সহিত সঙ্গতি রাখিয়া যতদূর সম্ভব\nততদূর, উহা সমাপ্ত না হওয়া পর্যন্ত দিনের পর দিন চলিতে\nথাকিবে, যদি না আদালত কোন কারণবশতঃ, যাহা লিপিবদ্ধ\nকরিতে হইবে, ঐ বিচার পরবর্তী দিনের পর মূলতুবী রাখা\nআবশ্যক বিবেচনা করেন।\n\n(২) এই আইন অনুযায়ী প্রত্যেক দরখাস্ত যতদূর সম্ভব\nতৎপরতার সহিত বিচার করিতে হইবে এবং প্রতিবাদীর উপর\nদরখাস্তের নোটিস জারির তারিখ হইতে ছয় মাসের মধ্যে বিচার\nসমাপ্ত করিবার প্রচেষ্টা করিতে হইবে।\n\n(৩) এই আইন অনুযায়ী প্রত্যেক আপীলের শুনানী যতদূর\nসম্ভব তৎপরতার সহিত করিতে হইবে এবং প্রতিবাদীর উপর"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

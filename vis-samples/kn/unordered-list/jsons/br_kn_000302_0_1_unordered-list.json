@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_kn_000302_0_1_unordered-list.png",
+      "width": 672,
+      "height": 407
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        672.0,
+        407.0
+      ],
+      "area": 273504.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          672.0,
+          0.0,
+          672.0,
+          407.0,
+          0.0,
+          407.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* ಸೋಪು ಮತ್ತು ನೀರನ್ನು ಬಳಸಿ ಕನಿಷ್ಠ ಇಪ್ಪತ್ತು ಸೆಕೆಂಡುಗಳವರೆಗೆ ಕೈಗಳನ್ನು ತೊಳೆಯಬೇಕು\n70% ರಷ್ಟು ಪ್ರಮಾಣದಲ್ಲಿ ಆಲ್ಕೋಹಾಲ್ ಹೊಂದಿದ ಸ್ಯಾನಿಟೈಸರ್‌ನನ್ನು ಕೂಡ ಬಳಸಿ 20\nಸೆಕೆಂಡುಗಳ ಕಾಲ ಕೈಗಳನ್ನು ಶುದ್ಧಗೊಳಿಸಬಹುದು. ಕೈಗಳು ಕೊಳೆಯಾಗಿದ್ದಲ್ಲಿ ಸೋಪು ಮತ್ತು\nನೀರನ್ನು ಬಳಸಿ ತೊಳೆಯುವುದು ಉತ್ತಮ\n* ಕೆಮ್ಮುವಾಗ ಅಥವಾ ಸೀನುವಾಗ ನಿಮ್ಮ ಮುಖ ಮತ್ತು ಮೂಗನ್ನು ಕರವಸ್ತ್ರ ಅಥವಾ ಟಿಶ್ಯೂ\nಪೇಪರ್‌ನಿಂದ ಮುಚ್ಚಿಕೊಳ್ಳುವುದು. ಇವು ಸಿಗದಿದ್ದಲ್ಲಿ ತೋಳಿನಿಂದ ಮುಖವನ್ನು ಮುಚ್ಚಿಕೊಳ್ಳಬೇಕು\nಕರವಸ್ತ್ರವನ್ನು ಕೈಗಳನ್ನು ಸರಿಯಾಗಿ ತೊಳೆಯಲು ತೊಳೆಯಬೇಕು, ಟಿಶ್ಯೂಗಳನ್ನು ಸರಿಯಾಗಿ ವಿಲೇವಾರಿ\nಮಾಡಬೇಕು\n* ಮುಖ, ಬಾಯಿ ಕಣ್ಣು ಹಾಗೂ ಮೂಗನ್ನು ಮುಟ್ಟುವುದನ್ನು ಸಾಧ್ಯವಾದಷ್ಟು ಮಾಡಬಾರದು\n* ಕೆಮ್ಮುತ್ತಿರುವ/ ಸೀನುತ್ತಿರುವ ವ್ಯಕ್ತಿಗಳಿಂದ ಕನಿಷ್ಠ ಒಂದು ಮೀಟರ್ ಅಂತರ ಕಾಯ್ದುಕೊಳ್ಳಬೇಕು\nಮತ್ತು ನಿಮ್ಮ ದೇಹದ ಉಷ್ಣತೆಯನ್ನು ಆಗಾಗ ಪರೀಕ್ಷಿಸಿಕೊಳ್ಳುತ್ತಿರಬೇಕು\n* ಸಾರ್ವಜನಿಕ ಅಥವಾ ಗುಂಪುಸೇರುವ ಸ್ಥಳಗಳಿಗೆ ಹೋಗದಂತೆ ತಪ್ಪದೇ ಮಾಸ್ಕ್‌ನನ್ನು ಧರಿಸಿರಬೇಕು\n(ಮಾಹಿತಿಯ ಮೂಲ ಇಡೀ ಭಾರತೀಯ ವೈದ್ಯಕೀಯ ವಿಜ್ಞಾನಗಳ ಸಂಸ್ಥೆ, ನವದೆಹಲಿ)"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

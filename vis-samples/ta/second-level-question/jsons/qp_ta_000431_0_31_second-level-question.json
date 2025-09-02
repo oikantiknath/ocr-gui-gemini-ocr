@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "qp_ta_000431_0_31_second-level-question.png",
+      "width": 769,
+      "height": 617
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 25,
+      "bbox": [
+        0.0,
+        0.0,
+        769.0,
+        617.0
+      ],
+      "area": 474473.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          769.0,
+          0.0,
+          769.0,
+          617.0,
+          0.0,
+          617.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "“We ran as if meet the moon\nThat slowly dawned behind the trees”.\n\n12. Explain how the black market case was resolved?\n\n13. Rewrite the sentence using the passive voice.\n1. He helped her by giving some money.\n2. They play cricket well.\n3. She is singing a song melodiously\n\n14. Write the present,past and future tense of the verbs in the bracketts.\n1. My friend ------(write) a story now.\n2. The committee ------ (settle) the problem yesterday.\n3. My brother ------ (join) the college next month.\n\n15. Do as directed:\n1. My friend said, “I am in good helth”.(into indirect)\n2. My mother says that life is full of ups and downs(into direct)\n3. He said to his master, “pardon me sir,please”.(into indirect)\n\n16. Choose the appropriate preposition to complete the sentence.\n1. This is the bridge ----- the main road.(a) across (b) between (c) infront of\n2. Why is she called -----the principal.(a) by (b) on (c) to\n3. There is a tree ----- my house. (a) infront of (b) for (c) about."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

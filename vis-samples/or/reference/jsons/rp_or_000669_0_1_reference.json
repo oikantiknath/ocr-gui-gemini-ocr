@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_or_000669_0_1_reference.png",
+      "width": 967,
+      "height": 565
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        967.0,
+        565.0
+      ],
+      "area": 546355.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          967.0,
+          0.0,
+          967.0,
+          565.0,
+          0.0,
+          565.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ସଂକ୍ଷିପ୍ତ ସନ୍ଦର୍ଭ:\n୧. ଓ.ଆ.ଆ.ଆ.ଓ ଆ. ନିର୍ମାଣାଧୀନ, ଲକ୍ଷ୍ମୀପ୍ରିୟା ଗୁଆଳ, ପୃ.୭୯\n୨. ଓଡ଼ିଆ ଉପନ୍ୟାସର ସମାଜତାତ୍ତ୍ୱିକ ରୂପରେଖା, ବିଜୟିନୀ ସମାଳ, ୧୫୩\n୩. ଚନ୍ଦ୍ରିକା, ପୃ.୧୫୪\n୪. ଆଧୁନିକ ଓଡ଼ିଆ କାବ୍ୟାଦର୍ଶ, ଓ.ସ.କେନ୍ଦ୍ରୀୟ ଲିଗ୍, ଓ.ଆ. ଏକାଡେମୀ, ୧୯୮୭, ୨୦୦୪,\nପୃ.୨\n୫. ବେଦୀ, ସାହିତ୍ୟ, ହିନ୍ଦୀ ଶବ୍ଦର ଉତ୍ପତ୍ତି ପ୍ରଥମ ଭାଗ ଓ ଦ୍ୱିତୀୟ ଭାଗ,\nପୃ.୨୧୭\n୬. ବେଦୀ, ଓ.ଶବ୍ଦ ଲୁକାସ- ନାମାବାଦ ଓ ନାମାବାଦୀ ଆଲୋଚନାର କେତୋଟି ମୁଖ୍ୟଧାରା,\nଗୁଆଳ, ତୃତୀୟ ଲକ୍ଷ୍ମୀପ୍ରିୟା, ସାମନ୍ତ ସାହିତ୍ୟ ଓ ସମାଜତାତ୍ତ୍ୱିକ, ପ୍ରାଚୀ ସାହିତ୍ୟ ପ୍ରତିଷ୍ଠାନ, କଟକ,\nପୃ.ପୃ.୨୦୧୫, ପୃ-୩୯୩\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

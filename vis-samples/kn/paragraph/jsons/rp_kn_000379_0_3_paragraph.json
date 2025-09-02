@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_kn_000379_0_3_paragraph.png",
+      "width": 990,
+      "height": 664
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        990.0,
+        664.0
+      ],
+      "area": 657360.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          990.0,
+          0.0,
+          990.0,
+          664.0,
+          0.0,
+          664.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಉಪಯೋಗವನ್ನು ಮಾರ್ಗಸೂಚಿ ಮತ್ತು ಹೆಚ್ಚುವರಿ ಒಂದು ಸಿದ್ಧಾಂತವೇ ಇದೆ.\nಉದಾಹರಣೆಗೆ ಸಿದ್ಧಾಂತಕಾರರಾದ ಅಂದಾಜು ಅಂತರಾಷ್ಟ್ರೀಯ ಉತ್ತಮ ಗ್ರಂಥಗಳ\nಬರೆಯುವಿಕೆಯು ಉನ್ನತೀಕರಿಸಲು ಮಾರ್ಗಸೂಚಿ ತನ್ನ ಮೂಲ ಸಿದ್ಧಾಂತವನ್ನು, ಅದರ\nನಿರ್ಮಾಣವು ಅಳೆಯುವ ಮತ್ತು ಮುಖ್ಯವಾದ ವಿಷಯವು ಪ್ರಾಮಾಣಿಕತೆಯನ್ನು\nಮೂಲಕದಿಂದ ಹೊಂದಿದಾವೆ. ನಂತರ ಸಿದ್ಧಾಂತವಾದವನ್ನು ಮುಖ್ಯಾಂಶಕ್ಕೆ ತನ್ನ\nಸಿದ್ಧಾಂತವಾದದ ಭಿನ್ನತೆಯನ್ನು - ಗದ್ಯದಿಂದ ಅಥವಾ ಛಂದದಿಂದ ಅಥವಾ\nಉಪಯೋಗದಿಂದ ಉನ್ನತೀಕರಿಸಿ ಆ ಕ್ಷೇತ್ರದಲ್ಲಿ ಪ್ರಸಿದ್ಧರಾದ ಬರಹಗಾರರು ಹೊಸದನ್ನು\nಬರೆಯುತ್ತಾರೆ. ತನ್ನ ಮೂಲಭೂತ ಕಲ್ಪನೆಗಳ ಹೊಸದನ್ನು ಮತ್ತು ಇದರ ಒಂದು ಕಾದಂಬರಿ\nಹೇಗೆ ಯಾವ ಪ್ರಮಾಣದಲ್ಲಿ ಪರಿಚಯಿಸಲು ಅಗತ್ಯ ನಿರ್ದೇಶನ ನೀಡುತ್ತಾರೆ. “ಅತಿ-\nಮಾರ್ಗಸೂಚಿ ಕಲ್ಪನೆ ಉಪಯೋಗ ಪ್ರಾಮಾಣಿಕವಾಗಿ ತೋರಿಸುತ್ತಾರೆ. ನವ-ಉಪನ್ಯಾಸ\nವಿಚಾರಶೀಲತೆಯು ಛಂದಸ್ಸು ಮೂಲಭೂತವಾಗಿ ನಾವು ವಿವೇಚಿಸುವ ವಿಷಯವನ್ನು\nಪ್ರತಿಪಾದಿಸುತ್ತದೆ.”"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

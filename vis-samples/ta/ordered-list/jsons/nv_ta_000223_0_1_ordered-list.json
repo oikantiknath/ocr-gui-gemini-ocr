@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nv_ta_000223_0_1_ordered-list.png",
+      "width": 563,
+      "height": 352
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        563.0,
+        352.0
+      ],
+      "area": 198176.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          563.0,
+          0.0,
+          563.0,
+          352.0,
+          0.0,
+          352.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. அகத்தியம் 2. பரதம் 3. குணநூல் 4. கூத்தநூல்\n5. சந்தம் 6. சயந்தம் 7. செயன்முறை 8. செப்பிற்தியம்\n9. நூல் 10. பரத சேனாபதியம் 11. மதிவாணர் நாடகத்தமிழ்\nநூல் 12. முறுவல் 13. கடகண்டு 14. பரிமளகா நாடகம்\n15. காரைக்குறவஞ்சி 16. குருக்ஷேத்திர நாடகம்\n17. சோமகேசரி நாடகம் 18. ஞானாலங்கார நாடகம்\n19. திருநாடகம் 20. பூம்பூலியூர் நாடகம் 21. வஞ்சிப்\nபாட்டு 22. மோதிரப்பாட்டு 23. ராஜராஜேஸ்வர நாடகம்\n24. ராஜ ராஜ விஜயம் 25. சரபோஜி நாடகங்கள் 26. விளக்\nகத்தர்கூத்து 27. நொண்டி நாடகங்கள் 28. குறவஞ்சி\nநாடகங்கள் 29. பள்ளு நாடகங்கள் 30. புராண நாடகங்கள்\n31. இதிகாச நாடகங்கள் மற்றும் எத்தனை எத்தனையோ\nயாரால் அறுதியிட்டுக் கூறவியலும்!"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

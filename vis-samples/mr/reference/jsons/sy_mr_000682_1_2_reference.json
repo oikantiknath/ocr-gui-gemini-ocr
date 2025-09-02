@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_mr_000682_1_2_reference.png",
+      "width": 415,
+      "height": 351
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        415.0,
+        351.0
+      ],
+      "area": 145665.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          415.0,
+          0.0,
+          415.0,
+          351.0,
+          0.0,
+          351.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "संदर्भ ग्रंथ :\n१) मराठी कादंबरी तंत्र आणि विकास : संपादक, प्र.वा. बापट, ना.वा. गोडबोले\n२) मराठी कादंबरी पहिले शतक : कुसुमावती देशपांडे, मुंबई मराठी साहित्य संघ, मुंबई.\n३) कादंबरी स्वरूप व समीक्षा : डॉ. द.भि. कुलकर्णी, पद्मगंधा प्रकाशन, पुणे.\n४) मराठी कादंबरी चिंतन आणि समीक्षा : चंद्रकान्त बांदिवडेकर, मेहता पब्लिशिंग हाऊस,\nपुणे.\n५) कादंबरी आणि मराठी कादंबरी : उषा हस्तक\n६) गेल्या अर्धशतकातील मराठी कादंबरी : (संपा.) विलास खोले, लोकवाङ्मय गृह, मुंबई.\n७) प्रदक्षिणा: खंड १ व २ : कॉन्टिनेन्टल प्रकाशन, पुणे.\n८) साहित्याची भाषा : भालचंद्र नेमाडे, साकेत प्रकाशन, औरंगाबाद.\n९) सुगम मराठी व्याकरण लेखन : मो. रां. वाळिंबे, नितीन प्रकाशन, पुणे.\n१०) मराठीचे व्याकरण स्वरूपविचार : डॉ. लीला गोविंदलकर, मेहता पब्लिशिंग हाऊस, पुणे."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

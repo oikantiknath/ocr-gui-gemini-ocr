@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_hi_000113_0_1_answer.png",
+      "width": 989,
+      "height": 397
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        989.0,
+        397.0
+      ],
+      "area": 392633.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          989.0,
+          0.0,
+          989.0,
+          397.0,
+          0.0,
+          397.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "उत्तर- शुरू में मैं कविताएं लिखा करता था। और उसमें इतना रमा रहता था कि लोग\\nमुझे प्रायः कवि जी कहकर ही संबोधित करते थे। अब वह आरंभिक दौर अतीत का एक\\nविस्मयकारी स्वप्न-सा लगता है। सन् 1960 के इर्दगिर्द से, कह नहीं सकता, यह भी एक\\nकौतूहल जैसा लगता है कि कविता को मैंने विदा कर दिया था या उसने ही मुझ से मुख\\nमोड़ लिया। कविता रचना की शुरुआत सन् 1942 के इर्दगिर्द हुई थी और गाजीपुर से निकलने\\nवाले एक साप्ताहिक-पत्र में छपने भी लगी थी, पुरानी डायरी में सन् 1943 की लिखी दो\\nकविताएं मिली हैं जो मेरे संकलन 'लौटकर देखना' में प्रकाशित हैं। अब रहा प्रश्न प्रेरित करने\\nवाले, प्रारंभिक उपादानों का तो संक्षेप में इन्हें अपनी अन्तः प्रेरणा, पत्र-पत्रिकाओं में छपने\\nवाली कविताओं और कवि सम्मेलनों के प्रभाव आदि के रूप में स्मरण करता हूँ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

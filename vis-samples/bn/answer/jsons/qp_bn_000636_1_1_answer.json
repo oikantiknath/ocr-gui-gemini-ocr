@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "qp_bn_000636_1_1_answer.png",
+      "width": 1394,
+      "height": 1740
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        1394.0,
+        1740.0
+      ],
+      "area": 2425560.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1394.0,
+          0.0,
+          1394.0,
+          1740.0,
+          0.0,
+          1740.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "জননীর বা প্রসূতি মহিলার খাদ্যের পুষ্টি উপাদানের উপর নির্ভর করে মাতৃদুগ্ধের\\nপরিমাণ ও গুণগতমান। মায়ের খাদ্যে যদি পুষ্টি উপাদানগুলি যথোপযুক্ত পরিমাণে\\nনা থাকে তাহলে মায়ের অস্থি ও দেহের সঞ্চিত খাদ্য থেকে মাতৃদুগ্ধ তৈরি হয়।\\n\\nপ্রসূতি পৌষ্টিক প্রয়োজনীয়তা নিম্নরূপ :-\\n\\n(1) শক্তি : খাদ্যের শক্তির 60% মাতৃদুগ্ধে রূপান্তরিত হয়। তাই ICMR-এর\\nবিজ্ঞানীরা শক্তির সুপারিশ করেছেন\\n\\nশিশুর 0 - 6 মাস - 600 kcal/day\\n\\n6 - 12 মাস - 520 kcal/day\\n\\n(2) প্রোটিন : 7.2 gm দুগ্ধ প্রোটিনে উৎপাদনের জন্য 14.4 gm Protein\\nপ্রয়োজন তাই ICMR অনুযায়ী Protein এর চাহিদা হল\\n\\n0 - 6 মাস - 50+19gm\\n\\n6 - 12 মাস - 50+13 gm\\n\\n(3) ক্যালসিয়াম : প্রসূতি জননী খাদ্যের Ca 30% ধরে রাখতে পারে এবং\\nদৈনিক 600 ml প্রস্তুত দুধে 205mg Ca থাকে ওই মায়ের প্রয়োজন 1200mg\\nদৈনিক Ca।\\n\\n(4) লোহা : দৈনিক প্রস্তুত 600 ml দুধে লোহার পরিমাণ 7.2mg যা স্বাভাবিক\\nলোহা গ্রহনেই তৈরি করা সম্ভব তাই বিজ্ঞানীরা বাড়তি সুপারিশ করেননি।\\n\\n(5) ভিটামিন A, B₁, B₂, B₅, C : 950 µgm (Microgram) দৈনিক\\nরেটিনল সুপারিশ করেছেন এবং খাদ্যে ক্যালোরির পরিমাণ বৃদ্ধির সাথে সাথে\\nবি complex এর চাহিদা বৃদ্ধি হয়। প্রসূতি মায়ের vitc চাহিদা দ্বিগুণ হয়ে যায়\\nঅর্থাৎ দৈনিক 80mg।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

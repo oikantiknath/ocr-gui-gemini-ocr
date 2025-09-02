@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_kn_000597_1_61_unordered-list.png",
+      "width": 306,
+      "height": 329
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        306.0,
+        329.0
+      ],
+      "area": 100674.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          306.0,
+          0.0,
+          306.0,
+          329.0,
+          0.0,
+          329.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* ಮಾನವ ದೃಷ್ಟಿಯಲ್ಲಿ ಸತ್ಯ ಹಿಡಿಯಲು ಸಾಧ್ಯವಿಲ್ಲ. ಜನಿಸುವ\\n\nಸಮಯದಲ್ಲಿ ಮಾನವನಿಗೆ ಬರುವಂತಹ ವಾಸನಾ ಕಾಮನೆಯು\\nಯಾವುದೇ ಸಾಯುವವರೆಗೂ ಹೋಗುವುದಿಲ್ಲ. ಪ್ರತಿಜನ್ಮದಲ್ಲಿ\\nಕಳಚಿ ಹೋಗುತ್ತದೆ.\n* ಗತಿಸಿಹೋದವು ಗತಿಸಿಹೋಗಲಿ, ಇನ್ನು ಈ ಕ್ಷಣದಲ್ಲಿ ನಿಂತು 'ಈ\\nಜೀವನದಲ್ಲಿ ಅಷ್ಟೇ, ಅಷ್ಟೇ ಹೀಗೆ ಹೀಗೆ. ಯಾವ ಕ್ಷಣ ಅಂತ\\nಮುಂದೆಬಂದಿದೆ?' ಎಂದು ಚಿಂತಿಸುವರು.\n* ಸರ್ಕಾರಿ ಹುದ್ದೆಗಳಲ್ಲಿ ಪ್ರಮಾಣಿಕವಾದಿ ಸತ್ಯವಾದಿ ಈ ತರ\\nದುರಭಿಮಾನದಿಂದ ಹಿಡಿಯುವಂತಹ ಸಂಶಯವಾದಿಗಳೂ\\nಹೇಗೆ? ಪ್ರತಿಭೆಯ ಬಗ್ಗೆ ಹಿಡಿಯುವಾಗ ನುರಿತವರಿಗೆ ಮೀಸಲಾತಿ\\nಪ್ರತ್ಯೇಕ ಪಟ್ಟಣ ಉಂಟಾಗಿರುವುದು. ಅವರು\\nಮಾನಸಿಕವಾಗಿ ಧೈರ್ಯದಿಂದಲೇ ಹಿಡಿಯುವ ಪ್ರಮಾಣ\\nಹೇಗಿದೆ ಅನ್ನುವುದಾಗಿದೆ.\n* ಮನುಷ್ಯ ದ್ವೇಷದಲ್ಲಿ ಉಸಿರಾಡುತ್ತಿರುವಂತಹ ಇನ್ನು ಈ, ಪ್ರತಿ\\nತಿಂಗಳೂ ಈ ಬರುತ್ತದೆ. ಅದರ ಬಗ್ಗೆ ಒಡನಾಟ ಬೇಡ;\\nಮುಂದೆ ಹೇಗೆ ದಿನಾಚರಣೆ! ಅಷ್ಟೇ ಅಲ್ಲ, ಇನ್ನಿತರ\\nಮತ್ತೆಲ್ಲಾ ತಕ್ಷಣ ಬರಬೇಕೇ ಅಂದರೆ ಸುಮ್ಮನೆ ಮಾಡುವ\\nದಿನಾಚರಣೆ!"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

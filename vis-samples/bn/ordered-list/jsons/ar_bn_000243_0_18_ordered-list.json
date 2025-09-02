@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000243_0_18_ordered-list.png",
+      "width": 795,
+      "height": 452
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        795.0,
+        452.0
+      ],
+      "area": 359340.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          795.0,
+          0.0,
+          795.0,
+          452.0,
+          0.0,
+          452.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "৮১। এই আইন অনুযায়ী নিযুক্ত প্রত্যেক রেজিস্ট্রারী আধিকারিক ও এই আইনের প্রয়োজনে\nতাহার কার্যালয়ে নিয়োজিত প্রত্যেক ব্যক্তি যিনি, উহার বিধানাবলী অনুযায়ী উপস্থাপিত বা জমা দেওয়া\nকোন দস্তাবেজ পৃষ্ঠাঙ্কন, প্রতিলিপিকরণ, ভাষান্তরন বা রেজিস্ট্রি করার ভারপ্রাপ্ত হইয়া, এরূপ দস্তাবেজ,\nযে প্রণালী তিনি অশুদ্ধ বলিয়া জানেন বা বিশ্বাস করেন সেরূপ প্রণালীতে, পৃষ্ঠাঙ্কন, প্রতিলিপিকরণ\nভাষান্তরন বা রেজিস্ট্রি করিবেন এই অভিপ্রায় লইয়া যে তদ্বারা তিনি কোন ব্যক্তির ভারতীয় দণ্ড\nসংহিতায় যথাপরিভাষিত, হানি করিবেন বা ইহা জানিয়া যে তিনি তদ্বারা সম্ভাব্যত ঐ হানি করিবেন,\nতিনি সাত বৎসর পর্যন্ত প্রসারিত হইতে পারে এরূপ মেয়াদের কারাবাসে বা জরিমানায় বা উভয়থা\nদণ্ডনীয় হইবেন।\n\n৮২। যে কেহ—\n\n(ক) এই আইন অনুযায়ী কোন কার্যবাহে বা অনুসন্ধানে এই আইনের নিষ্পাদন কারিত\nকোন আধিকারিকের সমক্ষে, সবিজ্ঞানে কোন মিথ্যা বিবৃতি শপথপূর্বক হউক বা না\nহউক এবং উহা অভিলিপিত হইয়া থাকুক বা না থাকুক প্রদান করিবেন ; অথবা"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

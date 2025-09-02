@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_te_000543_0_3_unordered-list.png",
+      "width": 586,
+      "height": 159
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        586.0,
+        159.0
+      ],
+      "area": 93174.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          586.0,
+          0.0,
+          586.0,
+          159.0,
+          0.0,
+          159.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "I have voluntarily submitted my Aadhaar number mentioned above and consent to:\nనేను స్వచ్ఛందంగా నా ఆధార్ నంబరును పైన పేర్కొన్న విధంగా సమర్పించాను మరియు దీనికి అంగీకరిస్తున్నాను:\n* Seed my Aadhaar / UID Number issued by UIDAI, Government of India in my name with my aforesaid account.\nయుఐడిఎఐ, భారత ప్రభుత్వం, ద్వారా జారీ చేయబడిన నా ఆధార్ / యుఐడి నంబరును నా పైన పేర్కొన్న ఖాతాకు అనుసంధానించడానికి.\n* Map it at NPCI to enable me to receive Direct Benefit Transfer (DBT) from Government of India in my above mentioned account. I understand that if more than one Benefit Transfer is due to me, I will receive\nall Benefit Transfers in this account.\nభారత ప్రభుత్వం నుండి ప్రత్యక్ష ప్రయోజన బదిలీ (డిబిటి)ని నా పైన పేర్కొన్న ఖాతాలో స్వీకరించడానికి వీలుగా ఎన్‌పిసిఐ వద్ద మ్యాప్ చేయడానికి. నాకు ఒకటి కంటే ఎక్కువ ప్రయోజన బదిలీలు రావాల్సి వస్తే, నేను\nఅన్ని ప్రయోజన బదిలీలను ఈ ఖాతాలో స్వీకరిస్తానని నేను అర్థం చేసుకున్నాను.\n* Use my Aadhaar details to authenticate me from UIDAI.\nయుఐడిఎఐ నుండి నన్ను ప్రామాణీకరించడానికి నా ఆధార్ వివరాలను ఉపయోగించడానికి.\n* Use my mobile number mentioned in my account for sending SMS alerts to me.\nనాకు ఎస్ఎంఎస్ హెచ్చరికలను పంపడానికి నా ఖాతాలో పేర్కొన్న నా మొబైల్ నంబరును ఉపయోగించడానికి.\n* Consent for Authentication: I, the holder of the above stated Aadhaar number, hereby give my consent to DCB Bank Limited, to obtain my Aadhaar number, Name and Fingerprint / Iris for authentication with UIDAI.\nDCB Bank Limited has informed me that my identity information would only be used for demographic authentication / validation / e-KYC purpose and also informed me that my biometrics will not be stored / shared and\nwill be submitted to CIDR (Central Identities Data Repository) only for the purpose of authentication. I have been given to understand that my information submitted to the Bank herewithshall not be used for any\npurpose other than mentioned above, or as per requirements of law.\nప్రామాణీకరణకు సమ్మతి: నేను, పైన పేర్కొన్న ఆధార్ నంబరును కలిగి ఉన్న వ్యక్తి, యుఐడిఎఐతో ప్రామాణీకరణ కోసం నా ఆధార్ నంబరు, పేరు మరియు వేలిముద్ర / ఐరిస్ పొందడానికి డిసిబి బ్యాంక్ లిమిటెడ్‌కు\nనా సమ్మతిని ఇస్తున్నాను. డిసిబి బ్యాంక్ లిమిటెడ్ నా గుర్తింపు సమాచారం జనాభా ప్రామాణీకరణ / ధృవీకరణ / ఇ-కెవైసి ప్రయోజనం కోసం మాత్రమే ఉపయోగించబడుతుందని నాకు తెలియజేసింది మరియు నా బయోమెట్రిక్స్\nనిల్వ చేయబడవు / పంచుకోబడవు మరియు ప్రామాణీకరణ ప్రయోజనం కోసం మాత్రమే సిఐడిఆర్ (సెంట్రల్ ఐడెంటిటీస్ డేటా రిపోజిటరీ)కు సమర్పించబడతాయని కూడా నాకు తెలియజేసింది. పైన పేర్కొన్నవి కాకుండా మరే ఇతర\nప్రయోజనం కోసం, లేదా చట్టం యొక్క అవసరాల ప్రకారం, బ్యాంకుకు సమర్పించిన నా సమాచారం ఉపయోగించబడదని నాకు అర్థం చేయబడింది."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

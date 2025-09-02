@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_ml_000993_1_54_footnote.png",
+      "width": 490,
+      "height": 40
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 12,
+      "bbox": [
+        0.0,
+        0.0,
+        490.0,
+        40.0
+      ],
+      "area": 19600.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          490.0,
+          0.0,
+          490.0,
+          40.0,
+          0.0,
+          40.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "\"സൂചിപ്പിച്ച വ്യവസ്ഥകൾക്ക് വിധേയമായി നിയമപ്രകാരമുള്ള സമുദായം ഈ നിയമങ്ങൾക്ക് വേണ്ടിയിട്ടുള്ളതാകുന്നു. \"സമുദായം\" എന്നതുകൊണ്ട് താഴെ പറയുന്നവ ഉൾക്കൊള്ളുന്നു. ഹിന്ദുക്കളിൽ ഭൂരിഭാഗംപേരും\nനൽകി വരുന്ന സമുദായം, നൽകിവരുന്നവർ, ഹിന്ദുക്കളായി ജീവിക്കുന്നവർ, ബുദ്ധമതക്കാർ, ജൈനമതക്കാർ, സിഖ് മതക്കാർ എന്നിവർ ഉൾപ്പെടുന്നു. ഹിന്ദു എന്ന്\nചേർക്കുന്നവരും, ഈ ഭാഗത്തിന്റെ ആവശ്യത്തിനായി ഹിന്ദുക്കളായി കണക്കാക്കി വരുന്നവരുമാകുന്നു. 188 നിയമം, സമുദായം നൽകി വരുന്ന കാര്യകാരണങ്ങളുള്ള സമുദായം എന്നതുകൊണ്ട്\nപ്രധാന (സമുദായം നൽകി വരുന്ന കാര്യകാരണങ്ങളുള്ള സമുദായം എന്നതുകൊണ്ട് താഴെ പറയുന്നവ ഉൾക്കൊള്ളുന്നു. ഹിന്ദു, ബുദ്ധമതം, ജൈനമതം, സിഖ്മതം, എന്നിവർ അതാത് സമുദായത്തെ\nനൽകിവരുന്നവരും ഹിന്ദു വിഭാഗത്തിൽ ഉൾപ്പെട്ടിട്ടുള്ളതും എല്ലാ കാര്യങ്ങൾക്കും വേണ്ടിയുള്ളതുമാകുന്നു."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

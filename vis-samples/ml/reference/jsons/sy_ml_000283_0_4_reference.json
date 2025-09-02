@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_ml_000283_0_4_reference.png",
+      "width": 929,
+      "height": 686
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        929.0,
+        686.0
+      ],
+      "area": 637294.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          929.0,
+          0.0,
+          929.0,
+          686.0,
+          0.0,
+          686.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. കേരളസംസ്കാരങ്ങൾ - (എഡി.) പ്രൊഫ. പത്മനാഭൻ നായർ\n2. കേരളചരിത്രം - എ. ശ്രീധരമേനോൻ\n3. കേരളചരിത്രം - എം. ആർ. രാഘവവാരിയർ, ഡോ. രാജൻ ഗുരുക്കൾ\n4. കേരളസംസ്കാരം - എ. ശ്രീധരമേനോൻ\n5. കേരളത്തിന്റെ സാംസ്കാരികചരിത്രം - പി. കെ. ഗോപാലകൃഷ്ണൻ\n6. കേരളത്തിലെ നവോത്ഥാനനായകന്മാർ - ഡോ. ആർ. രാധാകൃഷ്ണൻ,\n(മാളൂബൻ പബ്ലിക്കേഷൻസ്).\n7. സാമൂഹിക നവോത്ഥാനവും സാഹിത്യവും - ഡോ. എൻ. സി. നായർ\n8. കേരളചരിത്രശില്പികൾ - പ്രൊഫ. എ. ശ്രീധരമേനോൻ\n9. നെഹ്റുവിന്റെയും പി. പി. നായരുടെയും ഭാരതപ്രദീപികയും -\nഡോ. എ. എം. ഉണ്ണിക്കൃഷ്ണൻ.\n10. മധ്യകാലങ്ങൾ - (എഡി.) പ്രൊഫ. പത്മനാഭൻ നായർ\n11. കലാലോകം - കെ. പി. നാരായണപ്പിഷാരടി\n12. കേരളചരിത്രപ്രബന്ധസരിതം - പൂമുള്ളി രാമൻ\n13. കേരളവിജ്ഞാനകോശം - ദേശബന്ധു പബ്ലിക്കേഷൻസ്\n14. പഴശ്ശിസമരങ്ങൾ - ഡോ. കെ. കെ. എൻ. കുറുപ്പ്\n15. കേരളചരിത്രധാരകൾ - ഡോ. നടരാജും ഗോപാലകൃഷ്ണൻ\n16. നവോത്ഥാനസംസ്കാരം കേരളത്തിൽ - (എഡി.) ഡോ. പി. പി. വേലായുധൻ പിള്ള"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

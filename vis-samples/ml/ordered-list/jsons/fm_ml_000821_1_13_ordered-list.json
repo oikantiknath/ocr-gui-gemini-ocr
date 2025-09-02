@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_ml_000821_1_13_ordered-list.png",
+      "width": 489,
+      "height": 206
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        489.0,
+        206.0
+      ],
+      "area": 100734.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          489.0,
+          0.0,
+          489.0,
+          206.0,
+          0.0,
+          206.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. ടൈറ്റിൽ ഡീഡുകളുടെ പകർപ്പ്\n2. 30 വർഷത്തേക്കുള്ള മാതൃ പ്രമാണത്തിന്റെ പകർപ്പ്.\n3. ഏറ്റവും പുതിയ നികുതി അടച്ച രസീത്, 13 വർഷത്തേക്കുള്ള EC, കൈവശാവകാശ\nസർട്ടിഫിക്കറ്റ്.\n4. പട്ടയുടെ പകർപ്പ്.\n5. അംഗീകൃത ബിൽഡിംഗ് പ്ലാനിന്റെ പകർപ്പ്.\n6. ഹൗസിംഗ് സൊസൈറ്റി / ബോർഡ് മുതലായവയിൽ നിന്നുള്ള എൻ.ഒ.സി.\n(ബാധകമാകുന്നിടത്തെല്ലാം)\n7. അസറ്റുകളും ബാധ്യതകളും പ്രസ്താവന.\n8. പെൻഷൻ അല്ലെങ്കിൽ മറ്റ് വരുമാനത്തിന്റെ തെളിവ്\n9. 3 വർഷത്തേക്ക് ഐടി / ഡബ്ല്യൂടി റിട്ടേൺ (ബാധകമാകുന്നിടത്തെല്ലാം)\n10. പാനൽ എഞ്ചിനീയർ മൂല്യനിർണ്ണയ റിപ്പോർട്ട്\n11. പാനൽ അഭിഭാഷകൻ നിയമപരമായ അഭിപ്രായം"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

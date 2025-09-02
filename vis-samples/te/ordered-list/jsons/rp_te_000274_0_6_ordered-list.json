@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_te_000274_0_6_ordered-list.png",
+      "width": 339,
+      "height": 773
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        339.0,
+        773.0
+      ],
+      "area": 262047.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          339.0,
+          0.0,
+          339.0,
+          773.0,
+          0.0,
+          773.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "సంపాదించుకొన్నది మాత్రము నిజము కావచ్చు\nనని శ్రీ పిఠికాపురము పంతులుగారి\nయభిప్రాయము. అలపాటి పెద్దన్న, రాయస\nభాస్కరుఁడు మొదలగువారు కోదండరామ\nకవిగారికి చెందినవారే. నందవరపు లార్యాదరము\nనుండి కొటారుమునకు వచ్చిరనుటలోఁ బ్రమా\nణము లింకను కావలసియున్నవి.\nకోదండరామ యశ్వలాయన సూత్రుఁడు.\nభారద్వాజ గోత్రుఁడు. వేంకట మంత్రి\nపుత్రుఁడు. రంగమాంబాపుత్రుఁడు, సీతారామ\nకవి పౌత్రుఁడు. పయి యంశములు రసమంజరి\nతృతీయ గుచ్ఛపుఁ బద్యములనుబట్టి\nతెలియుచున్నవి.1\nకోదండరామకాలము సరిగాఁ దెలియదు;\nకాని యీతఁడు దీనమ్మను సంకీర్తనముల వ్రాసి\nవాడెమోహని కవులచరిత్రలోఁ గలదు. ఆ\nయీయనకుఁ దగిన యాధారము కానరాదు.\nఇ\nరసమంజరి మూడుగుచ్ఛముల గ్రంథము;\nసంస్కృతమున భానుదత్త మిశ్రుఁడు రచించిన\nకృతికిది తెనుఁగుసేత. ఇందు మొదటి గుచ్ఛ\nములో ముగ్గురాదియాయికా లక్షణము, ధీరాయుల\nలక్షణము వివరింపఁబడినది. రెండవ గుచ్ఛమున\nస్వాధీనపతిక మొదలగు ఎనిమిది విధముల\nనాయికల, ఆ నాయికలలోని ముగ్గురాదివ\nభేదములతోఁగూడ చెప్పఁబడినది. మూఁడవ\nగుచ్ఛములో నాయకులక్షణము, వారియందలి\nభేదములు స్పష్టపఱచబడినవి."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

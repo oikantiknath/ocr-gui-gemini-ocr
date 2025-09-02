@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000248_0_0_ordered-list.png",
+      "width": 803,
+      "height": 849
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        803.0,
+        849.0
+      ],
+      "area": 681747.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          803.0,
+          0.0,
+          803.0,
+          849.0,
+          0.0,
+          849.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "১। (১) এই আইন তামাদি আইন, ১৯৬৩ নামে অভিহিত হইবে।\n(২) ইহা জম্মু ও কাশ্মীর রাজ্য ব্যতীত সমগ্র ভারতে প্রসারিত হইবে।\n(৩) কেন্দ্রীয় সরকার, সরকারী গেজেট প্রজ্ঞাপন দ্বারা যে তারিখ নির্দিষ্ট করিবেন,\nসেই তারিখে ইহা বলবৎ হইবে।\n\n২। এই আইনে, প্রসঙ্গত অন্যথা আবশ্যক না হইলে,—\n(ক) “আবেদনকারী” অন্তর্ভুক্ত করে—\n(i) কোন দরখাস্তকারীকে ;\n(ii) এরূপ কোন ব্যক্তিকে, যাহার নিকট হইতে বা যাহার মাধ্যমে কোন আবেদনকারী\nতাহার আবেদন করিবার অধিকার প্রাপ্ত হয় ;\n(iii) এরূপ কোন ব্যক্তিকে, যাহার এস্টেটের প্রতিনিধি আবেদনকারী নির্বাহক,\nপ্রশাসক বা অনারিক প্রতিনিধি রূপে করে ;\n(খ) “আবেদন” দরখাস্তকে অন্তর্ভুক্ত করে ;\n(গ) “বিনিময়পত্র” হুণ্ডি ও চেককে অন্তর্ভুক্ত করে ;\n(ঘ) “ঋণ” এরূপ কোন সাধনপত্রকে অন্তর্ভুক্ত করে যদ্দারা কোন ব্যক্তি অন্য কোন\nব্যক্তিকে অর্থ প্রদান করিবার জন্য নিজেকে এই শর্তে/দায়িত্ববদ্ধ করে যে এ দায়িত্ব\nবাতিল হইয়া যাইবে যদি বিনির্দিষ্ট কার্য সম্পাদিত হয় বা, স্থলবিশেষে, সম্পাদিত\nনা হয় ;\n(ঙ) “প্রতিবাদী” অন্তর্ভুক্ত করে—\n(i) এরূপ কোন ব্যক্তিকে, যাহার নিকট হইতে বা যাহার মাধ্যমে কোন প্রতিবাদী\nতত্ত্ববিরুদ্ধে মোকদ্দমা আনীত হইবার দায়িত্ব আহত করে ;\n(ii) এরূপ কোন ব্যক্তিকে, যাহার এস্টেটের প্রতিনিধিত্ব প্রতিবাদী নির্বাহক, প্রশাসক\nবা অনারিক প্রতিনিধি রূপে করে ;"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

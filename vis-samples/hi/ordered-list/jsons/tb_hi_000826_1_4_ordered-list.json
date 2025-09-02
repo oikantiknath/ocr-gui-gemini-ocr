@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "tb_hi_000826_1_4_ordered-list.png",
+      "width": 387,
+      "height": 124
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        387.0,
+        124.0
+      ],
+      "area": 47988.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          387.0,
+          0.0,
+          387.0,
+          124.0,
+          0.0,
+          124.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "3. उपरोक्त प्रश्न में दिए गए आँकड़ों के आधार पर ख्याति का मूल्यांकन अधिलाभ के पूँजीकरण विधि\n    द्वारा कीजिए। क्या ख्याति की राशि का मूल्य भिन्न हो सकता है यदि इसकी गणना औसत लाभों के\n    पूँजीकरण से की जाए? अपने उत्तर की सत्यता की पुष्टि संख्यात्मक आधार पर कीजिए।\n4. गिरी और शांता फर्म में साझेदार हैं और लाभ का विभाजन बराबर करते हैं। वे साझेदारी में काचरु\n    को प्रवेश देते हैं जोकि फर्म के 1/5 भाग के लाभ के लिए पूँजी के अतिरिक्त 20,000 रु. ख्याति\n    के रूप में लाता है। रोजनामचा प्रविष्टि क्या होगी, यदि\n    (अ) फर्म की पुस्तकों में ख्याति खाता नहीं दर्शाया गया है।\n    (ब) फर्म की पुस्तकों में ख्याति खाता 40,000 रु. से दर्शाया गया है।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

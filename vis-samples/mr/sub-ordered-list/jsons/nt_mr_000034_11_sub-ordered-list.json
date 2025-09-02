@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_mr_000034_11_sub-ordered-list.png",
+      "width": 456,
+      "height": 187
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        456.0,
+        187.0
+      ],
+      "area": 85272.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          456.0,
+          0.0,
+          456.0,
+          187.0,
+          0.0,
+          187.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "आ) धर्मादाय आयुक्त कार्यालयाकडील नोंदणी प्रमाणपत्र.\nब) पी.एफ.रजिस्ट्रेशन\nक) मागील १ वर्षाचे (२०२२-२३) मा.धर्मादाय आयुक्त कार्यालयाकडील ताळेबंद अहवाल.\nड) पॅन कार्ड व मागील १ वर्षातील आयकर रिटर्न भरलेचा पुरावा.\nसंबंधित अर्जदार संस्थांनी उपरोक्त प्रमाणे आवश्यक ती अद्ययावत कागदपत्रे सत्यप्रत करुन अर्ज सादर\nकरण्याचेच्या अंतिम तारखेपर्यंत (दिनांक १/११/२०२३) मा.आयुक्त, पिंपरी चिंचवड महानगरपालिका,पिंपरी –\n४११०१८ यांचे नांवे आरोग्य मुख्य कार्यालय, २ मजला येथे कार्यालयीन वेळेत सादर करावीत. विहीत मुदतीत\nअर्ज व कागदपत्रे सादर न केल्यास अपुर्ण कागदपत्रे सादर केल्याने अर्ज अपात्र झाल्यास, त्यास महानगरपालिका\nजबाबदार राहणार नाही. मुदतीनंतर कोणतीही कागदपत्रे स्विकारण्यात येणार नाहीत तसेच याबाबत\nकोणताही पत्रव्यवहार करणेत येणार नाही."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_hi_000268_0_0_sub-ordered-list.png",
+      "width": 1458,
+      "height": 454
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        1458.0,
+        454.0
+      ],
+      "area": 661932.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1458.0,
+          0.0,
+          1458.0,
+          454.0,
+          0.0,
+          454.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(क) माता या पिता, या पितामह या पितामही को जीवन पर्यन्त पूरी दर के त्रिदशांश के समतुल्य रकम, और यदि\nदो या अधिक माता-पिता या पितामह-पितामही हों तो माता-पिता या पितामह-पितामही को यथापूर्वोक्त संदेय रकम उनके\nबीच बराबर-बराबर विभाजित कर दी जाएगी,\n(ख) किसी अन्य—\n(i) पुरुष आश्रित को, जब तक वह अठारह वर्ष की आयु प्राप्त नहीं कर लेता;\n(ii) स्त्री आश्रित को, जब तक वह अठारह वर्ष की आयु प्राप्त नहीं कर लेती या उसका विवाह नहीं हो\nजाता, इनमें से जो भी पहले हो, या यदि विधवा है तो जब तक वह अठारह वर्ष की आयु प्राप्त नहीं कर लेती,\nपूरी दर के दो दशांश के समतुल्य रकम, परन्तु यदि खंड (ख) के अधीन आश्रित एक से अधिक हों तो इस खण्ड के अधीन संदेय रकम\nउनके बीच बराबर-बराबर विभाजित कर दी जाएगी।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

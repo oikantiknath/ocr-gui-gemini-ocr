@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_kn_000748_1_4_reference.png",
+      "width": 313,
+      "height": 363
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        313.0,
+        363.0
+      ],
+      "area": 113619.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          313.0,
+          0.0,
+          313.0,
+          363.0,
+          0.0,
+          363.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಪರಾಮರ್ಶನ ಗ್ರಂಥಗಳು:\\n\n1.  ಪೂರ್ಣಚಂದ್ರ ತೇಜಸ್ವಿ ಕೃತಿಗಳು.\\n\n2.  ನಮ್ಮ ಅಂಬೇಡ್ಕರ್-ಗೋಪಾಲ ರಾಮಸ್ವಾಮಿ ಅಯ್ಯಂಗಾರ್\\n3.  ಪಲ್ಲವಿಯ ಪಲ್ಲವ- ಗೋಪಾಲ ರಾಮಸ್ವಾಮಿ ಅಯ್ಯಂಗಾರ್\\n4.  ಸಂಸಾರ-ಪಿ. ಲಂಕೇಶ್\\n5.  ಮಾಸ್ತಿ ಕಥನಗಳು.\\n6.  ಕಥೆಯಾದಳು ಹುಡುಗಿ-ಚಿತ್ರಲೇಖ.\\n7.  ತಲದಂಡ-ಗಿರೀಶ.\\n8.  ಭಾರತೀಯ ಸಮಾಜ-ಶ್ಯಾಮಸುಂದರ ಮಠ\\n9.  ಗ್ರಾಮಾಯಣ-ಎನ್ ಬಸವರಾಜ್-ಅಯ್ಯಪ್ಪಗೌಡ\\n10. ಮರ್ಫಿ ಉತ್ಪಾದನೆಯ ಕೃತಿಗಳು.\\n11. ಎಮ್.ಆರ್. ಅನಂತಮೂರ್ತಿ ಕಾದಂಬರಿಗಳು.\\n12. ಎದೆಗೆ ಬಿದ್ದ ಅಕ್ಷರ- ದೇವನೂರು ಮಹಾದೇವ\\n13. ಸತ್ಯಸಂಧ ರಾಮಪ್ಪನ ಕಾದಂಬರಿಗಳು.\\n14. ಬಂಡಾಯ ಅನುಭವದಿಂದ ಕಾದಂಬರಿಗಳು.\\n15. ಜ್ಞಾನ ಮುರ್ಫಿ ಕಥನಗಳು.\\n16. ಡಿ.ವಿ.ಜಿ. ದಯಾಮರಣ ಅವರ ಬರಹಗಳು\\n17. ಅಕ್ಕ ಮಹಾದೇವಿ ಅವರ ಅಕ್ಕನ 'ಅಕ್ಕ'\\n18. ವಿಶೇಷ ಶಾಂತಪ್ಪನ ಅವರ ಬರಹಗಳು\\n19. ಬರಗೂರು ರಾಮಚಂದ್ರಪ್ಪ ಅವರ ಬರಹಗಳು.\\n20. ಶಾಂತರಸ ಅವರ ಕಥನಗಳು.\\n21. ನೀನಾ ಸಂಸ್ಕೃತಿಯನ ಅವರ ಕಥನಗಳು.\\n22. ಹೊಸಮಾದರಿ ಮಹಾದೇವ ಅವರ ಕಥನಗಳು.\\n24. ಕಂ. ವೀರಭದ್ರಪ್ಪ ಅವರ ಕಥನಗಳು."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

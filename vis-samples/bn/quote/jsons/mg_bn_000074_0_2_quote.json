@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_bn_000074_0_2_quote.png",
+      "width": 326,
+      "height": 422
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 23,
+      "bbox": [
+        0.0,
+        0.0,
+        326.0,
+        422.0
+      ],
+      "area": 137572.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          326.0,
+          0.0,
+          326.0,
+          422.0,
+          0.0,
+          422.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "“পূর্বেই জানা ছিল অভিনয়ক্ষেত্রে প্রবেশ\nলাভ পেতে হ’লে এজেন্টের সঙ্গে সাক্ষাৎ\nকরতে হয়। নিজের কতকগুলো ফটো\nএজেন্টকে দিয়ে বাসায় ফিরলাম। বরাত\nভাল। ক্যালিফোর্নিয়ার ‘ওল্ড প্যারামাউন্ট\nস্টুডিও’তে তখনকার তারকা অভিনেত্রী\n‘ডরথী ডিকসনে’র “পেইড দি পিপার” ছবিতে\nএকটা বাড়তি ভূমিকা পেতে বিশেষ দেরী\nহ’ল না। তারপর জর্জ আলিস-এর ছবি\n“দি ডেভিল”-এ এক জনতা দৃশ্যে স্থান পেলাম।\nলরেন্স ব্যারিমোরের একখানা ছবিতে এক\nমিনিটের জন্য আমাকে প্রয়োজন হ’ল।\nশেষে অবস্থা দেখে মনে হ’ল অনেকগুলো\nসিঁড়ি ভেঙে উপরে উঠবার ধৈর্য্য আমার\nনেই।”\n•"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

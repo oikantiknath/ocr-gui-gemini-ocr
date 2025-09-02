@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_or_000541_0_12_unordered-list.png",
+      "width": 996,
+      "height": 900
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        996.0,
+        900.0
+      ],
+      "area": 896400.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          996.0,
+          0.0,
+          996.0,
+          900.0,
+          0.0,
+          900.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ଗୁଣ ଏକକ: ୨: ସାମୁଦ୍ରିକ ଗଣନା ଓ ଗଠନ 1 Credit\n(ସାମୁଦ୍ରିକ ମଣ୍ଡଳୀ, ଶ୍ରେଣୀକରଣ ଓ ସାମୁଦ୍ରିକ)\nସାମୁଦ୍ରିକ ପ୍ରଜାତି ଚୟନ । (ସମୁଦ୍ରୀୟ ଓ ମିଠାଜଳୀୟ)\nବିଠାଳ ଏକକ : ୫ମ / ୬ଷ୍ଠ\n୫°ମାଳୀ, ମହଲ୍ଲୀ, ବିଠାଳ କେନାଳ, ଗୁଡ଼ମା, ମାଛି, 1 Credit\nମେଳାଳୀ, ଆସାଦ ଝୁମ୍\nବିଠାଳ ଏକକ :- ପ୍ରାଚୀନ କବିତା ସ୍ଵାଦ 1 Credit\nବିଠାଳୀ, ଲୋକାଳୀ, ଉପନ, ମଣିଷୀ, ୫°ୟ\nମେଡ଼ି ଏକକ : ଅଳଙ୍କାର, ସମକ, ୫ମୁଖ, ମହଳୀ, ମୁଖ, ଅଧିଜନସାଧାରଣ, ୫ମୁଖ 1 Credit\nସହିତ ଏକକ : ବ୍ୟବହାରିକ ବ୍ୟାକରଣ ଓ ଅନୁବାଦ 2 credits\nବାକ୍ୟ, ଶବ୍ଦ, ପ୍ରାଚୀନ କବିତା ଓ ଅନୁବାଦ\nମୌଳିକ ରଚନା ଓ ଅନୁବାଦ"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_ml_000366_0_0_reference.png",
+      "width": 751,
+      "height": 940
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        751.0,
+        940.0
+      ],
+      "area": 705940.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          751.0,
+          0.0,
+          751.0,
+          940.0,
+          0.0,
+          940.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ആമുഖം, വിവർത്തന വിജ്ഞാനം.\nആഷർ, ആർ.എം., മലയാളഭാഷാപഠനം: പഠനങ്ങൾ.\nകുഞ്ഞപ്പൻ, കെ.എൻ., തിരുക്കുറൾ ഒരു പഠനം, സാഹിത്യ\nകാരശ്ശേരി, എം.എൻ., മലയാളിയും വിവർത്തനവും (ലേഖനം).\nകോശി, കെ.എം., ഭാഷയും ഭാഷാന്തരവും, ഡി.സി. ബുക്ക്സ്.\nജയരാജ് സുഭാകരൻ, ഡോ., ബംഗാളി നോവലുകൾ മലയാളത്തിൽ.\nപ്രേമചന്ദ്രൻ നായർ, വി.ആർ., വിവർത്തനത്തിന്റെ ഭാഷാശാസ്ത്രപരമായ, ഭാഷാ\nഇന്ത്യൻ.\nരാമകൃഷ്ണൻ, ദേശാന്തര, കവിതയുടെ ഭൂമികകൾ, തിരുവനന്തപുരം: ചിന്ത\nപബ്ലിഷേഴ്സ്.\nവിനോദ് അയ്യർ, എൻ.ഇ., വിവർത്തന വിജ്ഞാനം.\nസച്ചിദാനന്ദൻ, 2006, പടിഞ്ഞാറൻ കവിതകൾ, കോഴിക്കോട്: മാതൃഭൂമി.\nസച്ചിദാനന്ദൻ, 2012, മൂന്നാം ലോക കവിതകൾ, കോഴിക്കോട്: മാതൃഭൂമി.\nസാഹിത്യഭാരതം, എൻ.കെ. ഭാഷാന്തരൻ സ്മരണിക.\nറോബിൻ ബന്നി, നോവലിൽ പഠനങ്ങൾ.\nഅയച്ചുമിന്നലുകളുടെ ലേഖനങ്ങൾ\n(വിവർത്തനന്റെ മനശാസ്ത്രം എന്ന ലേഖനം)\nപത്മപ്രിയ, കേസരി ബാലകൃഷ്ണപിള്ള, മലയാളം നാരായണമേനോൻ മുതലായ\nവർ പുതിയ വിവർത്തനങ്ങൾക്കായുള്ള ആമുഖങ്ങൾ.\nBassnett, Susan, and Harish Trivedi, (Eds.) 2012, Postcolonial Translation: Theory\nand Practice (Translation Studies), Routledge.\nBassnett, Susan,2002, Tanslation Studies, Taylor Francis Group.\nBenjamin, Walter,1968, Illuminations : essays and reflections, Harcourt, Brace &\nWorld.\nCatford, J.C,1965, A Linguistic Theory of Translation, Oxford University Press.\nEugene, Albert Nida,1964, Toward a Science of Translating: With Special Refer-\nence to Principles and Proceedures Involved in Bible Translating, Brill Archive.\nEugene A. Nida, Charles R.Taber, 1982, The Theory and Practice of Translation, Brill\nArchive, (First published for the United Bible Societies, 1969)\nGeorge Steiner, 1998, After Babel: Aspects of Language and Translation, Oxford\nPaperbacks.\nJames, S. Holmes, 1988, Translated !: Papers on Literary Translation and Transla-\ntion Studies, amsterdam.\nLawrence, Venuti (Editor), 2004, The Translation Studies Reader, Routledge."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

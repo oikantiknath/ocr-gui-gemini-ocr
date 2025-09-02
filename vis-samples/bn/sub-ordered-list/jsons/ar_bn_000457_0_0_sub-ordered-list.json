@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000457_0_0_sub-ordered-list.png",
+      "width": 498,
+      "height": 528
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        498.0,
+        528.0
+      ],
+      "area": 262944.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          498.0,
+          0.0,
+          498.0,
+          528.0,
+          0.0,
+          528.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "১৭। (১) কোন নাবালকের অভিভাবক নিযুক্ত বা\nঘোষিত করিতে আদালত, নাবালক যে বিধির অধীন সেই\nবিধির সহিত সামঞ্জস্য রক্ষা করিয়া, তদবস্থায় যাহা নাবালকের\nপক্ষে কল্যাণকর হইবে বলিয়া প্রতীয়মান হয় তদ্বারা, এই\nধারার বিধানসমূহের অধীনে, পরিচালিত হইবেন।\n\n(২) নাবালকের পক্ষে কি কল্যাণকর হইবে তাহা বিবেচনা\nকরিতে আদালত নাবালকের বয়স, লিঙ্গ ও ধর্ম, প্রস্তাবিত\nঅভিভাবকের চরিত্র ও সামর্থ্য এবং নাবালকের সহিত তাঁহার\nআত্মীয়তার নৈকট্য, মৃত পিতার বা মাতার কোন ইচ্ছা\nথাকিলে তাহা এবং নাবালকের বা তাহার সম্পত্তির সহিত\nপ্রস্তাবিত অভিভাবকের কোন বিদ্যমান বা অতীত সম্পর্কে\nপ্রতি দৃষ্টি রাখিবেন।\n\n(৩) নাবালকের যদি বুদ্ধিযুক্ত কওমিয়ান করিবার পক্ষে\nযথেষ্ট বয়স হইয়া থাকে, তাহা হইলে, আদালত ঐ অভিমান\nবিবেচনা করিতে পারেন।\n\n* * * * *\n\n(৫) আদালত কোনও ব্যক্তিকে তাঁহার ইচ্ছার বিরুদ্ধে\nঅভিভাবকরূপে নিযুক্ত বা ঘোষিত করিবেন না।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

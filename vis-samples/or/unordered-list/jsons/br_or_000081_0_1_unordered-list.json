@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_or_000081_0_1_unordered-list.png",
+      "width": 1062,
+      "height": 1395
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        1062.0,
+        1395.0
+      ],
+      "area": 1481490.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1062.0,
+          0.0,
+          1062.0,
+          1395.0,
+          0.0,
+          1395.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "କର୍ମଚାରୀମାନଙ୍କୁ ଖରାପ କର୍ମକ୍ଷେତ୍ର ଲୋକାଚାର ମାନ କରିବାକୁ ଦିଅନ୍ତୁ ନାହିଁ |\nଯଦି ସମ୍ପୂର୍ଣ୍ଣ କପଡା ନୁହେଁ ତେବେ ଲାଗୁ ଠାରୁ ନୁହେଁ କମ୍ | ଯଦି ଆବଶ୍ୟକ ହୁଏ,\nସମସ୍ତ ମୌଳିକ ସଂସ୍କୃତି ମିଳିତତା ସର୍ବଦା ଅନୁସରଣ କରନ୍ତୁ |\nଗ୍ରହଣ ଯୋଗ୍ୟ ହେବାକୁ ଆଶା କରୁଥିବା କର୍ମଚାରୀଙ୍କୁ ଲାଗୁ କରିବାକୁ ଦିଅନ୍ତୁ ନାହିଁ |\nଯଦି ସମ୍ଭବ ତେବେ କେବଳ ଖେଳିଆଳୀ ହେବା ସହ କରନ୍ତୁ |\nକର୍ମଚାରୀଙ୍କୁ ଏକାଠି ଖାଇବାକୁ ଦିଅନ୍ତୁ ନାହିଁ |\nଆପଣଙ୍କର କର୍ମଚାରୀଙ୍କୁ ସାହାଯ୍ୟ କରିବାକୁ ସର୍ବଦା ବ୍ୟବହାରକୁ ନିୟନ୍ତ୍ରିତ କରନ୍ତୁ |\nକର୍ମଚାରୀଙ୍କୁ ଡିଜେବୁଲ୍ଡ ସହିତ ସେ କରନ୍ତୁ ନାହିଁ |"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

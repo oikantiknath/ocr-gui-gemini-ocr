@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "tb_kn_000028_0_0_reference.png",
+      "width": 846,
+      "height": 1322
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        846.0,
+        1322.0
+      ],
+      "area": 1118412.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          846.0,
+          0.0,
+          846.0,
+          1322.0,
+          0.0,
+          1322.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "3. FOSTER, E. M., F. E, NELSON, M. L. Speck, R. N.\n    DOETSCH, and J. C. OLSON, JR 1957. Dairy micro-\n    biology. Prentice-Hall, Inc., Englewood Cliffs, N J.\n4. FRY, R. M. 1954. 1954. The preservation of bacteria\n    In R. J. C. Harris (Ed.) Biological application of freezing\n    and drying. Academic Press Inc., New York.\n5. HALES, M. W. 1963. The care of cultures. J. Dairy\n    Sci. 46:1439–1440.\n6. HARTSELL, S. E. 1956. Maintenance of cultures under\n    paraffin oil. Appl. Microbiol. 4:350–355.\n7. McCOY, ELIZABETH. 1954. Selection and maintenance\n    of cultures. In L. A. Underkofler and R. J. Hickey (Eds.)\n    Industrial fermentations. Chemical Publishing Company.\n    Inc., New York.\n8. PERLMAN, D., et al. 1955. Symposium on the main-\n    tenance of cultures of microorganisms. Bacteriol Rev.\n    19:280–283.\n9. PRICE, W. V., M. DEAN, aud N. F. OLSON. 1964.\n    Handbook on lactic starter. Univ. Wis., Coll. Agr., Circ.\n    383 (May 1964 revision).\n10. PRESCOTT, S. C., and C. G. DUNN. 1959. Industrial\n    microbiology. 3rd ed. McCraw-Hill Book Company,\n    New York.\n11. SIMMONS, J. C., and D. M. GRAHAM. 1959. Main-\n    tenance of active lactic cultures by freezing as an alter-\n    native to daily transfer. J. Dairy Sci. 42:363.364.\n12. SPECK, M. L. (Convenor). 1962. Symposium on lactic\n    starter cultures. J. Dairy Sci. 45:1262–1294.\n13. STEEL, K. J., and HELEN E. ROSS, 1963. Survival of\n    freeze dried bacterial cultures. J. Appl. Bacteriol. 26:\n    370–375.\n14. WAGMAN, J., and E. J. WENECK. 1963. Preservation\n    of Bacteria by circulating gas freeze drying. Appl. micro-\n    biol. 11:244–248."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

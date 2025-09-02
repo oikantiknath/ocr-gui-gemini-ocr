@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_mr_000742_0_0_unordered-list.png",
+      "width": 1085,
+      "height": 779
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        1085.0,
+        779.0
+      ],
+      "area": 845215.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1085.0,
+          0.0,
+          1085.0,
+          779.0,
+          0.0,
+          779.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* जगन्या आणि त्याची बायको या नायक पात्रांचा असफल संघर्ष समकालीन सामाजिक\nवास्तववाची प्रखरतेने जाणीव करून देतो. स्वातंत्र्योत्तर भारतात स्वातंत्र्य, समता, बंधुता\nह्या लोकशाही तत्वांचा पुरस्कार केला जात असला तरी सामाजिक वास्तव मात्र त्या\nविरोधी जाणारे आहे याचे प्रत्यंतर या नायकपात्रांच्या द्वारे येते. वास्तववादी आशय व्यक्त\nकरणारी ही नायकपात्र आहेत.\n* ‘लोककथा ७८’ या नाटकातील नायकपात्रांच्या माध्यमातून नाटककार समाजातील वर्गसंघर्ष\nसमोर आणतो. समाजातील उत्पादन व्यवस्थेवर आधारित माणसा माणसातील संबंध,\nउत्पादनाची साधने ज्याच्या हाती एकवटली आहेत त्यांच्याकडून केले जाणारे श्रमिकांचे\nशोषण, या शोषणाला विरोध करण्यासाठी श्रमिकांनी संघटीतपणे दिलेला लढा हा\nमार्क्सवादी आशय या नायक पात्रांच्या माध्यमातून नाटककार व्यक्त करतो.\n* हे नाटक आधुनिक शोकान्तिका असून जातीयवाद, वर्गसंघर्ष आणि भ्रष्ट व्यवस्था ही या\nनाटकातील नायक पात्रांच्या शोकातम् जगण्याची महत्त्वाची कारणे आहेत. दुर्बळ\nसमाजगटातील माणसांचे केले जाणारे शोषण व्यक्त करणारी ही प्रातिनिधिक नायक पात्रे\nआहेत."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

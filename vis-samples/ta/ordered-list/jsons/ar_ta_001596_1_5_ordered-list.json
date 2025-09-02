@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_001596_1_5_ordered-list.png",
+      "width": 387,
+      "height": 208
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        387.0,
+        208.0
+      ],
+      "area": 80496.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          387.0,
+          0.0,
+          387.0,
+          208.0,
+          0.0,
+          208.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(இ) \"மாநிலத் தகவல் ஆணையம்\" என்பது, 15ஆம் பிரிவின் (1)ஆம்\nஉட்பிரிவின்படி அமைத்துருவாக்கப்பட்ட மாநிலத் தகவல் ஆணையம் என்று\nபொருள்படும்;\n\n(ஈ) \"மாநிலத் தலைமைத் தகவல் ஆணையர்\" மற்றும் \"மாநிலத்\nதகவல் ஆணையர்\" என்பது, 15ஆம் பிரிவின் (1)ஆம் உட்பிரிவின்படி\nஅமர்த்தப்பட்ட மாநிலத் தலைமைத் தகவல் ஆணையர் மற்றும் மாநிலத்\nதகவல் ஆணையர் என்று பொருள்படும்;\n\n(உ) \"மாநிலப் பொதுத் தகவல் அலுவலர்\" என்பது, 5ஆம் பிரிவின் (1)ஆம்\nஉட்பிரிவின்படி பதவிப்பெயர் குறிக்கப்பட்ட மாநிலப் பொதுத் தகவல்\nஅலுவலர் என்று பொருள்படும்; மற்றும் அப்பிரிவின் (2)ஆம் உட்பிரிவின்படி\nஅவ்வாறு பதவிப்பெயர் குறிக்கப்பட்ட ஒரு மாநிலப் பொதுத் தகவல் உதவி\nஅலுவலரையும் உள்ளடக்கும்.\n\n(ஊ) \"மூன்றாம் தரப்பினர்\" என்பது, தகவல் பெறுவதற்காகக் கோரிக்கை\nசெய்கிற குடிமகன் அல்லாத ஒரு நபர் என்று பொருள்படும்; மற்றும் ஒரு பொது\nஅதிகாரஅமைப்பினை உள்ளடக்கும்."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

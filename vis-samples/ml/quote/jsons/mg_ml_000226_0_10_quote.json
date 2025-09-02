@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_ml_000226_0_10_quote.png",
+      "width": 440,
+      "height": 384
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 23,
+      "bbox": [
+        0.0,
+        0.0,
+        440.0,
+        384.0
+      ],
+      "area": 168960.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          440.0,
+          0.0,
+          440.0,
+          384.0,
+          0.0,
+          384.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "\"ശ്രീ. ഭാസ്കരൻനായരുടെ 'മലബാറിലെ മാപ്പിള\nളകൾ' എന്ന ഈ ചരിത്രപുസ്തകത്തിന്റെ രണ്ടാം\nപതിപ്പ് ഇപ്പോൾ പ്രസിദ്ധീകരിക്കാൻ ഒന്നുരണ്ടു\nകാരണങ്ങളുണ്ട്. മലബാറിലെ മാപ്പിളളലഹളക\nളിൽ ഏറ്റവും കൂടുതൽ രക്തം ചിന്തിയ 1921-ലെ\nലഹളകളുടെ 50-ാം വാർഷികമാഘോഷിക്കാനും\nഅതിനെ കർഷകലഹളയെന്നോ സ്വാതന്ത്ര്യ\nസമരമെന്നോ ഉള്ള വ്യാഖ്യാനമായിട്ട് ചരിത്രസത്യ\nങ്ങളെ വളച്ചൊടിക്കാനും ചില തല്പരകക്ഷികൾ\nമുന്നോട്ട് വരികയും പ്രചരണങ്ങൾ സംഘടിപ്പി\nക്കുകയും ചെയ്യുന്ന ഒരു സാഹചര്യത്തിൽ, അന്ന\nനടന്ന ചരിത്രസംഭവങ്ങൾ ചെറിയതോതിലെങ്കി\nലും പൊതുജനങ്ങൾക്ക് അറിയാൻ സൗകര്യമുണ്ടാ\nകയെന്നതാണ് ഇപ്പോൾ ഈ പ്രസിദ്ധീകര\nണം കൊണ്ട് ഞങ്ങൾ ഉദ്ദേശിക്കുന്നത്...\""
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

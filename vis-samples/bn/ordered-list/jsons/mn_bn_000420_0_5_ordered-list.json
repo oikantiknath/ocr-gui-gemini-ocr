@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_bn_000420_0_5_ordered-list.png",
+      "width": 567,
+      "height": 920
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        567.0,
+        920.0
+      ],
+      "area": 521640.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          567.0,
+          0.0,
+          567.0,
+          920.0,
+          0.0,
+          920.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "১। কনজেনিট্যাল\\n(Congenital)\\nবা আদ্যজিক।\\n\\n২। চক্ষুতে,\\n(In the eye itself)\\n\\n\\n৩। অক্ষিকোটরা-\\nভ্যন্তরে। Within\\norbit.\\n\\n\\n৪। অক্ষিকোটরের\\nবহির্ভাগে।\\n(External to\\norbit.)\\n\\n\\n{ ১। প্রকৃত (Real) বহিসরণ।\\n২। বাহ্যিক দৃশ্যমান (Apparent)—যাহা লিওট\\nপ্যালপিরা পেশী এবং অক্ষিপটের সঙ্কোচ হইতে হয়।\\n{ ১। অক্ষিগোলকের প্রদাহ (Ophthalmitis).\\n২। ফ্লেবাইটিক্ অফথ্যালমাইটিস (PhlebiticOphthalmitis).\\n৩। হাইড্রোফথ্যালমাস (Hydrophthalmos).\\n৪। চক্ষুর টিউমার\\nসমূহ।\\n{ ১, সারকোমাস (Sarcomas)\\n২, কারসিনোমাস (Carcinomas\\n৩, হাইডেটিড (Hydatid.)\\n{ ১। সেল্যুলার টিস্যুর প্রদাহ—ইডিওপ্যাথিক (Idiopathic.)\\nএবং ট্রমাটিক (Traumatic.)\\n২। পূয়োৎপত্তি এবং ফোটা।\\n৩। ইরিজিপেলাটস্ (Erysipelatous) এবং ফ্লেগ্মোনাস\\n(Phlegmonous) প্রদাহ।\\n৪। বাহ্য পদার্থ।\\n৫। অতিরিক্ত মেদবর্দ্ধন।\\n৬। টিউমার সকল।\\n{ ১, এনসিস্টেড, (Encysted-)\\n২, হাইডেটিড,\\n৩, সারকোমাস,\\n৪, ওসিয়াস (Osseous.)\\n৭। প্ল্যানিডিজম্ এবং রক্তার্ব্বদ।\\n৮। ভেনাস্ কনজেশন; এবং অফথ্যাল্মিক্ গইটার।\\n৯। অক্ষিগোলকীয় পৈশিক্ পক্ষাঘাত—অফথ্যাল্মোপ্লেজিয়া\\n(Ophthalmoplegia.)\\n১০। অক্ষিগোলকীয় টেটানিক্ স্প্যাজম্। যেমন, টিটেনাস্ (Te-\\ntanus.) বা ধনুষ্টঙ্কার রোগে।\\n{ ১। উচ্চৈঃ-নোডস্ (Nodes) অর্থাৎ অস্থি, হাইড্রোসিফ্যালাস\\n(Hydrocephalus), ফাঙ্গাস্ অফ্ ডিউরামেটার\\n(Fungus of dura mater) ফোঁটালা কোষের পলিপাই\\n(Polypi) এবং তথাকার অন্যান্য পীড়া, মস্তিষ্কের টিউ-\\nমার সকলের ও অফ্ অস্থির প্রদাহ এবং পীড়া সমূহ।\\n২। নিম্নৈঃ-নোডস্, মেদ পীড়া সমূহ।\\n৩। অস্থ্যস্থ—নাসিকার পলিপাই এবং টিউমার সকল।\\n৪। বাহ্য—একসোসিস্ (Exostosis)\\n৫। সম্মুখে—অক্ষিপটের আক্রমণ, চক্ষুর প্রসারণ, হারিয়া,\\nআঁটুলি।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

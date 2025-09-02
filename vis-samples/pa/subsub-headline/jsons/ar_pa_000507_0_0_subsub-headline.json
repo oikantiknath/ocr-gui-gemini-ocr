@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_pa_000507_0_0_subsub-headline.png",
+      "width": 833,
+      "height": 821
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        833.0,
+        821.0
+      ],
+      "area": 683893.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          833.0,
+          0.0,
+          833.0,
+          821.0,
+          0.0,
+          821.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ੳ) “ਮੁਤਬਰੇਕੀ ਪੁੱਤ” ਜਾਂ “ਅਲ-ਤਾਲੂਤ ਮੁਤਬਰੇਕੀ ਪੁੱਤ” ਦਾ ਮਤਲਬ ਹੈ\nਅਲ-ਤਾਲੂਤ ਕੋਈ ਪੁੱਤ ਜੋ ਸਾਧਾਰਨ ਤੌਰ ਤੇ ਕਿਸੇ ਮੁਤਬਰੇਕੀ ਜਲ ਵਿੱਚ\nਬਣਦਾ ਹੈ;\n(ਅ) “ਮੁਤਬਰੇਕੀ ਜਲ” ਦਾ ਮਤਲਬ ਹੈ ਕੋਈ ਨਹਿਰ, ਦਰਿਆ, ਝੀਲ ਜਾਂ ਹੋਰ\nਨੋ-ਦੁਆਰੂਆ ਜਲ;\n(ੲ) “ਅਲ-ਤਾਲੂਤ ਪੁੱਤ” ਦਾ ਮਤਲਬ ਹੈ ਹਰਿਕ ਤਰ੍ਹਾਂ ਦਾ ਅਜਿਹਾ ਪੁੱਤ ਜੋ ਪੂਰਨ\nਤੌਰ ਤੇ ਜਾਂ ਅੰਸ਼ਕ ਤੌਰ ਤੇ ਫਿਸਲੀ, ਭਾਫ ਜਾਂ ਹੋਰ ਕਲ-ਸਕਤੀ ਨਾਲ ਬਣਾਇਆ\nਜਾਂਦਾ ਹੈ;\n(ਸ) “ਮੁਆਵਜਾ” ਵਿੱਚ ਅਲ-ਤਾਲੂਤ ਪੁੱਤ ਵਿੱਚ ਵੇਖਿਆ ਜਾਣ ਵਾਲੀ ਕੋਈ ਅਜਿਹਾ\nਵਿਆਪਕੀ ਜਮ੍ਹਾਂ ਹੈ ਜਾਂ ਸਾਮਟਣ ਅਤੇ ਸਹਾਈ ਸਮਲ ਅਤੇ ਮਾਲਕ, ਅਤੇ ਉਸ\nਦੇ ਪਰਿਵਾਰ ਅਤੇ ਸੇਵਕਾਂ ਤੋਂ ਬਿਨਾਂ ਹੋਰ ਹਰਦੇ;\n(ਹ) “ਸਰਵਰ” ਦਾ ਮਤਲਬ ਹੈ ਇਸ ਐਕਟ ਅਧੀਨ ਕਿਸੇ ਨਿਯਮ ਦੁਆਰਾ ਸਰਵਰ;\n(ਕ) “ਸਰਵੇਖਣ” ਦਾ ਮਤਲਬ ਹੈ ਇਸ ਐਕਟ ਅਧੀਨ ਅਲ-ਤਾਲੂਤ ਕਿਸੇ ਪੁੱਤ ਦਾ\nਸਰਵੇਖਣ;\n(ਖ) “ਸਰਵੇਖਕ” ਦਾ ਮਤਲਬ ਹੈ ਇਸ ਐਕਟ ਅਧੀਨ ਨਿਯੁਕਤ ਸਰਵੇਖਕ; ਅਤੇ\n(ਗ) “ਜਲ-ਸਰਵਰ” ਵਿੱਚ ਕਿਸੇ ਸਥਾਨ ਤੇ ਜਾਂ ਉਸ ਦੇ ਆਸ-ਪਾਸ ਅਲ-ਤਾਲੂਤ ਪੁੱਤ\nਚਲਾਉਣਾ ਜਮ੍ਹਾਂ ਹੈ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

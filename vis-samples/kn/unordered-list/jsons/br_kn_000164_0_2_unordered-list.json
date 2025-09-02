@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_kn_000164_0_2_unordered-list.png",
+      "width": 529,
+      "height": 748
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        529.0,
+        748.0
+      ],
+      "area": 395692.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          529.0,
+          0.0,
+          529.0,
+          748.0,
+          0.0,
+          748.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* ಆಗಾಗ್ಗೆ ಕೈತೊಳೆಯುವುದು - ಸೋಪ್ ಮತ್ತು\nನೀರಿನಲ್ಲಿ ಕನಿಷ್ಠ 20 ಸೆಕೆಂಡುಗಳ ಕಾಲ\nಚೆನ್ನಾಗಿ ಕೈ ತೊಳೆಯುವುದು ಅಥವಾ 70%\nಆಲ್ಕೋಹಾಲ್ ಇರುವ ಹ್ಯಾಂಡ್‌ವಾಶ್\nಉಪಯೋಗಿಸುವುದು\n* ಸಾಮಾಜಿಕ ಅಂತರವನ್ನು ಕಾಯ್ದುಕೊಳ್ಳುವುದು -\nಕನಿಷ್ಠ 1 ಮೀಟರ್ ಅಂತರವನ್ನು\nಕಾಯ್ದುಕೊಳ್ಳುವುದು\n* ಯಾವುದೇ ವಿಧದ ಕಾರ್ಯಕ್ರಮಗಳು ಮತ್ತು\nಧಾರ್ಮಿಕ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ತಪ್ಪಿಸುವುದು\n* ಕಣ್ಣು, ಮೂಗು ಮತ್ತು ಬಾಯಿಯನ್ನು\nಮುಟ್ಟುವುದನ್ನು ತಪ್ಪಿಸುವುದು\n* ಕೆಮ್ಮುವಾಗ ಮತ್ತು ಸೀನುವಾಗ ಕರವಸ್ತ್ರ ಅಥವಾ\nಟಿಶ್ಯೂ ಪೇಪರ್‌ನಿಂದ ನಿಮ್ಮ ಬಾಯಿ ಮತ್ತು ಮೂಗನ್ನು\nಮುಚ್ಚಿಕೊಳ್ಳಿ\n* ಬಳಸಿದ ಟಿಶ್ಯೂ ಪೇಪರ್‌ಗಳನ್ನು ಮುಚ್ಚಿದ\nಡಸ್ಟ್‌ಬಿನ್‌ನಲ್ಲಿ ಹಾಕಿ\n* ಕೋವಿಡ್-19 ಕುರಿತಂತೆ ಇತ್ತೀಚಿನ ವಿದ್ಯಮಾನಗಳ\nಬಗ್ಗೆ ಮಾಹಿತಿ ಪಡೆದುಕೊಳ್ಳುವುದು"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

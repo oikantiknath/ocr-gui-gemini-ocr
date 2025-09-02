@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_pa_000090_0_14_ordered-list.png",
+      "width": 490,
+      "height": 1310
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        490.0,
+        1310.0
+      ],
+      "area": 641900.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          490.0,
+          0.0,
+          490.0,
+          1310.0,
+          0.0,
+          1310.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "੧. ਮਤਾਬ ਦੀ ਸੇਵਾ ਵਿਚ ਬੇਨਤੀ\\nਕੀਤੀ ਜਾਵੇ ਕਿ ਸ੍ਰੀ ਦਰਬਾਰ ਸਾਹਿਬ\\nਅੰਮ੍ਰਿਤਸਰ ਜੀ ਅਤੇ ਤਖਤਸਾਹਿਬਾਨ ਜੀ ਦਾ\\nਪ੍ਰਬੰਧ ਵਿਦਵਾਨ ਪੰਥ ਹਿਤੈਸ਼ੀ ਖਾਲਸਾ\\nਦੀ ਚੋਣਵੀ ਕਮੇਟੀ ਦੇ ਹੱਥ ਵਿਚ ਦਿਤਾ\\nਜਾਵੇ।\\n੨. ਬੇਨਤੀ ਕੀਤੀ ਜਾਵੇ ਕਿ ਖਾਲਸਾ\\nਕਾਲਜ ਦਾ ਪ੍ਰਬੰਧ ਖਾਲਸਾ ਦੀ ਹੀ ਆਪਣੀ\\nਚੋਣਵੀ ਕਮੇਟੀ ਦੇ ਹੱਥ ਵਿਚ ਹੋਣਾ\\nਚਾਹੀਦਾ ਹੈ।\\n੩. ਬੇਨਤੀ ਕੀਤੀ ਜਾਵੇ ਕਿ ਉਹ ਫੌਜੀ\\nਖਾਲਸਾ ਜੇਹੜਾ ਕਾਂਗਰਸ ਦੇ ਲਈ ਸਿਆਸੀ\\nਤੌਰ ਤੇ ਲਾਭ ਦਾਇਕ ਲਈ ਹਰ ਵੇਲੇ ਤਿਆਰ\\nਰਹਿੰਦਾ ਹੈ, ਉਹਨਾਂ ਨੂੰ ਵੀ ਆਪਣੇ ਧਾਰਮਕ\\nਚਿੰਨ੍ਹ ਕ੍ਰਿਪਾਨ ਰਖਣ ਦੀ ਪੂਰੀ ਤਰੀਕਾ\\nਅਜ਼ਾਦੀ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ। ਜੇਹੀ ਕਿ\\nਸਿਖ ਸਿਪਾਹੀ ਨੂੰ ਹੈ।\\n੪. (ੳ) ਬੇਨਤੀ ਕੀਤੀ ਜਾਵੇ ਕਿ ਉਹ\\nਸਿਖ ਜੇਹੜੇ ਗੁਰਦੁਆਰੇ ਨਾਲ ਤੋਂ ਪਹਿਲਾਂ\\nਆਪਣੇ ਧਾਰਮਕ ਚਿੰਨ੍ਹ ਬਿਨਾ ਪੂਰੇ ਹੋਏ\\nਹਨ ਉਹਨਾਂ ਨੂੰ ਜੇਹਲ ਵਿਚੋਂ ਵੀ ਬੇਰੋਕ\\nਧਾਰਮਕ ਚਿੰਨ੍ਹ ਰਖਣ ਦੀ ਇਜਾਜ਼ਤ ਹੋਣੀ\\nਚਾਹੀਦੀ ਹੈ।\\n(ਅ) ਸਿਖ ਕੈਦੀਆਂ ਨੂੰ ਪੂਰਾ ਰਖਣ ਦੀ\\nਵੀ ਖੁਲ੍ਹ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ ਕਿਉਂਕਿ ਏਹ\\nਹੈ ਕਿ ਅਕਾਲ ਸਿਖ ਹੈ ਜਿਸਨੂੰ ਜਿਸਦੇ\\nਨੂੰ ਖਾਲਸੇ ਦੇ ਧਰਮ ਦੇ ਵਿਰੁਧ ਹੈ, ਇਹ\\nਜ਼ਰੂਰ ਹੀ ਹਟਾਈ ਚਾਹੀਦੀ ਹੈ।\\n੫. ਬੇਨਤੀ ਕੀਤੀ ਜਾਵੇ ਕਿ ਉਹ ਸਿਖ\\nਪੋਲੀਟੀਕਲ ਕੈਦੀ, ਜੇਹੜੇ ਕਿ ਅੰਦਰ\\nਦੀ ਸਾਰੀ ਵਿਦਵਾਨ ਦੁਬਾਰਾ ਦੀ ਨਹੀਂ\\nਛੱਡੇ ਗਏ ਉਹ ਛੱਡੋ ਜਾਏ ਚਾਹੀਦੇ ਹਨ।\\n-ਰਾਮ-ਸਰੂਪ.\\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

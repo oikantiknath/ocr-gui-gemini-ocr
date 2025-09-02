@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_hi_000699_1_1_ordered-list.png",
+      "width": 489,
+      "height": 228
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        489.0,
+        228.0
+      ],
+      "area": 111492.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          489.0,
+          0.0,
+          489.0,
+          228.0,
+          0.0,
+          228.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "60. अंतरदेशीय नातेदार दत्तक ग्रहण की प्रक्रिया—(1) विदेश में रहने वाला कोई नातेदार, जो भारत में उसके नातेदार\nसे किसी बालक के दत्तक ग्रहण का आशय रखता है, न्यायालय से आदेश अभिप्राप्त करेगा और प्राधिकरण द्वारा विरचित दत्तक\nग्रहण विनियमों में यथा उपबंधित रीति में प्राधिकरण से निराक्षेप प्रमाणपत्र के लिए आवेदन करेगा ।\n\n(2) प्राधिकरण, उपधारा (1) के अधीन आदेश की प्राप्ति और जैव माता-पिता या दत्तक माता-पिता से आवेदन की प्राप्ति\nपर निराक्षेप प्रमाणपत्र जारी करेगा और भारतीय आप्रवास प्राधिकारी और बालक के प्रासकर्ता देश के प्राधिकारी को उसकी\nसूचना देगा ।\n\n(3) दत्तक माता-पिता, उपधारा (2) के अधीन निराक्षेप प्रमाणपत्र की प्राप्ति के पश्चात् जैव माता-पिता से बालक को प्राप्त\nकरेंगे और दत्तक बालक के सहोदर और जैव माता-पिता से समय-समय पर संपर्क को सुकर बनाएंगे ।\n\n61. दत्तक ग्रहण के प्रतिफलस्वरूप संदाय के विरुद्ध न्यायालय की प्रक्रिया और शास्ति—(1) कोई दत्तक ग्रहण आदेश\nजारी करने से पहले न्यायालय अपना यह समाधान करेगा कि—\n\n(क) दत्तक ग्रहण बालक के कल्याण के लिए है;"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

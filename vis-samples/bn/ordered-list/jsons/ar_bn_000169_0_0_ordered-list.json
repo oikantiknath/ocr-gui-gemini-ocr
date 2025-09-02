@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000169_0_0_ordered-list.png",
+      "width": 580,
+      "height": 563
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        580.0,
+        563.0
+      ],
+      "area": 326540.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          580.0,
+          0.0,
+          580.0,
+          563.0,
+          0.0,
+          563.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "৫ ॥ যদি উপরে লিখিত আদালতের উপরে আদালতের সহকারদের দ্বারা\nও বোধ হয় যে দণ্ডাজ্ঞাদি আর্জির মোকদ্দমার খরচ যোগাইতে উপযুক্ত স\nন্তি আছে অথবা যে সে অল্প কাল হইল যোগানদারূপে মোকদ্দমা করিবার নিমিত্তে\nআপনার সম্মতি দিয়াছে বা স্থগিত করিয়াছে তবে তাঁহারা তাঁহাদের দরখাস্ত অগ্রাহ্য\nকরিবেন।\n\n৬ ॥ যদি আদালতের সহকেরা দরখাস্তকারক আর্জির সদ্বিষয়ে তাঁহাদের\nসহিত বেওয়ার ফায়দে সন্দেহ করেন তবে আমাদের প্রতি এত ইস্তাহার দেওয়া\nইবে যে সে নির্দ্ধারিত মিয়াদকা মধ্যে হাজির হইয়া ফরিয়াদী যে যোগানদারূপে\nনালিশ করিতে না পারে ইহার উপযুক্ত হেতু দর্শাইবে। অথবা আদালতের স\nহকেরা ফরিয়াদীর সদ্বিষয় ফায়দা উপযুক্ত বোঝাতে দেন তাঁহারা দরখাস্তের সত্য\nতা বা মিথ্যাত্ব বোঝাতে আর্জির তদন্ত করিতে পারেন বা তাঁহারা তদন্তে অগ্র\nঅনুসন্ধান করিতে পারেন।\n\n৭ ॥ যদি এরূপ অনুসন্ধানে কিম্বা ইহার সম্পর্কে কোন অনুসন্ধানে। ফ\n“স্ব প্রমাণ হয় যে যে আর্জি মিথ্যা শপথ করিয়াছে তবে সে নিজের ও স-স্বার্থা\nদালতে ফায়দা লাভের নিমিত্তে দায়ের হইবে এবং তাঁহারা মোকদ্দমা যদি উপস্থিত\nথাকে তবে তাহা নামঞ্জুর হইবেন।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "qp_ml_000160_0_24_first-level-question.png",
+      "width": 651,
+      "height": 415
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 8,
+      "bbox": [
+        0.0,
+        0.0,
+        651.0,
+        415.0
+      ],
+      "area": 270165.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          651.0,
+          0.0,
+          651.0,
+          415.0,
+          0.0,
+          415.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "III ഏതെങ്കിലും രണ്ട് ചോദ്യങ്ങൾക്ക് അമ്പതുവത്തിൽ കവിയാത്ത\\nഉത്തരമെഴുതുക.\\n(2x12=24)\\n14. നിങ്ങൾ സമീപകാലത്ത് കണ്ട ഒരു മലയാള ചലച്ചി\\nത്രത്തിന്റെ ആസ്വാദനക്കുറിപ്പ് തയ്യാറാക്കുക.\\n15. മലയാള സിനിമയിൽ നിങ്ങൾ സ്ത്രീപക്ഷ സിനിമ\\nഎന്ന് വിലയിരുത്തുന്ന ഏതെങ്കിലും ഒരു സിനിമയുടെ\\nസ്ത്രീപക്ഷ മൂല്യങ്ങൾ വിവരിക്കുക.\\n16. രാഷ്ട്രീയ ശരികൾ ചലച്ചിത്രവ്യാഖ്യാനങ്ങൾക്ക് അത്യാ\\nന്താപേക്ഷിതം എന്ന് നിങ്ങൾ കരുതുന്നുണ്ടോ? നിങ്ങ\\nളുടെ അഭിപ്രായങ്ങളെ ഉദാഹരണങ്ങൾ സഹിതം\\nസ്ഥാപിക്കുക.\\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

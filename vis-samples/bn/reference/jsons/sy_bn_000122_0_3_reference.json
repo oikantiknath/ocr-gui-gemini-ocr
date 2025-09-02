@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_bn_000122_0_3_reference.png",
+      "width": 653,
+      "height": 669
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        653.0,
+        669.0
+      ],
+      "area": 436857.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          653.0,
+          0.0,
+          653.0,
+          669.0,
+          0.0,
+          669.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "সহায়ক গ্রন্থ\nঅরুণকুমার মুখোপাধ্যায় : কাব্যের ভূমিকা\nআনোয়ার পাশা : রবীন্দ্র ছোটগল্প সমীক্ষা\nগোপিকানাথ রায়চৌধুরী : রবীন্দ্রনাথ : ছোটগল্পের অপরূপশিল্প\nতপব্রত ঘোষ : রবীন্দ্র-ছোটগল্পের শিল্পরূপ\nনারায়ণ গঙ্গোপাধ্যায় : কথাকোবিদ রবীন্দ্রনাথ; বাংলা গল্পবিচিত্রা\nপ্রমথনাথ বিশী : রবীন্দ্রনাথের ছোটগল্প\nবাংলা একাডেমি (প্রকাশক) : উত্তরাধিকার, মানিক বন্দ্যোপাধ্যায় জন্মশতবর্ষ সংখ্যা\nবিষ্ণুজিৎ ঘোষ : শতবর্ষের বাংলা ছোটগল্প\nধীরেন্দ্র দত্ত : বাংলা ছোটগল্প : প্রসঙ্গ ও প্রকরণ\nবুদ্ধদেব বসু : রবীন্দ্রনাথ : কথাসাহিত্য\nশ্রীশচন্দ্র চৌধুরী : দু-চারটি প্রবন্ধ : রবীন্দ্রনাথের ভিন্নপাঠ\nযূথিকা চৌধুরী : বাংলাসাহিত্যে ছোটগল্প ও ছোটগল্পকার\nরামরঞ্জন রায় : গল্পের ভুবন : অমেন্দু মিত্র\nশিশিরকুমার দাশ : বাংলা ছোটগল্প\nসৈয়দ আকরাম হোসেন : প্রসঙ্গ বাংলা কথাসাহিত্য\nসৈয়দ আজিজুল হক : মানিক বন্দ্যোপাধ্যায়ের ছোটগল্প : সমাজচেতনা ও জীবনের\nরূপায়ণ\nসৈয়দ শামসুল হক : মার্জিনে মন্তব্য"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

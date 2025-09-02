@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_pa_000281_0_0_subsub-headline.png",
+      "width": 981,
+      "height": 913
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        981.0,
+        913.0
+      ],
+      "area": 895653.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          981.0,
+          0.0,
+          981.0,
+          913.0,
+          0.0,
+          913.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ੳ) ਜਿੱਥੇ ਅਹਿਲਕਾਰ ਉਸ ਨੂੰ ਮੁਅੱਤਲ ਕਰਨ ਲਈ ਆਪਣੇ ਆਪ ਨੂੰ ਪਾਬੰਦ ਕਰਦਾ\nਹੈ;\n(ਅ) ਜਿੱਥੇ, ਅਹਿਲਕਾਰ ਜਾਂ ਅਹਿਲਕਾਰ ਦੇ ਦੋਸ਼ ਪੂਰਨ ਕਾਰਨ ਜਾਂ ਕੰਤੂਰੀ ਤੋਂ ਬਿਨਾਂ\nਹੋਰ ਕਿਸੇ ਕਾਰਨ ਕਰਕੇ, ਰਹਿਨ ਕੀਤੀ ਸੰਪਤੀ ਪੂਰੀ ਜਾਂ ਭਾਗ ਰੂਪ ਵਿੱਚ ਨਸ਼ਟ ਹੋ ਜਾਂਦੀ\nਹੈ ਜਾਂ ਅਹਿਲਦਾਰੀ ਧਾਰਾ 66 ਦੇ ਅਰਥ ਅੰਦਰ ਨਾ-ਕਾਬਲ ਕਰ ਦਿੱਤੀ ਜਾਂਦੀ ਹੈ, ਅਤੇ\nਅਹਿਲਕਾਰ ਨੇ ਅਹਿਲਕਾਰ ਨੂੰ ਇੰਨੀ ਹੋਰ ਅਹਿਲਦਾਰੀ ਦੇਣ ਦਾ, ਜਿੰਨੀ ਨਾਲ ਸਾਰੀ\nਅਹਿਲਦਾਰੀ ਬਹਾਲ ਹੋ ਜਾਵੇ, ਵਾਜਬੀ ਅਵਸਰ ਦਿੱਤਾ ਹੈ, ਅਤੇ ਅਹਿਲਕਾਰ ਅਜਿਹਾ ਕਰਨ\nਵਿੱਚ ਅਸਫਲ ਰਿਹਾ ਹੈ;\n(ੲ) ਜਿੱਥੇ ਅਹਿਲਕਾਰ ਆਪਣੀ ਸਾਰੀ ਅਹਿਲਦਾਰੀ ਤੋਂ ਜਾਂ ਉਸਦੇ ਕਿਸੇ ਭਾਗ ਤੋਂ\nਅਹਿਲਕਾਰ ਦੇ ਦੋਸ਼ ਪੂਰਨ ਕਾਰਨ ਜਾਂ ਕੰਤੂਰੀ ਦੁਆਰਾ ਜਾਂ ਉਸ ਦੇ ਪਹਿਲਜਮੇਂ ਵਜੋਂ ਵਾਂਝਿਆ\nਹੋ ਜਾਂਦਾ ਹੈ;\n(ਸ) ਜਿੱਥੇ, ਅਹਿਲਕਾਰ ਰਹਿਨ ਕੀਤੀ ਸੰਪਤੀ ਦੇ ਕਬਜੇ ਦਾ ਹੱਕਦਾਰ ਹੈ, ਅਤੇ\nਅਹਿਲਕਾਰ ਉਸਨੂੰ ਬੇਨਤੀ ਦੇਣਗਾਰੀ ਕਰਨ ਵਿੱਚ, ਜਾਂ ਅਹਿਲਕਾਰ ਦੁਆਰਾ ਜਾਂ ਅਹਿਲਕਾਰ\nਦੇ ਹੱਕ ਤੋਂ ਅੱਗੇ ਜਾਂ ਅਧੀਨ ਦਾ ਕੰਮ ਕਰਨ ਵਾਲੇ ਕਿਸੇ ਵਿਅਕਤੀ ਦੁਆਰਾ ਪਾਏ ਗਏ\nਅੜੰਮੇ ਤੋਂ ਬਿਨਾਂ ਉਸ ਨੂੰ ਉਸ ਦਾ ਕਬਜਾ ਦਿਵਾਉਣ ਵਿੱਚ ਅਸਫਲ ਰਹਿੰਦਾ ਹੈ:\nਪਰੰਤੂ, ਖੰਡ (ੳ) ਵਿੱਚ ਦਰਜ ਦਿੱਤੀ ਸ਼ਰਤ ਵਿੱਚ, ਅਹਿਲਕਾਰ ਜਾਂ ਉਸ ਦੇ ਕਾਨੂੰਨੀ\nਪ੍ਰਤਿਨਿਧ ਦੇ ਕਿਸੇ ਇਤਰਾਜ਼-ਪੱਤਰ ਤੇ ਰਹਿਨ-ਧਨ ਲਈ ਦਾਵਾ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕੇਗਾ।\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

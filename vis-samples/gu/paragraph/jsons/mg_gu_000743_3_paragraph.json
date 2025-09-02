@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_gu_000743_3_paragraph.png",
+      "width": 339,
+      "height": 204
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        339.0,
+        204.0
+      ],
+      "area": 69156.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          339.0,
+          0.0,
+          339.0,
+          204.0,
+          0.0,
+          204.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "શ્વસનતંત્ર સંબંધી રોગ મોટા ભાગે વાઈરલ ઈન્ફેક્શનના કારણે\nથતાં હોય છે. ખરેખર તો તે વાઈરલ ઈન્ફેક્શનમાં એન્ટિબાયોટિક\nદવાઓ કાંઈ જ અસર કરતી નથી. છતાં પણ ભારતમાં આ રોગના\nસારવાર માટે એન્ટિબાયોટિક દવાઓ સહુથી વધારે વપરાય છે. તેના\nઅમુક કારણો એવાં છે કે, કોઈકવાર ચિકિત્સક ધન કમાવા માટે, તો\nકોઈકવાર તેની અજ્ઞાનતાના કારણે તે બિનજરૂરી દવાઓ આપતા હોય છે.\nઅરે..! અમુકવાર તો એવું પણ બનતું હોય છે કે, દર્દી સાજા થવા માટે\nચિકિત્સક પાસે દવાઓની અપેક્ષાઓ રાખતા હોય છે. તેથી ચિકિત્સકને\nબધો જ ખ્યાલ હોવા છતાં દર્દીની માનસિકતા સંતોષવા માટે બિનજરૂરી\nદવાઓ આપવા માટે લાચાર થવું પડે છે."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

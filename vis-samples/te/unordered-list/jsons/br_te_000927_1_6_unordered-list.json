@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_te_000927_1_6_unordered-list.png",
+      "width": 1140,
+      "height": 1190
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        1140.0,
+        1190.0
+      ],
+      "area": 1356600.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1140.0,
+          0.0,
+          1140.0,
+          1190.0,
+          0.0,
+          1190.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "తమకు చిన్న, చూసిన, చదివిన అంశాలలోన విషయాలు,\nసంఘటనలు, పాత్రలు, శీర్షికలు మొదలగు వాటి గురించి మాట్లాడగలరు.\nతమ అభిప్రాయం చెప్పగలరు.\nచిత్రాల గురించి మాట్లాడగలరు.\nకథలు, కవితలు, గేయాలు మొదలగు వాటిని రాసి, భాషా యుక్తంగా\nసరైన నియమాలు పాటిస్తూ ధారాళంగా చదువగలరు.\nతమకు చదివిన అంశాలకు నిజజీవిత విషయాలకు అన్వయించగలరు.\nఅరబిక్ తమ భాషాణుకు మౌఖిక/లిఖిత రూపంలో వ్యక్తపరుస్తారు.\nవిభిన్న రచనలను చదివి వాటి ఆదారం ప్రశ్నలకు బదులును\nఅభిప్రాయం చెప్పరు. తమ తోటి విద్యార్థులతో లేదా ఉపాధ్యాయులతో చర్చించగలరు.\nప్రశ్నలకు జవాబులు చెప్పరు (మౌఖిక లేక లిఖిత).\nవిభిన్న రచనలలోని కొత్త పదాలకు అర్థం చేసుకొని సందర్భానుసారం\nఉపయోగిస్తారు.\nభాషాం తరంలోని వివిధ అంశాలను గుర్తించి, తమ భాషలో ఉపయోగిస్తారు.\nస్వయంగా గాని లేక ఉపాధ్యాయుని సూచనల ద్వారా గాని తమ చేతిరాతను,\nలేఖనా దోషాలను సరిచేసుకుంటారు.\nవిరామ చిహ్నాలను ఉపయోగిస్తూ రాస్తారు.\nవివిధ ఉద్దేశాల కొరకు తమ రాయుటలకనుగుణ్య భాషా రూపానికి కావలసిన\nపదాలను, వ్యాకరణ విధానాన్ని ఎన్నుకొని రాస్తారు.\n(ఉదా: సంభాషణ, కథ, బయోడేటా, మొ||వివి)"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

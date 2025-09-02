@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_mr_000127_0_2_reference.png",
+      "width": 1267,
+      "height": 1193
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        1267.0,
+        1193.0
+      ],
+      "area": 1511531.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1267.0,
+          0.0,
+          1267.0,
+          1193.0,
+          0.0,
+          1193.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "संदर्भग्रंथ-\n1. आजच्या ठळक बातम्या – समीरण वाळवेकर\n2. भाषासंवाद – अनिल गवळी, नंदकुमार मोरे\n3. दूरदर्शनसाठी लेखन – केशव केळकर\n4. सृजनशील लेखन – आनंद पाटील\n5. टेलि-वर्तन – निळू दामले\n6. मराठी चित्रपटाची पटकथा – अनिल सपकाळ\n7. लेख – ‘पटकथा लेखनाचे तंत्र आणि मंत्र’, रवींद्र गुर्जर, ब्राइट्स ऑफ इंडियावर ‘किमया’ या\nसदरातील लेख, https://goo.gl/TiSWnh\n8. फीचर रायटिंग – प्रसन्नकुमार अकलूजकर\n9. शॉर्टफिल्म – प्रसाद नामजोशी\n10. व्यावहारिक मराठी भाषा, यशवंतराव चव्हाण महाराष्ट्र मुक्त विद्यापीठ, नाशिक.\n11. सायबर संस्कृती – रमेश नारायण वरखेडे\n12. डॉट कॉम – गिरीश कुबेर\n13. संगणकयुग – अच्युत गोडबोले\n14. आधुनिक माहिती तंत्रज्ञानाच्या विश्वात – दीपक शिकारपूर, उज्ज्वल मराठे\n15. मराठी भाषिक कौशल्ये विकास – संपा. पृथ्वीराज तौर\n16. सोशल मीडिया – योगेश बोराटे\n17. सोशल मीडिया डिजीटल दुनिया – प्रफुल्ल सुतार\n18. सोशल नेटवर्किंग कल और आज – राकेश कुमार\n19. ऑनलाइन मीडिया – सुरेश कुमार\n20. सोशल मीडिया मार्केटिंग तंत्र – प्रथमेश कोरगांवकर\n21. सोशल मीडिया शाप की वरदान? – दीपक शिकारपूर\n22. माझा आवाज – महेश केळुसकर"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

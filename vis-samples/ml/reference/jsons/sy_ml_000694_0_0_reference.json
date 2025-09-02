@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_ml_000694_0_0_reference.png",
+      "width": 855,
+      "height": 816
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        855.0,
+        816.0
+      ],
+      "area": 697680.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          855.0,
+          0.0,
+          855.0,
+          816.0,
+          0.0,
+          816.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "അയ്യപ്പപ്പണിക്കർ, വി.എസ്‌. 2012, പഠനവിഷയം: വികനവയും, കോഴിക്കോട്:\nമാതൃഭൂമി ബുക്സ്.\nഅയ്യപ്പപ്പണിക്കർ, 1999, ഇന്ത്യൻ സാഹിത്യസിദ്ധാന്തം: പ്രസക്തിയും സാധു\nതയും, തിരുവനന്തപുരം: കേരളഭാഷാഗ്രന്ഥശാല.\nഅയ്യപ്പപ്പണിക്കർ, 1997, പാശ്ചാത്യസാഹിത്യം, കോട്ടയം: ഡി.സി. ബുക്സ്.\nഎ.എസ്.എൻ, പ്രകൃതിയുടെ കൈയൊപ്പായവനം, പ്രോഗ്രസ് പബ്ലിക്കേഷൻസ്.\nകാർട്ടർ, ബോബ്, നിഘണ്ടുവിജ്ഞാനം. (ആമുഖം മാത്രം), കേരള ഭാഷാ\nസാഹിത്യവിജ്ഞാനകോശം.\nജോർജ്ജ്, കെ. അലക്സാണ്ടർ, 2003, പഠനതാരതമ്യം, കോട്ടയം: ഡി.സി. ബുക്സ്.\nനാരായണൻ, കെ.സി., 2002, പ്രബോധനത്തിന്റെ നൂതനപാഠം.\nവിജയകൃഷ്ണൻ, എൻ.എം., 2005, പഠനവിമർശനയശാസ്ത്രവും മാർക്സിസവും\nപ്രബന്ധസൂചികയും, കോട്ടയം: ഡി.സി. ബുക്സ്.\nപെരുമാൾ, പി. പി. കെ., 2002, പഠനവിമർശനവായന. സം.സന്തോഷ്,\nകോട്ടയം: മാതൃഭൂമി ബുക്സ്.\nപ്രശാന്തകുമാർ (വി.വി), 2010, പഠനവിമർശനം, കോട്ടയം: ഡി.സി. ബുക്സ്.\nപ്രസാദ്, എം.കെ.കെ., 2006, പഠനവിമർശകർ, കേരളഗ്രന്ഥശാലാവിജ്ഞാനകോശം.\nമധുസൂദനൻ, ജി. (എഡി.), 2002, പഠനവിമർശനം. മലയാളത്തിൽ, തൃശ്ശൂർ:\nകറന്റ് ബുക്സ്.\nമധുസൂദനൻ, പഠനവിമർശനസിദ്ധാന്തം."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

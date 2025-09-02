@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000791_0_6_subsub-headline.png",
+      "width": 587,
+      "height": 760
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        587.0,
+        760.0
+      ],
+      "area": 446120.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          587.0,
+          0.0,
+          587.0,
+          760.0,
+          0.0,
+          760.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(i) “অস্পৃশ্যতা”জনিত কোন নির্যোগ্যতার অধীন ব্যক্তিকে\nট্ররূপ অধিকারসমূহের সুযোগ গ্রহণ করিতে সমর্থ\nকরিবার জন্য তাহাদের অনুকূলে বৈধিক সহায়তা সমেত\nপর্যাপ্ত সুযোগসুবিধার ব্যবস্থা,\n(ii) এই আইনের বিধানাবলী লঙ্ঘনের দরুন অভিযুক্তের\nউপর অন্বেষণ প্রবর্তন বা প্রয়োগ করিবার জন্য আধি-\nকারিকসমূহের নিয়োগ,\n(iii) এই আইনের অধীন অপরাধসমূহের বিচারের জন্য বিশেষ\nআদালতসমূহ স্থাপন,\n(iv) ঐরূপ ব্যবস্থাসমূহ সুপ্রবদ্ধ করিতে বা কার্যকর করিতে\nরাজ্য সরকারকে সহায়তা করিবার জন্য রাজ্য সরকার যেরূপ\nউপযুক্ত মনে করিবেন সেরূপ যথাযথ স্তরে কমিটি স্থাপন,\n(v) এই আইনের বিধানাবলীকে উন্নততরভাবে কার্যকর করণার্থ\nব্যবস্থাসমূহ প্রস্তাবিত করিবার উদ্দেশ্যে এই আইনের\nবিধানাবলীর ক্রিয়াশীলতার কোন পর্যায়বৃত্তকালিক সমীক্ষার\nজন্য ব্যবস্থা,\n(vi) যে সকল অঞ্চলে ব্যক্তিগণ ‘অস্পৃশ্যতা”জনিত কোন\nনির্যোগ্যতার অধীন যে সকল অঞ্চল সনাক্তকরণ এবং ঐ\nসকল অঞ্চল হইতে ঐরূপ নির্যোগ্যতার অপসারণ সুনিশ্চিত\nকরিতে ঐরূপ ব্যবস্থাসমূহ অবলম্বন অন্তর্ভুক্ত করিতে পারিবে।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

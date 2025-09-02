@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_bn_000110_0_6_reference.png",
+      "width": 652,
+      "height": 618
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        652.0,
+        618.0
+      ],
+      "area": 402936.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          652.0,
+          0.0,
+          652.0,
+          618.0,
+          0.0,
+          618.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "অসিতকুমার বন্দ্যোপাধ্যায় : বাংলা সাহিত্যের ইতিবৃত্ত (১ম-৫ম খণ্ড)\nআনিসুজ্জামান (সম্পাদক) : বাংলা সাহিত্যের ইতিহাস (১ম খণ্ড)\nআবদুল কাদির : বাংলা সাহিত্যের কালক্রম : মধ্যযুগ\nআবদুল শরীফ : বাঙালী ও বাংলা সাহিত্য (১ম ও ২য় খণ্ড)\nওযাকিল আহমদ : বাংলা সাহিত্যের পুরাবৃত্ত\nগোপাল হালদার : বাংলা সাহিত্যের রূপরেখা (১ম খণ্ড)\nদীনেশচন্দ্র সেন : বঙ্গভাষা ও সাহিত্য\nভূদেব চৌধুরী : বাংলা সাহিত্যের ইতিকথা\nমুহম্মদ এনামুল হক : মুসলিম বাংলা সাহিত্য\nমুহম্মদ শহীদুল্লাহ্ : বাংলা সাহিত্যের কথা (১ম ও ২য় খণ্ড)\nশ্রীকুমার বন্দ্যোপাধ্যায় : বাংলা সাহিত্যের বিকাশের ধারা (১ম খণ্ড)\nসুকুমার সেন : বাংলা সাহিত্যের ইতিহাস (১ম ও ২য় খণ্ড)\nসুসময় মুখোপাধ্যায় : পুরাতন বাংলা সাহিত্যের তথ্য ও কালক্রম\nহুমায়ুন কবির : বাংলার কাব্য\n\nDusan Zbavitel : Bengali Literature\nSudipta Kaviraj : ‘The Two Histories of Literary Culture in Bengal’,\nin Literary Cultures in History : Reconstructions from South\nAsia, Edited by Sheldon Pollock"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

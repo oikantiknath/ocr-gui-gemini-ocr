@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_or_000307_0_4_subsub-headline.png",
+      "width": 490,
+      "height": 192
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        490.0,
+        192.0
+      ],
+      "area": 94080.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          490.0,
+          0.0,
+          490.0,
+          192.0,
+          0.0,
+          192.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "E6 (i) ମାନ୍ୟଗଣ୍ୟ ଆଇଁ ଆବେଦନକାରୀ ଦେୟଥିବା ପ୍ରମାଣ ପତ୍ର ନେଇଥିବେ।\nମାନ୍ୟଗଣ୍ୟ ଆଇଁ ପ୍ରମାଣ ପ୍ରମାଣ ପତ୍ର :\n୧. ବ୍ୟାଙ୍କ ପାସବୁକ୍, ୨. ପୋଷ୍ଟାଲ ପାସବୁକ୍, ୩. ରେସନ କାର୍ଡ, ୪. ଭୋଟର ପରିଚୟ ପତ୍ର (EPIC), ୫.\nଡ୍ରାଇଭିଙ୍ଗ ଲାଇସେନ୍ସ (DL), ୬. ପେନସିନ ଡିଡ୍, ୭. ପାଣି ଯୋଗାଣ ବିଲ୍, ୮. ଲ୍ୟାଣ୍ଡ ଲାଇନ ଟେଲିଫୋନ ବିଲ୍, ୯.\nମାନବ ରାମା ପରିଚୟ, ୧୦. ମନରେଗା ଜବ କାର୍ଡ, ୧୧. ହେଲଥ୍ କାର୍ଡ, ୧୨. ରାଷ୍ଟ୍ରୀୟ ଡାଟା କାର୍ଡ / ଡିଆଇ ଡାଟା\nକାର୍ଡ / ଡିଜିଟାଲ କାର୍ଡ, ୧୩. ପ୍ରାଥମିକ ସଂଗ୍ରାମୀ କାର୍ଡ, ୧୪. ରେଜିଷ୍ଟ୍ରି କୃତ ଡେଲିଭରୀ ଡୋମିସିଲ ଡିଡ୍ / ଲିଜ୍\nଡିଡ୍ / ଡଟା ଡୁପ୍ଲିକେଟ, ୧୫. ସଂସୋଧିତ ଡିଡ୍ ବା Consumer ଡିଡ୍।\n(ii) ପରିଚୟ ପ୍ରମାଣ ପତ୍ର ଆଇଁ ଆବେଦନକାରୀ ଦେୟଥିବା ପ୍ରମାଣ ପତ୍ର ନେଇଥିବେ।\nପ୍ରମାଣ ପରିଚୟ ପତ୍ର (EPIC)\n୧. ଆଧାର, ୨. ଭୋଟର ପରିଚୟ ପତ୍ର (EPIC), ୩. ଡ୍ରାଇଭିଙ୍ଗ ଲାଇସେନ୍ସ\nଯୋଗ୍ୟତା ମାନଦଣ୍ଡ ପ୍ରମାଣପତ୍ର (ଆବଶ୍ୟକ ପ୍ରକାର) :\n୧. ଓ ୨. ପ୍ରତି ଯୋଗ୍ୟତା ମାନଦଣ୍ଡ ପାଇଁ ସମର୍ଥନ ଓ ସିଦ୍ଧାନ୍ତ ପ୍ରମାଣ ପତ୍ର ପ୍ରମାଣ ସରଳ ବା ଇଣ୍ଟରନେଟ/କାଉଣ୍ଟରମେନ\nଠାରୁ ଆଇଁ ରାଜ୍ୟ କରିପାରିବେ। ସରକାରୀ ସମସ୍ତେ ଏହାକୁ ଲାଗୁ କରାଇବାକୁ ସ୍ୱୀକୃତି ଦିଆଯିବ। ସେହିପରି ୩. PTG ପାଇଁ\nଜାତିଗତ ପ୍ରମାଣପତ୍ର, ୪. ଡିଆଇ ଡାଟା କାର୍ଡର ନକଲ ଏବଂ ୫. ରାଷ୍ଟ୍ରୀୟ ଡିଜିଟାଲ ପ୍ରମାଣ ପତ୍ରର ନକଲ ରହିବ।\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

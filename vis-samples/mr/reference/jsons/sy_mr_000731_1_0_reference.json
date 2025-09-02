@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_mr_000731_1_0_reference.png",
+      "width": 388,
+      "height": 450
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        388.0,
+        450.0
+      ],
+      "area": 174600.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          388.0,
+          0.0,
+          388.0,
+          450.0,
+          0.0,
+          450.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "संदर्भग्रंथ :\n१. लेले वा. के., भाषा स्वरूप, सामर्थ्य व सौंदर्य, राजहंस प्रकाशन, पुणे.\n२. नसिराबादकर ल. रा., व्यावहारिक मराठी, फडके प्रकाशन, कोल्हापूर.\n३. पवार सुधाकर, संवादशास्त्र, विजय प्रकाशन, नागपूर.\n४. शिंदे अरुण, भाषा : सर्जन आणि उपयोजन, दर्या प्रकाशन, पुणे.\n५. तावरे स्नेहल, व्यावहारिक मराठी, स्नेहवर्धन प्रकाशन, पुणे.\n६. राजाध्यक्ष म.वि., भाषाविवेक, श्रीविद्या प्रकाशन, पुणे.\n७. नेमाडे भालचंद्र, साहित्याची भाषा, साकेत प्रकाशन, औरंगाबाद.\n८. तुपे केशव, माध्यमांची भाषा, कैलास प्रकाशन, औरंगाबाद.\n९. मोडक केतकी, शेणई संतोष (संपा.), उपयोजित मराठी, पद्मगंधा प्रकाशन, पुणे.\n१०. शेवते अरुण, संवाद, मुळा एज्युकेशन सोसायटी, अहमदनगर.\n११. केळकर अशोक, भाषानैपुण्य, मराठी विश्वकोश, खंड १२, पृ. ४९१\n१२. भागवत यशोदा, जाहिरातीचं जग, मौज प्रकाशन, मुंबई.\n१३. अत्रे प्र. के., समाधीवरील अश्रू, मॅजेस्टिक प्रकाशन, मुंबई.\n१४. चव्हाण यशवंतराव, युगांतर, कॉन्टीनेन्टल प्रकाशन, मुंबई.\n१५. डॉ. बाबासाहेब आंबेडकरांची भाषणे, सुगावा प्रकाशन, पुणे."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

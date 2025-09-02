@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_hi_000633_0_3_subsub-section-title.png",
+      "width": 1153,
+      "height": 364
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 33,
+      "bbox": [
+        0.0,
+        0.0,
+        1153.0,
+        364.0
+      ],
+      "area": 419692.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1153.0,
+          0.0,
+          1153.0,
+          364.0,
+          0.0,
+          364.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "घर में एक अलग कमरे में रहे, कोशिश करें कि अलग शौचालय वाला कमरा हो तो बेहतर होगा।\nअन्य व्यक्तियों से कम से कम 1 मीटर की दूरी बनाए रखने का प्रयास करें।\nहर समय मास्क पहनें यदि मास्क उपलब्ध नहीं हैं, तो एक साफ सूती कपड़ा लें और इसे एक डबल\nपरत में मोड़कर अपने नाक और मुंह को ढकने के लिए अपने चेहरे पर बाँध लें।\nअपने अलग बर्तन, तौलिया, बिस्तर आदि का उपयोग करें जो नियमित रूप से अलग से साफ किए\nजाने चाहिए।\nफर्श, मेज, कुर्सी और दरवाज़े की हैंडल आदि जैसी सतहों को कम से कम दिन में एक बार अवश्य\nसाफ करना चाहिए।\nसुनिश्चित करें कि परिवार का केवल एक तय सदस्य ही ऐसे व्यक्ति की देखभाल करें।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

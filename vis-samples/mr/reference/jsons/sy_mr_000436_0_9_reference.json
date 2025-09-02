@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_mr_000436_0_9_reference.png",
+      "width": 1211,
+      "height": 638
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        1211.0,
+        638.0
+      ],
+      "area": 772618.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1211.0,
+          0.0,
+          1211.0,
+          638.0,
+          0.0,
+          638.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "Books Recommended:\n1. RomilaThaper – Ancient Indian Social History , Orient Longman Pvt., Ltd.,2010\n2. MeenakshiKanna – Cultural History of Medieval India ,Social Science Press , 2007\n3. ThilipM.Menon – Cultural History of Modern India , 2012\n4. Auboyer.J – Daily Life in Ancient India , 1965\n5. Alldin .B.R – The Birth of Indian Civilization, 1968\n6. RomilaThaper – The Cultural Past\n7. Ashraf K.M. Life and condition of the People of Hindustan, 1200-1500\n9. Basham A.L., The Illustrated Cultural History of India, OUP,\n10. Batra M.L., Conservation, Preservation and Restoration of Monuments, New Delhi\n11. Bhoumik S.K. Heritage Management: care, understanding and Appreciation of Cultural\nHeritage\n12. Brown Percy, Indian Architecture (Islamic Period)\n13. Deshpande M.N. Care of Cultural Heritage, New Delhi\n14. Grover, Satish, The Architecture of India\n15. Ghoshmaulik, S.K. and K.K. Bass, Understanding Heritage, Role of Museum"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

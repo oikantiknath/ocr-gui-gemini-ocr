@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_kn_000402_0_10_answer.png",
+      "width": 1144,
+      "height": 245
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        1144.0,
+        245.0
+      ],
+      "area": 280280.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1144.0,
+          0.0,
+          1144.0,
+          245.0,
+          0.0,
+          245.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಜ್ವರ, ಕೆಮ್ಮು ಮತ್ತು ಉಸಿರಾಡಲು ಕಷ್ಟವಾಗುವುದು COVID-19 ನ ಅತ್ಯಂತ ಸಾಮಾನ್ಯ ಲಕ್ಷಣಗಳಾಗಿವೆ. ಕೆಲವು ರೋಗಿಗಳಿಗೆ ವೇದನೆ ಮತ್ತು\nನೋವು, ಮೂಗು ಸುರಿಯುವುದು, ಗಂಟಲು ನೋವು ಅಥವಾ ಅತಿಸಾರ ಇರಬಹುದು. ಈ ಲಕ್ಷಣಗಳು ಸಾಮಾನ್ಯವಾಗಿ\nಸೌಮ್ಯವಾಗಿರುತ್ತವೆ ಮತ್ತು ಕ್ರಮೇಣ ಪ್ರಾರಂಭವಾಗುತ್ತವೆ. ಕೆಲವು ಜನರು ಸೋಂಕಿಗೆ ಒಳಗಾಗುತ್ತಾರೆ ಆದರೆ ಯಾವುದೇ ರೋಗಲಕ್ಷಣಗಳನ್ನು\nಬೆಳೆಸಿಕೊಳ್ಳುವುದಿಲ್ಲ ಮತ್ತು ಅನಾರೋಗ್ಯದಿಂದ ಬಳಲುತ್ತಿಲ್ಲ. ಹೆಚ್ಚಿನ ಜನರು (ಸುಮಾರು 80%) ವಿಶೇಷ ಚಿಕಿತ್ಸೆಯ ಅಗತ್ಯವಿಲ್ಲದೆ ರೋಗದಿಂದ\nಚೇತರಿಸಿಕೊಳ್ಳುತ್ತಾರೆ. COVID-19 ಪೀಡಿತರ ಪ್ರತಿ 6 ಜನರಲ್ಲಿ ಒಬ್ಬರು ತೀವ್ರವಾಗಿ ಅನಾರೋಗ್ಯಕ್ಕೆ ಒಳಗಾಗುತ್ತಾರೆ ಮತ್ತು ಉಸಿರಾಟದ ತೊಂದರೆ\nಉಂಟಾಗುತ್ತದೆ. ವಯಸ್ಸಾದ ಜನರು, ಮತ್ತು ಅಧಿಕ ರಕ್ತದೊತ್ತಡ, ಹೃದಯ ಸಮಸ್ಯೆಗಳು ಅಥವಾ ಮಧುಮೇಹದಂತಹ ವೈದ್ಯಕೀಯ ಸಮಸ್ಯೆಗಳನ್ನು\nಹೊಂದಿರುವವರು ಗಂಭೀರ ಕಾಯಿಲೆಗೆ ಒಳಗಾಗುವ ಸಾಧ್ಯತೆ ಹೆಚ್ಚು. ಜ್ವರ, ಕೆಮ್ಮು ಮತ್ತು ಉಸಿರಾಡಲು ಕಷ್ಟವಾಗುವ ಲಕ್ಷಣಗಳನ್ನು\nಹೊಂದಿರುವವರು ತಕ್ಷಣ ವೈದ್ಯಕೀಯ ಚಿಕಿತ್ಸೆ ಪಡೆಯಬೇಕು."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

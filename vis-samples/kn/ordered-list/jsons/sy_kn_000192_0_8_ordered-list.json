@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_kn_000192_0_8_ordered-list.png",
+      "width": 1100,
+      "height": 1125
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        1100.0,
+        1125.0
+      ],
+      "area": 1237500.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1100.0,
+          0.0,
+          1100.0,
+          1125.0,
+          0.0,
+          1125.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. ಆಂತರಿಕ ಅಂಕಗಳ ಹಂಚಿಕೆ ಮತ್ತು ವಿಧ ವಿಧದ ವಿಧಾನ : ಸಿದ್ಧಾಂತ ಮತ್ತು ಪ್ರಾಯೋಗಿಕ ವಿಷಯಗಳೆರಡಕ್ಕೂ\nಅನ್ವಯವಾಗುತ್ತದೆ. ರಚನಾತ್ಮಕ ಮೌಲ್ಯಮಾಪನ (Formative Assessment) ಅಂತಿಮ ಪರೀಕ್ಷಾ ಅಂಕ\nಮೌಲ್ಯಮಾಪನ (Summative Assessment) ಕ್ರಮದಿಂದ ಆಂತರಿಕ ಅಂಕಗಳನ್ನು ನಿರಂತರ ಮೌಲ್ಯಮಾಪನದಿಂದ ಪದವಿ ಮತ್ತು\nಪೂರ್ವ ಪದವಿ ವಿಷಯದಿಂದ ಅಂತಿಮವಾಗಿ ಅಂಕ ನೀಡಬಹುದು.\nxiii. ಪ್ರಥಮ ಘಟಕ 100 ಅಂಕಗಳು\nxiv. ಘಟಕ 1C (Component 1- C1) ನಿರಂತರ ಮೌಲ್ಯಮಾಪನಕ್ಕೆ 20 ಆಂತರಿಕ ಅಂಕಗಳು (ಸಮಗ್ರವಾಗಿ\nಪೂರೈಸಿದಾಗ ತಿಂಗಳು)\nxv. ಘಟಕ 2C (Component 2- C2) ನಿರಂತರ ಮೌಲ್ಯಮಾಪನಕ್ಕೆ 20 ಆಂತರಿಕ ಅಂಕಗಳು (ಸಮಗ್ರವಾಗಿ\nಪೂರೈಸಿದಾಗ ತಿಂಗಳು)\nxvi. ಸಮಗ್ರವಾಗಿ ಅಂತಿಮ ಪರೀಕ್ಷೆಗೆ 60 ಅಂಕಗಳು.\n\n2. Evaluation process of IA marks shall be as follows:\ns) The first component (C1) of assessment is for 20% marks. This shall be based on test, assignment,\nseminar, case study, field work, project work etc. This assessment and score process should be\ncompleted after completing 50% of syllabus of the course/s and within 45 working days of semester\nprogram.\nt) The second component (C2) of assessment is for 20% marks. This shall be based on test, assignment,\nseminar, case study, field work, internship / industrial practicum / project work etc. This assessment and\nscore process should be based on completion of remaining 50 percent of syllabus of the courses of the\nsemester.\nu) During the 17th – 19th week of the semester, a semester end examination shall be conducted by the\nUniversity for each course. This forms the third and final component of assessment (C3) and the\nmaximum marks for the final component will be 60%.\nv) In case of a student who has failed to attend the C1 or C2 on a scheduled date, it shall be deemed that\nthe student has dropped the test. However, in case of a student who could not take the test on\nscheduled date due to genuine reasons, such a candidate may appeal to the Program Coordinator /\nPrincipal. The Program Coordinator / Principal in consultation with the concerned teacher shall decide\nabout the genuineness of the case and decide to conduct special test to such candidate on the date\nfixed by the concerned teacher but before commencement of the concerned semester end\nexaminations.\nw) For assignments, tests, case study analysis etc., of C1 and C2, the students should bring their own\nanswer scripts (A4 size), graph sheets etc., required for such tests/assignments and these be stamped\nby the concerned department using their department seal at the time of conducting tests / assignment\n/ worketc.\nx) The outline for continuous assessment activities for Component-1 (C1) and Component -2 (C2) of a\ncourse shall be as under"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

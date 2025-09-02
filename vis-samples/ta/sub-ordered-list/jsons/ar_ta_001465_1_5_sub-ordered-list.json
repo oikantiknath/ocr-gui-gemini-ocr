@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_001465_1_5_sub-ordered-list.png",
+      "width": 381,
+      "height": 202
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        381.0,
+        202.0
+      ],
+      "area": 76962.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          381.0,
+          0.0,
+          381.0,
+          202.0,
+          0.0,
+          202.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "72) எழுதி கொடுத்து மறுதலிக்கப்பட்டது என்னும் காரணத்தின் பேரில்,\nஅவ்வாறு மறுக்கப்பட்டமடத்து தவிர, ஆவணம் ஒன்றைப் பதிவு செய்வதற்கு\n(அத்தகைய ஆவணத்தைப் பதிவு செய்தல் கட்டாயமானதாக இருந்தாலும்\nஅல்லது தெரிவுரிமையுடையதாக இருந்தாலும்) ஏற்கமறுகிற சார்-பதிவாளர்\nஒருவரின் ஆணை ஒன்றுக்கு எதிராக, அந்த ஆணை இடப்பட்ட தேதியிலிருந்து\nமுப்பது நாட்களுக்குள், அந்தச் சார்-பதிவாளர் எந்தப் பதிவாளர்களுக்குக்\nகீழ்மைந்தவராக இருக்கிறாரோ அந்தப் பதிவாளரிடம் மேல்முறையீடு செய்வதற்கு\nஉற்று ஆகும் மற்றும் அந்தப் பதிவாளர் அத்தகைய ஆணையை\nஎதிர்மாறாக்கலாம் அல்லது மாற்றம் செய்யலாம்.\n\n(2) அந்த ஆவணம் பதிவு செய்யப்படவேண்டுமென்று பதிவாளரின்\nஆணை பணிக்குமிடத்து, அத்தகைய ஆணை பிறப்பிக்கப்பட்ட தேதியிலிருந்து\nமுப்பது நாட்களுக்குள், சார்-பதிவாளர், அந்த ஆணைக்குக் கீழ்ப்படிதல் வேண்டும்,\nமற்றும் அதன்பேரில், இபதுமளவில், பிரிவுகள் 58,59 மற்றும் 60இல்\nவருத்துரைக்கப்பட்ட நடைமுறைகளைப் பின்பற்றுதல் வேண்டும் மற்றும் அவ்வாறு\nசெய்யப்பட்ட பதிவானது, ஆவணம் முதலில் உரியவாறு முன்மளிக்கப்பட்டபோது\nபதிவுசெய்யப்பட்டிருப்பதாகப் போன்று சென்றிடும் பெறும்."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

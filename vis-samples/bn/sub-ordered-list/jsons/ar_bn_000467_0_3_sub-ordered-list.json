@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000467_0_3_sub-ordered-list.png",
+      "width": 446,
+      "height": 1057
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        446.0,
+        1057.0
+      ],
+      "area": 471422.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          446.0,
+          0.0,
+          446.0,
+          1057.0,
+          0.0,
+          1057.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ক) ৭ ধারা অনুযায়ী, কোন অভিভাবককে নিযুক্ত\nকরিবার বা ঘোষিত করিবার অথবা নিযুক্ত\nকরিতে বা ঘোষিত করিতে অস্বীকার করিবার\nআদেশ; অথবা,\n\n(খ) ৯ ধারার (৩) উপধারা অনুযায়ী, কোন আবেদন-\nপত্র প্রত্যাখ্যান করিবার আদেশ; অথবা,\n\n(গ) ২৫ ধারা অনুযায়ী, কোন অভিভাবকের অভিভাবকত্ব\nতাঁহার গতিগোত্রের প্রত্যাবর্তনের জন্য কোন\nআদেশ করিবার বা করিতে অস্বীকার করিবার\nআদেশ; অথবা,\n\n(ঘ) ২৬ ধারা অনুযায়ী, কোন নাবালককে আদালতের\nক্ষেত্রাধিকারের সীমা হইতে অপসারণের\nঅনুমতি দিতে অস্বীকার করিবার অথবা\nতৎসম্পর্কে শর্তসমূহ আরোপ করিবার আদেশ;\nঅথবা,\n\n(ঙ) ২৮ ধারা বা ২৯ ধারা অনুযায়ী, কোন অভি-\nভাবককে ঐ ধারায় উল্লিখিত কোন কার্য\nকরিবার অনুমতি দিতে অস্বীকার করিবার\nআদেশ; অথবা,\n\n(চ) ৩২ ধারা অনুযায়ী, কোন অভিভাবকের ক্ষমতা-\nসমূহ নিরঙ্কুশিত, সঙ্কুচিত বা প্রসারিত করিবার\nআদেশ; অথবা,\n\n(ছ) ৩৩ ধারা অনুযায়ী, কোন অভিভাবককে অপসারণ\nকরিবার আদেশ; অথবা,\n\n(জ) ৪০ ধারা অনুযায়ী, কোন অভিভাবককে কার্য-\nমুক্ত করিতে অস্বীকার করিবার আদেশ;\nঅথবা,\n\n(ঝ) ৪৭ ধারা অনুযায়ী, কোন অভিভাবকের আচরণ\nবা কার্যসমূহ নিয়ন্ত্রণ করিবার অথবা\nসংযুক্ত অভিভাবকগণের মধ্যে কোন মতভেদের\nবিষয় নিষ্পত্তি করিবার অথবা ঐ আদেশ\nবলবৎ করিবার আদেশ; অথবা,\n\n(ঞ) ৪৪ ধারা বা ৪৬ ধারা অনুযায়ী, কোন দণ্ড আরোপ\nকরিবার আদেশ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

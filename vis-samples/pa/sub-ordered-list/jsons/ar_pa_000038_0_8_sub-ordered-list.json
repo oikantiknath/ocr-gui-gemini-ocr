@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_pa_000038_0_8_sub-ordered-list.png",
+      "width": 936,
+      "height": 817
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        936.0,
+        817.0
+      ],
+      "area": 764712.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          936.0,
+          0.0,
+          936.0,
+          817.0,
+          0.0,
+          817.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ੳ) ਓ, ਜਦੋਂ ਨਾਲ ਗੁਪਤ ਸਮੇਂ ਦਾ ਪਤਾ ਲੱਗਣ ਦੇ ਸਮੇਂ ਕਾਰਜ ਕਰਦਾ ਹੈ।\\nਇਹ ਕਾਰਜ ਮੁੱਨ ਹੁੰਦਾ ਹੈ।\\n\\n(ਅ) ਓ ਅਤੇ ਇੱਕ ਦੂਜੇ ਨਾਲ ਵਿਆਹ ਕਰਨ ਦਾ ਮੁਆਇਦਾ ਕਰਦੇ ਹਨ। ਵਿਆਹ\\nਦੇ ਲਈ ਨਿਯਤ ਸਮੇਂ ਤੋਂ ਪਹਿਲਾਂ ਓ ਛੱਡ ਹੋ ਜਾਂਦੇ ਹਨ। ਮੁਆਇਦਾ ਮੁੱਨ ਹੋ ਜਾਂਦਾ ਹੈ।\\n\\n(ੲ) ਓ, ਜਿਹੜਾ ਪਹਿਲਾਂ ਹੀ ਏ ਦੇ ਨਾਲ ਵਿਆਹਿਆ ਹੋਇਆ ਹੈ, ਅਤੇ ਉਸ ਕਾਰਨ ਦੁਆਰਾ,\\nਜਿਸ ਦੇ ਉਹ ਭਾਵੇਂ ਹੈ, ਬਹੁ-ਵਿਆਹ ਤੋਂ ਵਚਨਬੱਧ ਹੋਇਆ ਹੋਇਆ ਸਮੇਂ ਨਾਲ ਵਿਆਹ ਕਰਨ ਦਾ\\nਮੁਆਇਦਾ ਕਰਦਾ ਹੈ। ਓ ਲਈ ਜ਼ਰੂਰੀ ਹੈ ਕਿ ਉਸਦੇ ਬਚਨ ਦੇ ਮੁਤਾਬਕ ਦੁਆਰਾ ਸਮੇਂ ਨੂੰ ਹੋਵੇ\\nਹਨ ਲਈ ਉਸ ਨੂੰ ਮੁਆਵਜ਼ਾ ਦੇਵੇ।\\n\\n(ਸ) ਓ ਮੁਆਇਦਾ ਕਰਦਾ ਹੈ ਕਿ ਉਹ ਇੱਕ ਵਿਦੇਸ਼ੀ ਬੰਦਰਗਾਹ ਵਿੱਚ ਸਮੇਂ ਲਈ ਜਹਾਜ਼ੀ\\nਮਾਲ ਭਰੇਗਾ ਉਸਦੇ ਪਿੱਛੇ ਓ ਵੀ ਸਰਕਾਰ ਉਸ ਦੇਸ਼ ਵਿੱਚ, ਜਿਸ ਵਿੱਚ ਉਹ ਬੰਦਰਗਾਹ ਸਥਿਤ\\nਹੈ, ਯੁੱਧ ਦਾ ਐਲਾਨ ਕਰ ਦਿੰਦੀ ਹੈ। ਮੁਆਇਦਾ ਰੱਦ ਮੁੱਨ ਹੋ ਜਾਂਦਾ ਹੈ ਜਦ ਯੁੱਧ ਦਾ ਐਲਾਨ\\nਕੀਤਾ ਜਾਂਦਾ ਹੈ।\\n\\n(ਹ) ਸਮੇਂ ਦੁਆਰਾ ਪ੍ਰੇਰਿਤ ਦਿੱਤੀ ਗਈ ਰਕਮ ਦੇ ਬਦਲ ਵਿੱਚ, ਓ ਏ ਮਹੀਨੇ ਲਈ ਇੱਕ\\nਬੰਦਰਗਾਹ ਵਿੱਚ ਸੇਵਾ ਕਰਨ ਦਾ ਮੁਆਇਦਾ ਕਰਦਾ ਹੈ। ਕਈ ਮਹੀਨਿਆਂ ਤੋਂ ਓ ਇੰਨਾ ਬੀਮਾਰ ਹੋ\\nਜਾਂਦਾ ਹੈ ਕਿ ਸੇਵਾ ਨਹੀਂ ਕਰ ਸਕਦਾ। ਉਨ੍ਹਾਂ ਮਹੀਨਿਆਂ ਤੋਂ ਸੇਵਾ ਕਰਨ ਦਾ ਮੁਆਇਦਾ ਮੁੱਨ ਹੋ\\nਜਾਂਦਾ ਹੈ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

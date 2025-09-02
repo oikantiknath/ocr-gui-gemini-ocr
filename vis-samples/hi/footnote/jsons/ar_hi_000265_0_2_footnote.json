@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_hi_000265_0_2_footnote.png",
+      "width": 1379,
+      "height": 351
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 12,
+      "bbox": [
+        0.0,
+        0.0,
+        1379.0,
+        351.0
+      ],
+      "area": 484029.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1379.0,
+          0.0,
+          1379.0,
+          351.0,
+          0.0,
+          351.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1 1989 के अधिनियम सं० 29 की धारा 44 द्वारा (20-10-1989 से) अंतःस्थापित ।\n2 1951 के अधिनियम सं० 53 की धारा 25 द्वारा पूर्ववर्ती खंड के स्थान पर प्रतिस्थापित ।\n3 2010 के अधिनियम सं० 18 की धारा 25 द्वारा प्रतिस्थापित ।\n4 2010 के अधिनियम सं० 18 की धारा 25 द्वारा अंतःस्थापित ।\n5 1989 के अधिनियम सं० 29 की धारा 44 द्वारा (20-10-1989 से) “प्रधान अधिकारियों” के स्थान पर प्रतिस्थापित ।\n6 1951 के अधिनियम सं० 53 की धारा 25 द्वारा अंतःस्थापित ।\n7 1984 के अधिनियम सं० 45 की धारा 12 द्वारा (27-1-1985 से) अंतःस्थापित ।\n8 1989 के अधिनियम सं० 29 की धारा 45 द्वारा (अधिसूचना की तारीख से) धारा 99 निम्नलिखित रूप में प्रतिस्थापित की जाएगी, अर्थात्ः--\n“99. बीमाकृत व्यक्तियों के कुटुंबों के लिए चिकित्सीय देखरेख—निगम किसी भी समय जब उसकी निधि इस प्रकार अनुज्ञात करे, बीमाकृत व्यक्तियों के\nकुटुंबों के लिए चिकित्सीय देख-रेख के खर्च हेतु उपबंध कर सकेगा या अभिदाय कर सकेगा ।”\n9 1966 के अधिनियम सं० 44 की धारा 41 द्वारा (17-1-1967 से) अंतःस्थापित ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

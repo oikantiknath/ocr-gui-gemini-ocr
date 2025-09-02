@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_mr_000272_0_1_ordered-list.png",
+      "width": 1092,
+      "height": 507
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        1092.0,
+        507.0
+      ],
+      "area": 553644.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1092.0,
+          0.0,
+          1092.0,
+          507.0,
+          0.0,
+          507.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "“[(२-क) पोट-कलम (२) च्या खंड (एकवीस) मध्ये नमूद केलेल्या स्वरूपाच्या कोणत्याही विनियमांना\nपूर्व-प्रकाशानांची शर्त लागू होणार नाही.]\n(३) निगमाने केलेले विनियम भारताच्या राजपत्रत प्रकाशित करण्यात येतील आणि त्यानंतर\nते जणू काही या अधिनियमाद्वारे केलेले असावेत त्याप्रमाणे परिणामक होतील.\n“[(४) प्रत्येक विनियम, तो करण्यात आल्यानंतर होईल तितका लवकर, केंद्र शासनाला सादर\nकरण्यात येईल आणि ते शासन त्याची एक प्रत संसदेच्या प्रत्येक सभागृहासमोर सत्रासीन असताना,\nएका सत्राने अथवा दोन किंवा अधिक क्रमवर्ती सत्रे मिळून बनलेल्या अशा एकूण तीस दिवसांच्या कालावधीकरिता\nठेवण्याची तजवीज करील आणि पूर्वोक्त सत्रांच्या किंवा क्रमवर्ती सत्रांच्या पाठोपाठचे सत्र संपण्यापूर्वी,\nजर त्या विनियमात कोणताही बदल करण्याबाबत दोन्ही सभागृहांचे मतैक्य झाले अथवा तो विनियम\nकरण्यात येऊ नये याबाबत दोन्ही सभागृहांचे मतैक्य झाले तर, त्यानंतर तो विनियम अशा बदललेल्या\nस्वरूपातच परिणामक होईल किंवा, प्रकरणपरत्वे, मुळीच परिणामक होणार नाही, तथापि, अशा कोणत्याही\nबदलामुळे किंवा शून्यीकरणामुळे तत्पूर्वी त्या विनियमाखाली करण्यात आलेल्या कोणत्याही गोष्टीच्या\nविधीग्राह्यतेला बाध येणार नाही.]"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_bn_000193_0_14_ordered-list.png",
+      "width": 927,
+      "height": 1127
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        927.0,
+        1127.0
+      ],
+      "area": 1044729.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          927.0,
+          0.0,
+          927.0,
+          1127.0,
+          0.0,
+          1127.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "১. পরিবার প্রধানের বিবরণ :\n* পরিবার প্রধানের নাম -\n* মাতার নাম -\n* পিতার নাম - * লিঙ্গ -\n* স্বামী বা স্ত্রীর নাম -\n* জন্মের তারিখ (তারিখ/মাস/বর্ষ) - বয়স - নাগরিকত্ব -\nন্যাশনালিটি চেন নং - মোবাইল নং (এসএমএস সতর্কতা) -\nব্যাঙ্ক অ্যাকাউন্ট নং - ব্যাঙ্কের নাম ও শাখা -\nআই. এফ. এস. সি. কোড -\nজব কার্ড নং - বিপিএল ক্র. নং (বিপিএল আবেদনকারী জন্য) -\n২. (ক) বর্তমান ঠিকানা :\n* রাজ্য - * জেলা - * মহকুমা - * ব্লক -\n* শহর / গ্রাম - ওয়ার্ড -\n* সিটি / টাউন / ভিলেজ - * গ্রাম/ওয়ার্ড -\n* বাসস্থানের অবস্থান - নিজস্ব গৃহ / ভাড়া গৃহ -\nবাসস্থানের মালিকের নাম (ভাড়টিয়ার ক্ষেত্রে) -\n* ভূমির সীমানা/এলাকা/কলোনি - পিন - লোকগণনা গৃহ নং -\n২. (খ) নির্বাচনী তথ্য ৪ (ভোটার তালিকা মতে) -\nলোকসভা সমষ্টি (এলএসপি) - * বিধানসভা সমষ্টি (এলএলপি) -\n* ভোটার তালিকার বর্ষ - ভোট গ্রহণ কেন্দ্রের নং -\nভোট গ্রহণ কেন্দ্রের নাম -\n* ভোটারের ক্রমিক নং (ভোটার তালিকা অনুযায়ী) - * গৃহ নং (ভোটার তালিকা অনুযায়ী) -\n২. (গ) স্থায়ী ঠিকানা : (যদি বর্তমান এবং স্থায়ী ঠিকানা একই তাহলে বক্সে (√) চিহ্ন দিন)\n* রাজ্য - * জেলা - * মহকুমা - * ব্লক -\n* শহর / গ্রাম (আর/ইউ) - ওয়ার্ড -\n* সিটি / টাউন / ভিলেজ - * গ্রাম/ওয়ার্ড -\n* ভূমির সীমানা/এলাকা/কলোনি - পিন -\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

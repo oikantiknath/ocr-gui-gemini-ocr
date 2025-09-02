@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000869_1_6_sub-ordered-list.png",
+      "width": 1876,
+      "height": 829
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        1876.0,
+        829.0
+      ],
+      "area": 1555204.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1876.0,
+          0.0,
+          1876.0,
+          829.0,
+          0.0,
+          829.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "৭৩। (১) যখন কোন সাব-রেজিস্ট্রার কোন দস্তাবেজ রেজিস্ট্রি করিতে এই হেতুতে অসম্মত\nহইয়াছেন যে, যে ব্যক্তির দ্বারা উহা নিষ্পাদিত বলিয়া তাৎপর্য্যত হয়, অথবা তাহার প্রতিনিধি বা\nনির্দেশিত ব্যক্তি উহা নিষ্পাদন করিতে অস্বীকার করেন, তখন ঐ দস্তাবেজ অনুযায়ী দাবীকারী কোন\nব্যক্তি বা তাহার প্রতিনিধি, নির্দেশিত ব্যক্তি বা পূর্ব্বোক্ত রূপে প্রাধিকৃত এজেন্ট, অসম্মতিজ্ঞাপক\nআদেশ প্রদানের পর ত্রিশ দিনের মধ্যে এরূপ সাব-রেজিস্ট্রার যে রেজিস্ট্রারের অধীন তাহার\nনিকট ঐ দস্তাবেজ রেজিস্ট্রি করাইবার অধিকার প্রতিষ্ঠিত করিবার জন্য আবেদন করিতে\nপারিবেন।\n\n(২) এরূপ আবেদন লিখিতভাবে করিতে হইবে ও তাহার সহিত ৭১ ধারা অনুযায়ী উল্লিখিত\nকারণসমূহের একটি প্রতিলিপি দিতে হইবে এবং আবেদনের বিষয়সমূহ আরজি সত্যাপনের\nজন্য বিধি দ্বারা অনুজ্ঞাত প্রণালীতে আবেদনকারী কর্তৃক সত্যায়িত হইবে।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_ml_000506_0_0_reference.png",
+      "width": 888,
+      "height": 1330
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        888.0,
+        1330.0
+      ],
+      "area": 1181040.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          888.0,
+          0.0,
+          888.0,
+          1330.0,
+          0.0,
+          1330.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "Carson, Rachel, 2012, Silent Spring, Penguin Classics.\nCarter, Neil, 2001, The Politics of Environment, Cambridge (UK):\nCambridge University Press.\nCommoner, Barry, 1971, The Closing Circle: Nature, Man and Technology,\nNew York: Alfred A Knopf Publishers.\nEhrenfeld, David, 1981, The Arrogance of Humanism, Oxford: Oxford\nUniversity Press.\nFukuoka Masonobu, 1985, The One –Straw Revolution: An Introduction to\nNatural Farming, New york: Bantam Books.\nGuha, Ramachandra and Juan Martinez-Alier, 1997, Varieties of\nenvironmentalism, London: Earthscan.\nGuha, Ramachandra, 2000, Environmentalism: A Global History, New\nDelhi: Oxford University Press.\nHay, Peter, 2009, A Companion to Environmental Thought, Jaipur: Rawat\nPublications.\nKhalid, Fazlun & Joanne O’Brien, 1992, Islam and Ecology, London:\nCassell Publishers.\nKhoshoo, T.N. and John, S. Moolakkattu, 2009, Mahatma Gandhi and the\nEnvironment, New Delhi: TERI Press.\nLeopold, Aldo, 1989, A Sand County Almanac, Oxford University Press.\nMeadows, Donella, H., Dennis L Meadows et al., 1975, The Limits to\nGrowth, The New American Library (Signet Classics).\nMerchant, Carolyn (Ed), 1996, Key Concepts in Critical Theory: Ecology,\nJaipur: Rawat Publications.\nNollman, Jim, 1990, Spiritual Ecology, New York: Bantam Books.\nPrime, Ranchor, 2003, Hinduism and Ecology: Seeds of Truth, Delhi:\nMotilal Banarsidass.\nRadcliffe, James, 2002, Green Politics, New York: Palgrave Publishers.\nRaj, Sebasti L. and Edward Mathias, 1998, People’s Power and\nPanchayati Raj: Theory and Practice, New Delhi: Indian Social\nInstitute."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000162_0_0_sub-ordered-list.png",
+      "width": 590,
+      "height": 615
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        590.0,
+        615.0
+      ],
+      "area": 362850.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          590.0,
+          0.0,
+          590.0,
+          615.0,
+          0.0,
+          615.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "১৮ ॥ ১ ॥ গিলা ও শহরের আদালতের কোন উকীল মরিলে বা ইস্তফা\nদিলে বা তদীর হইলে এই ইশতিহার দেওয়া যাইবে যে যে সকল আসামী বা ফরি\nয়াদীার মোকদ্দমা তাহার জিম্মায় ছিল তাহারা ছয় সুতার মধ্যে অন্য এক নূতন\nউকীল নিযুক্ত করুক কিন্তু নূতন ওকালতনামা দিবার প্রয়োজন নাই।\n\n২ ॥ এই রূপ ইশতিহার দেওয়া গেলে তাহা সরাফ সনাদারের ন্যায় কার্য্য হই\nবে এবং তদনুসারে কার্য্যকালে যদি ফল্গু হয় এবং সেই ফল্গুের উপযুক্ত হেত\nযদি দর্শাইত না পারে তবে ফরিয়াদী বা আসামীর দরখাস্ত হইলে আদালতের মতে\n(ক) যেরূপ কর্ম্ম করিতেন সেইরূপ কর্ম্ম করিবেন।\n\n৩ ॥ মফসল আপীল আদালত ও সদর দেওয়ানী আদালতের কোন উকীলম\nমরণ বা ইস্তফা দিদিলে হইলে অথবা তদীর হইলে এই রূপ ইশতিহার দেওয়া যা\nইবে। মফসল আপীল আদালত ৫ জন উকীল নিযুক্ত করণের দুই মাসের কম নি\nয়ম থাকিবে না ও সদর দেওয়ানী আদালতে তিন মাসের কম নিয়ম দেওয়া যাই\nবে না।\n\n৪ ॥ যদি কোন উকীলের নির্দ্ধার্য্য কাম পীড়ায় তবে উপরে লিখিত ধারার অনু\nনুসারে কর্ম্ম করা যাইবে।\n\n৫ ॥ যদি কোন উকীল মণ্ডাল মণ্ডাল দিতে অত্যন্ত কায় এবং তাহাকে কি\nছি ফানা আর কোন হেতুত আনিফ হয় তবে আদালতের সাহেবেরা মণ্ডলের উপ"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

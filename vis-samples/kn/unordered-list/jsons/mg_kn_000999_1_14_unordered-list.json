@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_kn_000999_1_14_unordered-list.png",
+      "width": 238,
+      "height": 343
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        238.0,
+        343.0
+      ],
+      "area": 81634.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          238.0,
+          0.0,
+          238.0,
+          343.0,
+          0.0,
+          343.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಭಾರತ, ವಿಶ್ವದ ಅತ್ಯಂತ ವಿನೂತನ ಗುರುತಿನ ಕಾರ್ಡ್‌-\nಆಧಾರ ವ್ಯವಸ್ಥೆಯ ತವರೂರಾಗಿದೆ. ನಾವು ವಿಶ್ವದ ಅತ್ಯಂತ\nನಾವೀನ್ಯವಾದ ಡಿಜಿಟಲ್ ಪಾವತಿ ವ್ಯವಸ್ಥೆ-ಯು\nಹೊಂದಿದ್ದೇವೆ. ಅದರಿಂದ ಹಣಕಾಸು ಸೇವೆಗಳು ಸೇರಿದಂತೆ\nಎಲ್ಲ ಬಗೆಯ ಡಿಜಿಟಲ್ ಸೇವೆಗಳನ್ನು ಲಭ್ಯವಾಗುವಂತೆ\nಮಾಡಲಾಗಿದೆ ಮತ್ತು ಬಡವರು ಹಾಗೂ ದುರ್ಬಲರಿಗೆ\nನೇರ ನಗದು ವರ್ಗಾವಣೆ ಸೌಲಭ್ಯ ಒದಗಿಸಲಾಗಿದೆ.\nಸಾಂಕ್ರಾಮಿಕ ಸಂದರ್ಭದಲ್ಲಿ ಹೇಗೆ ಭಾರತ ಡಿಜಿಟಲ್\nಸಿದ್ಧತೆ ತುಂಬಾ ಸಹಕಾರಿ ಎಂಬುದನ್ನು ನಾವು\nನೋಡಿದ್ದೇವೆ.\nಭಾರತ ಅತಿ ಶೀಘ್ರವಾಗಿ ತನ್ನ ಆಪ್ಟಿಕಲ್ ಫೈಬರ್ ಜಾಲವನ್ನು\nವಿಸ್ತರಣೆ ಮಾಡುತ್ತಿದೆ. ಪ್ರತಿಯೊಂದು ಗ್ರಾಮಕ್ಕೆ ಅತಿ\nವೇಗದ ಅಂತರ್ಜಾಲ ಸಂಪರ್ಕ ಒದಗಿಸುವುದು ನಮ್ಮ\nಗುರಿಯಾಗಿದೆ.\nರಾಷ್ಟ್ರೀಯ ಶೈಕ್ಷಣಿಕ ತಂತ್ರಜ್ಞಾನ ವೇದಿಕೆಯನ್ನು\nಸ್ಥಾಪಿಸಲಾಗಿದೆ. ಇದು ಡಿಜಿಟಲ್ ಮೂಲಸೌಕರ್ಯ,\nಡಿಜಿಟಲ್ ಪಠ್ಯ ಮತ್ತು ಸಾಮರ್ಥ್ಯ ವೃದ್ಧಿಗೆ ಇ-ಶಿಕ್ಷಣ\nಪೀಠವನ್ನು ಒದಗಿಸಿದೆ.\nಕಲಿಕಾರ್ಥಿಗಳಿಗೆ ಪ್ರಾಯೋಗಿಕ ಅನುಭವ ನೀಡಲು\nವರ್ಚುವಲ್ ಪ್ರಯೋಗಾಲಯಗಳನ್ನು ಸ್ಥಾಪಿಸುತ್ತದೆ.\nಆವಿಷ್ಕಾರ ಮತ್ತು ಉದ್ಯಮಶೀಲತೆ ಸಂಸ್ಕೃತಿಯನ್ನು\nಉತ್ತೇಜಿಸಲು ನಾವು ಅಟಲ್ ಆವಿಷ್ಕಾರ ಯೋಜನೆಯನ್ನು\nಜಾರಿಗೊಳಿಸಿದ್ದೇವೆ."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

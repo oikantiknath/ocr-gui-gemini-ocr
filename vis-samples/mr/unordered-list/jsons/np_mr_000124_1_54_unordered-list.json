@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_mr_000124_1_54_unordered-list.png",
+      "width": 136,
+      "height": 341
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        136.0,
+        341.0
+      ],
+      "area": 46376.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          136.0,
+          0.0,
+          136.0,
+          341.0,
+          0.0,
+          341.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "● यामध्ये निवडणुका, नवीन विधेयके,\nधोरणे, कायदे या राज्यव्यवस्था घटकाशी\nसंबंधित बाबी पहायला हव्यात. भारताचे\nद्विपक्षीय तसेच संघटना सदस्य म्हणून\nआंतरराष्ट्रीय संबंध या घटकाचा भाग\nआहेत. शासकीय धोरणे व चर्चेतील\nमहत्वाचे निर्णय यांमधील महत्त्वाच्या\nतरतुदी समजून घ्याव्यात. नवीन धोरणांशी\nसंबंधित आधीच्या धोरणांचा आढावा घेता\nआल्यास उत्तम.\n● पर्यावरणाशी संबंधित वन अहवाल,\nप्रदूषणाशी संबंधित निर्देशांक, हवामान\nबदलाशी संबंधित अद्ययावत घडामोडी,\nसंमेलने व त्यातील ठराव, क्योटोच्या\nयाद्यांमध्ये समाविष्ट भारतातील प्रजाती,\nअसल्यास हरित न्यायधिकरणाचे चर्चेतील\nनिर्णय यांचा आढावा घ्यावा.\n● अर्थव्यवस्था घटकाच्या चालू\nघडामोडीचा अभ्यास कशा प्रकारे करावा\nयाबाबत स्वतंत्र लेखामध्ये याआधी चर्चा\nकरण्यात आली आहे.\n● खगोलशास्त्रीय शोध, वैज्ञानिक शोध,\nतंत्रज्ञानविषयक अद्ययावत माहिती,\nभारताचा सहभाग असलेले महत्त्वाचे\nआंतरराष्ट्रीय प्रकल्प यांचा आढावा घ्यावा.\n● साथीचे रोग, त्यावरचे उपाय, जागतिक\nआरोग्य संघटनेच्या महत्त्वाच्या घोषणा\nयांचा आढावा घ्यायला हवा."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

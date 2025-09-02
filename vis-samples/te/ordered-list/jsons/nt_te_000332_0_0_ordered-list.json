@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_te_000332_0_0_ordered-list.png",
+      "width": 485,
+      "height": 526
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        485.0,
+        526.0
+      ],
+      "area": 255110.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          485.0,
+          0.0,
+          485.0,
+          526.0,
+          0.0,
+          526.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. అప్పీల్డ్ డెవలప్ మెంట్ ప్లాన్లను సంతకము చేసిన వారు కానందున, తేది.22-\n03-2006 నాటి డెవలప్ మెంట్ ప్లాన్ల అమలునూ నిలిపివేసి వివాదమును\nపరిష్కరించుటకు ప్లాన్లలోని లబ్ధిదారులైనవారు కోరుకొనుటకు అర్హులా?\n\n2. ఎస్.గోపాల్ రెడ్డి మరియు బ్యాంక్ ఆఫ్ ఇండియా, 2016 లోని డిసెంబరు 7నందు మరియు నిబంధన\n4 క్రింద (అప్పీల్డ్ టు అప్పీలేట్ అథారిటీ) రూల్స్, 2016 క్రింద కోర్టులో డెబిట్కు\nవ్యతిరేకముగా ఎస్.సి.ఎస్.టి. సముకములో ప్రొసీడింగ్ జరుగుచుండగానూ మరియు\nడెబ్యునల్ వారు తాత్కాలిక పరిహారం ప్రొవిజనల్ ను నియమకము చేసినందుననూ, ప్రొటెక్ట్\nపనులను జరుపుటకు కోర్టులో డెబిట్ వారిని నియమించబడిన అప్పీలెంట్, చట్టములోని,\nవిభాగము 11(5) మరియు (6) క్రింద లబ్ధిదారులు హక్కును కోరుకొనుటకు, మరియు\nలబ్ధిదారులైన అప్పీలెంట్స్ ను ఆ కోర్టులో నిరోధించుటకు వీలు కల్పించబడునా?\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_gu_001013_4_answer.png",
+      "width": 534,
+      "height": 158
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        534.0,
+        158.0
+      ],
+      "area": 84372.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          534.0,
+          0.0,
+          534.0,
+          158.0,
+          0.0,
+          158.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "માત્ર વાર્તા લખવા માટે જ નહીં, પત્રકારત્વ કે સાહિત્યના ક્ષેત્રમાં સક્રિય થવા ઇચ્છનારે ખૂબ વાંચવું અને લખવું\nજરૂરી છે. હરીન્દ્ર દવે અમને સલાહ આપતા કે રોજના હજારથી દોઢ હજાર શબ્દો લખો. લખીને એ વાંચીને ભલે\nકચરાટોપલીમાં નાખી દો. મને એ સલાહ ખૂબ કામ લાગી છે. આજે તો આવા પ્રેક્ટિસ માટેના લખાણોને પણ\nકમ્પ્યુટરમાં એક ફાઇલ કે ફોલ્ડરમાં સાચવી શકાય છે. નવા લખાણોને સમય-સમય પર એ લખાણો સાથે\nસરખામણી કરતા રહીએ તો લેખનયાત્રાના વિકાસની કસોટી માટે પણ એ બહુ ઉપયોગી બને. મારું માનવું છે કે\nસ્થૂળતા અને મુખરતા કરતાં સૂક્ષ્મતા અને વ્યંગ્યના વાર્તાને વધુ આકર્ષક અને પ્રભાવક બનાવે છે. વિશ્વસાહિત્યની\nવાર્તાઓ વાંચતા રહી અધ્યયન પ્રવાહેાથી વાકેફ રહેવું પણ જરૂરી છે."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

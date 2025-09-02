@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_ml_000474_0_0_reference.png",
+      "width": 857,
+      "height": 712
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        857.0,
+        712.0
+      ],
+      "area": 610184.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          857.0,
+          0.0,
+          857.0,
+          712.0,
+          0.0,
+          712.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ബി.എസ്.എം. കേശവൻ, 2001, പരിസ്ഥിതി ശാസ്ത്രീയ വിഷയം, കേരളാ\nഇൻസ്റ്റിറ്റ്യൂട്ട്, തിരുവനന്തപുരം.\n\nമനോജ് എം. സുരേഷ്, 2015, റിപ്പോർട്ട് നമ്പറുകൾ, കേരളാ ഇൻസ്റ്റിറ്റ്യൂട്ട്,\nതിരുവനന്തപുരം.\n\nലേഖ, 2018, ഭരണങ്ങളെ നേരിടാം.\n\nമുഹമ്മദ് തോമസ്, 2012, പരിസ്ഥിതി വിജ്ഞാനകോശം, കേരളാ സംസ്ഥാന\nസർവവിജ്ഞാനകോശം ഇൻസ്റ്റിറ്റ്യൂട്ട്, തിരുവനന്തപുരം.\n\nBregman, J.I and Mackenthum, K.M. 1992, Environmental impact\nstatements, Chelsia Michigan: Lewis.\n\nCalow, P. 1997, Handbook of Environmental risk assessment and\nManagement. Oxford: Blackwell Science.\n\nCanter, W. Larry, 1996, Environmental impact assessment. McGraw-Hill\nInternational editions. 660p.\n\nFortlage, C.A. 1990, Environmental assessment: A practical guide.\nAldershot: Gower.\n\nGlasson, J, Therivel, R and Chadwick, Al. 1999, Introduction to\nenvironmental impact assessment. UCL Press. 496p."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

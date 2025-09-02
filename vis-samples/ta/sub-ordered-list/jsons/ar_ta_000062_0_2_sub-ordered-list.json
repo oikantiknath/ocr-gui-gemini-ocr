@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_000062_0_2_sub-ordered-list.png",
+      "width": 867,
+      "height": 507
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        867.0,
+        507.0
+      ],
+      "area": 439569.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          867.0,
+          0.0,
+          867.0,
+          507.0,
+          0.0,
+          507.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(அ) மக்களவையின் உறுப்பினராக இருப்பது அற்றுப்போய்விடின், அவர் தம் பதவியை\nவிட்டகலுதல் வேண்டும்;\n\n(ஆ) அந்த உறுப்பினர் அவைத் தலைவராக இருப்பின், துணைத் தலைவருக்கும், அந்த\nஉறுப்பினர் துணைத் தலைவராக இருப்பின், அவைத் தலைவருக்கும்,\nஎச்சமயத்திலும், தம் கையொப்பமிட்டு எழுத்துவழித் தெரிவித்து, தம் பதவியை\nவிட்டு விலகிக் கொள்ளலாம்; மற்றும்\n\n(இ) மக்களவையின் அப்போதைய அனைத்து உறுப்பினர்களில் பெரும்பான்மையினர்\nஅந்த அவையில் நிறைவேற்றும் தீர்மானம் ஒன்றினால் அவருடைய பதவியிலிருந்து\nஅகற்றப்படலாம்:\n\nவரம்புரையாக: (இ) கூறினைப் பொறுத்த தீர்மானம் எதுவும், அத்தீர்மானத்தை\nமுன்மொழிபவருக்கும் கருத்தினைத் தெரிவித்துப் பதினான்கு நாட்களுக்குக் குறையாமல்\nமுன்மறிவிப்புக் கொடுத்திருந்தாலன்றி, முன்மொழியப்படுதல் ஆகாது:\n\nமேலும் வரம்புரையாக: மக்களவை கலைக்கப்படும்போதும், அவ்வாறு கலைக்கப்பட்டதன்\nபின்பு, அடுத்து மக்களவையின் முதல் கூட்டம் தொடங்குவதை ஒட்டியுமுன் வரையில்,\nஅவைத் தலைவர் தம் பதவியை விட்டகல வேண்டியதில்லை."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

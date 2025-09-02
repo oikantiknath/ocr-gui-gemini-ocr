@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_pa_000509_0_8_sub-ordered-list.png",
+      "width": 1048,
+      "height": 673
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        1048.0,
+        673.0
+      ],
+      "area": 705304.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1048.0,
+          0.0,
+          1048.0,
+          673.0,
+          0.0,
+          673.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(i) ਉਹ ਜਮ੍ਹਾ (ਜੋ ਇੱਕ ਸਾਲ ਤੋਂ ਘੱਟ ਹੋਵੇ) ਜਿਸ ਲਈ ਕਲ-ਅਲਤ ਪੱਤ ਦੇ ਹਲ,\\nਉਮਲਿਫਰੋ ਫਿਟਨਟ ਅਤੇ ਹੋਰ ਮਰੀਜਾਤੀ ਅਤੇ ਆਮ-ਮਾਨ ਕਾਰੀ ਹੋਵੇਗੀ;\\n\\n(ii) ਉਹ ਜਮ੍ਹਾ (ਜੋ ਕੋਈ ਹੋਵੇ) ਜਿਸ ਤੋਂ ਬਾਹਰ ਮਰਦੇਬਾ ਦੇ ਨਿਰਦੇ ਅਨੁਸਾਰ, ਹਲ,\\nਉਮਲਿਫਰੋ ਫਿਟਨਟ ਅਤੇ ਹੋਰ ਮਰੀਜਾਤੀ ਜਾਂ ਆਮ-ਮਾਨ ਕਲ-ਅਲਤ ਪੱਤ ਉਠਾਏ ਜਾਣ ਲਈ\\nਫਿਟ ਨ ਹੋਵੇ;\\n\\n(iii) ਜਮ੍ਹਾਵਾਂ ਦੀ ਗਿਣਤੀ (ਜੋ ਕੋਈ ਹੋਵੇ) ਜਿਨ੍ਹਾਂ ਨੂੰ ਵੰਡੇ ਜਾਣ ਲਈ, ਮਰਦੇਬਾ ਦੇ\\nਨਿਰਦੇ ਅਨੁਸਾਰ, ਕਲ-ਅਲਤ ਪੱਤ ਫਿਟ ਹੈ, ਜੋ ਜਰੂਰੀ ਹੋਵੇ, ਤਾਂ ਤੌਕ ਅਤੇ ਕੈਬਨਾਂ ਵਿੱਚ, ਅਤੇ ਤੌਕ ਅਤੇ\\nਕੈਬਨਾਂ ਦੇ ਵੱਖ-ਵੱਖ ਭਾਗਾਂ ਵਿੱਚ ਉਮਾਈ ਜਮ੍ਹਾਵਾਂ ਦੀ ਵੱਖ-ਵੱਖ ਗਿਣਤੀ ਉਲਿਖਤ ਹੋਵੇਗੀ, ਅਜਿਹੀ\\nਗਿਣਤੀ, ਰੁੱਤ, ਜਲ-ਸਰਗ ਦੀ ਪ੍ਰਕਿਰਤੀ, ਵੰਡੇ ਗਏ ਜਮ੍ਹਾ ਜਾਂ ਹੋਰ ਹਾਲਾਤ ਅਨੁਸਾਰ, ਅਜਿਹੀਆਂ\\nਸ਼ਰਤਾਂ ਅਤੇ ਅਦਲਾ-ਬਦਲੀਆਂ ਦੇ ਤਾਬੇ ਹੋਵੇਗੀ, ਜੋ ਉਸ ਸੂਰਤ ਵਿੱਚ ਦਿੱਤੀਆਂ ਹੋਣ;\\n\\n(iiie) ਉਸ ਜਮ੍ਹਾ ਜਾਲ ਦੀ ਪ੍ਰਕਿਰਤੀ ਅਤੇ ਮਾਤਰਾ ਜਿਸ ਨੂੰ ਵੰਡ ਲਈ ਮਰਦੇਬਾ ਦੇ\\nਨਿਰਦੇ ਅਨੁਸਾਰ ਕਲ-ਅਲਤ ਪੱਤ ਫਿਟ ਹੈ; ਅਤੇ\\n\\n(iv) ਕੋਈ ਹੋਰ ਮੁਕਰਰ ਕੀਤੇ ਵੇਰਵੇ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

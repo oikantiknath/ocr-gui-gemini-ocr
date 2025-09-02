@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_bn_000681_1_3_ordered-list.png",
+      "width": 1638,
+      "height": 1711
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        1638.0,
+        1711.0
+      ],
+      "area": 2802618.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1638.0,
+          0.0,
+          1638.0,
+          1711.0,
+          0.0,
+          1711.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "2. Informal Letters:\na. A letter to father for sending some money.\nb. A letter to friend describing the prize giving ceremony of your school\nc. A letter of sympathy to a sick friend in hospital.\nd. A letter to your friend describing the bad effects of smoking.\n3. E-mails:\na. To wish your friend on his/her birthday.\nb. To your father telling him about your progress in studies.\nc. To your friend congratulating him on his/her brilliant success in the\nAnnual Examination.\nd. To your friend describing the accident you have witnessed.\n4. Paragraphs:\na. A Book Fair\nb. Load Shedding.\nc. Your Favourite Teacher.\nd. Traffic Jam.\n5. Completing Stories:\na. A Friend in Need is a Friend Indeed.\nb. He Prayeth Best who Loveth Best.\nc. Honesty is The Best Policy.\nd. Slow and Steady Wins the Race.\n6. Dialogues:\na. A dialogue between two friends about the necessity of tree plantation.\nb. You reached school late. Now write a dialogue between you and your\nclass teacher.\nc. A dialogue between two friends about the importance of learning\nEnglish.\nd. A dialogue between the librarian and a student regarding having a\nlibrary card."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

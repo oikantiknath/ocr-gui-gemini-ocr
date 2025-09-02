@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_gu_000726_0_10_subsub-headline.png",
+      "width": 700,
+      "height": 931
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        700.0,
+        931.0
+      ],
+      "area": 651700.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          700.0,
+          0.0,
+          700.0,
+          931.0,
+          0.0,
+          931.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(૧) આયોજન સહ તાલુકા વિકાસ અધિકારી (પંચાયત)/તાલુકા વિકાસ અધિકારી\n(૨) નાયબ પોલીસ અધિક્ષક/પોલીસ ઇન્સ્પેકટર\n(૩) મામલતદાર-સભ્ય સચિવ\n(૪) તાલુકા વિકાસ અધિકારી, ગ્રામ વિકાસ\n(૫) નાયબ કાર્યપાલક ઇજનેર (આપણી તાલુકો, વાયબ્રન્ટ તાલુકો)\n(૬) નાયબ કાર્યપાલક ઇજનેર, જિલ્લા પંચાયત (સિંચાઇ)\n(૭) નાયબ કાર્યપાલક ઇજનેર, જિલ્લા પંચાયત (માર્ગ અને મકાન)\n(૮) નાયબ કાર્યપાલક ઇજનેર (માર્ગ અને મકાન)\n(૯) નાયબ/અધિક મદદનીશ ઇજનેર (પાણી પુરવઠો)\n(૧૦) નાયબ કાર્યપાલક ઇજનેર, સંકલિત વીજ કંપની\n(૧૧) અધિક્ષક, સામુહિક આરોગ્ય કેન્દ્ર\n(૧૨) બ્લોક હેલ્થ ઓફિસર\n(૧૩) ચીફ ઓફિસર, નગરપાલિકા\n(૧૪) મદદનીશ ખેતી નિયામક\n(૧૫) સંકલિત બાળ વિકાસ યોજના અધિકારી\n(૧૬) સંકલિત પશુપાલકસા અધિકારી\n(૧૭) પ્રાયોજના વહીવટદારના પ્રતિનિધિ (વર્ગ-૨ના અફસર)\n(૧૮) જિલ્લા ઉદ્યોગ કેન્દ્રના પ્રતિનિધિ (વર્ગ-૨ના અફસર)\n(૧૯) જિલ્લા રમત-ગમત અધિકારીના પ્રતિનિધિ\n(૨૦) મદદનીશ વન સંરક્ષક"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

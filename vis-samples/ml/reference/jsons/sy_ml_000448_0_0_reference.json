@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_ml_000448_0_0_reference.png",
+      "width": 879,
+      "height": 1336
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        879.0,
+        1336.0
+      ],
+      "area": 1174344.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          879.0,
+          0.0,
+          879.0,
+          1336.0,
+          0.0,
+          1336.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "തോമസ് നൈനാൻ, ടി.എം., ഡോ., കേരളം - മണ്ണും മനുഷ്യനും, തൃശൂർ: കേരള\nശാസ്ത്രസാഹിത്യ പരിഷത്ത്,\nശശികുമാർ, സി, പ്രിയൻ, ജെ, മുഹമ്മദ് ജാഫർ പാലോട്ട്, നദീർ.പി.കെ, 2011\nകേരളത്തിലെ പക്ഷികൾ, സ്റ്റുഡന്റ് സ്റ്റുഡന്റ്സ് ബുക്സ്, കോട്ടയം,\nഡി.സി. ബുക്സ്,\nസുമലത, പി. തോമസ്, 2007, കേരളത്തിലെ ആദിവാസികളുടെ ജീവിതവും\nസംസ്കാരവും, കോട്ടയം: കറന്റ് ബുക്സ്.\nBaker, James, D., 1997, Planet Earth: The view from space, the\nUniversities Press India Ltd., UGC - India\nBarbier, Edward, B. 1989, Economics, Natural Resources, Scarcity and\nDevelopment-Conventional and Alternative Views, London:\nEarthscan Pubications Ltd.\nDaniels, Ranjit, R. J., 2005, Amphibians of Peninsular India, Bangalore:\nIndian Academy of Sciences.\nDorner, Peter and Mahmoud A. El-Shafie, (Eds), 1980, Resources and\nDevelopment-Natural Resource Policies and Economic\nDevelopment in an Inter dependent World, London: The University\nof Wisconsin Press.\nDay, Francis, 1958, The Fishes of India, Vols. I and II, London: William\nDawson and Sons Ltd.\nGeorge, J.P., 2005, Mangrove ecosystem- A manual for the assessment\nof biodiversity, CMFRI, 15-17.\nGovernment of India, 2013, Report of the Western Ghat Ecology Expert\nPanel. New Delhi: MOEF.\nMathur, PRG, 1977, The Tribal Situation in Kerala, Trivandrum: Kerala\nHistorical Society.\nParayannilam, George, J., 2005, Mangrove Ecosystems: A Manual for the\nAssessment of Biodiversity, Cochin: CMFRI, 15- 17.\nRamade, Francois, 1984, Ecology of Natural resources, Singapore: John\nWiley & sons.\nSen, P.K. and Prasad, N., 2002, An Introduction to the Geomorphology of\nIndia, Allied Publishers Pvt. Ltd.\nSubrahmanian, K.S. and Muraleedharan, M.P., 1985, Origin of the Palghat\nGap in South India - A synthesis, Journal of Geological Society of\nIndia, 26: 28-37."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

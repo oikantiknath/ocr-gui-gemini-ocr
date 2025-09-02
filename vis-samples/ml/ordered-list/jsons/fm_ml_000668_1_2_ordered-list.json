@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_ml_000668_1_2_ordered-list.png",
+      "width": 611,
+      "height": 688
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        611.0,
+        688.0
+      ],
+      "area": 420368.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          611.0,
+          0.0,
+          611.0,
+          688.0,
+          0.0,
+          688.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. യൂട്ടിലിറ്റി ബിൽ*\n2. പി.പി.ഒ/എഫ്.പി.പി.ഒ*\n3. പ്രോപ്പർട്ടി അല്ലെങ്കിൽ മുനിസിപ്പൽ ടാക്സ് രസീത്*\n4. തൊഴിലുടമ/ഇഷ്യൂ ചെയ്ത സർക്കാർ അല്ലെങ്കിൽ കേന്ദ്ര സർക്കാർ വകുപ്പുകൾ, നിയമപരമായ അല്ലെങ്കിൽ റെഗുലേറ്ററി ബോഡികൾ, പൊതുമേഖലാ സ്ഥാപനങ്ങൾ, ഷെഡ്യൂൾഡ് വാണിജ്യ ബാങ്കുകൾ, ധനകാര്യ സ്ഥാപനങ്ങൾ, ലിസ്റ്റഡ് കമ്പനികൾ എന്നിവ നൽകുന്ന അലോട്ട്മെന്റ് കത്ത്. സമാനമായി, പാട്ടക്കരാറുകളും ലൈസൻസ് കരാറുകളും അത്തരം തൊഴിലുടമകൾ അലോട്ട് ചെയ്യുന്ന ഔദ്യോഗിക താമസസ്ഥലവും.*\n5. സ്വയം സാക്ഷ്യപ്പെടുത്തൽ (ഉപഭോക്താവ് ഇ-കെ.വൈ.സി (ആധാർ ഓതന്റിക്കേഷൻ) നടത്തിയിട്ടുണ്ടെങ്കിൽ ആധാർ നിലവിലെ വിലാസമല്ലെങ്കിൽ)*\n6. ഡോക്യുമെന്റ് നമ്പർ*\n7. തീയതി*\nI/We shall submit OVD with updated Current Address w thin a periodof three months, failing which bank may restrict the operations in the account.(Not Applicable when Self\nDeclaration is provided by the customer as per point No. 5 above)\n6. Tax Proof\n1. PAN*/Tax Identification Number or equivalent (If issued by jurisdiction)\n(If PAN not submitted, fill form 60)\n2. Country of Tax Residence in India only and not in any other country or territory outside India*\nYes\nNo\n(If No, please fill the FATCA details form-Annexure)\n7. Income & Profession / Activity Declaration\n1. Occupation Type*\nPrivate Sector Service\nPublic/Govt. Sector Service\nStudent\nRetired\nSelf-Employed\nNot Working\nHousewife\nOther (Please specify)\n2. Business\nTrader\nJeweller\nService Provider\nAgriculture\nStockbroker\nManufacturing\nArms Dealer\n(Only If Self-Employed)\nReal Estate\nOther (Please Specify)\n3. Annual Income* (Rs.)\n4. Nature of Business\n(Only If Self-Employed)\n4. Organization Name(Only If Salaried)\n5. Designation / Profession\n(Only If Salaried)\n6. Please tick the appropriate box*\nPolitically exposed person\nRelated to politically exposed person\nNone\n(Politically Exposed Persons are individuals who are or have been entrusted with prominent public functions in a foreign country e.g. Heads of State / Governments , Senior Politicians / Senior Government / Judicial /\nMilitary Officers, Senior Executives of State-owned Corporations, Important Political Party Officials, etc.)\n8. Other Details\n1. Religion\nHindu\nMuslim\nChristian\nSikh\nOther (Please Specify)\n2. Category\nGeneral\nOBC\nSC\nST\nMinority\n3. No. of Dependents\n4. Illiterate\nYes\nNo\nIf Yes : Identification Marks :\n5. Residential Status*\nResident Individual\nNon-Resident Individual\nForeign National\nPerson of Indian Origin\n6. Customer Type/Status\nSr. Citizen\nStaff\nPF No.\nMinor\nPensioner\nGeneral\nEx Staff\nPF No.\nPardanashin\n7. Person with disability\nYes\nNo\nIf Yes\nVisually Impaired\nDifferently Abled\n8. Education Qualification\nBelow SSC\nSSC\nHSC\nGraduate\nPostgraduate\nProfessional\nOthers\n9. Declaration Cum Undertaking Cum Self-Certification\nI have read the copy of Terms & Conditions of the Account opening given to me. The Terms & Conditions have been explained to me/us and having understood, I accept the\nsame. I hereby declare that I have submitted the Aadhar Card issued by UIDAI voluntarily for identification and/or address proof towards the compliance of KYC norms under\nthe PMLA 2002.\nI hereby consent that the bank may verify the same w iththe U D Aland authorize the UIDAI expressly to release the identity and address through biometric authentication to\nthe bank.\nYes\nNo\n(e-KYC authentication and Aadhar seeding is mandatory for availing DBT benefit )\nPhoto*\nPlease Paste\nRecent Passport Size\nDo Not Staple\nSignature/Thumb Impression of the\nApplicant Please sign in Black Ink\nonly\nPlace\nDate"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

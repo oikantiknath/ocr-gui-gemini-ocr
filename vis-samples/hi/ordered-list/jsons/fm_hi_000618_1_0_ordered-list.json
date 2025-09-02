@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_hi_000618_1_0_ordered-list.png",
+      "width": 447,
+      "height": 117
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        447.0,
+        117.0
+      ],
+      "area": 52299.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          447.0,
+          0.0,
+          447.0,
+          117.0,
+          0.0,
+          117.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. आवेदक के दो नवीनतम फोटो जिसमें से एक फोटो आवेदन पत्र पर चिपकाएं (स्टेपल नहीं करे) तथा दूसरी\nफोटो आवेदन पत्र के साथ संलग्न करें।\n2. संबंधित शपथ-पत्र (शपथ-पत्र में असत्य तथ्य वर्णित करना भारतीय दण्ड संहिता (आईपीसी) की धारा 193\nके अधीन तीन वर्ष तक के कारावास एवं अर्थदण्ड से दण्डनीय है।)\n3. साक्ष्य के अनुसार जो साक्ष्य लागू हो उससे संबंधित दस्तावेजें।\n4. उत्तरदायी व्यक्ति (संसद सदस्य, विधान सभा सदस्य, राजपत्रित अधिकारी, जिला प्रमुख, प्रधान, जिला परिषद\nसदस्य, सरपंच, ग्राम सेवक, पटवारी, महापौर, नगर पालिका अध्यक्ष, नगर निगम सदस्य, अराजपत्रित\nकर्मचारी, बीट प्रभारी (पुलिस) का प्रमाण पत्र जिस उसकी मोहर या राजकीय सेवा का पहचान पत्र।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

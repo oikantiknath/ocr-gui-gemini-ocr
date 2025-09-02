@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_or_000124_0_4_subsub-headline.png",
+      "width": 776,
+      "height": 274
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        776.0,
+        274.0
+      ],
+      "area": 212624.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          776.0,
+          0.0,
+          776.0,
+          274.0,
+          0.0,
+          274.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(କ) ଜମାମିଳି ଥିବା ଅଂଶର ବା ଜମାମିଳି ତଥ୍ୟର ସଂପୂର୍ଣ୍ଣ ଅଧିକାର ଉପଭୋଗ କରିବା ନିମିତ୍ତ ବା\nବିବରଣ, କିମ୍ବା\n(ଖ) ଅନ୍ୟଥା କୌଣସି ପ୍ରକାରେ ଜମାମିଳି ନିଜ ବ୍ୟବହାର ଓ ଉପଭୋଗ ନିମିତ୍ତ ନିର୍ମିତ\nକରିବା ବା ଅଧିକାର ନିମ୍ନ ଆକାରରେ ପୂରା ପ୍ରତିବନ୍ଧ ନିମିତ୍ତ ନିଜ ଆକାରରେ, କିମ୍ବା ଏକ ଅଧିକୃତ\nଦ୍ୱାରା ବା ଅଧିକାରେ ଅଧିରୋପିତ ହର ବା ହେଉ ବା ଅନ୍ୟ କାହାକୁ ନିର୍ଦ୍ଦେଶ ନିମିତ୍ତ ବା ନିର୍ଦ୍ଦେଶ\nକିମ୍ବା ଏକ ଲୋକାଚାରୀ ବା ଅର୍ଥ ବସ୍ତୁ କିମ୍ବା ସହିତ ରେଖାଥିବା ଉପଲବ୍ଧ ଏକ ସମ୍ପୂର୍ଣ୍ଣତା ଅଥବା\nଏକ ଅନୁସୂଚୀ ଲିପି ରାଷ୍ଟ୍ରର ନିର୍ଦ୍ଦେଶ ନିମିତ୍ତ ବା ବିବରଣ ଉପଲବ୍ଧ ବା ନିଜ ମୂଲ୍ୟ ପ୍ରଦାନରେ\nହେଉଥିବା ବା ମୂଲ୍ୟ ପୂର୍ବରୁ ଶେଷ ହେଉଥିବା ଏକ ଉପାଦାନରେ ଏହିରୂପେ ବ୍ୟବହାର ବା ବିବରଣ\nହେଉଥିବା ଆଦି ଏହି ଅନ୍ତର୍ଗତ କରାଯିବ :"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

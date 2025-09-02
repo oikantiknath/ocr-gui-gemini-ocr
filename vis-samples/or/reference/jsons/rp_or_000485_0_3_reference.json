@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_or_000485_0_3_reference.png",
+      "width": 770,
+      "height": 1131
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        770.0,
+        1131.0
+      ],
+      "area": 870870.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          770.0,
+          0.0,
+          770.0,
+          1131.0,
+          0.0,
+          1131.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ଆଲୋଚନା:\n\\\n୧. Poetry is the spontaneous overflow of powerful feeling, Wordsworth.\n\\\n୨. ମାତା ତୁଲ୍ୟ ଆମ୍ଭ ଆମ୍ଭ\n\\\nଯତ୍ନ କରୁ ସୁଖ ଦେଉଛ।\n\\\nସେବା ତୁଲ୍ୟ ଅନ୍ୟଥା\n\\\nକିମ୍ବା ନର <$#[illegible]#$> କିପରି? (ପ୍ରମାଦ ସୂଚନା: ସହଜ ଧରଣ, ପୃଷ୍ଠା-୪)\n\\\n୩. ଆମ୍ଭେ ଆଧୁନିକ ହେଉଁ ସାମଗ୍ରୀ ଲୋଡ଼ୁଛ।\n\\\nପ୍ରତ୍ୟେକ ଜଣ ସେବା ଦେଉଛ।\n\\\nଆମ୍ଭେ, ଲକ୍ଷ୍ୟମାନୀ, ଆମ୍ଭେ ଜଣେ ଅଭିଜ୍ଞ ହେଉ।\n\\\nକିନ୍ତୁ କେତେ ଜଣ କିଏ ଜାଣେ।। (ସୂଚନା : ସାମାନ୍ୟ, ସହଜ ଧରଣ, ପୃଷ୍ଠା-୨୨)\n\\\n୪. ବହୁ ଆମ୍ଭେ ମୋର ଆମ୍ଭେ ପ୍ରକୃତି\n\\\nସୁନ୍ଦର ଲୋଡ଼ୁଛ। ସମ\n\\\nସମାଧି ଜଣେ ଲକ୍ଷ୍ୟ ମିଳିତ ଲକ୍ଷ୍ୟ\n\\\nପ୍ରକୃତିର ଅନୁସରଣ। (ନିୟମିତ -ଲକ୍ଷ୍ୟମାନୀ ଅଭିଜ୍ଞତା)\n\\\n୫. ଆଲୋକ ତୁଲ୍ୟ ସ୍ୱପ୍ନର\n\\\nସୋମାଲି ଜଣେ ଜଣେ ସ୍ୱପ୍ନ ଦେଉଛ।\n\\\nତୁ ଯଦି ନାହିଁ ମୋ ପ୍ରିୟ ନାହିଁ କିନ୍ତୁ\n\\\nନାହିଁ ନାହିଁ ଏ ଆଲୋକ ତୁମ\n\\\nଜୀବନ ସହ ସୋମାଲି, ନାହିଁ ନାହିଁ କିନ୍ତୁ ଏହି\n\\\nନାହିଁ କିନ୍ତୁ ନୁହେଁ! (ସାଧାରଣ : ସହଜ ମହିଳା, ପୃଷ୍ଠା-୧୫୨)\n\\\n୬. ଆମ୍ଭେ ଜଣେ ମୋର ସହଜତା\n\\\nସହସ୍ରାଧିକ ସମାଧି ରାଜା\n\\\nଜୀବନ ପ୍ରିୟ ସହଜ ଆତ୍ମା ପ୍ରକୃତି\n\\\nଆମ୍ଭେ ଜଣେ ପ୍ରିୟ ସମାଧି ସହଜ ପ୍ରକୃତି।\n\\\nସମାଧି ପ୍ରିୟ, ସହଜ ରାଜା\n\\\nଆମ୍ଭେ ଜଣେ ମୋର ଲକ୍ଷ୍ୟ ସାମାନ୍ୟ\n\\\nପ୍ରିୟତମ ପ୍ରିୟ ସହସ୍ରାଧିକ ସମାଧି\n\\\nଲକ୍ଷ୍ୟ ମୋର ସହଜ ମୋର ଲକ୍ଷ୍ୟ।\n\\\n(ସାମାନ୍ୟତା -ଲକ୍ଷ୍ୟମାନୀ ସହଜ ଅଭିଜ୍ଞତା, ଲ.ସ.ସ. ୧ମ ଖଣ୍ଡ, ପୃଷ୍ଠା-୩୦୫)"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

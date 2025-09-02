@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_mr_000091_0_1_unordered-list.png",
+      "width": 1298,
+      "height": 595
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        1298.0,
+        595.0
+      ],
+      "area": 772310.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1298.0,
+          0.0,
+          1298.0,
+          595.0,
+          0.0,
+          595.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "खोकणे, गुदमरणे, गप्प होणे, थुंकणे, अन्न आणि पेय उलटून काढणे, विशेषतः: जेव्हा नवीन चवीचं किंवा वासाचं\nखाणं दिलं असेल तेव्हा.\nनवीन वास किंवा चवीतील बदल चटकन स्वीकारता येत नाही.\nअंगविक्षेप करणे किंवा चेहरा वेडावाकडा करणे, अन्न दूर ढकलणे\nएखादा पदार्थ/पेय त्याचा रंग, वास, चव किंवा स्वरूप बघून खाण्याचे टाळणे\nनावडत्या खाण्यापिण्याला स्पष्ट नकार देणे.\nजेवायला गरजेपेक्षा जास्त वेळ लागणे (३०-४० मिनिटांपेक्षा जास्त).\nजेवताना जास्त मोठा घास किंवा पेयाचा मोठा घोट घेणे.\nअन्नाचा घास तोंडात जास्त वेळ धरून ठेवणे(स्वतःच्या नकळत ).\nअन्न, पेय किंवा लाळ तोंडातून बाहेर गळत राहणे (स्वतःच्या नकळत) .\nजेवताना वारंवार रडणे, गोंधळ घालणे आणि किरकिर करणे.\nजेवता जेवता मधेच वारंवार झोपी जाणे\nधरून ठेवून जेवायला घालावे लागणे(हात दाबून ठेवून)\nस्पर्श करण्याचे टाळणे(विशेषतः: हळूवार स्पर्श )"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

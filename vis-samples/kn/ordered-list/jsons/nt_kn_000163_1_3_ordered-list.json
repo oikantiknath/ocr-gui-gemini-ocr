@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_kn_000163_1_3_ordered-list.png",
+      "width": 491,
+      "height": 261
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        491.0,
+        261.0
+      ],
+      "area": 128151.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          491.0,
+          0.0,
+          491.0,
+          261.0,
+          0.0,
+          261.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(v) ಒಬ್ಬ ವ್ಯಕ್ತಿಯು ಯಾವುದೇ ಸುಳ್ಳು ಹೇಳಿಕೆಯನ್ನು ಉಪಾಧ ಮಾಡಿರದಿದ್ದರೂ ಅಂಥ\nಹೆಸರು ಉಪಾಧ ಮಾಡಿರದಿದ್ದರೂ ಯಾವುದೇ ಸಂದರ್ಭದಲ್ಲಿ ವ್ಯಾಪಾರ ವಿವರಣೆಯನ್ನಾಗಲಿ\nಹೇಗೇನೇ ಆಗಲಿ ಅಂಥ ವಿಧಾನದಲ್ಲಿ ಸರಣಿಗಳಿಗೆ ಉಪಾಧ ಸೇವೆಗಳಿಗೆ ಬಳಸಿದಲ್ಲಿ ಆ ಹೆಸರು\nಉಪಾಧ ಮಾಡಿರದಿದ್ದರೂ.-\n(ಎ) ಒಂದು ವ್ಯಾಪಾರ ವಿವರಣೆಯಾಗಿದ್ದರೂ ಉಪಾಧ ವ್ಯಾಪಾರ ವಿಷಯ\nಧನಾಗಾರವಾಗಿದ್ದರೂ;\n\n(ಬಿ) ಅದೇ ವಿವರಣೆಯ ಸರಣಿಗಳು ಉಪಾಧ ಸೇವೆಗಳ ಉಪಾಧ ಸವಿದಾರರ\nಸಂಬಂಧದಲ್ಲಿ ವ್ಯಾಪಾರವನ್ನು ನಡೆಸುವ ಮತ್ತು ಅಂಥ ಹೆಸರು ಉಪಾಧ ಮಾಡಿರದಿದ್ದರೂ\nಬಳಸಿಯನ್ನು ಅಧಿಕೃತಗೊಳಿಸಿದಲ್ಲಿ ಒಬ್ಬ ವ್ಯಕ್ತಿಯ ಹೆಸರು ಉಪಾಧ ಮಾಡಿರದಿದ್ದರೂ\nತದನಂತರವಾಗಿಯೂ ಉಪಾಧ ಮೋಸಗೊಳಿಸಿದಾಗ ಸಹ ಸಮಾದಾನವಾಗಿದ್ದರೂ; ಮತ್ತು\n\n(ಸಿ) ಅಂಥ ಸರಣಿಗಳು ಉಪಾಧ ಸೇವೆಗಳ ಸಂಬಂಧದಲ್ಲಿ ವ್ಯಾಪಾರ ನಡೆಸುವ\nಒಬ್ಬ ಕಲ್ಪಿತ ವ್ಯಕ್ತಿಯು ಉಪಾಧ ನೀಡಿದಲ್ಲಿ ಯಾರೇ ವ್ಯಕ್ತಿಯು ಹೆಸರನ್ನು ಉಪಾಧ\nಮಾಡಿದಿರದಿದ್ದರೂ ಹೊಂದಿದ್ದರೆ"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

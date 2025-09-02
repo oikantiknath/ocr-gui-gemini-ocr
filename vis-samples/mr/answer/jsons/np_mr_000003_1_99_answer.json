@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_mr_000003_1_99_answer.png",
+      "width": 213,
+      "height": 105
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        213.0,
+        105.0
+      ],
+      "area": 22365.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          213.0,
+          0.0,
+          213.0,
+          105.0,
+          0.0,
+          105.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "१. हक्काधारित दृष्टिकोन- i) स्वातंत्र्यानंतरच्या काही दशकांमध्ये भारताचे\nलोकशाहीकरण व्हावे म्हणून अनेक सुधारणा झाल्या. परंतु त्यात नागरिकांकडे\nलाभार्थी म्हणून पाहण्याची दृष्टी होती. ii) गेल्या काही दशकांमधील सुधारणा\nमात्र नागरिकांचा तो हक्कच आहे, या भूमिकेतून करण्यात येत आहेत. याला\nहक्काधारित दृष्टिकोन असे म्हणतात.\n२. प्रादेशिकता- i) आपली भाषा आणि आपला प्रदेश यांच्याविषयीची\nआत्मीयतेची भावना निर्माण होऊन काही काळानंतर निष्ठेबाबत अस्मिता\nनिर्माण होऊ लागते, यालाच प्रादेशिकता असे म्हणतात. ii) प्रादेशिकतेमुळे\nलोक आपल्या प्रदेशाच्या हिताचा व विकासाचा प्राधान्याने विचार करू\n<$#[illegible]#$>\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

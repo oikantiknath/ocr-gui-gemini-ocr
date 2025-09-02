@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_hi_000254_0_11_subsub-headline.png",
+      "width": 1247,
+      "height": 332
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        1247.0,
+        332.0
+      ],
+      "area": 414004.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1247.0,
+          0.0,
+          1247.0,
+          332.0,
+          0.0,
+          332.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(क) “अन्य हिताधिकारियों” से इस अधिनियम के अधीन बीमाकृत व्यक्तियों से भिन्न व्यक्ति अभिप्रेत हैं;\n(ख) “स्कीम” से केन्द्रीय सरकार द्वारा अन्य हिताधिकारियों के संबंध में चिकित्सा सुविधा के लिए धारा 73ख के\nअधीन समय-समय पर विरचित की गई कोई स्कीम अभिप्रेत है;\n(ग) “अल्प उपयोगित अस्पताल” से ऐसा अस्पताल अभिप्रेत है जिसका इस अधिनियम के अधीन बीमाकृत\nव्यक्तियों द्वारा पूर्ण रूप से उपयोग नहीं किया जाता है;\n(घ) “उपभोक्ता प्रभार” से वह रकम अभिप्रेत है जो ऐसी चिकित्सा सुविधाओं के लिए, जो समय-समय पर निगम\nद्वारा केन्द्रीय सरकार के परामर्श से अधिसूचित की जाएं, अन्य हिताधिकारियों से प्रभारित की जानी है ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

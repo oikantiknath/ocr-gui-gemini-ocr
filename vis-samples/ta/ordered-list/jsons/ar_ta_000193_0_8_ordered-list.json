@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_000193_0_8_ordered-list.png",
+      "width": 996,
+      "height": 391
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        996.0,
+        391.0
+      ],
+      "area": 389436.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          996.0,
+          0.0,
+          996.0,
+          391.0,
+          0.0,
+          391.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "353. நெருக்கடிநிலைச் சாற்றாணையிள் விளைவு:\n    நெருக்கடிநிலைச் சாற்றாணை ஒன்று செயற்பாட்டில் இருக்குங்கால்-\n    (அ) இந்த அரசமைப்பில் எது எவ்வாறிருப்பினும், மாநிலம் ஒன்றன் ஆட்சி அதிகாரம்\n    எம்முறையில் செலுத்தப்படவேண்டும் என்று பணிப்புரைகள் இடுவதற்கான\n    அதிகாரமும் ஒன்றியத்து ஆட்சி அதிகாரத்தில் அடங்கும்.\n    (ஆ) எந்தப் பொருட்பாடு பொறுத்துச் சட்டங்கள் இயற்றுவதற்கு நாடாளுமன்றத்திற்குள்ள\n    அதிகாரமானது ஒன்றியத்துப் பட்டியலில் எண்ணிடப்பட்டுள்ள ஒன்றாக அந்தப்\n    பொருட்பாடு இல்லாதிருப்பினுங்கூட ஒன்றியத்திற்கு அல்லது ஒன்றியத்தின்\n    அலுவலகர்களுக்கும் அதிகார அமைப்புகளுக்கும் அந்தப் பொருட்பாடு பொறுத்து\n    அதிகாரங்களை வழங்குதல், கடமைகளை விதித்தல் ஆகியவற்றிற்கான சட்டங்களை\n    அல்லது அவ்வாறு அதிகாரங்களை வழங்கவும் கடமைகளை விதிக்கவும்\n    அதிகாரமளிப்பதற்கான சட்டங்களை இயற்றுவதற்கான அதிகாரத்தையும் உள்ளடக்கும்:"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

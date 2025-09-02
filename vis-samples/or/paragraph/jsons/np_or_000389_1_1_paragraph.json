@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_or_000389_1_1_paragraph.png",
+      "width": 160,
+      "height": 275
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        160.0,
+        275.0
+      ],
+      "area": 44000.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          160.0,
+          0.0,
+          160.0,
+          275.0,
+          0.0,
+          275.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ଅନୁସରଣ କ୍ରମ ସଂଖ୍ୟା ପ୍ରାପ୍ତି ନା’ ନାମକରଣ ପାଇଁ\nଅନୁଷ୍ଠାନର ସ୍ୱତନ୍ତ୍ର କ୍ଷମତା ବଳରେ ଅନୁସରଣ ଅଧିସୂଚି\nପ୍ରଥା ବିନା ସରକାରୀ ‘ସର୍ବନିମ୍ନ ପାପା ରାଜସ୍ୱ\nଅଧିନିୟମ’ର ୩୩ତମ ଧାରା ମାଧ୍ୟମେ ଅନୁମତି ଅନୁମତି\nଦେଇଥାନ୍ତି । ପ୍ରଥା ବିନା ଅଷ୍ଟ ପାପା ରାଜସ୍ୱ\nଅଧିନିୟମ ଅନୁସାରେ ଲାଭ ଲାଭ ଉପରେ ଅତିରିକ୍ତ\nମନ୍ତ୍ରୀପଦ ଲାଭ ପାଇବା ଉଦ୍ଦେଶ୍ୟ ଓ ପ୍ରଦାନ\nପ୍ରଦାନ କରି ଅନିୟମିତ ଉପାୟରେ କରିଥିଲେ ।\nସାଧାରଣରେ ଲାଭର ୩୫ପ୍ରତିଶତ ଅତିରିକ୍ତ ମନ୍ତ୍ରୀପଦ\nପ୍ରାପ୍ତିପାଇଁ ଅଧିନିୟମରେ କ୍ରମ ଅଧିସୂ\nଲାଭ ପାଇବା ସମାପ୍ତ ଅନୁମତି ଅନୁମତି\nଦେଇଦେଇଥିଲେ । ସମାପ୍ତ ଅଧିସୂଚି ଲାଭ ଉପରେ\nସମ୍ପୂର୍ଣ୍ଣ କରିବାକୁ ନକଲ ପ୍ରାପ୍ତ ବିଭାଗ ସରକାରୀ\nସାଧାରଣ ଡ. ରବିନାରାୟଣ ଦଶ, ରାଜ୍ୟ ପାପା\nରାଜସ୍ୱ ସଂସଦ ସାଧାରଣ ସମାପ୍ତ ନକଲ ଲାଭ,\nନାମକରଣ ସମାପ୍ତ ବିଜେ ମନ୍ତ୍ରୀ, କ୍ରୁଷି ତଥା ପ୍ରମୁଖ\nପ୍ରମୁଖ ଲାଭ ଲାଭ, ଲାଭ ଉପରେ ନକଲ କରିଥିଲେ,\nମନ୍ତ୍ରୀପଦ ମନ୍ତ୍ରୀ, ଲାଭ ଅତିରିକ୍ତ ପ୍ରମୁଖ ଉପାୟରେ,\nଲାଭ ଅତିରିକ୍ତ ମନ୍ତ୍ରୀପଦ ମନ୍ତ୍ରୀପଦ ଲାଭ ।\nପାପା ମିଳିଥିଲେ ଦଶ, ସଂସ୍କୃତି ଓ ସାହିତ୍ୟ ଅନେକ\nସମାପ୍ତ ଅନୁସରଣକାରୀ ମନ୍ତ୍ରୀ ମିଳିଥିଲେ ।\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_ta_000332_1_0_reference.png",
+      "width": 431,
+      "height": 300
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        431.0,
+        300.0
+      ],
+      "area": 129300.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          431.0,
+          0.0,
+          431.0,
+          300.0,
+          0.0,
+          300.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "Peter Goodrich. (1986). Reading the Law: A Critical Introduction to Legal Method and Technique.\nU.K.: Blackwell Publishers.\n\nPuspa Nathan Naharajah. (2014). Wanita dalam Cerpen-cerpen R.Karthigesu: (Unpublished\nMaster’s thesis). University Malaya, Kuala Lumpur.\n\nRajeswary Vairan. (2015). Feminisme dalam novel-novel pada abad ke-21. (Unpublished Doctoral\nThesis): Universiti Pendidikan Sultan Idris, Tanjung Malim.\n\nRavindaran Marayal. (2012). Penggambaran Citra Wanita dalam Cerpen Tamil Malaysia. 1970-\n2010: Kajian berasakan arketaipal. (Unpublished Master’s thesis): University Malaya, Kuala\nLumpur.\n\nRinah Periasamy. (2014). Cerpen N.Mageswary: Kajian Theory Feminism. (Unpublished Master’s\nthesis): University Pendidikan Sultan Idris, Tanjung Malim.\n\nSilllalee (2017). “The Social Ill-Fames of Malaysian Cinema Andal”, Journnal of Tamil Peraivu.\n(Vol.5 / pp.20-31).\n\nSilllalee, S., Kandasamy. (2015). Filem-filem Tamil di Malaysi: Pemerhatioan Terhadap\nKetaksamaan Sosial. Unpublished Phd Thesis. Faculty of Arts and Sains Social. University\nMalaya.\n\nThilagavathi. (2005). Ammā. In Pēravaik Kataikal 20 (pp. 119-127). KL: PBTUM.\n\nThiruppathi, J. (2013). Feminism in Prabanchān’s Novels. (Unpublished Doctoral Thesis):\nTamilnadu: Manonmaniam University."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

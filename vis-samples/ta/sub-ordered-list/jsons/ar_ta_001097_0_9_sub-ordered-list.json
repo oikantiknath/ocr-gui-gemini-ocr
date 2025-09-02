@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_001097_0_9_sub-ordered-list.png",
+      "width": 696,
+      "height": 653
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        696.0,
+        653.0
+      ],
+      "area": 454488.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          696.0,
+          0.0,
+          696.0,
+          653.0,
+          0.0,
+          653.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(அ) “சிறை” என்பது, கிளைச் சிறைச்சாலை, நீதிமன்றச் சிறைக்கூட\nமன்ன அல்லது காவல்துறை சிறைக்கூட மனை மற்றும்\nஅப்பேரவைக்குச் செயலாற்றறவில் உள்ள சட்டம் தன்படியும்,\nஇருத்தி வைக்க ஆணையிடப்பட்ட ஆட்களைப் பாதுகாப்பில்\nவைக்கும் இடம் எதனையும் உள்ளடக்கும்.\n(ஆ) “கைதிகள்” என்பது, 1948 ஆம் ஆண்டு 1-க்கு முன்பு, நீதி\nமன்றம் ஒன்றின் அல்லது உரிமையியல் நீதிமன்றம் அல்லது\nபடை நீதிமன்றம் அல்லது வேறு அதிகார அமைப்பின் நீதிப்\nபேராணையின்படி, பிடியாணையின்படி அல்லது ஆணையின்படி\nஆள் எவரையும் காவலில் வைத்ததற்கு அனுப்புதல்” என்ற\nபொருள் படும்.\n(இ) * * * * *\n(ஈ) “மாற்றப்பட்டக்க கைதி” என்பது,—\n(i) 1956 நவம்பர் 1-க்கு முன்பு இருந்தவரான பஞ்சாப்\nமாநிலத்தில், இந்தச் சட்டத்தின் வகையங்களிள்படி பாகிஸ்தா\nனுக்கு மாற்றல் பெற விருப்பமுடையவராய் உள்ள முஸ்லீம்\nகைதி எவரும், மற்றும்\n(ii) இந்தியாவிலுள்ள வேறேதேனும் பகுதியில், இந்தச் சட்டத்தின்\nவகையங்களிள்படி பாகிஸ்தானுக்கு மாற்றல் செய்யப்பட்டு\nவதற்கு விரும்புகிற ஒரு முஸ்லீமாக இருந்து, மைய அரசாங்கம்\nஅதிகாரபூர்வ அரசிதழில் அறிவிக்கை வாயிலாகக் குறித்தரைக்க\nலாகும் வகையைச் சேர்ந்தவராக உள்ள கைதி எவரும்\nஎன்று பொருள்படும்."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_or_000088_0_0_ordered-list.png",
+      "width": 646,
+      "height": 962
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        646.0,
+        962.0
+      ],
+      "area": 621452.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          646.0,
+          0.0,
+          646.0,
+          962.0,
+          0.0,
+          962.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "୨୫— ୧୬ ଧାରା ଅନୁସାରେ ୫-୯-୯୦ରେ ଲଗା ହୋଇଥିବା ବନ୍ଧୁକ\\nରୁ ବାହାରିବା ତାଲିମ ଦେଇ ଉକ୍ତ ପ୍ରମାଣପତ୍ର ଦିଆଯିବ କି ନାହିଁ ?\\n\\n୮୬—(କ) ବନ୍ଧୁକ (ବିଦେଶୀ) ବର୍ଷ ୧୯୯୯-୨୦୦୦ ମସିହା ପରେ\\nନିର୍ଗତ ହୁଏ ବନ୍ଧୁକ ଦିଆଯିବ କି ନାହିଁ ? (ଖ) ଉକ୍ତ ଦିଆଯାଇଥିବା\\nବନ୍ଧୁକ ୧୮ ଧାରା ଅନୁସାରେ ପ୍ରଦାନ କରାଯିବ କି ନାହିଁ ?\\n\\n୮୭—(କ) ୧୯ ଧାରା ଅନୁସାରେ ମୌଳିକ ଅସ୍ତ୍ର ଧାରା ଦିଆ-\\nଯିବ କି ନାହିଁ ? (ଖ) ଉକ୍ତ ଦିଆଯାଇଥା, ତେବେ ଅସ୍ତ୍ରାଗ୍ନିକୁ ନିୟ-\\nମିତ କାର୍ଯ୍ୟାଳୟ ତାଲିମ କରାଯିବ କି ନାହିଁ ?\\n\\n୧୦୮—(କ) ଯେଉଁ ଡିଲର ଅଗ୍ନିକୁ ବନ୍ଦ ହେବା ନିମନ୍ତେ ଅସ୍ତ୍ରାଗ୍ନି\\n୧୧ ଧାରା ଡି ୮ ନମ୍ବର ଅନୁସାରେ ବନ୍ଦିତ ହେବ କି ନାହିଁ ? ଏବଂ\\nସେହି ନିୟମରେ ସ୍ଥାୟୀ କାର୍ଯ୍ୟାଳୟରୁ ସବୁ ରେକର୍ଡ ଓ ପ୍ରମାଣ\\nପତ୍ରମାନ ରଖିବ କି ନାହିଁ ? (ଖ) ୨୬ ନମ୍ବର ଅନୁସାରେ ଧାରା ତା\\nବୈଧକ ବିବରଣୀ ରଖିବ କି ନାହିଁ ? (ଗ) ଏହି ଧାରାକୁ ଉଲ୍ଲଙ୍ଘନ\\nବା ଅବମାନିତ ହେଉ ନାହିଁ ଏବଂ କି ନାହିଁ ?\\n\\n୧୧୯—(କ) ଡି ୩୭୦ ଏହି ଉପାୟରେ ୩୭୯ (କ) ଉପଦେଶୀୟ\\nକାମ ହେଉ ସହିତ ଡିଲର ଡିଲରୀ ଉପଦେଶ ସହିତ ରହିବ କି ନାହିଁ ?\\nଏବଂ ୨୪ ଧାରା ଅନୁସାରେ ତାହା ବ୍ୟବହୃତ ହୋଇଥୁବ କି ନାହିଁ ?\\n(ଖ) ଉପଦେଶୀ କାର୍ଯ୍ୟାଳୟର ଖାତା ୧୫ ଧାରା ଅନୁସାରେ ଏବଂ ୧୩\\nକାମ ରଖା ହୋଇଥୁବ କି ନାହିଁ ? (ଗ) ୧୬ ଧାରା ଅନୁସାରେ ଉପାୟାତ୍ମକ\\nସବୁ ବିବରଣୀ ତେବେ ଡାକରେ ଡିଲରୀ ଡାକି ନେଉଥୁବ ? (ଘ) ଡିଲରୀ\\nସବୁ ସାବଧାନ ହୋଇଥୁବ ? (ଙ) ସେ ଉପାୟକ ଡାକରେ ଅସ୍ତ୍ର ଡାକି\\nନେବା ଉଚିତ (ଚ) ଏହି ଅଧିନ ଅନୁସାରେ ମୌଳିକ ଜରିମାନା (fines)\\nବା ଦଣ୍ଡ (penalties) ଅଗ୍ନିକୁ ହୋଇଥୁବ କି ନାହିଁ ? (ଛ) ଉକ୍ତ ଅଗ୍ନିକୁ"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

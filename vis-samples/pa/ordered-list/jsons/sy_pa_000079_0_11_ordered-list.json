@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_pa_000079_0_11_ordered-list.png",
+      "width": 1455,
+      "height": 267
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        1455.0,
+        267.0
+      ],
+      "area": 388485.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1455.0,
+          0.0,
+          1455.0,
+          267.0,
+          0.0,
+          267.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. ਪਹਿਲੇ ਦੇ ਭਾਗ (ਭਾਗ ੳ) ਵਿੱਚ ਦੋ ਪ੍ਰਸ਼ਨ ਪੁੱਛੇ ਜਾਣਗੇ, ਜਿਨ੍ਹਾਂ ਵਿੱਚੋਂ ਇੱਕ ਪ੍ਰਸ਼ਨ ਕਰਨਾ ਹੈ। ਇਹ ਪ੍ਰਸ਼ਨ 09 ਅੰਕ ਦਾ ਹੋਵੇਗਾ।\n2. ਭਾਗ ਅ ਦੇ ਚਾਰੋਂ ਉਪ ਭਾਗਾਂ (ਅ-1, ਅ-2, ਅ-3, ਅ-4) ਵਿੱਚੋਂ ਅੱਠ-ਪ੍ਰਸ਼ਨਾਂ ਵਿੱਚੋਂ ਤਿੰਨ ਪ੍ਰਸ਼ਨ ਹੱਲ ਕਰਨੇ ਹਨ। ਇੱਕ ਉਪ-ਭਾਗ ਵਿੱਚੋਂ\nਇੱਕ-ਇੱਕ ਪ੍ਰਸ਼ਨ ਹੀ ਹੱਲ ਕਰਨੇ ਹੈ। ਇਹਨਾਂ ਤਿੰਨ ਪ੍ਰਸ਼ਨਾਂ ਦੇ 9 X 3 = 27 ਅੰਕ ਹੋਣਗੇ।\n3. ਤੀਜੇ ਭਾਗ (ਭਾਗ-ੲ) ਦੇ ਲਾਜ਼ਮੀ ਪ੍ਰਸ਼ਨ ਦੇ ਸਾਰੇ ਪ੍ਰਸ਼ਨਾਂ ਦਾ ਸੰਖੇਪ ਉੱਤਰ ਦੇਣਾ ਹੈ। ਹਰੇਕ ਪ੍ਰਸ਼ਨ ਦੇ 2 ਅੰਕ ਹਨ।\n4. ਉੱਤਰ ਪ੍ਰਸ਼ਨਾਂ ਨੂੰ ਨਿਸ਼ਚਿਤ ਵਿੱਚ ਰੱਖਕੇ ਅਤੇ ਪ੍ਰਸ਼ਨ ਦੀ ਸੀਮਾ ਵਿੱਚ ਰਹਿ ਕੇ ਦਿੱਤਾ ਜਾਵੇ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

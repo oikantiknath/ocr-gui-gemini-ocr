@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_bn_000304_1_3_reference.png",
+      "width": 1413,
+      "height": 933
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        1413.0,
+        933.0
+      ],
+      "area": 1318329.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1413.0,
+          0.0,
+          1413.0,
+          933.0,
+          0.0,
+          933.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "সহায়ক গ্রন্থ (নির্বাচিত) :\n❑ চলচ্চিত্রের অভিধান— শ্রীমান দাশগুপ্ত\n❑ বিষয় চলচ্চিত্র— সত্যজিৎ রায়\n❑ বাংলা চলচ্চিত্রের ইতিহাস— নির্মাল্য আচার্য ও দিব্যেন্দু পালিত (সম্পাদিত)\n❑ রবীন্দ্রনাথের সিনেমা সিনেমার রবীন্দ্রনাথ— চণ্ডী মুখোপাধ্যায়\n❑ মৃণাল সেনের ফিল্মযাত্রা— শিলাদিত্য সেন\n❑ কবিতার ক্লাস— নীরেন্দ্রনাথ চক্রবর্তী\n❑ বিষয় আবৃত্তি— অমিয় চট্টোপাধ্যায়, দেবদুলাল বন্দ্যোপাধ্যায়\n❑ বাংলা সিনেমার ইতিকথা : দুই বাংলার চলচ্চিত্র (১৯০০-২০১৪)— চণ্ডী মুখোপাধ্যায়\n❑ চলচ্চিত্র : চিত্রবীজ রবের ব্রেস (ভাষান্তর : সন্দীপন ভট্টাচার্য)\n❑ চলচ্চিত্র মানুষ এবং আরো কিছু— ঋত্বিককুমার ঘটক\n❑ সিনেমার ইতিবৃত্তান্ত— পার্থ রাহা\n❑ বাংলা বলো— পবিত্র সরকার\n❑ কি লিখি কেন লিখি— নীরেন্দ্রনাথ চক্রবর্তী"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

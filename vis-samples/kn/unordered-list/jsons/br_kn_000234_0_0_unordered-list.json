@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_kn_000234_0_0_unordered-list.png",
+      "width": 836,
+      "height": 572
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        836.0,
+        572.0
+      ],
+      "area": 478192.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          836.0,
+          0.0,
+          836.0,
+          572.0,
+          0.0,
+          572.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "*  ಕೂಡಲೇಚಿಕಿತ್ಸೆಯಿರದಿದ್ದರೆ: ಡೆಕ್ಸಾಮೆಥಾಸೋನ್ 0.15 ಎಂಜಿ/ ಕೆ.ಜಿ. ಡೋಸ್, [ಗರಿಷ್ಠ 6\n    ಎಂ.ಜಿ.] ದಿನಕ್ಕೆ ಎರಡು ಬಾರಿ. ಮೆಥಿಲ್‌ಪ್ರೆಡ್ನಿಸೋಲೋನ್ ಅನ್ನು ಸಮಾನ ಡೋಸ್ ಗಳಂತೆ 5 ರಿಂದ\n    14 ದಿನಗಳವರೆಗೆ ಬಳಕೆ ಮಾಡಬೇಕು. ಅದು ಕ್ಲಿನಿಕಲ್ ಒತ್ತಾಯದ ಮೇಲೆ\n    ಅವಲಂಬಿತವಾಗಿದೆ.\n*  ಅಂಬಿ ವೈರಲ್ ಬೆಂಬಲ: “ಇಮ್ಯೂನ್” ಗೆ ರೆಮಿಡಿಸಿವಿಯರ್ ಗೆ ಮಂಜೂರಾತಿ, ಮಗುವಿನ\n    ಮೂತ್ರಪಿಂಡ ಮತ್ತು ಯಕೃತ್ ಕಾರ್ಯನಿರ್ವಹಣೆ ಸಾಮಾನ್ಯವಾಗಿಲ್ಲದಿರುವ ನಿಯಂತ್ರಿತ ಮಾರ್ಗದಲ್ಲಿ\n    ಮೂರು ದಿನಗಳ ಕಾಲ ಬಳಸಿದುದಾಗಿದೆ ಮತ್ತು ಅಡ್ಡಪರಿಣಾಮಗಳ ಮೇಲೆ ನಿಗಾವಹಿಸಬೇಕು\n*  ಡೋಸ್ ಗಳ ಕ್ರಮಾನು [ದೇಹದ ತೂಕದ ಆಧಾರದ ಮೇಲೆ ಅವಲಂಬಿತವಾಗುತ್ತದೆ]\n    *  > 40 ಕೆ.ಜಿ.: ಮೊದಲ ದಿನ 200 ಎಂ.ಜಿ. ನಂತರ 4 ದಿನಗಳ ಕಾಲ 100 ಎಂ.ಜಿ. ಬಳಕೆ\n*  3.5 ರಿಂದ 40 ಕೆ.ಜಿ : 5 ಎಂ.ಜಿ./ ಕೆ.ಜಿ ಮೊದಲ ದಿನಕ್ಕೆ: 2.5\n    ಎಂ.ಜಿ./ಕೆ.ಜಿ ನಂತರದ ನಾಲ್ಕು ದಿನಗಳಿಗೆ\n*  ಫೈಪ್ರೆಡೋಕ್ಲೋರಿನ್, ಫವಿಪಿರವಿರ್, ಐವರ್ ಮೆಕ್ಟಿನ್, ಲೋಪಿನವಿರ್/\n    ರಿಟೋನವಿರ್/ ಅಮಿಫಿನವಿರ್ ನ ಯಾವುದೇ ಪಾತ್ರವಿಲ್ಲ\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

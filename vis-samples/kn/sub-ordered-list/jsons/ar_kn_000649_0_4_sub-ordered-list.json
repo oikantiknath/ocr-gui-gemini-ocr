@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_kn_000649_0_4_sub-ordered-list.png",
+      "width": 986,
+      "height": 322
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        986.0,
+        322.0
+      ],
+      "area": 317492.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          986.0,
+          0.0,
+          986.0,
+          322.0,
+          0.0,
+          322.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "9. ಕೆಲವು ಪ್ರಕರಣಗಳಲ್ಲಿ ದಸ್ತಗಿರಿ ವಾರಂಟುಗಳನ್ನು ಹೊರಡಿಸಲು ಮ್ಯಾಜಿಸ್ಟ್ರೇಟನ ಅಧಿಕಾರ: – (1) ಯಾರೇ ಮ್ಯಾಜಿಸ್ಟ್ರೇಟನ\nಅವನ ಅಧಿಕಾರ ವ್ಯಾಪ್ತಿಯ ಸ್ಥಳೀಯ ಪರಿಮಿತಿಗಳಿಗೆ ಈಳುವ ಒಬ್ಬ ವ್ಯಕ್ತಿಯು ವಿಧೇಯ ರಾಜ್ಯದ ಪರಾರಿ ಅಪರಾಧಿಯಾಗಿದ್ದಾನೆಂದು\nಕಂಡುಬರುವಲ್ಲಿ, ಅವನು ಸೂಕ್ತಯೋಜಿಸಿದರೆ, ಅವನು ಆ ವ್ಯಕ್ತಿಯು ಅಮಾಪಾದಿಯಾಗಿರುವ ಅಥವಾ ಅಮಾಪಾದಿಯು ನಿರ್ದೇಶನವಿರುವ\nಅಪರಾಧವನ್ನು ಅವನ ಅಧಿಕಾರ ವ್ಯಾಪ್ತಿಯ ಸ್ಥಳೀಯ ಪರಿಮಿತಿಗಳಿಗೆ ಮಾಡಿದ್ದರೆ ಅವನ ಅಭಿಪ್ರಾಯದಲ್ಲಿ ವಾರಂಟು ಹೊರಡಿಸುವದಕ್ಕೆ\nಸಮರ್ಥನ ಬದನಿಸುವಂಥ ಮಾಹಿತಿ ಮತ್ತು ಸಾಕ್ಷ್ಯದ ಮೇಲೆ, ಆ ವ್ಯಕ್ತಿಯ ದಸ್ತಗಿರಿಯಾಗಿ ವಾರಂಟನ್ನು ಹೊರಡಿಸಬಹುದು.\n\n(2) ಮ್ಯಾಜಿಸ್ಟ್ರೇಟನು (1)ನೇ ಉಪಪ್ರಕರಣದ ಮೇರೆಗೆ ವಾರಂಟು ಹೊರಡಿಸಿರುವ ಬಗ್ಗೆ ಸರ್ಕಾರಕ್ಕೆ ತಕ್ಷಣವೇ ವರದಿ\nಮಾಡತಕ್ಕದ್ದು ಮತ್ತು ಅವನು ಆ ಮಾಹಿತಿ ಮತ್ತು ಸಾಕ್ಷ್ಯ ಅಥವಾ ಅದರ ಪ್ರಮಾಣಿತ ಪ್ರತಿಗಳನ್ನು ಆ ಸರ್ಕಾರಕ್ಕೆ ಕಳುಹಿಸತಕ್ಕದ್ದು.\n\n(3) ಮ್ಯಾಜಿಸ್ಟ್ರೇಟನು (1)ನೇ ಉಪಪ್ರಕರಣದ ಮೇರೆಗೆ ಹೊರಡಿಸಿದ ವಾರಂಟಿನ ಮೇಲೆ ದಸ್ತಗಿರಿಯಾದ ವ್ಯಕ್ತಿಯನ್ನು, ಮೂರು\nತಿಂಗಳುಗಳಿಗಿಂತ ಹೆಚ್ಚಾಗಿ, ಕೇಂದ್ರ ಸರ್ಕಾರದಿಂದ ಅಂಥ ವ್ಯಕ್ತಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ 5ನೇ ಪ್ರಕರಣದ ಮೇರೆಗಿನ ಆದೇಶವನ್ನು ಆ ಅವಧಿಯವರೆಗೆ\nಸ್ವೀಕರಿಸಿದ ತಾರತು ತಡೆಹಿಡಿಯತಕ್ಕದ್ದಲ್ಲ."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

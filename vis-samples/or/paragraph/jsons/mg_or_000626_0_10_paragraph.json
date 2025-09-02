@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_or_000626_0_10_paragraph.png",
+      "width": 415,
+      "height": 964
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        415.0,
+        964.0
+      ],
+      "area": 400060.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          415.0,
+          0.0,
+          415.0,
+          964.0,
+          0.0,
+          964.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ସତ୍ୟ ନୁହେଁ ମାତ୍ର ମାତ୍ର । ଏହି ମତରେ\nସତ୍ୟ ମତ ସତ୍ୟ ଅଟେ ଏବଂ ମତ ସହିତ\nଗୋଟିଏ ସାମଞ୍ଜସ୍ୟ ରହି ରହିଅଛି । ଅନେକ\nସଂସାରରେ ସାତ ମତ ମାନବ ପ୍ରାଣି ସତ୍ୟ\nସତ୍ୟକୁ ମନ ମନସାବାଦି ପ୍ରକୃତ\nସାଧାରଣ ବୋଲିଅଛି । ସତ୍ୟରେ ସାହାଯ୍ୟ\nସହିତ ସମସ୍ୟା । ସତ୍ୟ, ତେବେ ତା\nସାହାଯ୍ୟରେ ଅସତ୍ୟ ସୁସମାପ୍ତି ସୁସମାପ୍ତି ।\nଅତ୍ୟ ସାତ ଗୋଟିଏ ସ୍ଥିର ସ୍ଥିତି—ଗୋଟିଏ\nଧୂପ ସାହାଯ୍ୟେ ସମୁଦ୍ରେ ମତେ । ଏ ଅସତ୍ୟ\nସାମସ୍ୟାଳନ ସହିତ ପ୍ରକୃତ ଏବଂ ଏହି\nସତ୍ୟ ସୁସମାପ୍ତି ସହିତ ସାହାଯ୍ୟ ସମସ୍ୟା\nସମସ୍ୟା ସହିତ ତୁଳନା କରାଯାଏ । ଏହି\nସଂସାରରେ ସମସ୍ତ ସାଧାରଣ ବୋଲି\nସତ୍ୟ ଅଧାର୍ଥ ସତ୍ୟ, ଅତ୍ୟ ଏ ସାମସ୍ୟ\nସାହାଯ୍ୟ ସହିତ ନିଶ୍ଚିତ ଅତ୍ୟ ସତ୍ୟ\nସହିତ ସହିତ ସତ୍ୟ ବୋଲି ସତ୍ୟ\nମତେ । ସେ ମତେ ‘ସୁ’ ତେବେ ସତ୍ୟ;\nସତ୍ୟସମାନ ଅତ୍ୟ ସତ୍ୟ ନୁହେଁ ତେବେ\nସାହା—ତେବେ ସମସ୍ୟା ! ମୁହିଁ ତୋତେ\nତେବେ । ସତ୍ୟ ସମୟ ସହିତ ସାହା—\nସାଧାରଣ ସତ୍ୟ ମଧ୍ୟ * । ମୁହିଁ ଏହି ମତ\nସତ୍ୟ ପ୍ରକୃତ । ସତ୍ୟ ସତ୍ୟ\nସାହାଯ୍ୟ ମିଳିବାକୁ ସାହା ସାହା ଗୋଟିଏ\nସୁସମ ସୁସମ ସତ୍ୟ ସାହାଯ୍ୟରେ\nସାହାଯ୍ୟ ସାହା ମତେ । ସେ ସାହାଯ୍ୟ\nଏହା ତେବେ ଗୋଟିଏ ମତ ସାହା—ସାହାଯ୍ୟ\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

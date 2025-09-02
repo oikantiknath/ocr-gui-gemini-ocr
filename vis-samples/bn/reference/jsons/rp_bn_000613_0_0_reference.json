@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_bn_000613_0_0_reference.png",
+      "width": 892,
+      "height": 1357
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        892.0,
+        1357.0
+      ],
+      "area": 1210444.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          892.0,
+          0.0,
+          892.0,
+          1357.0,
+          0.0,
+          1357.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "চক্রবর্তী, সুস্মিতা। ছায়াছবি ও বাংলা সাহিত্য। কলকাতা: মিত্র ও ঘোষ, 1991।\\nপ্রিন্ট।\\n\\nচক্রপাধ্যায়, হীরেন। ছবি ও শিল্প। কলকাতা: মডার্ন বুক এজেন্সি প্রাঃ লিঃ,\\n19892। প্রিন্ট।\\n\\nচক্রবর্তী, দীপা। লাইটস! ক্যামেরা! ....তারপর বিজ্ঞাপন গণমাধ্যম ও নারী।\\nকলকাতা: আহি পি, 2008। প্রিন্ট।\\n\\nচক্রবর্তী, নীরদ চন্দ্র। বাঙালী জীবনে রমণী। কলকাতা: মিত্র ও ঘোষ, 1374।\\nপ্রিন্ট।\\n\\nচক্রবর্তী, সুদেব। বাংলা সাহিত্যের ছোটগল্প ও গল্পকার। কলকাতা: মিত্র ও ঘোষ\\nএজেন্সী প্রাঃ লিঃ, 1982। প্রিন্ট।\\n\\nচক্রবর্তী, সুদেব। বাংলা সাহিত্যের ইতিকথা (প্রথম পর্যায়)। কলকাতা: দে’জ\\nপাবলিশিং 1988। প্রিন্ট।\\n\\nচক্রবর্তী, সরস্বতী। ব দেল বাংলা সাহিত্যে মহিলা রচিত রচনার ক্রমবিকাশ (১৮৫০\\n- 1900)। কলকাতা: রানা, 2002। প্রিন্ট।\\n\\nচক্রবর্তী, সুপ্রিয়া। পিজরা বসিয়ে। কলকাতা: ঊষা 1996। প্রিন্ট।\\n\\nদত্ত, দেবী। বাংলাদেশে স্ত্রী শিক্ষা প্রসারে বিদ্যাসাগরের অবদান। কলকাতা: মিত্র\\nপ্রকাশনা, 200৪। প্রিন্ট।\\n\\nদত্ত, রমেশচন্দ্র। রমেশ রচনাবলী। কলকাতা: রিফ্লেক্স, 198৬। প্রিন্ট।\\n\\nচক্রবর্তী, সুপ্রিয়া। হিপাজ বাংলার মেয়েদের ভাষা। কলকাতা: মিত্র ও ঘোষ, 2000। প্রিন্ট।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

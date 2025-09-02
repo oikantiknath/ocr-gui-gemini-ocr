@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_ml_000431_0_0_reference.png",
+      "width": 822,
+      "height": 363
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        822.0,
+        363.0
+      ],
+      "area": 298386.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          822.0,
+          0.0,
+          822.0,
+          363.0,
+          0.0,
+          363.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "കെ.സേതുരാമൻ, 'ഉന്നതവിദ്യാഭ്യാസം' (മലയാളത്തിന്റെ ഭാവി,\nകെടുകകളെ അടിസ്ഥാനം എന്ന അദ്ധ്യായം. പൃ. 104 - 123)\nജോസഫ് സ്പ്രേൺ മേയർ, പ്രകൃതിശാസ്ത്രത്തിലെ സമർത്ഥന\nലേനം. (1883) (കാര്യമായി ബാലകൃഷ്ണൻ, മലയാള ശാസ്ത്രസാഹിത്യ\nപ്രസ്ഥാനം. ഒന്നാം - അഞ്ചാംബന്ധം.)\nജോസഫ് മുണ്ടശ്ശേരി, മലയാളഭാഷയും ശാസ്ത്രഗ്രന്ഥങ്ങളും, (ഒന്നാംഭാഗം,\n1935)\nഅച്യുതൻകർ, ശാസ്ത്രബോധം (നമ്മുടെ ഭാഷ, നമ്മുടെ സംസ്കാരം,\nഎഡി. കാര്യമായി ബാലകൃഷ്ണൻ)"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

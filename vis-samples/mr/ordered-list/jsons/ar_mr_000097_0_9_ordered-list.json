@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_mr_000097_0_9_ordered-list.png",
+      "width": 1082,
+      "height": 333
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        1082.0,
+        333.0
+      ],
+      "area": 360306.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1082.0,
+          0.0,
+          1082.0,
+          333.0,
+          0.0,
+          333.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "७८. '[(१)] निवडणूक लढवणाऱ्या प्रत्येक उमेदवाराला, निर्वाचित उमेदवाराच्या निवडणुकीच्या\\nदिनांकापासून किंवा, त्या निवडणुकीमध्ये एकापेक्षा अधिक निर्वाचित उमेदवार असतील आणि त्यांच्या\\nनिवडणुकांचे दिनांक भिन्न भिन्न असतील तर, त्या दोहोंपैकी नंतरच्या दिनांकापासून तीस दिवसांच्या\\nआत, कलम ७७ खाली त्याने किंवा त्याच्या निवडणूक प्रतिनिधीने ठेवलेल्या निवडणूक खर्चाचा हिशेब\\n'[जिल्हा निवडणूक अधिकाऱ्यापुढे] दाखल करावा लागेल व कलम ७७ खाली त्याने किंवा त्याच्या\\nनिवडणूक प्रतिनिधीने ठेवलेल्या हिशेबाची ती खरी प्रत असेल.\\n\\n'[(२) पोटकलम (१) मधील 'जिल्हा निवडणूक अधिकारी' या उल्लेखाचा, संघ राज्यक्षेत्रातील\\nमतदारसंघाच्या संबंधातील अर्थ, त्या मतदारसंघाचा निवडणूक निर्णय अधिकारी याचा उल्लेख म्हणून\\nलावला जाईल.]]"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

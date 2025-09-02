@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000454_0_8_subsub-headline.png",
+      "width": 478,
+      "height": 866
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        478.0,
+        866.0
+      ],
+      "area": 413948.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          478.0,
+          0.0,
+          478.0,
+          866.0,
+          0.0,
+          866.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ক) নাবালকের নাম, লিঙ্গ, ধর্ম, জন্মের তারিখ এবং\nসাধারণ বসবাসের স্থান;\n\n(খ) যেক্ষেত্রে নাবালক একজন স্ত্রীলোক, সেক্ষেত্রে সে\nবিবাহিতা কিনা এবং, বিবাহিতা হইলে, তাহার\nস্বামীর নাম ও বয়স;\n\n(গ) নাবালকের সম্পত্তি কিছু থাকিলে, উহার রকম,\nঅবস্থিতি ও আনুমানিক মূল্য;\n\n(ঘ) যে ব্যক্তি নাবালকের শরীরের বা সম্পত্তির অধি-\nরক্ষা বা দখল করেন, তাঁহার নাম ও বসবাসের\nস্থান;\n\n(ঙ) নাবালকের নিকট-আত্মীয় কে কে আছেন এবং\nতাঁহারা কোথায় বসবাস করেন;\n\n(চ) নাবালকের শরীরের বা সম্পত্তির বা এতদুভয়ের\nকোন অভিভাবক এরূপ কোন ব্যক্তি কর্তৃক\nনিযুক্ত হইয়াছেন কিনা যিনি নাবালক যে\nবিধির অধীন তদ্দ্বারা এরূপ নিয়োগ করিবার\nঅধিকারী হন বা অধিকারী বলিয়া দাবী করেন;\n\n(ছ) নাবালকের বা সম্পত্তির বা এতদুভয়ের\nঅভিভাবক সম্পর্কে ঐ আদালতে বা অন্য\nকোনও আদালতে কোন সময়ে কোন আবেদন\nকরা হইয়াছে কিনা এবং, করা হইয়া থাকিলে,\nকখন, কোন্ আদালতে, এবং তাহার কী ফল\nহইয়াছে;\n\n(জ) আবেদনটি নাবালকের শরীরের বা তাহার\nসম্পত্তির বা এতদুভয়ের অভিভাবক নিয়োগ\nবা ঘোষণার জন্য কিনা;\n\n(ঝ) যেক্ষেত্রে আবেদনটি কোন অভিভাবক নিয়োগ\nকরিবার জন্য, সেক্ষেত্রে প্রস্তাবিত অভি-\nভাবকের যোগ্যতাসমূহ;"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

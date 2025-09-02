@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_ta_001286_1_0_unordered-list.png",
+      "width": 488,
+      "height": 167
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        488.0,
+        167.0
+      ],
+      "area": 81496.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          488.0,
+          0.0,
+          488.0,
+          167.0,
+          0.0,
+          167.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ஆராய்ச்சி - விரிவாக்கம் - உழவர்கள் இவர்களின் இணைப்பை வலுப்படுத்துதல்.\nமாநில அளவிலும் அதற்கு கீழும் தொழில்நுட்பத்தை செயல்படுத்துதல், மதிப்பிடுதல்\nமற்றும் பரப்புதல் போன்ற செயல்களின் ஈடுபட்டுள்ள பல்வேறு துறைகள் மற்றும்\nநிறுவனங்களின் செயல்பாடுகளை ஒருங்கிணைந்த மேலாண்மை செய்தல்.\nபரப்பப்படும் தொழில்நுட்பத்தின் தரத்தினை உயர்த்துதல்.\nஇதில் பங்கேற்கக்கூடிய அனைத்து துறையினருக்கும் வேளாண் தொழில்நுட்ப\nமுறையினை பகிர்ந்து பரவனாக்கம் செய்தல்.\nதனியார் துறையைச் சார்ந்த மற்றும் அரசு சாராத பிற நிறுவனங்களையும் புதிய\nஉறுப்பினர்களாகச்சேர்த்தல்."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

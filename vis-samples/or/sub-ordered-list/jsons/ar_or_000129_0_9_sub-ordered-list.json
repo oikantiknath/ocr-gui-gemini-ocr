@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_or_000129_0_9_sub-ordered-list.png",
+      "width": 864,
+      "height": 392
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        864.0,
+        392.0
+      ],
+      "area": 338688.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          864.0,
+          0.0,
+          864.0,
+          392.0,
+          0.0,
+          392.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "21. (1) ମୃତ୍ୟୁଦଣ୍ଡର ନିଷ୍ପାଦନ ଆଦେଶ ସଂକ୍ରାନ୍ତରେ—\n(କ) ଭାରତ ବାହାରେ ଅବସ୍ଥିତ ଜ୍ଞାତ୍ର ବ୍ୟକ୍ତି;\n(ଖ) ମୃତ୍ୟୁ ଦଣ୍ଡରେ ଦଣ୍ଡିତ ଭାରତ ବାହାରେ ଅବସ୍ଥିତ ଅନ୍ୟାନ୍ୟ ବ୍ୟକ୍ତି—\n(i) ଯାହାକି ବ୍ୟକ୍ତିଗତ ଭାବେ ଉପସ୍ଥିତ ରହିବା ବା ତାଙ୍କର ପ୍ରତିନିଧି ଦେବା ସମ୍ଭବ ନୁହେଁ ସେକ୍ଷେତ୍ରରେ ମୃତ୍ୟୁଦଣ୍ଡିତ\nତାଙ୍କର ମୃତ୍ୟୁ ଦଣ୍ଡରେ ଭାରତରେ ଅଧିବାସୀ ଥିବା କେହି ହେଲେହେଁ; କିମ୍ବା\n(ii) ଯାହାକି ମୃତ୍ୟୁ ଦଣ୍ଡିତ କେହି ବ୍ୟକ୍ତି ବ୍ୟକ୍ତିଗତ ସଂକ୍ରାନ୍ତରେ ଆବେଦନ ପ୍ରଦାନ ଆଦି କେହି ବ୍ୟକ୍ତିଗତ\nସଂକ୍ରାନ୍ତରେ ବ୍ୟକ୍ତିଗତ ବ୍ୟକ୍ତିଗତ ଭାବେ ତାଙ୍କର ପ୍ରତିନିଧି ଦେବାକଥା, ସେହି ମାମଲାରେ\nଭାରତରେ ଅଧିବାସୀ ଥିବା କେହି ହେଲେହେଁ,\nଅବସ୍ଥିତ ହେବାକଥା ।\n\n(2) କୌଣସି କେନ୍ଦ୍ରୀୟ ରାଜ୍ୟରେ ବିଭିନ୍ନ ଖେଳାଳୀଙ୍କ ପ୍ରକୃତି ଓ ଅବସ୍ଥିତି ଏହି ଧାରାର ଉଦ୍ଦେଶ୍ୟ ନିମିତ୍ତ\nଯଥାଯାତ ଭାବେ କେହି ବ୍ୟକ୍ତି ନିର୍ଦ୍ଧାରିତ କରି ନିୟମାବଳୀ ପ୍ରଣୟନ କରାଯାଇବ ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

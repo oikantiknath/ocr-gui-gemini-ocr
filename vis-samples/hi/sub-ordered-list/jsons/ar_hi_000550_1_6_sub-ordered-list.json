@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_hi_000550_1_6_sub-ordered-list.png",
+      "width": 482,
+      "height": 159
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        482.0,
+        159.0
+      ],
+      "area": 76638.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          482.0,
+          0.0,
+          482.0,
+          159.0,
+          0.0,
+          159.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "83. खाद्य प्राधिकरण के लेखा और लेखापरीक्षा—(1) खाद्य प्राधिकरण, समुचित लेखा और सुसंगत अभिलेख रखेगा और ऐसे\nप्ररूप में वार्षिक लेखा विवरण तैयार करेगा, जो केन्द्रीय सरकार द्वारा, भारत के नियंत्रक-महालेखापरीक्षक के परामर्श से विहित किया\nजाए।\n\n(2) नियंत्रक-महालेखापरीक्षक और इस अधिनियम के अधीन खाद्य प्राधिकरण के लेखाओं की लेखापरीक्षा के संबंध में उसके\nद्वारा नियुक्त किसी व्यक्ति को ऐसी लेखापरीक्षा के संबंध में वही अधिकार, विशेषाधिकार और प्राधिकार होंगे, जो\nनियंत्रक-महालेखापरीक्षक के सरकार के लेखाओं की लेखापरीक्षा के संबंध में साधारण रूप में होते हैं और उसे विशिष्ट रूप से\nलेखा-बहियों, लेखाओं, संबंधित वाउचरों और अन्य दस्तावेजों तथा कागज पत्रों को प्रस्तुत करने की मांग करने और खाद्य प्राधिकरण के\nकिसी भी कार्यालय का निरीक्षण करने का अधिकार होगा।\n\n(3) नियंत्रक-महालेखापरीक्षक द्वारा या इस निमित्त उसके द्वारा नियुक्त किसी अन्य व्यक्ति द्वारा यथा प्रमाणित खाद्य\nप्राधिकरण के लेखाओं को, उनकी लेखापरीक्षा रिपोर्ट के साथ, वार्षिक रूप से खाद्य प्राधिकरण द्वारा केन्द्रीय सरकार को अग्रेषित किया\nजाएगा और केन्द्रीय सरकार उनकी प्राप्ति के पश्चात् यथासंभव शीघ्र उसे संसद् के प्रत्येक सदन के समक्ष रखवाएगी।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

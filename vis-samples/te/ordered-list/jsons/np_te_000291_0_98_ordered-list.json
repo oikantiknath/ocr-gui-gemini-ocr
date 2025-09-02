@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_te_000291_0_98_ordered-list.png",
+      "width": 600,
+      "height": 351
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        600.0,
+        351.0
+      ],
+      "area": 210600.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          600.0,
+          0.0,
+          600.0,
+          351.0,
+          0.0,
+          351.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1 టెండర్లు ది 15-6-63 మధ్యాహ్నం గం॥ 3-00 వరకు అంగీకరింప\nబడును. గం॥ 3-30 తెరవబడును.\n2 టెండర్లు దరఖాస్తు ఫారము కన్యా రాయి ది 10-6-1963 నుండి 14-6-63\nవరకు అన్ని పనివేయు కాలములో (సెలవుదినము మినహా) పొందవచ్చును. ఒక్కొక్క దర\nఖాస్తుకు రు 1 (ఒకటి రూపాయలు) చెల్లించినచోట ఒక నకలు మాత్రమే యివ్వబడును.\n3 ఒక్కొక్క పనికి వేర్వేరుగా టెండర్లు యివ్వవలెను. ఏ పనికైనను\nకనీస డిపాజిట్టు రు 25/- లు చెల్లించవలెను.\n4 ఎం డి ఎస్ మరియు ఇండియన్ స్టాంపు యాక్టు క్రిందను నకు\nరించి పని పూర్తి చేయవలెను.\n5 టెండర్ దరఖాస్తు ఫారములు తమరు పూర్తి చేసిన మరుసటి దినమున\nయివ్వబడును.\n- ఇట్లు,\nమాకంచెర్ల గిరిధర్ డిప్యూటీ.\nనగర్ సర్కల్ సబ్ కోఆ. )"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

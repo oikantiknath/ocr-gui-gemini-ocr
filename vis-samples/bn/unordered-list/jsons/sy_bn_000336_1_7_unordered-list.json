@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_bn_000336_1_7_unordered-list.png",
+      "width": 1393,
+      "height": 2260
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        1393.0,
+        2260.0
+      ],
+      "area": 3148180.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1393.0,
+          0.0,
+          1393.0,
+          2260.0,
+          0.0,
+          2260.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "বাঙালীর ইতিহাস – নীহাররঞ্জন রায়\nHistory of Medieval Bengal – রমেশচন্দ্র মজুমদার\nবাংলা দেশের ইতিহাস– রমেশচন্দ্র মজুমদার\nবাঙালীর ইতিহাস (অখণ্ড)– রাধালদাস বন্দ্যোপাধ্যায়\nবাঙালীর সংস্কৃতি– সুনীতিকুমার চট্টোপাধ্যায়\nরামতনু লাহিড়ী ও তৎকালীন বঙ্গসমাজ– শিবনাথ শাস্ত্রী\nবাংলার ইতিহাস– সুভাস মুখোপাধ্যায়\nসংস্কৃতির বিশ্বরূপ– গোপাল হালদার\nবাঙালী ও বাঙালীর বিবর্তন– অতুল সুর\nসংস্কৃতির রূপান্তর– গোপাল হালদার\nচেতনা-প্রসঙ্গ– বঙ্গীয় সাহিত্য পরিষদ প্রকাশিত\nবাংলার কাব্য– হুমায়ুন কবির\nঔপনিবেশিক বাংলার সমাজ চিত্র– চিত্রিতা পালিত\nদেশ বিভাগ : পশ্চাৎ ও নেপথ্য কাহিনী– ভবানীপ্রসাদ চট্টোপাধ্যায়\nযুক্ত বাংলার শেষ অধ্যায়– কালীপদ বিশ্বাস\nপলাশী থেকে পার্টিশান– শেখর বন্দ্যোপাধ্যায়\nনীল বিদ্রোহ– পুলক চন্দ্র\nবাঙালীর দর্শন– আমিনুল ইসলাম\nস্বাধীন ভারতের সাম্যবাদী আন্দোলন : রাজনীতি ও গতিপ্রকৃতি– শোভনলাল দত্তগুপ্ত\nসাহিত্য সমাজ ইতিহাস– পশ্চিমবঙ্গ ইতিহাস সংসদ প্রকাশিত\nবাংলার রেনেসাঁস– সুশোভন সরকার\nবাংলার নবজাগৃতি– বিনয় ঘোষ\nকলকাতা : ইতিহাসের দিনলিপি– নীরদবরণ হাজরা\nসংস্কৃতির ভাঙা সেতু– আখতারুজ্জামান ইলিয়াস\nশতাব্দীর প্রতিধ্বনি– অতুল সুর\nউত্তাল চল্লিশ : অসমাপ্ত বিপ্লব– অমলেন্দু সেনগুপ্ত\nগোয়াবাগান ঘাট-সত্তর– অমলেন্দু সেনগুপ্ত\nহাজার বছরের বাঙালীর সংস্কৃতি– গোলাম মুরশিদ"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

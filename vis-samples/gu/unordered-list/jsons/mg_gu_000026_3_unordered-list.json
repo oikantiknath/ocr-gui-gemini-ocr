@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_gu_000026_3_unordered-list.png",
+      "width": 520,
+      "height": 190
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        520.0,
+        190.0
+      ],
+      "area": 98800.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          520.0,
+          0.0,
+          520.0,
+          190.0,
+          0.0,
+          190.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "– મધ્ય એશિયાની બળુકી જાતિએ મૌર્યયુગ પછી ભારતમાં શાસન કર્યાના પુરાવા મળ્યા છે.\n– શક શાસન દરમિયાન તેના પ્રાંતને ક્ષત્રપ કહેવામાં આવતું અને તેના પર શાસન કરનાર વ્યક્તિ ક્ષત્રપ કહેવાતી. આમ, ‘શકક્ષત્રપ’ નામ એક\n    જાતિ માટે અસ્તિત્વમાં આવ્યું.\n– શક રાજાઓનું મૂળ ‘ઉર્ઝાન’ છે. ઉર્ઝાન માટે ‘પારસ’ એવો શબ્દ પણ વાપરવામાં આવે છે. પારસી અથવા ફારસી શબ્દ ફારસના રહેવાસી\n    (ઉર્ઝાન) માટે વપરાય છે.\n– શક ક્ષત્રપ સમયનો શ્રેષ્ઠ રાજવી એટલે ‘રુદ્રદામા’ (રુદ્રદામન)\n– રુદ્રદામા ‘કાર્દમ વંશી’ રાજા હતા. ઉર્ઝાનની કર્દમ નદીના નામ પરથી આ વંશનું નામ ‘કાર્દમ વંશ’ પડ્યું છે.\n– મહાક્ષત્રપ રુદ્રદામાના ગુજરાતના સૂબા તરીકે ‘સુવિશાખ’ની નિમણૂક થઈ હતી. ગિરિનગરના (ગિરનાર - ઉજ્જયંત) તૂટી ગયેલા ‘સુદર્શન’\n    તળાવને પુનઃ બનાવવાનું કામ સુવિશાખે કર્યું. જેના માટે પ્રજા પાસેથી કોઈપણ પ્રકારનો કર ઉઘરાવવામાં આવ્યો નહોતો.\n– અશોકના જૂનાગઢના શિલાલેખમાં રુદ્રદામાએ પણ લેખ કોતરાવ્યો હતો.\n– શક ક્ષત્રપ કાળમાં ચાંદીનો સિક્કો ‘કાષર્પણ’ કહેવાતો."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

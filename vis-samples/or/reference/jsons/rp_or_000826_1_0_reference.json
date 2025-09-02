@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_or_000826_1_0_reference.png",
+      "width": 422,
+      "height": 638
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        422.0,
+        638.0
+      ],
+      "area": 269236.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          422.0,
+          0.0,
+          422.0,
+          638.0,
+          0.0,
+          638.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "୧୦୮.ଦାଶ, ଶ୍ରୀ ଶରତଚନ୍ଦ୍ର : ଓଡ଼ିଆ ନାଟ୍ୟ ସାହିତ୍ୟ, ପ୍ରକାଶକ, ଓଡ଼ିଶା ରାଜ୍ୟ ପାଠ୍ୟପୁସ୍ତକ\nପ୍ରଣୟନ ଓ ପ୍ରକାଶନ ସଂସ୍ଥା, ଭୁବନେଶ୍ୱର, ଦ୍ୱିତୀୟ ମୁଦ୍ରଣ, ୧୯୯୪, ପୃ.୩୮୨\n୧୦୯.ଦେବୀ, ରତ୍ନମାଳା : ଓଡ଼ିଆ ନବନାଟ୍ୟ ଆନ୍ଦୋଳନ, ବରଦା ପ୍ରକାଶୀ, ଓଡ଼ିଆ ଭାଷା\nଓ ସାହିତ୍ୟ ବିଭାଗ, ରେଭେନ୍ସାକଲେଜ, ୧୯୯୪, ପୃ.୨୪୬\n୧୧୦.ରାୟ, ବଳଭଦ୍ର ମୁନୀନ୍ଦ୍ର : ଓଡ଼ିଆ ନାଟକର ଜନକ ଆଧୁନିକ ପର୍ବ, ପ୍ରକାଶକ,\nବିଦ୍ୟାପୁରୀ, ପ୍ରଥମ ପ୍ରକାଶ, କାଲକାଟା, ୨୦୦୮, ପୃ.୫୬\n୧୧୧.ବିଶ୍ୱାଳ, ବଳଭଦ୍ର ପ୍ରସାଦ : ସାକ୍ଷାତକାର, ପ୍ରକାଶକୀ, ଭୁବନେଶ୍ୱର, ୧୧ ଜୁନ,\n୧୯୯୯\n୧୧୨.ସାହୁ, ବଳଭଦ୍ର ମାହାନ୍ତି : ସାଧାରଣ ପରଦା ଓଡ଼ିଆ ନାଟକ, ପ୍ରକାଶକ, ଓଡ଼ିଶା\nପର୍ବିବର୍ଗ, କଟକ, ପ୍ରଥମ ପ୍ରକାଶନ, ୧୯୯୫, ପୃ.୨୧\n୧୧୩.ମିଶ୍ର, ବଳଭଦ୍ର ଉପାଧ୍ୟାୟୀ : ନାଟକ ତତ୍ତ୍ୱ ଓ ତତ୍ତ୍ୱ, ପ୍ରକାଶକ, ଅନୁପମ, କଟକ, ପ୍ରଥମ\nପ୍ରକାଶ, ୧୯୯୪, ପୃ.୬୮\n୧୧୪.ଶତପଥୀ, ବଳଭଦ୍ର ବିଜୟ କୁମାର : ବିଶ୍ୱର ସମାଜରେ ସାଂସ୍କୃତିକ ଓଡ଼ିଆର ମଞ୍ଚ ଓ\nନାଟକ, ଇସ୍ତାହାର, ୧୦୮ ସଂଖ୍ୟା, ଭୁବନେଶ୍ୱର ମାସିକ ରେଭେନ୍ସାକଲେଜ\nସାହିତ୍ୟ ପ୍ରାଣପଣୀ ସେପ୍ଟେମ୍ବର ଆୟୋଜିତ ୧୯୯୦ ପରବର୍ତ୍ତୀ ଓଡ଼ିଆ ନାଟକ ଶୀର୍ଷକ\nପ୍ରବନ୍ଧର ପ୍ରଥମ ଅଧ୍ୟାୟ ।\n\n୧୧୫.Sircar, Badal : Voyages in the theatre, Shri Ram Memorial Lectures,\n1992. P.53\n୧୧୬.Sircar, Badal : The changing Language of Theatre, Maulama Abdul\nKalam Azad Memorial lecture, 1982, P.14\n୧୧୭.ବଳରାମସାହୁ ରାଜନ : ଆଜିର ଭାରତ ଓଡ଼ିଆ, ରବିନାରାୟଣ ସାକ୍ଷାତକାର\n୧୧୮.ହରିଚନ୍ଦନ, ଓ. ନାହାନ୍ତି ପ୍ରଥମୀ : ଆର୍ଟ ଅନେକ ବା ଦ୍ୱିତୀୟ ନାଟ୍ୟ ବିଶ୍ୱକୋଷ ଓ\nବିଶ୍ୱକୋଷ, ‘ଆଲୋକ’, ରେଭେନ୍ସା-୧୯୯୬,\n୧୧୯.Sircar, Badal : Voyages in the theatre, Shri Ram Memorial Lectures,\n1992. P.29\n୧୨୦.ସାହୁ, ବଳଭଦ୍ର ମାହାନ୍ତି : ସାଧାରଣ ପରଦା ଓଡ଼ିଆନାଟକ, ପ୍ରକାଶକ, ଓଡ଼ିଶା\nପର୍ବିବର୍ଗ, ପ୍ରଥମ ପ୍ରକାଶନ, ୧୯୯୫, ପୃ.୨୨"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

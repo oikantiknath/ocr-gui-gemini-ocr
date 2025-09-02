@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_kn_000613_0_3_subsub-headline.png",
+      "width": 987,
+      "height": 465
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        987.0,
+        465.0
+      ],
+      "area": 458955.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          987.0,
+          0.0,
+          987.0,
+          465.0,
+          0.0,
+          465.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "62. ಯುಕ್ತವಾಗಿ ಸಾಬೀತು ಪಡಿಸಿದ ವಿವೇಚನೆ ಬರೆದುಕೊಡುವ ಇತ್ಯಾದಿಗಳಿಗೆ ದಂಡ:- (1) (ಎ) ತಾನೇ\nಮೇಲಲ್ಲದ ಅಥವಾ ಸಂದಾಯವಾಗತಕ್ಕ ಯುಕ್ತ ಸಾಬೀತು ಪಡಿಸಿದ ಯಾವುದೇ ವಿಷಯವನ್ನು ಅಥವಾ ಪ್ರಾಮುಖ್ಯ ನೋಟನ್ನು\nಬರೆದುಕೊಡುವ, ರಚಿಸುವ, ನೀಡುವ, ಒಂಬಡ ಮಾಡುವ ಅಥವಾ ಮಾರ್ಪಡಿಸುವ ಅಥವಾ ಸಾಕ್ಷಿದಾರನಾಗಿ ಅಲ್ಲದೆ ಸಹಿ ಮಾಡುವ\nಅಥವಾ ಅಂಗೀಕಾರಕ್ಕಾಗಿ ಅಥವಾ ಸಂದಾಯಕ್ಕಾಗಿ ಹಾಜರುಪಡಿಸುವ ಅಥವಾ ಸ್ವೀಕರಿಸುವ, ಸಂದಾಯ ಮಾಡುವ ಅಥವಾ ಸಂದಾಯವನ್ನು\nಸ್ವೀಕರಿಸುವ ಅಥವಾ ಯಾವುದೇ ರೀತಿಯಲ್ಲಿ ವಿತರಿಸುವ; ಅಥವಾ\n\n(ಬಿ) ಸುಳ್ಳು ವಿಧಿಸಬಹುದಾದ ಆದರೆ ಯುಕ್ತವಾಗಿ ಸಾಬೀತು ಪಡಿಸಿದ ಇತರ ಯಾವುದೇ ವಿವೇಚನೆಯನ್ನು ಬರೆದುಕೊಡುವ ಅಥವಾ\nಸಾಕ್ಷಿದಾರನಾಗಿ ಅಲ್ಲದೆ ಸಹಿ ಮಾಡುವ; ಅಥವಾ\n\n(ಸಿ) ಯುಕ್ತವಾಗಿ ಸಾಬೀತು ಪಡಿಸಿದ ಯಾವುದೇ ವ್ಯಕ್ತಿಯ ಮೇರೆಗೆ ಮತಿನೀಡುವ ಅಥವಾ ಮತ್ತೆ ನೀಡಲು ಪ್ರಯತ್ನಿಸುವ\n- ಯಾವನೇ ವ್ಯಕ್ತಿಯು, ಅಂಥ ಪ್ರತಿಯೊಂದು ಅಪರಾಧಕ್ಕಾಗಿ ಐದುನೂರು ರೂಪಾಯಿಗಳಿಗೆ ವಿಸ್ತರಿಸಬಹುದಾದ ಜುಲ್ಮಾನೆಯಿಂದ\nದಂಡನೀಯನಾಗತಕ್ಕದ್ದು:\n\nಪರಂತು, 35ನೇ ಪ್ರಕರಣ, 40ನೇ ಪ್ರಕರಣ ಅಥವಾ 61ನೇ ಪ್ರಕರಣದ ಮೇರೆಗೆ ಯಾವುದೇ ಲಿಖಿತ ಸಂಬಂಧದಲ್ಲಿ\nಯಾವುದೇ ದಂಡವನ್ನು ಸಂದಾಯ ಮಾಡಿದಾಗ, ಅಂಥ ದಂಡದ ಮೇಲುಗಡೆ, ಅಂಥ ದಂಡವನ್ನು ಸಂದಾಯ ಮಾಡಿದ ವ್ಯಕ್ತಿಯ ಮೇಲೆ\nಅದೇ ಲಿಖಿತ ಸಂಬಂಧದಲ್ಲಿ ಈ ಪ್ರಕರಣದ ಮೇರೆಗೆ ಆ ತರುವಾಯ ವಿಧಿಸಲಾದ ಜುಲ್ಮಾನೆ (ಯಾವುದಾದರೂ ಇದ್ದರೆ)ಯನ್ನು ಮಾಫಿ\nಮಾಡಿಸೆಲು ಅವಕಾಶವಿರತಕ್ಕದ್ದು."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

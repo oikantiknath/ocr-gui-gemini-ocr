@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "qp_bn_000450_1_11_answer.png",
+      "width": 1979,
+      "height": 1330
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        1979.0,
+        1330.0
+      ],
+      "area": 2632070.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1979.0,
+          0.0,
+          1979.0,
+          1330.0,
+          0.0,
+          1330.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "উঃ এই পর্যায়ের বিক্রিয়াগুলি ক্লোরোপ্লাস্টের গ্রানা অঞ্চলে সম্পন্ন হয়। এই বিক্রিয়ায় অংশ গ্রহণকারী\\nউপাদানগুলি হল—জল, ক্লোরোফিল, সূর্যালোক, ADP এবং NADP⁺। এই রাসায়নিক বিক্রিয়াটি চারটি\\nউপদশায় বিভক্ত—\\n(i) ক্লোরোফিল অনুদ্বারা সৌরশক্তি শোষণ।\\n(ii) সৌরশক্তির রাসায়নিক শক্তিতে (ATP রূপে) রূপান্তর।\\n(iii) জলের আলোক বিশ্লেষণ ও অক্সিজেন নির্গমন।\\n(iv) NADP⁺ এর বিজারণ।\\n\\n(i) PS-I এ অবস্থিত ক্লোরোফিল-a-700 এবং PS-II-এ অবস্থিত ক্লোরোফিল-a-680 আলোকের ফোটন\\nকণা শোষণ করে উত্তেজিত হয়। এই অবস্থান উভয় রঞ্জক তন্ত্রের কেন্দ্রে অবস্থিত উত্তেজিত ক্লোরোফিল-a\\nঅণু থেকে উচ্চশক্তি সম্পন্ন ইলেকট্রন নির্গত হয়।\\n(ii) সৌরশক্তির রাসায়নিক শক্তিতে রূপান্তর : ক্লোরোফিল-a থেকে নির্গত উচ্চ শক্তিসম্পন্ন ইলেকট্রন\\nবিভিন্ন বাহকের মাধ্যমে স্থানান্তরিত হয় এবং স্থানান্তরের সময় ইলেকট্রন থেকে নির্গত শক্তির দ্বারা ADP\\nও Pi (অজৈব ফসফেট)-কে যুক্ত করে ATP উৎপন্ন করে। এই পদ্ধতিকে ফোটোফসফোরাইলেশন বলে।\\nADP + Pi (অজৈব ফসফেট) —→ ATP\\n(iii) জলের আলোক বিশ্লেষণ ও অক্সিজেন নির্গমন : PS-II থেকে ইলেকট্রন নির্গত হওয়ার সঙ্গে সঙ্গে\\nজলের অণু ভেঙে H⁺ ও OH⁻ আয়ন উৎপন্ন করে।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

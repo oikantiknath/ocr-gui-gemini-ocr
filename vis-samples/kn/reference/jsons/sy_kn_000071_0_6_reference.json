@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_kn_000071_0_6_reference.png",
+      "width": 885,
+      "height": 386
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        885.0,
+        386.0
+      ],
+      "area": 341610.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          885.0,
+          0.0,
+          885.0,
+          386.0,
+          0.0,
+          386.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಪರಾಮರ್ಶನ ಗ್ರಂಥಗಳು:\n೧. ಅಭಿನವಗದ್ಯ, ಪಾದೆಕಲ್ಲು ನರಸಿಂಹ ಭಟ್, ಅಕ್ಷರ ಪ್ರಕಾಶನ, ಸಾಗರ, ೧೯೯೯\n೨. ಅಲಂಕಾರಶಾಸ್ತ್ರ, ತಿಮ್ಮಯ್ಯ, ಪ್ರಸಾರಾಂಗ ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ, ೧೯೯೬\n೩. ಆನಂದವರ್ಧನ ಕಾವ್ಯಮೀಮಾಂಸೆ, ಶಾರದಾ ಮಂದಿರ, ಮೈಸೂರು, ೧೯೯೭\n೪. ಎರಡನೆ ನಾಗವರ್ಮ, ಡಿ.ಸಿ.ರಾಮಯ್ಯ.ವಿ. (ಸಂ), ಕವಿಕಾವ್ಯ ಪರಂಪರೆ, ಮನೀಫ್ ಪ್ರಕಾಶನ, ಬೆಂಗಳೂರು, ೧೯೯೩\n೫. ಕನ್ನಡ ಕವಿಗಳ ಕಾವ್ಯಕಲ್ಪ, ತಿರುಮಲೇಶ.ಜಿ.ಎಚ್ ಮೈಸೂರು ವಿವಿ\n೬. ಕನ್ನಡ ಕೈಪಿಡಿ (ಅಲಂಕಾರ ಭಾಗ), ಕೆ.ವಿ.ಪುಟ್ಟಪ್ಪ(ಸಂ) ಮೈಸೂರು ವಿ.ವಿ.೧೯೯೫,\n೭. ಕನ್ನಡದಲ್ಲಿ ಕಾವ್ಯತತ್ವ, ಕೃಷ್ಣಮೂರ್ತಿ. ಕೆ., ಶಾರದಾಮಂದಿರ, ಮೈಸೂರು,೧೯೯೬\n೮. ಕವಿಸೃಷ್ಟಿ, ವಿ. ಸೀತಾರಾಮಯ್ಯ (ಸಂ) ಮೈಸೂರು\n೯. ಕವಿರಾಜ ಮಾರ್ಗ,ವಿ.ಸೀತಾರಾಮಯ್ಯ (ಸಂ) ಕವಿಕಾವ್ಯ ವಿಚಾರ, ಮನೀಫ್ ಪ್ರಕಾಶನ, ಬೆಂಗಳೂರು\n೧೦. ಕಾವ್ಯ ಕುತೂಹಲ, ಪ್ರ.ತಿ. ನರಸಿಂಹಾಚಾರ್, , ಕಾವ್ಯಾಲಯ, ಮೈಸೂರು, ೧೯೯೯\n೧೧. ಕಾವ್ಯದಲ್ಲಿ ಧ್ವನಿ, ಗುರುನಾಥ ಹೆಗ್ಗಡೆ, ರವೀಂದ್ರ ಪುಸ್ತಕಾಲಯ, ಸಾಗರ, ೧೯೯೯"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

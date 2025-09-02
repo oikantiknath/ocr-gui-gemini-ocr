@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "qp_hi_000383_0_4_first-level-question.png",
+      "width": 683,
+      "height": 1238
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 8,
+      "bbox": [
+        0.0,
+        0.0,
+        683.0,
+        1238.0
+      ],
+      "area": 845554.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          683.0,
+          0.0,
+          683.0,
+          1238.0,
+          0.0,
+          1238.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "93. जीएफआर, 2017 के संदर्भ में, सहायता अनुदान से\nसंबंधित निम्नलिखित कथनों पर विचार कीजिए :\n\n1. अनुदानग्राही संस्थाओं को जारी किए गए सहायता\nअनुदान के लिए सकल ब्याज या अन्य आय,\nलेखाओं को अंतिम रूप दिए जाने के तत्काल\nबाद अनिवार्य रूप से भारत की संचित निधि में\nजमा कर दी जानी चाहिए\n\n2. सहायता अनुदान से निर्मित भवनों के सभी मामलों\nमें, उनके रखरखाव का उत्तरदायित्व सरकार पर\nन्यागत होता है\n\n3. ऐसे वास्तविक व्यय को पूरा करने के लिए\nसहायता अनुदान संस्वीकृत किया जा सकता है,\nजो संस्वीकृति जारी किए जाने की तारीख से दो\nवर्ष से पहले नहीं किया गया हो\n\n4. अनुदानग्राही संगठनों द्वारा उपयोग प्रमाण-पत्र\nवित्तीय वर्ष की समाप्ति के छह माह के भीतर\nप्रस्तुत किया जाना चाहिए\n\nउपर्युक्त में से कौन-से कथन सही नहीं हैं ?\n\n(a) केवल 1, 3 और 4\n\n(b) केवल 1, 2 और 4\n\n(c) केवल 2 और 3\n\n(d) केवल 2 और 4"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

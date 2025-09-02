@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ml_000917_1_6_sub-ordered-list.png",
+      "width": 379,
+      "height": 159
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        379.0,
+        159.0
+      ],
+      "area": 60261.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          379.0,
+          0.0,
+          379.0,
+          159.0,
+          0.0,
+          159.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "120. പാർലമെന്റിൽ ഉപയോഗിക്കേണ്ട ഭാഷ—(1) XVII-ാം ഭാഗത്തിൽ എന്തതന്നെ\nആയിരുന്നാലും, എന്നാൽ 348-ാം അനുച്ഛേദത്തിലെ വ്യവസ്ഥകൾക്ക് വിധേയമായി, പാർലമെന്റിന്റെ\nകാര്യങ്ങൾ ഹിന്ദിയിൽ അല്ലെങ്കിൽ ഇംഗ്ലീഷിൽ നടത്താവുന്നതാകുന്നു:\n\nഎന്നാൽ, രാജ്യസഭയുടെ അദ്ധ്യക്ഷനോ ലോകസഭയുടെ സ്പീക്കറോ അല്ലെങ്കിൽ ആ\nനിലയിൽ പകരം ജോലിചെയ്യുന്ന ആളോ, അങ്ങു സംസാരിക്കാൻ ഹിന്ദിയിൽ അല്ലെങ്കിൽ\nഇംഗ്ലീഷിൽ തൻ്റെ ആശയം ബന്ധപ്പെട്ട പ്രകടിപ്പിക്കാൻ കഴിവില്ലാത്ത ഏതെങ്കിലും അംഗത്തെ\nഅയാളുടെ മാതൃഭാഷയിൽ സഭയെ അഭിസംബോധനം ചെയ്യുവാൻ അനുവദിക്കാവുന്നതാണ്.\n\n(2) പാർലമെൻ്റ് നിയമത്താൽ മററുപ്രകാരം വ്യവസ്ഥ ചെയ്യാത്തപക്ഷം ഈ അനുച്ഛേദത്തിന്,\nഈ ഭരണഘടനയുടെ പ്രാരംഭം മുതൽ പതിനഞ്ച് വർഷക്കാലം അവസാനിച്ചശേഷവും \"അല്ലെങ്കിൽ\nഇംഗ്ലീഷിൽ\" എന്ന പദങ്ങൾ, അതിന് വിട്ടുകളഞ്ഞതാണെന്നപോലെ പ്രഭാവം\nഉണ്ടായിരിക്കുന്നതാണ്."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

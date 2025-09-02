@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_ml_000174_0_4_unordered-list.png",
+      "width": 951,
+      "height": 824
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        951.0,
+        824.0
+      ],
+      "area": 783624.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          951.0,
+          0.0,
+          951.0,
+          824.0,
+          0.0,
+          824.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ശ്രദ്ധ ആവശ്യമുള്ള സ്ഥലങ്ങളിൽ വിനിയോഗിച്ച്, ഒരു സുരക്ഷിതവും\\nആരോഗ്യകരവുമായ സാഹചര്യമെന്ന നിലയുടെ അടിസ്ഥാനത്തിൽ ശ്രദ്ധയെ\\nപ്രോത്സാഹിപ്പിക്കുന്ന തരത്തിൽ നിർമ്മിക്കുക.\\n• നിലയുടെ ശ്രദ്ധയും ഒരു ശ്രദ്ധാ സാധ്യതയിൽ ഉൾപ്പെടുന്ന\\nഎന്ന് മനസ്സിലാക്കിയതിനാലോ ശേഷം ഘടനാപരമായ മാറ്റങ്ങൾ\\nവരുത്തുകയോ ആവാം. (കേരളം. ഹോം ഗവൺമെന്റ്)\\n• വീടിന്റെ ഉപരിതലപരമായ നിലയുടെ ഉപഭോക്താക്കൾ\\nബോധവതികളായി സൂക്ഷിക്കുക.\\n• ചുമരുകൾക്ക് കേടുപാടുകൾ. ഉറപ്പുള്ള വിള്ളലുകൾ\\nപരിഹരിക്കുക.\\n• ചുമർ അലമാരകൾ സുരക്ഷിതമായി ചുമരിൽ ഉറപ്പിക്കുക; ഏറ്റവും\\nഭാരവും വലുപ്പവും കൂടിയ വസ്തുക്കൾ ഏറ്റവും താഴെ\\nശ്രദ്ധിക്കുക. വൈദ്യുത ഉപകരണങ്ങൾക്കും പാചകവാതകത്തിനും\\nശരിയായ അടിത്തറ ഒരുക്കുക.\\n• \"ഡോപ്പ് - കവർ - ഹോൾഡ്\" വിദ്യയെ കുറിച്ച് മനസ്സിലാക്കുക.\\n• നിലങ്ങളെയും കുടുംബത്തെയും ശ്രദ്ധാ അപകടസാധ്യതകളെ പറ്റി\\nബോധവൽക്കരിക്കുക."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

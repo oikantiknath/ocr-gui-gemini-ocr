@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_ta_000180_0_2_paragraph.png",
+      "width": 435,
+      "height": 1092
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        435.0,
+        1092.0
+      ],
+      "area": 475020.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          435.0,
+          0.0,
+          435.0,
+          1092.0,
+          0.0,
+          1092.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "“கடன் பட்டார் நெஞ்சம்\nபோல் கலங்கினான்\nஇலங்கை வேந்தன்...” என்று\nஎங்கேபோய், எப்போதோ கம்ப\nராமாயணத்தில் படித்ததாக\nஞாபகம். ஆனால் கடன் பட்ட\nவனைவிட, கடன் வாங்குபவன்\nமனதுதான் மிகவும் கலங்கும்\nஎன்று தோன்றுகிறது. ‘ஏன்?’\nஎன்று கேட்கலாம். வாங்கின\nகடனுக்காவது சீக்குபோக்குச்\nசொல்லலாம், அல்லது தரம்\nகுறைவே நாம் கூடப்... போட\nலாம்! ஆனால், கடன் கேட்கப்\nபோனவோ... அடியேப்பா!\nஇந்தக் கல்நெஞ்சர்கள் லேசில்\nதந்துவிடுகிறார்களா, என்ன?\nமீன்மேலவும் பார்த்து, பத்து\nதடவை இழுக்கடித்து, ஆளைப்\nபரீட்சை செய்து, ஆயிரம் முக்\nகல் முனைகளுடன் கேட்ட\nதொகையில் பாதியைத்தான்\nகொடுக்கிறார்கள். இந்தக் கலி\nகாலக் கர்ணர்கள்! பெட்டியில்\nகுட்டி போடும் பணத்தை,\nஇவர்களென்ன வைவஸ்வத\nபுரிக்குச் செல்லும்போது,\n(எமலோகத்துக்கு) ‘எதற்கும்\nகையோடு இருக்கட்டுமே!’\nஎன்று எடுத்துக்கொண்டா\nபோகப்போகிறார்கள்? என்\nனவோ போங்கள்! நாமும்\nஅழுக்காறாமல் இவர்களோடு\nமடலுக்கு நிற்கவேண்டியிருக்\nகிறது!"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

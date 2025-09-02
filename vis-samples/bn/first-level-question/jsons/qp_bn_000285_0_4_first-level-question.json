@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "qp_bn_000285_0_4_first-level-question.png",
+      "width": 896,
+      "height": 923
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 8,
+      "bbox": [
+        0.0,
+        0.0,
+        896.0,
+        923.0
+      ],
+      "area": 827008.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          896.0,
+          0.0,
+          896.0,
+          923.0,
+          0.0,
+          923.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "১। প্রতিটি একক থেকে একটি করে প্রশ্ন নিয়ে চারটি প্রশ্নের উত্তর দাও: (প্রতিটি অনধিক ৩০০ শব্দে)\nএকক-১\n(ক) বাংলা সাহিত্যের আদিপর্বে বৌদ্ধধর্ম ও সংস্কৃতিচর্চা কীভাবে প্রভাব বিস্তার করেছিল, তার পরিচয় দাও।\nঅথবা\n(খ) চর্যাপদ কে, কবে, কোথা থেকে আবিষ্কার করেন? বাংলা সাহিত্যে চর্যাপদের গুরুত্ব আলোচনা করো।\n\nএকক-২\n(গ) ‘শ্রীকৃষ্ণকীর্তন’ কাব্যের আবিষ্কার ও নামকরণ সম্পর্কে লেখো। কাব্যটি কার লেখা? কাব্যটিতে কটি\nখণ্ড ও কী কী? কাব্যটির রচনায় কবির দক্ষতার পরিচয় দাও।\nঅথবা\n(ঘ) ‘চণ্ডীমঙ্গল’ কাব্যে আর্য-অনার্য সংস্কৃতির সমন্বয় ঘটেছে – তা আলোচনা করো।\n\nএকক-৩\n(ঙ) চণ্ডীদাসের কবি পরিচয় দিয়ে বৈষ্ণব পদাবলী সাহিত্যে তাঁর অবদান আলোচনা করো।\nঅথবা\n(চ) বৈষ্ণব পদাবলী সাহিত্যে কবি জ্ঞানদাস-এর অবদান আলোচনা করো।\n\nএকক-৪\n(ছ) বাংলা সাহিত্যের কোন কালপর্বকে ‘অন্ধকার পর্ব’ বলে অভিহিত করা হয় এবং কেন তা আলোচনা\nকরো।\nঅথবা\n(জ) পাঁচালি কী? বাংলা ভাষার চারজন পাঁচালিকারের নাম লেখো। পাঁচালি রচনায় যে-কোনো একজন\nপাঁচালিকারের ভূমিকা নিরূপণ করো।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

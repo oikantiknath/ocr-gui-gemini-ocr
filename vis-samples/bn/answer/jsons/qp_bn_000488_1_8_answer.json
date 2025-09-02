@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "qp_bn_000488_1_8_answer.png",
+      "width": 1598,
+      "height": 2182
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        1598.0,
+        2182.0
+      ],
+      "area": 3486836.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1598.0,
+          0.0,
+          1598.0,
+          2182.0,
+          0.0,
+          2182.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(১) জরায়ু মধ্যস্থ ব্যহত বৃদ্ধিঃ- (IUGR- Intra Uterine Growth Retardation)\nনিচের প্রবাহ চিত্রটি মায়ের অপুষ্টি কীভাবে ভ্রূণের বৃদ্ধি ব্যহত করে বোঝায়—\nমায়ের অপর্যাপ্ত এবং নিম্নমানের বা কম পুষ্টিযুক্ত খাদ্য গ্রহণ\n↓\nমায়ের (গর্ভবতীর) অপুষ্টি\n↓ ↓\nরক্তে পুষ্টি উপাদানের মাত্রা কম অপ্রতুল কার্ডিয়াক আউটপুট\n↓ ↓\nভ্রূণের মধ্যে খাদ্য উপাদান এবং রক্তের কম প্রবেশ\n↓\nপ্লাসেন্টার আকৃতি ছোট\n↓\nভ্রূণে পুষ্টি উপাদানের সরবরাহ কম\n↓\nভ্রূণের বৃদ্ধি কম\n(২) অপরিণত কেন্দ্রীয় স্নায়ুতন্ত্রঃ- পর্যাপ্ত পুষ্টি উপাদান স্বাভাবিক স্নায়ুতন্ত্রের বিকাশের\nসহায়ক বিশেষ করে Fatty ā, ও Iodine Folic Acid এবং লোহা, এই উপাদানগুলির\nঅভাবে শিশুর কেন্দ্রীয় স্নায়ুতন্ত্রের বৃদ্ধি ও বিকাশ পূরণ হয় না ব্যহত হয় যা পরবর্তী পর্যায়\nঅর্থাৎ শিশুর জন্মের পর পূরণ করা যায় না।\n(৩) অপরিণত শিশু ও ভ্রূণের অপরিণত বিকাশ (Immature foetal development)\nমায়ের অপুষ্টির ফলে জরায়ুতে ভ্রূণের বিকাশ ঘটে না বা স্বাভাবিক বিকাশ হয় না। এক্ষেত্রে\nআকার ও ওজন কম থাকায় দৈহিক বিকাশ কম থাকে ফলে Small for Date এবং\nLow BirthWeight শিশুর জন্মের আশঙ্কা থাকে। এর সাথে উন্নয়নের বা বিকাশের\nপদক্ষেপগুলি অনিয়মিত হতে পারে।\nমাতৃদুগ্ধের অনাক্রম্যতাজনিত সুফল\nযে কোনো তিনটি সুফল আলোচনা করা হলঃ-\n(১) লাইসোজাইমঃ ব্যাকটেরিয়ার প্রাচীর আক্রমণ করে ও পরিপাক করে ব্যাকটেরিয়া ধ্বংস\nকরে।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

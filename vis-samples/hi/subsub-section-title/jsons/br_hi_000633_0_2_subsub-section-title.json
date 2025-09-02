@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_hi_000633_0_2_subsub-section-title.png",
+      "width": 1182,
+      "height": 473
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 33,
+      "bbox": [
+        0.0,
+        0.0,
+        1182.0,
+        473.0
+      ],
+      "area": 559086.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1182.0,
+          0.0,
+          1182.0,
+          473.0,
+          0.0,
+          473.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "• COVID-19 और मौसमी साँस / श्वसन संबंधी बीमारियों (सामान्य सर्दी जुकाम) के लक्षण एक जैसे\nहैं। ऐसे सभी लक्षणों वाले लोगों में COVID-19 नहीं होता।\n• निम्नलिखित व्यक्तियों को एहतियात के तौर पर घर पर 14 दिनों के लिए एकांत (क्वारंटाइन) में ही\nरखना चाहिए:\n  वो लोग जिन्होंने पिछले 14 दिनों में COVID-19 प्रभावित देशों / क्षेत्रों की यात्रा की हैं\n  वो लोग जो ऐसे संदिग्ध व्यक्तियों के संपर्क में आए हैं जिन्हें COVID-19 होने का खतरा है या\n  वो जिनकी पुष्टि हो गई हैं\n  वो लोग जिन्हें ऐसे लक्षण विकसित हो रहे हैं\n• ऐसे व्यक्तियों को आपको सूचित करना चाहिए कि यदि लक्षण गंभीर हो जाएं तो उन्हें आप से बात\nकरके स्वास्थ्य केंद्र जाना चाहिए।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

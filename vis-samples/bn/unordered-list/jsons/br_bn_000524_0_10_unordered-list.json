@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_bn_000524_0_10_unordered-list.png",
+      "width": 538,
+      "height": 1300
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        538.0,
+        1300.0
+      ],
+      "area": 699400.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          538.0,
+          0.0,
+          538.0,
+          1300.0,
+          0.0,
+          1300.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "অমল কে ভৌমিক\nলৌকিক ছড়ায় লোকগানিত ৩০০.০০\nঅমিতাভ মুখোপাধ্যায়\nমূল্যবোধের বিকাশে লোকসংস্কৃতির ভূমিকা ২০০.০০\nঅভিশঙ্কর চৌধুরী\nপল্লিকবি একলিমুর রাজার সংগীতমালা ৮০.০০\nঅরুণকুমার রায়\nলোকায়তচর্চার ভূমিকা ৫০.০০\nঅশোক ভট্টাচার্য\nপশ্চিমবঙ্গের পটচিত্র ৪০০.০০\nআদিত্য মুখোপাধ্যায়\nরণনৃত্য ৭০.০০\nআবদুর রাকিব\nচারণকবি ওমানি দেওয়ান ১০০.০০\nআবুল আহসান চৌধুরী\nআব্বাসউদ্দিন ১২০.০০\nউপেন্দ্রকিশোর রায়চৌধুরী\nচিত্তরঞ্জন সেনগুপ্ত (তরজমাচি)\nমুরলিমোহন হাঁসদা (গড় ইচ)\nটুনটুনি রেয়াঃ কথা ৫০.০০\nকালাচাঁদ মাহালী\nমাহালী লোকগান ও লোককথা ১৫০.০০\nগদাধর দে\nলোকায়ত বাংলা দোঁহা ১৫০.০০\nগৌতমকুমার দাস\nগাজন ডাটা দেলের গান ১৫০.০০\nডাবলু সরেন\nসাঁওতালি নাটকের কথা ১৫০.০০\nতনয় মণ্ডল\nরাজবংশী লোকচিকিৎসা ১০০.০০\nতারাপদ সাঁতরা\nপশ্চিমবঙ্গের লোকশিল্প ও শিল্পিসমাজ ৩০০.০০\nদিনেশ চৌধুরী\nগ্রাম নগরের গান ১০০.০০\nগ্রামীণ গীতিসংগ্রহ দ্বিতীয় খণ্ড ২২৫.০০\nদেবজিত্‍ বন্দ্যোপাধ্যায়\nবঙ্গরঙ্গমঞ্চে লোকসংগীত ১৮০.০০\nদীপক বিশ্বাস\nকবিয়াল লবেচার চক্রবর্তী ৬০.০০\nদীপঙ্কর ঘোষ\nআদিবাসী শিকার সংস্কৃতি ১২০.০০\nধনঞ্জয় রায়\nখন ৭০.০০\nধীরেন্দ্রনাথ কর\nরাঢ় বাঁকুড়ার লোকভাষা ও লোকশব্দাবলী ১৭০.০০"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

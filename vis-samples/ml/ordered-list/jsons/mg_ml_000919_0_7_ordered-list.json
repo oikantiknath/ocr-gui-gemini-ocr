@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_ml_000919_0_7_ordered-list.png",
+      "width": 926,
+      "height": 295
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        926.0,
+        295.0
+      ],
+      "area": 273170.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          926.0,
+          0.0,
+          926.0,
+          295.0,
+          0.0,
+          295.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "a) അനുഗമിക്കുക എന്നതിന്ന് അർത്ഥം: 'അനുഗമിക്കുക' എന്ന വാക്കിന്റെ അർത്ഥമായി സാധാരണ പറയാ\nറുള്ളത് അനുകരിക്കുക, പിന്തുടരുക എന്നൊക്കെയാണ്. ക്രിസ്ത്യാനിയുടെ സവിശേഷതയും കൂടായ്മയും\nആയിരുന്നെങ്കിൽ മാത്രമേ ക്രിസ്തുവിനെ അനുഗമിക്കാനായി അറിയും. അർത്ഥമാായി കർത്താവിനെ\nഅനുഗമിക്കാനും കഴിയും എന്ന സത്യം നാം വിസ്മരിക്കരുത്. ക്രിസ്തുവിനെ കൂടാതെള്ള ക്രിസ്തുക്കൾ\nനിർമ്മകരാണ്. ദൈവത്തെ അനുഗമിക്കുന്നവർ സൂക്ഷ്മികളും അനുഗമിക്കാത്തവർ അക്ഷമികളുമാണ്. അവർ\nതള്ളപ്പെട്ടുപോകാതെ ദൈവത്തെ അനുഗമിക്കുന്നവരാകണം. പിതാവ് ദൈവത്തിനു കൊടുത്തിട്ടുള്ളവരാണ്\nഅനുഗമിക്കുന്നവർ.\nb) ആടുകളുടെ സ്വഭാവങ്ങൾ: 1) അവ എന്റെ ശബ്ദം കേൾക്കുന്നു. കാരണം ആടുകൾക്കറിയാം അവരുടെ ഇട\nയൻ ആരാണെന്ന്. അവർ സ്നേഹിക്കുന്ന ഇടയന്റെ ശബ്ദം തിരിച്ചറിയുന്നു. അതിൽ അവർ സന്തോഷിക്കുന്നു.\nഅവന്റെ ചുവടുകൾ അവരുടെ പ്രമാണങ്ങളും പ്രകാശവും ജീവനുമാകുന്നു. 2) അവ എന്നെ അനുഗമിക്കുന്നു.\nഇടയന്റെ എല്ലാ കല്പനകളും സമസ്തം അനുസരണയുള്ളവരാകയാൽ അവന്റെ നിയന്ത്രണത്തിനു വിധേ\nയപ്പെടുന്നു. അവർ എപ്പോഴും അവന്റെ ചുവടൊപ്പിച്ചു നടക്കുന്നു. അവന്റെ കല്പനകളെ പിന്തുടർന്ന്\nഅവൻ നടത്തുന്നതുപോലെ നടക്കുന്നു. അതാവാന്റെ നിയന്ത്രണത്തിൽ നടക്കുന്നു."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

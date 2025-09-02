@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "qp_or_000479_1_14_first-level-question.png",
+      "width": 493,
+      "height": 404
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 8,
+      "bbox": [
+        0.0,
+        0.0,
+        493.0,
+        404.0
+      ],
+      "area": 199172.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          493.0,
+          0.0,
+          493.0,
+          404.0,
+          0.0,
+          404.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "7. ଉତ୍ତର ଦର୍ଶାଉଥିବା ଠିକ୍ ଉତ୍ତରଟି ବାଛି ଲେଖ ।\n(କ) “ଏହା ବ୍ୟକ୍ତିଗତ ସମସ୍ୟା ନୁହେଁ, ଏହା ସମଗ୍ର ଶିକ୍ଷା ସମାଜର\nସମସ୍ୟା” – ଏଠାରେ କେଉଁ ସମସ୍ୟା କଥା କୁହାଯାଇଛି ?\n(i) ଜ୍ଞାନର ରାଜନୀତି\n(ii) ଏକପରିବାର\n(iii) ସହଜା ଶିକ୍ଷା ବ୍ୟକ୍ତିର ନିଜ ସମାଜୀକରଣ ଦେବାର\n(iv) ଧାର୍ମିକ ଦରବାର\n(ଖ) ମେଡ଼ିସିନ୍ ଧୂଳି କେତେବେଳେ ବଢ଼ିଥାଏ ?\n(i) ଆଧୁନିକ ସୁରକ୍ଷା ଧାର୍ମିକ\n(ii) ଆଧୁନିକ ସମସ୍ୟା ଆଦର୍ଶ ସମଗ୍ର ଧାର୍ମିକ\n(iii) କେତେବେଳେ ମଧ୍ୟରେ ସୁରକ୍ଷା ପ୍ରାପ୍ତ ହେଲେ\n(iv) କେହି ଜଣକେ\n(ଗ) ଶିକ୍ଷକର ମୂଳମନ୍ତ୍ର କଣ ?\n(i) ସାହାଯ୍ୟକାରୀ\n(ii) ସାମାଜିକ\n(iii) ଅର୍ଥନୀତି\n(iv) ଶିକ୍ଷା"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

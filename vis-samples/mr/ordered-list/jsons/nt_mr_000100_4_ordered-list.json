@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_mr_000100_4_ordered-list.png",
+      "width": 395,
+      "height": 287
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        395.0,
+        287.0
+      ],
+      "area": 113365.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          395.0,
+          0.0,
+          395.0,
+          287.0,
+          0.0,
+          287.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "५१. अन्योन्य वचननाहीता पालन करण्यास तयार व राजी असल्याशिवाय वचनदाता पालन करण्याला\nबांधील नाही.\n५२. अन्योन्य वचनांच्या पालनाचा क्रम.\n५३. ज्या घटनेमुळे संविदा परिणामक व्हावयाची आहे त्या घटनेस प्रतिबंध करणाऱ्या पक्षकाराचे दायित्व.\n५४. अन्योन्य वचनांची मिळून बनलेल्या संविदेत, ज्या वचनांचे पालन प्रथम करावयाचे त्याबाबतचा\nकसुरीचा परिणाम.\n५५. ज्या संविदेत वेळ अत्यावश्यक असते त्याप्रसंगी तिचे पालन निश्चित वेळी करण्यास कसूर केल्याचा\nपरिणाम.\nजेव्हा वेळ अत्यावश्यक नसते तेव्हा अशी कसूर करण्याचा परिणाम.\nसंमत झालेल्यापेक्षा अन्य वेळी केलेल्या पालनाच्या स्वीकृतीचा परिणाम.\n५६. अशक्य कृती करण्याचा करार.\nनंतर अशक्य किंवा बेकायदेशीर ठरणारी कृती करण्याची संविदा.\nअशक्य किंवा बेकायदेशीर असल्याचे माहीत असलेल्या कृतीचे पालन न केल्यामुळे झालेल्या\nहानीबद्दल भरपाई.\n५७. वैध गोष्टी आणि तसेच अन्य अवैध गोष्टीही करण्याचे अन्योन्य वचन.\n५८. एक शाखा अवैध असलेले पर्यायी वचन."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

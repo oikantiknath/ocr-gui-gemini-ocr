@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_pa_000333_0_1_subsub-headline.png",
+      "width": 840,
+      "height": 721
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        840.0,
+        721.0
+      ],
+      "area": 605640.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          840.0,
+          0.0,
+          840.0,
+          721.0,
+          0.0,
+          721.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ੳ) ਬਿਬੇਕ ਦੇ ਮੈਂਬਰਾਂ ਦੀ ਗਿਣਤੀ ਅਤੇ ਉਹ ਹਿੱਤ ਜਿਸ ਦੀ ਮਿਮੰਮ ਮੈਂਬਰ ਧਾਰਾ 3\nਦੀ ਉਪ-ਧਾਰਾ (3) ਦੇ ਖੰਡ (ਹ) ਅਧੀਨ ਪ੍ਰਤਿਨਿਧਤਾ ਕਰੇਗਾ;\n(ਅ) ਬਿਬੇਕ ਦੇ ਮੈਂਬਰਾਂ ਦੇ ਅਹੁਦੇ ਦੀ ਮੱਧਤਾ, ਉਹ ਟੀਮਾਂ ਅਸੀਂ ਬਾਵਾ ਕਰਨ ਦਾ\nਤਰੀਕਾ ਅਤੇ ਉਹ ਕਾਰਜਾ ਜੋ ਧਾਰਾ 3 ਦੀ ਉਪ-ਧਾਰਾ(4) ਅਧੀਨ ਮੈਂਬਰਾਂ ਦੁਆਰਾ\nਆਪਣੇ ਕਾਰਜਾਂ ਦੇ ਨਿਭਾਉਂਣ ਵਿੱਚ ਅਪਣਾਇਆ ਜਾਵੇਗਾ;\n(ੲ) ਉਹ ਤਰੀਕਾ ਅਤੇ ਉਹ ਪ੍ਰਯੋਜਨ ਜਿਨ੍ਹਾਂ ਲਈ ਬਿਬੇਕ ਧਾਰਾ 3 ਦੀ ਉਪ-ਧਾਰਾ (5)\nਅਧੀਨ ਸਹਾਇਤਾ ਅਤੇ ਸਲਾਹ ਲੈਣ ਲਈ ਕਿਸੇ ਵਿਅਕਤੀ ਨੂੰ ਆਪਣੇ ਨਾਲ\nਸਹਿਯੁਕਤ ਕਰ ਸਕੇਗਾ;\n(ਸ) ਬਿਬੇਕ ਦੀ ਅਜਿਹੇ ਮੈਂਬਰਾਂ ਦੀ ਗਿਣਤੀ ਜੋ ਧਾਰਾ 4 ਦੀ ਉਪ-ਧਾਰਾ (1) ਦੇ ਖੰਡ\n(ਅ)ਅਧੀਨ ਕਾਰਜਸਾਧਕ ਕਮੇਟੀ ਦੇ ਮੈਂਬਰ ਹੋਣਗੇ;\n(ਹ) ਧਾਰਾ 7 ਦੀ ਉਪ-ਧਾਰਾ (2)ਅਧੀਨ ਬਿਬੇਕ ਦੇ ਡਾਇਰੈਕਟਰ-ਜਨਰਲ ਦੀ ਸੇਵਾ ਦੇ\nਨਿਯੋਜਨ ਅਤੇ ਸ਼ਰਤਾਂ;\n(ਕ) ਧਾਰਾ 10 ਦੀ ਉਪ-ਧਾਰਾ (1)ਦੇ ਖੰਡ (ੲ)ਅਧੀਨ ਕਿਸੇ ਖਾਸ ਭਾਰਤੀ ਵਿਅਕਤੀ ਨੂੰ\nਦਰਸਾਉਣ ਲਈ ਫਿਜ਼ੀਕਲ ਅਤੇ ਵੇਰਵੇ;\n(ਖ) ਉਹ ਪ੍ਰਯੋਜਨ ਜਿਨ੍ਹਾਂ ਲਈ ਧਾਰਾ 10 ਦੀ ਉਪ-ਧਾਰਾ (1) ਦੇ ਖੰਡ (ਗ) ਅਧੀਨ\nਬਿਬੇਕ ਦੁਆਰਾ ਸਿਮਾਰਕਨ ਅਤੇ ਕੁਆਲਟੀ ਕੰਟਰੋਲ ਦੇ ਪ੍ਰਯੋਜਨਾਂ ਲਈ\nਪ੍ਰਯੋਗਸ਼ਾਲਾਵਾਂ ਦੀ ਸਥਾਪਨਾ ਕੀਤੀ ਜਾਵੇਗੀ;"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

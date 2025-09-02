@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_te_000365_1_1_paragraph.png",
+      "width": 340,
+      "height": 638
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        340.0,
+        638.0
+      ],
+      "area": 216920.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          340.0,
+          0.0,
+          340.0,
+          638.0,
+          0.0,
+          638.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "లాహోర్: గాజోల్ పాలస్తీనియాపై ఇజ్రాయెల్\nబాంబు దాడులకు వ్యతిరేకంగా పాకిస్తాన్‌లో ప్ర\nధాన మత రాజకీయ పార్టీ అయిన జమాఅతే\nఇస్లామీ ఆదివారం లాహోర్‌లో భారీ ర్యాలీ నిర్వ\nహించింది. వేలాది మంది పాల్గొన్న ఈ ర్యాలీలో\nనిరసన కారులు ఇజ్రాయెల్, అమెరికాలకు వ్యతి\nరేకంగా నినాదాలు చేయడమే కాకుండా జిహాద్\nకోసం పిలుపునివ్వడం విశేషం. ఇంతకు ముందు\nకూడా ఈ పార్టీ కరాచీ, ఇస్లామాబాద్‌లలో ఇజ్రా\nయెల్‌కు వ్యతిరేకంగా భారీ ర్యాలీలు నిర్వహిం\nచింది. మహిళలు, పిల్లలతో సహా వేలాది మంది\nబ్యానర్లు, పోస్టర్లు పట్టుకుని కిలోమీటర్ల దూరం\nనడిచి ర్యాలీ జరిగిన ప్రాంతానికి చేరుకున్నారు.\nర్యాలీలో పాల్గొన్న వారంతా ఇజ్రాయెల్‌కు, అమె\nరికాకు వ్యతిరేకంగా, పాలస్తీనాకు మద్దతుగా ని\nనాదాలు చేశారు. ప్రపంచవ్యాప్తంగా పాలస్తీనాకు\nమద్దతుగా జరుగుతున్న ర్యాలీలు ప్రపంచ దేశా\nల ప్రభుత్వాలను మేలుకొల్పడమే కాకుండా అ\nమాయకులకు మద్దతుగా వాటిని అందిస్తాయని\nజమాఅతే ఇస్లామీ అధ్యక్షుడు, సెనేటర్ సిరా\nజుల్ హక్ అన్నారు. ఇస్లామిక్ సహకారం కోసం\nతమ సంస్థ చేసిన తీర్మానాలు, జారీ చేసిన ప్రకట\nనలు పని చేయలేదని ఆయన అంటూ, దురాక్ర\nమణదారుడిని ఆపడానికి ముస్లిం పాలకులలు\nఉద్యమించాలని పిలుపునిచ్చారు."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

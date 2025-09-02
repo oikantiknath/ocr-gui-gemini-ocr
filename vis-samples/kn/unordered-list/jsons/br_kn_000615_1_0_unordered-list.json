@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_kn_000615_1_0_unordered-list.png",
+      "width": 465,
+      "height": 228
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        465.0,
+        228.0
+      ],
+      "area": 106020.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          465.0,
+          0.0,
+          465.0,
+          228.0,
+          0.0,
+          228.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಜಿಲ್ಲಾ ಪ್ರವಾಸೋದ್ಯಮ ಅಧಿಕಾರಿಯು ಅಥವಾ ಪ್ರವಾಸೋದ್ಯಮ ಇಲಾಖೆಯ ಕಾರ್ಯಕ್ರಮ\nನಿರ್ವಹಣಾ ಘಟಕ (ಪಿಎಂಯು) ವಿಭಾಗವು ಸಿದ್ಧಪಡಿಸಿದ ಮೌಲ್ಯ ನಿರ್ಣಯ ವರದಿಯ ಆಧಾರದ\nಮೇಲೆ, ಜಿಲ್ಲಾ ಪ್ರವಾಸೋದ್ಯಮ ಸಮಿತಿಯು ಅರ್ಹ ಯೋಜನಾ ವೆಚ್ಚ (ಇಪಿಪಿ) 5.00 ಕೋಟಿ\nರೂಪಾಯಿಗಳವರೆಗೆ ಇರುವಂಥ ಅರ್ಹ ಪ್ರವಾಸೋದ್ಯಮ ಯೋಜನೆಗಾಗಿ ಅನುಮೋದಿಸಬಹುದಾದ\nಪ್ರೋತ್ಸಾಹಕಗಳು ಸಹಾಯಧನಗಳು ಮತ್ತು ರಿಯಾಯಿತಿಗಳಿಗೆ ಅನುಮೋದನೆ ನೀಡುತ್ತದೆ.\n\nಪ್ರವಾಸೋದ್ಯಮ ಯೋಜನೆಯ ಅನುಷ್ಠಾನಕ್ಕಾಗಿ ಅಗತ್ಯವಾಗಬಹುದಾದ ಇತರೆ ಸರ್ಕಾರಿ\nಏಜೆನ್ಸಿಗಳಿಂದ ಅನುಮೋದನೆ ಮತ್ತು ಮಂಜೂರಾತಿಗಳ ಸಮನ್ವಯ ಸಾಧಿಸಲಾಗುತ್ತದೆ.\n\nಅನುಮೋದಿತ ಪ್ರವಾಸೋದ್ಯಮ ಯೋಜನೆಗಳ ಅನುಷ್ಠಾನ ಪ್ರಗತಿಯ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡತಕ್ಕದ್ದು.\n\n5.00 ಕೋಟಿ ರೂಪಾಯಿಗಳಿಗಿಂತ ಅರ್ಹ ಯೋಜನಾ ವೆಚ್ಚ (ಇಪಿಪಿ)ದ ಪ್ರವಾಸೋದ್ಯಮ\nಯೋಜನೆಗಳ ಅನುಷ್ಠಾನದಲ್ಲಿ ಇರುವ ವಿಳಂಬವನ್ನು ತಡೆಗಟ್ಟಲು ಯೋಜನಾ ಅನುಷ್ಠಾನ\nಸಮಸ್ಯೆಗಳನ್ನು ಪರಿಹರಿಸತಕ್ಕದ್ದು."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

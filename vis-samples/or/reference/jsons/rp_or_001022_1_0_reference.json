@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_or_001022_1_0_reference.png",
+      "width": 422,
+      "height": 633
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        422.0,
+        633.0
+      ],
+      "area": 267126.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          422.0,
+          0.0,
+          422.0,
+          633.0,
+          0.0,
+          633.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "୧୫. ସାହୁ, ଓ. ନାରାୟଣ : ସାଧାରଣ ଅର୍ଥନୀତି ଓଡ଼ିଆ ମାଧ୍ୟମ, ପ୍ରକାଶକ ସରସ୍ୱତୀ ଭଣ୍ଡାର,\n    ବେଙ୍ଗଲ ଟ୍ରେଡିଙ୍ଗ୍, ବିନୋଦବିହାରୀ, କଟକ, ଗ୍ରନ୍ଥ ପ୍ରକାଶ, ୧୯୯୫, ପୃ.୧୦/୧୧\n୧୬. ମିଶ୍ର, ବସନ୍ତ କୁମାର ମୁନୀମ : ପତ୍ରିକା ବର୍ଷ – ଓଡ଼ିଆ ମାଧ୍ୟମ – ପତ୍ରିକା ବର୍ଷ : ଓଡ଼ିଆ\n    ସାହିତ୍ୟ, ପ୍ରକାଶକ ଓଡ଼ିଆ ସାହିତ୍ୟ ଏକାଡେମୀ, ଗ୍ରନ୍ଥ ପ୍ରକାଶ, ୨୦୦୯, ପୃ.୧୧୧\n୧୭. Madan T. N. : Essay – Indian Society : Rural Contest’, Ed. S. C.\n    Dube, India Since Independence\n୧୮. ମିଶ୍ର ବସନ୍ତ କୁମାର : ମାନବ ସମ୍ବଳ ଓ ବାଣିଜ୍ୟ, ପ୍ରକାଶକ ଅନନ୍ତ, ରାଜକନିକା, କଟକ,\n    ଗ୍ରନ୍ଥ ପ୍ରକାଶ, ୧୯୯୪, ପୃ.୧୩\n୧୯. ମିଶ୍ର ବସନ୍ତ କୁମାର ମୁନୀମ : ପତ୍ରିକା ବର୍ଷ – ଓଡ଼ିଆ ମାଧ୍ୟମ – ପତ୍ରିକା ବର୍ଷ : ଓଡ଼ିଆ\n    ସାହିତ୍ୟ, ପ୍ରକାଶକ ଓଡ଼ିଆ ସାହିତ୍ୟ ଏକାଡେମୀ, ଗ୍ରନ୍ଥ ପ୍ରକାଶ, ୨୦୦୯, ପୃ.୧୧୨-\n    ୧୧୩\n୨୦. A contribution to the critique of political economy – Literary and Art\n    : Marx and Engle’s – Selection from their writings, p.7\n୨୧. ମିଶ୍ର ବସନ୍ତ କୁମାର : ନୂତନ ଭୂଗୋଳ ମାଧ୍ୟମ, ପ୍ରକାଶକ – ବେଙ୍ଗଲ ଟ୍ରେଡିଙ୍ଗ୍,\n    କଟକ, ଗ୍ରନ୍ଥ ପ୍ରକାଶ, ୧୯୯୧, ପୃ.୨\n୨୨. Engels Frederich : Letter to Mina Kautsky, November 26 1885,\n    Literature and Art, p.36\n୨୩. ଡ଼ି. ଆର୍. ରାଓ : Purpose of writing, 1974, pp.13-14\n୨୪. ଅନୁବାଦ ରାମାନନ୍ଦ : ମୁଦ୍ରଣ କଳ\n୨୫. ଦାସ ବସନ୍ତ କୁମାର ମୁନୀମ : ଓଡ଼ିଆ ମାଧ୍ୟମର ବିକାଶଧାରା, ୨ୟ ଖଣ୍ଡ, ସାହା ମଲ୍ଲ,\n    କଟକ, ଗ୍ରନ୍ଥ ପ୍ରକାଶ, ୧୯୮୦\n୨୬. ସାହୁ ଓ. ନାରାୟଣ : ସାଧାରଣ ଅର୍ଥନୀତି ଓଡ଼ିଆ ମାଧ୍ୟମ, ପ୍ରକାଶକ ସରସ୍ୱତୀ ଭଣ୍ଡାର,\n    ବେଙ୍ଗଲ ଟ୍ରେଡିଙ୍ଗ୍, ବିନୋଦବିହାରୀ, କଟକ, ଗ୍ରନ୍ଥ ପ୍ରକାଶ, ୧୯୯୫, ପୃ.୯\n୨୭. ମିଶ୍ର ବସନ୍ତ କୁମାର ମୁନୀମ : ପତ୍ରିକା ବର୍ଷ – ଓଡ଼ିଆ ମାଧ୍ୟମ – ପତ୍ରିକା ବର୍ଷ : ଓଡ଼ିଆ\n    ସାହିତ୍ୟ, ପ୍ରକାଶକ ଓଡ଼ିଆ ସାହିତ୍ୟ ଏକାଡେମୀ, ଗ୍ରନ୍ଥ ପ୍ରକାଶ, ୨୦୦୯, ପୃ.୧୧୨-\n    ୧୧୬\n୨୮. ଉପରୋକ୍ତ, ପୃ.୧୧୭/୧୧୮"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

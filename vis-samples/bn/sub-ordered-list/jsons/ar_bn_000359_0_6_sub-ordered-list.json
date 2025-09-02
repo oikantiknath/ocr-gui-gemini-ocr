@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000359_0_6_sub-ordered-list.png",
+      "width": 590,
+      "height": 675
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        590.0,
+        675.0
+      ],
+      "area": 398250.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          590.0,
+          0.0,
+          590.0,
+          675.0,
+          0.0,
+          675.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "৩০। (১) এই আইনের প্রারম্ভের পূর্বে বা পরে, যখনই প্রণীত\nহউক, অন্য কোন বিধিতে অথবা কোন চুক্তির বা কৃতকসবিদার\nকড়ারসমূহে অথবা প্রতিষ্ঠানের প্রতি প্রযোজ্য কোন স্থায়ী আদেশে\nএই আইনের সহিত অসমঞ্জস্য যাহা কিছু আছে তৎক্ষেত্রে, এই আইনের\nবিধানসমূহ কার্যকর হইবেঃ\nতবে, যেস্থলে এরূপ কোন চুক্তি, কৃতক-সবিদা বা স্থায়ী\nআদেশ অনুযায়ী প্রতিষ্ঠানে নিয়োজিত টিকা শ্রমিকগণ কোন বিষয়ে\nএরূপ হিতসমূহের অধিকারী যেগুলি এই আইন অনুযায়ী তাহারা যে সকল\nহিতের অধিকারী হইবে তদপেক্ষা অধিকতর অনুকূল, সেস্থলে টিকা\nশ্রমিকগণ, অন্যান্য বিষয়ে এই আইন অনুযায়ী হিত গ্রহণ করা সত্ত্বেও,\nসেই বিষয়ে এরূপ অধিকতর অনুকূল হিতসমূহেরই অধিকারী থাকিয়া\nযাইবে।\n(২) টিকা শ্রমিকগণ কোন বিষয়ে এই আইন অনুযায়ী যে\nঅধিকার বা বিশেষাধিকারের অধিকারী হইবে, তদপেক্ষা অধিকতর\nঅনুকূল অধিকার বা বিশেষাধিকার তাহাদের মঞ্জুর করিবার জন্য মুখ্য-\nনিয়াজক বা, স্থলবিশেষে, ঠিকাদারের সহিত টিকা শ্রমিকগণের চুক্তি\nসম্পাদন করিবার পক্ষে, এই আইনের অন্তর্গত কোন কিছুই প্রভাবিত\nকরে বলিয়া অর্থায়িত হইবে না।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

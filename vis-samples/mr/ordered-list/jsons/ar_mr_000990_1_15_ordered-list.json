@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_mr_000990_1_15_ordered-list.png",
+      "width": 389,
+      "height": 149
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        389.0,
+        149.0
+      ],
+      "area": 57961.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          389.0,
+          0.0,
+          389.0,
+          149.0,
+          0.0,
+          149.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(क) \"क\" \"ख\" ला विक्रीसाठी माल प्रेषित करतो आणि निश्चित केलेल्या पेक्षा कमी किंमतीला विक्रो न\nकरण्याची त्याला सूचना देतो. \"ख\" च्या सूचना माहीत नसताना \"ग\" \"ख\" शी राखोंव किंमतीपेक्षा कमी किंमतीला माल\nविकत घेण्याशी संविदा करतो. \"क\" संविदेने बांधलेला आहे.\n(ख) \"क\" \"ख\"कडे पृष्ठांकन केलेले परक्राम्य संलेख सोपवतो. \"क\" च्या खाजगी आदेशांचे व्यतिक्रमण करून \"ख\" ते\n\"ग\" ला विकतो विक्री सुयोग्य आहे.\n\n२१८. आपल्या प्रकरण्याकरिता आपले काम करणाऱ्या ओघात अभिकर्त्यांनी केलेल्या विपर्वासांचा किंवा लबाडीचा\nअशा अभिकर्त्यांनो केलेल्या करारांवर जणू काही विपर्वास किंवा लबाडी प्रकरत्यांनी केलेली होती त्याप्रमाणेच परिणाम होतो, पण\nत्यांच्या प्राधिकारात येत नाहीत त्या बाबींमध्ये अभिकर्त्यांनी केलेले विपर्वास किंवा लबाडी त्यांच्या प्रकरण्यांवर परिणाम करत नाही."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

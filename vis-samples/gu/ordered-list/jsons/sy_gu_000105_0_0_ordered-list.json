@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_gu_000105_0_0_ordered-list.png",
+      "width": 747,
+      "height": 701
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        747.0,
+        701.0
+      ],
+      "area": 523647.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          747.0,
+          0.0,
+          747.0,
+          701.0,
+          0.0,
+          701.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ઇ) સામાન્ય બ્લોક્સ ક્ષમતા\\n\\n૧. બ્લોક્સ અને અક્ષયીકરણ ક્ષમતા.\\n૨. સંચાલન શ્રેણી, સંકેત અને તેનો ઉકેલ.\\n૩. સંયુક્ત ક્યુઅસ પ્રશ્ન.\\n૪. અણુઓ અને તેના પેટા વિભાગો, બે અણુઓ.\\n૫. ઉષ્માયન, કૅલોર અને ઉર્જા સંચાલન પ્રશ્ન.\\n૬. સંયુક્ત વ્યવસ્થા અને તેના માળખા.\\n૭. ફ્રેમ્સ હસ્તક્ષેપ (એક કે બે પૃષ્ઠમાં).\\n૮. પ્રમાણ, કિસ્સા અને પદ.\\n૯. પરંપરા આ હેતુ, હેતુઓ અને અસલ, આદિ પરંપરા.\\n૧૦. ઉદ્ધ અને ઉદ્ધાક, વર્ગ, વર્ચ્યુન, ઉન્નયન, ગ.ચા.પ અને લ.ચા.પ.\\n૧૧. દશા, આર્દ્ર અને અસલ્ય વ્યાજ, નફા અને નુકસાન.\\n૧૨. સમય અને કાર્ય, સમય અને અંતર, ઝડપ અને અંતર."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

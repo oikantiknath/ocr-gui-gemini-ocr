@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ml_000405_0_3_sub-ordered-list.png",
+      "width": 939,
+      "height": 648
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        939.0,
+        648.0
+      ],
+      "area": 608472.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          939.0,
+          0.0,
+          939.0,
+          648.0,
+          0.0,
+          648.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(i) 2-ാം വകുപ്പിലെ (1) -ാം ഉപവകുപ്പിന്റെ (ഇ) എന്നതിൽ നിർവ്വചിച്ചിട്ടുള്ള\\nഒരു അക്രമപ്രവർത്തനം ചെയ്യുകയോ ചെയ്യാൻ ശ്രമിക്കുകയോ പ്രേരിപ്പിക്കുകയോ\\nപ്രേരണ നൽകുകയോ ആണെങ്കിൽ കുറ്റസമ്മതത്തിലെ ആറ് മാസത്തിൽ\\nകുറയാത്തതും എന്നാൽ അഞ്ച് വർഷം വരെയാകാവുന്നതായ തടവിനും\\nഅനുബന്ധിതമായിരം രൂപയിൽ കുറയാത്തതും എന്നാൽ രണ്ട് ലക്ഷം രൂപ\\nവരെയാകാവുന്നതായ പിഴയ്ക്കും ശിക്ഷിക്കപ്പെടാവുന്നതാണ്;\\n\\n(ii) ആരോഗ്യകര സേവന പ്രവർത്തനത്തിലെ ഒരു അക്രമപ്രവർത്തനം\\nചെയ്യുമ്പോൾ 1860-ലെ ഇന്ത്യൻ ശിക്ഷാ നിയമത്തിലെ 320-ാം വകുപ്പിൽ\\nനിർവ്വചിച്ച പ്രകാരമുള്ള കഠിനമായ ദേഹോപദ്രവത്തിന് അദ്ദേഹത്തെ\\nവിധേയനാക്കുകയാണെങ്കിൽ, കുറ്റസമ്മതത്തിലെ ഒരു വർഷത്തിൽ കുറയാത്തതും\\nഎന്നാൽ ഏഴ് വർഷം വരെയാകാവുന്നതായ തടവിനും ഒരു ലക്ഷം രൂപയിൽ\\nകുറയാത്തതും എന്നാൽ അഞ്ച് ലക്ഷം രൂപവരെയാകാവുന്നതായ പിഴയ്ക്കും\\nശിക്ഷിക്കപ്പെടാവുന്നതാണ്.”;"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

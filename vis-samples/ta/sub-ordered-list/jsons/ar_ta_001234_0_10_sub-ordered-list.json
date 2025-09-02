@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_001234_0_10_sub-ordered-list.png",
+      "width": 765,
+      "height": 548
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        765.0,
+        548.0
+      ],
+      "area": 419220.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          765.0,
+          0.0,
+          765.0,
+          548.0,
+          0.0,
+          548.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "2.(1) குடியரசுத்தலைவர், தம் பதவிக்காலம் முடிவதனாலோ தாம் பதவி\nவிலகுவதனாலோ பதவியை வகிப்பதிலிருந்து நீங்குகிற ஒவ்வொருவருக்கும், அவரது\nஎஞ்சிய வாழ்நாளுக்கு ஆண்டுதோறும் `[ஒரு இலட்சத்து இருபதாயிரம் ரூபாய்]\nஓய்வூதியம் வழங்கப்படும்.\n\n(2) இதன் பொருட்டுச் செய்யப்படலாகும் எவையேனும் விதிகளுக்கு\nஉட்பட்டு, அத்தகையவர் ஒவ்வொருவரும், தம்முடைய எஞ்சிய வாழ்நாளுக்கு,—\n\n`[(அ) வாடகையின்றி (பராமரிப்பு உள்ளடக்கலாக) அறைகளுடன் கூடிய\nகுடியிருப்பிடத்தையும், கட்டணமின்றி தொலைபேசியையும்\nமோட்டார் வாகனத்தையும் பயன்படுத்துவதற்கு அல்லது விதிகளில்\nகுறித்துரைக்கப்படலாகும் வாகனப் படிதொகைக்கு,\n\n(ஆ) ஆண்டுடொன்றுக்கு பன்னிரண்டாயிரம் ரூபாய்க்கு மேற்படாத\nமொத்தச் செலவில், தனிச் செயலர், நேர்முக உதவியாளர், அலுவலகப்\nபணியாளர் ஆகியோர் உள்ளடக்கலான, செயலகப் பணியாளர்\nதொகுதிக்கும், அலுவலகச் செலவுகளுக்கும்]\n\n(இ) கட்டணமில்லாத மருத்துவக் கவனிப்புக்கும், சிகிச்சைக்கும்,\n\n`[(ஈ) வானூர்தியில், இருப்பூர்தியில் அல்லது நீர்வழிக் கப்பலில் மிக உயர்ந்த\nவகுப்பில் எவரேனும் ஒரு நபரோடு இந்தியாவில் எந்த இடத்திற்கும்\nபயணஞ்செய்வதற்கு]\nஉரிமை கொண்டவராவார்."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

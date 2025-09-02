@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_mr_000476_1_29_unordered-list.png",
+      "width": 206,
+      "height": 219
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        206.0,
+        219.0
+      ],
+      "area": 45114.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          206.0,
+          0.0,
+          206.0,
+          219.0,
+          0.0,
+          219.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "याच शेवटीबद्दल आता उलटा विचार केला तर ? फक्त कढीपत्ता\nविकत घ्यायला गेलेल्या गृहिणीला तो केवढ्याला पडेल ? ती तो घेईल\nका ? किंवा केवळ कढीपत्ता घ्यायला कोणी जाईल का ? असे सगळे\nमाहीत असूनही भाजीवाला कढीपत्ता का ठेवतो ? इतकेच काय\nअनेकदा त्याच्याकडे नसेल तर तो उद्या आणून देतो असे आश्वासनही\nका देतो ?\nमोबाईल विकत घ्यायला गेलेल्या तरुणाला लाखभर रुपयांचा\nॲपलचा फोन घ्यायचा असेल तर त्या फोन बरोबर चार्जर मिळतोच\nअसे नाही. मिळाला तर त्याच्या जोडीला गरजेजे केबल विकत\nघ्याव्या लागतात, त्या महागड्या फोनच्या आकर्षक बॉडीला कव्हर\nघालण्याची इच्छाही त्याला होत नाही. तरीही महागड्या खरेदीच्या\nमानसिक दडपणाखाली तो लाखभर रुपयांचा फोन घेऊन मोठ्या\nरुबाबात दुकानाबाहेर पडतो.\nहेच चौकोनी कुटुंब त्याच हॉटेलमध्ये सहल गेले, त्यांनी फक्त\nएकच सूप ऑर्डर केले तर वेटर सहसा दोनपळीकडे जास्त चमचे\nआणून देणारच नाही. मागितले तरी तो द्यायला खळखळ पण करेल.\nकारण त्याला इथे टीपची अपेक्षाच नसते. घरी जाता जाता मुलांच्या\nहट्टाकरिता सूप खायला हा माणूस आला आहे. हे त्याला न सांगता"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

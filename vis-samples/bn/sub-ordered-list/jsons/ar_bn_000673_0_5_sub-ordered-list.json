@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000673_0_5_sub-ordered-list.png",
+      "width": 837,
+      "height": 262
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        837.0,
+        262.0
+      ],
+      "area": 219294.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          837.0,
+          0.0,
+          837.0,
+          262.0,
+          0.0,
+          262.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "২১৬ক। দস্যুগনকে ও ডাকাতগণকে আশ্রয় দেওয়ার জন্য দণ্ড—যে কেহ, কতিপয় ব্যক্তি দস্যুতা বা ডাকাতি\nসংঘটিত করিতে চলিয়াছে বা সম্প্রতি সংঘটিত করিয়াছে, ইহা জানিয়া বা বিশ্বাস করিবার কারণ থাকিতে, তাহাদিগকে\nবা তাহাদের কাহাকেও এরূপ দস্যুতা বা ডাকাতির সংগঠন সহজতর করিয়া দিবার অথবা তাহাদিগকে বা তাহাদের\nকাহাকেও দণ্ড হইতে আড়াল করিবার অভিপ্রায়ে আশ্রয় দেয়, সে সাত বৎসর পর্যন্ত প্রসারিত হইতে পারে এরূপ মেয়াদের\nসশ্রম কারাবাসে দণ্ডিত হইবে এবং জরিমানারও দায়ীাধীন হইবে।\n\nব্যাখ্যা—এই ধারার প্রয়োজনার্থে ইহা গুরুত্বপূর্ণ নহে যে ঐ দস্যুতা বা ডাকাতি ভারতের মধ্যে বা ভারতের বাহিরে\nসংঘটিত করিবার জন্য অভিপ্রেত হয় অথবা সংঘটিত হইয়াছে।\n\nব্যতিক্রম—এই বিধান সেই ক্ষেত্রে প্রসারিত হয় না যেক্ষেত্রে আশ্রয়দান অপরাধকারীর স্বামী বা স্ত্রী কর্তৃক হয়।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

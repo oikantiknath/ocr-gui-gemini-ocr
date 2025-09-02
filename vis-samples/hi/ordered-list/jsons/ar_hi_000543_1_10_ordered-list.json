@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_hi_000543_1_10_ordered-list.png",
+      "width": 505,
+      "height": 198
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        505.0,
+        198.0
+      ],
+      "area": 99990.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          505.0,
+          0.0,
+          505.0,
+          198.0,
+          0.0,
+          198.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "21. रेल चालू किए जाने के लिए केन्द्रीय सरकार की मंजूरी—यात्रियों के सार्वजनिक वहन के लिए कोई भी रेल तब तक चालू\nनहीं की जाएगी जब तक केन्द्रीय सरकार ने उस प्रयोजन के लिए उसके चालू किए जाने की मंजूरी, आदेश द्वारा, न दे दी हो ।\n22. किसी रेल के चालू किए जाने की मंजूरी देने से पूर्व औपचारिकताओं का अनुपालन किया जाना—(1) केन्द्रीय सरकार\nधारा 21 के अधीन किसी रेल के चालू किए जाने की अपनी मंजूरी देने से पूर्व आयुक्त से यह रिपोर्ट अभिप्राप्त करेगी, कि—\n(क) उसने रेल और चल स्टाक का, जिसका उस पर उपयोग किया जा सकता है, सावधानी से निरीक्षण कर\nलिया है;\n(ख) केन्द्रीय सरकार ने जो गतिमान और स्थिर विस्तार अधिकथित किए हैं, उनका अतिलंघन नहीं हुआ है;\n(ग) रेल की लाइनों की संरचना, धुरों की मजबूती, संकर्मों का साधारण संरचनात्मक स्वरूप और किसी चल स्टाक\nके धुरों का आकार और उन पर का अधिकतम कुल भार केन्द्रीय सरकार द्वारा अधिकथित अपेक्षाओं के अनुरूप है; और\n(घ) उसकी राय में रेल को उसका उपयोग करने वाली जनता के लिए किसी खतरे के बिना, यात्रियों के सार्वजनिक\nवहन के लिए चालू किया जा सकता है।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

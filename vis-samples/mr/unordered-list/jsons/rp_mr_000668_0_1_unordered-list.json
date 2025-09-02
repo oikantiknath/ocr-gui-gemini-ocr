@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_mr_000668_0_1_unordered-list.png",
+      "width": 1094,
+      "height": 835
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        1094.0,
+        835.0
+      ],
+      "area": 913490.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1094.0,
+          0.0,
+          1094.0,
+          835.0,
+          0.0,
+          835.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* भोवतालच्या दांभिक माणसांशी, वास्तवाशी जुळवून न घेऊ शकणारा, परात्म झालेला\nतरीही अट्टहासाने आपले स्वत्व जपणारा बाजीराव एकाकी आहे. आतून विषण्ण, व्याकूळ\nआहे. स्वत्वासाठी मरणही पत्करणारा, प्रवाहापतीत न होणारा. पळवाट न शोधणारा\nवाट्याला आलेली वेदना शांतपणे सहन करणारा हा न-नायक आहे.\n* मनातील अस्वस्थता, वेदना चेहऱ्यावर न येऊ देता उपहासात्मक विनोदी पद्धतीने तो\nआपली जगण्याविषयीची जाणीव व्यक्त करतो. नाटकात विदूषकाचे काम करणारा,\nहसवणारा पण अंतर्यामी दुःख भोगणारा असा हा नायक आहे.\n* माणसाच्या व्यक्तिगत आणि सामाजिक अशा दोन्ही स्तरांवरील शोकात्म अस्तित्वाचं दर्शन\nघडवणारा हा नायक आहे. मानवी आयुष्यातील दुःखाचे वेदनेचे स्वरूप भेदकपणे\nमांडण्याचा प्रयत्न नाटककाराने या नायकाच्या माध्यमातून केलेला आहे. अत्यंत व्यापक\nमानवतावादी जीवनदृष्टी व्यक्त करणारा नायक.\n* स्वतःला जाणवलेले काही दुसऱ्यांपर्यंत पोहोचण्यातील असफलता, माणसा माणसातील\nतुटलेला संवाद या नायकाच्या माध्यमातून नाटकात मांडला जातो. जीवनाविषयीचे आकलन\nआपल्या कलेतून मांडू पाहणाऱ्या सच्च्या कलावंताची शोकान्तिका, यासंदर्भातील कलेचा\nपराभव हे समकालीन सामाजिक वास्तव हा नायक मांडतो."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

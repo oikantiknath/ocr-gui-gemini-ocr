@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_kn_000030_0_5_ordered-list.png",
+      "width": 894,
+      "height": 1132
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        894.0,
+        1132.0
+      ],
+      "area": 1012008.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          894.0,
+          0.0,
+          894.0,
+          1132.0,
+          0.0,
+          1132.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಅ) ಭಾಷಾವಿಜ್ಞಾನ\nಘಟಕ ೧: ಭಾಷೆಯ ನಿರ್ವಚನ: ವಿಧಾನ -ಭಾಷಾವಿಜ್ಞಾನ; ಭಾಷಾವಿಜ್ಞಾನದ\\nಘಟಕ ೨: ಭಾಷಾವಿಜ್ಞಾನದ ವಿಧಾನಗಳು: ಐತಿಹಾಸಿಕ ಮತ್ತು ಐತಿಹಾಸಿಕ ಭಾಷಾವಿಜ್ಞಾನ\\nಘಟಕ ೩: ಧ್ವನಿ, ಧ್ವನಿಮಾ, ಅಕ್ಷರಮಾ, ಪದ, ಅರ್ಥ\\nಘಟಕ ೪: ಶಬ್ದಕೋಶ ಮತ್ತು ಶಬ್ದಾರ್ಥಯ ಸ್ವರೂಪದ ಅಂಶಗಳು:\\nಅ) ಶಬ್ದಕೋಶದ ಅಂಶಗಳು: - ಭಾಷೆಯ ರಚನೆತತ್ವ\\n- ಭಾಷೆ ಮತ್ತು ಸಮಾಜ\\n- ಐತಿಹಾಸಿಕ ಮತ್ತು ಭಾಷಾವಿಜ್ಞಾನ\\n- ಅಕ್ಷರಶಃ ಮತ್ತು ಭಾಷಾವಿಜ್ಞಾನ\\n- ಶಬ್ದಕೋಶ ಮತ್ತು ಸಮಾಜ\\nಆ) ಶಬ್ದಾರ್ಥಯ ಅಂಶಗಳು:- ಉಚ್ಚಾರಣೆ ವ್ಯಾಕರಣ\\n- ಶಬ್ದಾರ್ಥ ವ್ಯಾಕರಣ\\n- ಭಾಷಾಭಿಮಾನ ಮತ್ತು\\n- ಭಾಷೆಯ ಮೇಲ್ಮೈ - ಒಳಪದ ಸಮಾಜ, ಮತ್ತು ಭಾಷೆ\\nಆ. ಛಂದಸ್ಸು\\nಘಟಕ ೧: ಛಂದಸ್ಸಿನ ಪರಿಭಾಷೆ ಹಾಗೂ ವಿಧಗಳು - ಮಾತ್ರ, ಗಣ, ಯತಿ, ಅತಿ, ಪ್ರಾಸ, ಪಾದ\\nಘಟಕ ೨: ಮಾತ್ರಾಗಣ, ಮಾತ್ರಾಕರ್ಣಾಟಕಗಳು - ಲಕ್ಷಣ, ನಿರ್ವಚನ ಮತ್ತು ವಿಶ್ಲೇಷಣೆ\\nಘಟಕ ೩: ಮಾತ್ರಾ ಛಂದಸ್ಸು, ಕಂದ ಮತ್ತು ರಗಳೆ- ಲಕ್ಷಣ, ಲಕ್ಷಣ ಮತ್ತು ಇತಿಹಾಸ\\nಅಂಶ ಛಂದಸ್ಸು : ತ್ರಿಪದಿ, ಷಟ್ಪದಿ ಮತ್ತು ಸಾಂಗತ್ಯ: ಲಕ್ಷಣ, ಲಕ್ಷಣ ಮತ್ತು ಇತಿಹಾಸ\\nಘಟಕ ೪: ಹೊಸಗನ್ನಡ ಛಂದಸ್ಸು: ವೃತ್ತ, ಷಟ್ಪದಿ, ಕಂದ ರಗಳೆ, ಮಹಾಪ್ರಬಂಧ, ಸಾಹಿತ್ಯ,\\nಪ್ರಾಸ- ಪ್ರಾಸಗಳ ಲಕ್ಷಣ ವಿಶ್ಲೇಷಣೆ\\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

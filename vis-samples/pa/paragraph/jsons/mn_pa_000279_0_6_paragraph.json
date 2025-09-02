@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_pa_000279_0_6_paragraph.png",
+      "width": 1404,
+      "height": 180
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        1404.0,
+        180.0
+      ],
+      "area": 252720.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1404.0,
+          0.0,
+          1404.0,
+          180.0,
+          0.0,
+          180.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ਟੈਸਟ ਸ਼ੁਰੂ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ, ਇੱਕ ਡ੍ਰਾਈਵਰ ਅਸੈੱਸਮੈਂਟ ਇੱਕ ਵੱਖਰੇ ਲਈ ਜਾਂਚ ਕਰੇਗਾ ਕੀ ਤੁਹਾਡੇ ਵਾਹਨ ਵਿੱਚ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਕਾਰਡ, ਬੀਮਾ, ਵੈਧ ਰਾਜ ਨਿਰੀਖਣ\nਸਟਿੱਕਰ ਅਤੇ, ਜੇ ਲਾਗੂ ਹੋਵੇ, ਇੱਕ ਵੈਧ ਨਿਕਾਸੀ ਸਟਿੱਕਰ ਹੈ। ਤੁਹਾਡੇ ਵਾਹਨ ਦੀਆਂ ਲਾਈਟਾਂ, ਹਾਰਨ, ਸ਼ੁਰੂਆਤੀ, ਟਰਨ ਸਿਗਨਲ, ਸੀਸੇ, ਵਾਈਪਰ, ਅਤੇ ਟਾਇਰਾਂ ਦੀ ਵੀ\nਜਾਂਚ ਕੀਤੀ ਜਾਵੇਗੀ ਤਾਂ ਜੋ ਇਹ ਯਕੀਨੀ ਬਣਾਇਆ ਜਾ ਸਕੇ ਕਿ ਉਹ ਸਹੀ ਢੰਗ ਨਾਲ ਕੰਮ ਕਰਦੇ ਹਨ ਅਤੇ ਸੁਰੱਖਿਆ ਦੇ ਮਿਆਰਾਂ ਨੂੰ ਪੂਰਾ ਕਰਦੇ ਹਨ। ਜੇਕਰ ਇਹ ਨਿਰੀਖਣ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਕਿ\nਤੁਹਾਡੇ ਵਾਹਨ ਦਾ ਕੋਈ ਅਸੁਰੱਖਿਅਤ ਹੈ ਜਾਂ ਰਾਜ ਨਿਰੀਖਣ ਲੇਬਲ ਨੂੰ ਪੂਰਾ ਨਹੀਂ ਕਰਦਾ ਹੈ, ਤਾਂ ਤੁਹਾਡੇ ਰੋਡ ਟੈਸਟ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦਿੱਤੀ ਜਾਵੇਗੀ। ਜੇਕਰ ਤੁਹਾਡੀ ਡਰਾਈਵਿੰਗ ਸੀਟ\nਬੈਲਟ ਹਨ, ਤਾਂ ਇਹ ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਇਹ ਸਾਫ ਹਨ ਅਤੇ ਇਸਤੇਮਾਲ ਲਈ ਤਿਆਰ ਹਨ। ਤੁਹਾਡੇ ਪ੍ਰੀਖਿਅਕ ਨੂੰ ਸੜਕ ਟੈਸਟ ਦੇ ਦੌਰਾਨ ਨਿਯੰਤਰਨ ਤੌਰ ਤੇ ਪਹਿਨਣਾ ਪਵੇਗਾ।\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

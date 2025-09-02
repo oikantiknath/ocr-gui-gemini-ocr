@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ml_000516_0_2_subsub-headline.png",
+      "width": 982,
+      "height": 1127
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        982.0,
+        1127.0
+      ],
+      "area": 1106714.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          982.0,
+          0.0,
+          982.0,
+          1127.0,
+          0.0,
+          1127.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(i) വിദ്യാർത്ഥികളുടെ പ്രവേശനം, പഠനയോഗ്യതയും അവരുടെ ഫീസും,\nബില്ലുകൾ, ധനച്ചെലവുകൾ, നഷ്ട്ടറിപ്പോർട്ടുകൾ, മറ്റ് മാനദണ്ഡിക നിബന്ധനകൾ എന്നിവ\nനൽകുന്ന സംബന്ധിച്ചുള്ള യോഗ്യതകൾ, പ്രൊപ്പോസലുകളും അവാർഡുകളും\nഅനുവദനീയമായതും നൽകുന്നതിനുള്ള നിബന്ധനകൾ;\n\n(ii) പരീക്ഷാ നടത്തിപ്പ്, പരീക്ഷാഫലങ്ങളോ മറ്റുളളവയോ നിയമം,\nഅവകാശമുള്ള നിബന്ധനകളും വ്യവസ്ഥകളും;\n\n(iii) വിദ്യാർത്ഥികളുടെ താമസം സംബന്ധിച്ച നിബന്ധനകളും അവരുടെ\nപൊതു സുരക്ഷയും;\n\n(iv) സർവ്വകലാശാലയും ജീവനക്കാരും തമ്മിലോ വിദ്യാർത്ഥികളും\nസർവ്വകലാശാലയും തമ്മിലോ ഉള്ള തർക്കപരിഹാരത്തിനുള്ള നടപടികൾ;\n\n(v) സർവ്വകലാശാലയിലെ വിദ്യാർത്ഥിപ്രതിനിധിക്ക് സുരക്ഷാ ഫീസുകൾ;\n\n(vi) സർവ്വകലാശാലയിലെ അദ്ധ്യാപകർ, ജീവനക്കാർ, മറ്റ് മാനദണ്ഡിക\nസ്റ്റാഫ്, വിദ്യാർത്ഥികൾ തുടങ്ങിയവരുടെ പെരുമാറ്റം, കർത്തവ്യങ്ങൾ, ഇവയുടെ\nക്രമീകരണങ്ങൾ;\n\n(vii) ഈ ആക്ടിന്റെയോ സ്റ്റാറ്റ്യൂട്ടുകളുടേയോ ഓർഡിനൻസുകളുടേയോ\nകീഴിൽ നടപടികൾ സ്വീകരിക്കാവുന്നതായ പെരുമാറ്റദൂഷ്യങ്ങളുടെ വിഭാഗങ്ങൾ;\nകൂടാതെ\n\n(viii) ഈ ആക്ടിന്റെയോ സ്റ്റാറ്റ്യൂട്ടുകളിലേയോ വ്യവസ്ഥകളോ തന്മൂലമുണ്ടാ\nകില്ലോ, ഓർഡിനൻസുകളാൽ വ്യവസ്ഥ ചെയ്യാനോ ചെയ്യുവാനോ ആയ\nമറ്റേതൊരു കാര്യവും."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

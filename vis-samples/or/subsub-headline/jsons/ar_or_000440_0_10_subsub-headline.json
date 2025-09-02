@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_or_000440_0_10_subsub-headline.png",
+      "width": 730,
+      "height": 301
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        730.0,
+        301.0
+      ],
+      "area": 219730.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          730.0,
+          0.0,
+          730.0,
+          301.0,
+          0.0,
+          301.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(କ) ପ୍ରତ୍ୟେକ କ୍ଷମାପ୍ରାର୍ଥନା ଏକ-ପୃଷ୍ଠା କ୍ଷମାପ୍ରାର୍ଥନା ହେବ;\n(ଖ) ପ୍ରତ୍ୟେକ କ୍ଷମାପ୍ରାର୍ଥନା ଯଥାଯଥ ଭାବେ ଲେଖାହେବା ସଂପୂର୍ଣ୍ଣ ହେବ ଓ ତାହାକୁ\nପରିଶୀଳନ କରିବା ବେଳେ ପ୍ରାପ୍ତ ବ୍ୟକ୍ତି, ପ୍ରାପ୍ତବ୍ୟକ୍ତିଙ୍କ ଉପରେ ସଂପାଦନ\nକରୁଥିବା, ସେବାକାରୀଙ୍କ ସୁବିଧା ଓ ସର୍ବସାଧାରଣଙ୍କ ସୁବିଧା ପ୍ରତି ଲକ୍ଷ୍ୟ ରଖିବ; ଓ\n(ଗ) ଯେଉଁ କ୍ଷମାପ୍ରାର୍ଥନାରେ ଅନୁଚ୍ଛେଦ ଲାଗି ବା ଅନୁଚ୍ଛେଦ ସଂଖ୍ୟା ଲାଗି ସ୍ଥାନ ଥାଇ\nସୁଦ୍ଧା, ତାହା ଯଥାଯଥ ଢଙ୍ଗରେ ଅନୁଚ୍ଛେଦ ଲାଗି ବା, ଯଥାସ୍ଥିତି, ଅନୁଚ୍ଛେଦ\nସଂଖ୍ୟାରେ ସଂପୂର୍ଣ୍ଣ ହୋଇ ନ ଥାଏ ସେହି, କିମ୍ବା ଅନୁଚ୍ଛେଦ ଲାଗି\nସଂଖ୍ୟାରେ ରାଜ୍ୟର ବର୍ତ୍ତମାନ ସେବାରେ ଥାଇ ବା ଥାଇ ନ ଥିବା ବ୍ୟକ୍ତି\nପ୍ରତି ଲାଗୁ ହେବ ।”"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_gu_001200_4_answer.png",
+      "width": 540,
+      "height": 165
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        540.0,
+        165.0
+      ],
+      "area": 89100.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          540.0,
+          0.0,
+          540.0,
+          165.0,
+          0.0,
+          165.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "કુદરતે નારી પાસે અપાર ક્ષમતાઓ મૂકી દીધી છે. પુરુષને જ્ઞાત કરવામાં, જીતવામાં, હરાવવામાં, જીતાડવામાં,\nરંજાડવામાં, રખડાવવામાં તમામ સ્તરે નારીનો હાથ છે. એવું કહેવાયું છે કે, ‘સફળ પુરુષની પાછળ કોઈ સ્ત્રીનો\nહાથ હોય છે.’ તો ‘નિષ્ફળ પુરુષની પાછળ પણ સ્ત્રીનો હાથ હોવાનો.’ આવું હું ઉમેરું છું. ઓશોનો મત નારી\nઆકર્ષણનું કેન્દ્ર છે કારણ કે નારીમાંથી નર નિપજે છે. વળી જે સ્તનો પુરુષને તરત આકર્ષે છે એ સ્તનો સાથે\nજન્મ્યા પછી તરત પનારો પડ્યો. વરસો લગી સ્તનપાન કર્યાનો જે અહેસાસ છે એ નારીના સ્તનો જોતાં જાગૃત\nથઈ ઉઠે છે. ભરત રસસૂત્રમાં જે વાત કરે છે એ જ આ છે. આપણી અંદર પડેલો ભાવ કોઈ ઉદ્દીપન મળતાં તરત\nજાગૃત થઈ જાય ત્યારે એ રસમાં પરિણમે છે."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

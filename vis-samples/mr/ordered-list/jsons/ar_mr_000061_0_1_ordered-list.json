@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_mr_000061_0_1_ordered-list.png",
+      "width": 1088,
+      "height": 462
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        1088.0,
+        462.0
+      ],
+      "area": 502656.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1088.0,
+          0.0,
+          1088.0,
+          462.0,
+          0.0,
+          462.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "६५. वनक्षेत्रपालाच्या दर्जापेक्षा कनिष्ठ दर्जाचा नसेल असा कोणताही वन अधिकारी किंवा त्यास दुय्यम\nअसलेला अधिकारी, यांपैकी कोणीही, कलम ६४ च्या तरतुदींन्वये एखाद्या व्यक्तीला अटक केली तर, त्या व्यक्तीने,\nत्या प्रकरणात अधिकारिता असलेल्या दंडाधिकाऱ्यांसमक्ष किंवा सर्वात जवळच्या पोलीस ठाण्याच्या प्रभारी अधिकाऱ्यासमक्ष\nजर आणि जेव्हा उपस्थित राहण्यास फर्माविले असेल, तेव्हा आपण उपस्थित राहू असे बंधपत्र लिहून दिले तर,\nउपरोक्त अधिकारी किंवा त्यास दुय्यम असलेला अधिकारी यांना अशा व्यक्तीची मुक्तता करता येईल.\n\n६६. प्रत्येक वन अधिकारी आणि पोलीस अधिकारी, कोणताही वनविषयक अपराध घडण्यास प्रतिबंध\nकरील आणि अशा प्रकारे प्रतिबंध करण्यासाठी हस्तक्षेप करू शकेल.\n\n६७. जिल्हा दंडाधिकारी किंवा राज्य शासनाने यासंबंधात विशेषेकरून अधिकार प्रदान केलेला कोणताही\nप्रथम वर्ग दंडाधिकारी, सहा महिन्यांपेक्षा अधिक नसेल इतक्या मुदतीच्या कारावासाच्या, किंवा पाचशे रुपयांपेक्षा\nअधिक नसेल इतक्या द्रव्यदंडाच्या शिक्षेस, किंवा दोन्ही शिक्षांस पात्र असेल अशा कोणत्याही वनविषयक अपराधाबाबत\n“फौजदारी प्रक्रिया संहिता, १८९८” (१८९८ चा ५) या अन्वये संक्षिप्तरीत्या न्यायचौकशी करू शकेल."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

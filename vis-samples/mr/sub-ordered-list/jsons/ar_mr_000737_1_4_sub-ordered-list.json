@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_mr_000737_1_4_sub-ordered-list.png",
+      "width": 393,
+      "height": 147
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        393.0,
+        147.0
+      ],
+      "area": 57771.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          393.0,
+          0.0,
+          393.0,
+          147.0,
+          0.0,
+          147.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "७. (१) प्रत्येक राज्य हा सत्र-विभाग असेल किंवा ते सत्र-विभागांचे बनलेले असेल; आणि\nप्रत्येक सत्र-विभाग हा या संहितेच्या प्रयोजनार्थ जिल्हा असेल किंवा जिल्ह्यांचा बनलेला असेलः\nपरंतु, प्रत्येक महानगर क्षेत्र, उक्त प्रयोजनार्थ वेगळा सत्र-विभाग आणि जिल्हा असेल.\n(२) राज्य शासनाला, उच्च न्यायालयाचा विचार घेतल्यानंतर अशा विभागांच्या व जिल्ह्यांच्या\nसीमांमध्ये किंवा त्यांच्या संख्येत फेरबदल करता येईल.\n(३) राज्य शासनाला उच्च न्यायालयाचा विचार घेतल्यानंतर, कोणत्याही जिल्ह्याची उप-\nविभागांमध्ये विभागणी करता येईल, आणि अशा उप-विभागांच्या सीमांमध्ये किंवा संख्येत फेरबदल\nकरता येईल.\n(४) या संहितेच्या प्रारंभी एखाद्या राज्यात अस्तित्वात असलेले सत्र-विभाग, जिल्हे व उप-विभाग\nहे या कलमाखाली बनवले असल्याचे मानले जाईल."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

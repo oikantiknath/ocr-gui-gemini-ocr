@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_kn_000025_0_0_unordered-list.png",
+      "width": 1092,
+      "height": 497
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        1092.0,
+        497.0
+      ],
+      "area": 542724.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1092.0,
+          0.0,
+          1092.0,
+          497.0,
+          0.0,
+          497.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* ಪಂಚಾಯತ್ ರಾಜ್ ಇಲಾಖೆಯು ಸಿಬ್ಬಂದಿಯ ಮಾಹಿತಿ-ಶಿಕ್ಷಣ-ಸಂಪರ್ಕ ಸಾಮಗ್ರಿಗಳನ್ನು ಜಿಲ್ಲೆಗೆ\nಸಾಗಿಸುವಷ್ಟು ಮುನ್ನಡೆಸಿ ನವೆಂಬರ್‌ನಲ್ಲಿ ಇಲಾಖೆಗೆ ತಲುಪಿಸುವುದು ಮತ್ತು ಕಾರ್ಯಕ್ರಮವಾಗಿ\nಅನುಷ್ಠಾನಿಸುವ ಮಾಹಿತಿ-ಶಿಕ್ಷಣ-ಸಂಪರ್ಕ ಸಾಮಗ್ರಿಗಳನ್ನು ಸಿಬ್ಬಂದಿಗೆ ಒದಗಿಸುವುದು.\n* ವಾರಕ್ಕೊಮ್ಮೆ ಜಿಲ್ಲಾ ಆಯೋಗ ಮತ್ತು ಕುಟುಂಬ ಕಲ್ಯಾಣ ಅಧಿಕಾರಿಗಳು, ಜಿಲ್ಲಾ ನೋಡಲ್\nಅಧಿಕಾರಿಗಳು ಹಾಗೂ ನೋಡಲ್ ಸೈಯಂ ಸೇವಾ ಸಂಸ್ಥೆಗಳಿಂದ ಸೇರಿ ವಿತರಣಾ ಉಪಾಯನದ\nಕುರಿತು ಪ್ರಗತಿ ಪರಿಶೀಲನಾ ಸಭೆಯನ್ನು ಮಾಡುವುದು. ಅಗತ್ಯವಾದಲ್ಲಿ ಪ್ರಗತಿಪರಿಶೀಲನೆ ನಡೆಸುವದು.\n* ತಾಲ್ಲೂಕು ಪಂಚಾಯತಿ ಕಾರ್ಯನಿರ್ವಾಹಕ ಅಧಿಕಾರಿಗಳು ಮತ್ತು ನೋಡಲ್ ಸೈಯಂ ಸೇವಾ\nಸಂಸ್ಥೆಯ ತಾಲ್ಲೂಕು ಸಂಯೋಜನಾಧಿಕಾರಿಗಳಿಗೆ ತಾಲ್ಲೂಕು ಮತ್ತು ತಳಮಟ್ಟದ ಕಾರ್ಯಕ್ರಮಗಳ\nಹಾಗೂ ತಾಲ್ಲೂಕು ಮಟ್ಟದ ಸಭೆಗಳನ್ನು ಆಯೋಜನೆ ಮಾಡುವಂತೆ ಉಪದೇಶಿಸುವುದು.\n* ಕಡೇಪಕ್ಷ ವಿತರಣಾ ಉಪಾಯನದ ಕುರಿತಾದ ವಿಶೇಷ ಗ್ರಾಮ ಸಭೆಗಳನ್ನು ಆಯೋಜನೆ ಮಾಡುವಂತೆ\nಗ್ರಾಮ ಪಂಚಾಯತಿಗಳಿಗೆ ಉಪದೇಶಿಸುವುದು."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

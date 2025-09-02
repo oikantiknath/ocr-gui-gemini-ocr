@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_mr_000603_1_5_ordered-list.png",
+      "width": 387,
+      "height": 140
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        387.0,
+        140.0
+      ],
+      "area": 54180.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          387.0,
+          0.0,
+          387.0,
+          140.0,
+          0.0,
+          140.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "१२७. '[(१)] ज्या स्थळी कोणत्याही अपराधाची चौकशी किंवा संपरीक्षा करण्याकरता कोणतेही\nफौजदारी न्यायालय भरवण्यात आलेले असेल ते स्थळ खुले न्यायालय असल्याचे मानले जाईल व त्यात\nजितके लोक सोईस्करपणे मावू शकतील तितक्या प्रमाणात आम जनतेला तेथे प्रवेश असेल :\nपरंतु, कोणत्याही विशिष्ट खटल्याची कोणतीही चौकशी किंवा संपरीक्षा कोणत्याही टप्प्यात\nअसताना, पीठासीन न्यायाधीश किंवा दंडाधिकारी, स्वतःला योग्य वाटल्यास, न्यायालयाच्या वापरात\nअसलेल्या खोलीत किंवा इमारतीत आम जनतेला किंवा एखाद्या विशिष्ट व्यक्तीला प्रवेश मिळणार\nनाही अथवा त्या व्यक्ती तेथे उपस्थित राहू शकणार नाहीत किंवा थांबू शकणार नाहीत असा आदेश\nदेऊ शकेल.\n'[(२)] पोटकलम (१) मध्ये काहीही अंतर्भूत असले तरी 'भारतीय दंड संहिते' चे कलम ३७६\nयाखालील बलात्कार अगर कलम ३७६ क, कलम ३७६ ख, कलम ३७६ ग किंवा कलम ३७६ घ याखालील\nएखादा अपराध यासंबंधीची चौकशी व संपरीक्षा कक्षांतर्गत चालवली जाईल :\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

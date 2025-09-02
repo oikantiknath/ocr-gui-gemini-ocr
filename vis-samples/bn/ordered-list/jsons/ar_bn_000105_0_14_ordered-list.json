@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000105_0_14_ordered-list.png",
+      "width": 594,
+      "height": 372
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        594.0,
+        372.0
+      ],
+      "area": 220968.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          594.0,
+          0.0,
+          594.0,
+          372.0,
+          0.0,
+          372.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "৫ ধারা।। উপরি লিখিত সকল কর্ম্মসম্পাদনে আইনমতে আপীল আদালতসমূহের\nযে পরাক্রম আছে সেই পরাক্রম এক জন জজসাহেবের থাকিবেক কেবল নীচে লি-\nখিত বিষয়েতে তাঁহার সেরূপ কর্তৃত্ব থাকিবেক না।\n\n৬ ধারা।। ঐ এক জন জজসাহেব মিথ্যা সাক্ষিদিগকে কয়েদ* করিতে পারেন না\nকিন্তু কোন ক্ষমতাপন্ন আদালতে সে মোকদ্দমা অর্পণ হওয়াপর্য্যন্ত তা জামিন\nলইতে অথবা জামিন না দিলে তাহাকে কয়েদ করিতে হুকুম দিতে পারেন।\n\n৭ ধারা।। এই আইনানুসারে এক জন জজসাহেবকে যে ক্ষমতা দেওয়া গেল তাহা\nতে সম্পূর্ণ আদালত অথবা ঐ আদালতের কোন দুই জজসাহেবেরদিগকে সাক্ষিদের\nপুনঃ সাক্ষ্য লইতে অথবা এই আইনে লিখিত অন্য কোন ক্রিয়া করিতে কিছু বাধা\nজন্মিবে না।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

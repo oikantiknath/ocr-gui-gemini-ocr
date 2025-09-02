@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_or_000045_0_5_sub-ordered-list.png",
+      "width": 825,
+      "height": 413
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        825.0,
+        413.0
+      ],
+      "area": 340725.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          825.0,
+          0.0,
+          825.0,
+          413.0,
+          0.0,
+          413.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(କ) ଏହି ଅଧୂନିୟମର ପ୍ରାରମ୍ଭ ଓ ସଂପୂର୍ଣ୍ଣ ୨°ବର୍ଷ ଅତିକ୍ରମ କଲାପରେ ବା ପ୍ରତ୍ୟେକ ଉପାୟରେ ତାହାକୁ\nସଂଶୋଧନ ବା ଅନୁପ୍ରବେଶ ସକାଶେ,\n(ଖ) ଏହି ଅଧୂନିୟମର ପ୍ରାରମ୍ଭ ପରେ ଅନ୍ୟ କରଦାତାଙ୍କୁ ବା କରଦାତାଙ୍କୁ ଉଚିତ ସଂଖ୍ୟାରେ ଅଧୂକାରୀ,\nଅଧୂକାରୀମାନେ, ପ୍ରଦତ୍ତ ବା ଉପଲବ୍ଧ,\n(ଗ) ଏହି ଅଧୂନିୟମର ପ୍ରାରମ୍ଭ ଓ ସଂପୂର୍ଣ୍ଣ କରଦାତାଙ୍କୁ ଅନୁରୂପ ଉପାୟରେ ସଂପୂର୍ଣ୍ଣ ଉପଲବ୍ଧ ବା\nଉପଲବ୍ଧ ପାଇଁ ଡ଼ିଜାଇନ କୌଣସି କରଦାତା ଅଧୂକାରୀ ସୃଷ୍ଟି ହୋଇଥିବା କୌଣସି ଅଧୂକାର ବା\nକାର୍ଯ୍ୟ, ଓ,\n(ଘ) ଏକ ଅଧୂକାର ବା କାର୍ଯ୍ୟକୁ ସଂପୂର୍ଣ୍ଣ କୌଣସି ପ୍ରକାର ବା କାର୍ଯ୍ୟକୁ ପ୍ରଦତ୍ତ କରୁ ତୋଳ ବା\nଏହି ଅଧୂନିୟମର ପ୍ରାରମ୍ଭ କେବଳ ଅଧୂକୃତ କୌଣସି କାର୍ଯ୍ୟକୁ ଏକ ଅଧୂନିୟମର ପ୍ରାରମ୍ଭ ଓ ସଂପୂର୍ଣ୍ଣ\nକରଦାତା କୌଣସି ଅଧୂକୃତ ଅନୁସନ୍ଧାନ କରୁଛି ବା ତାହାକୁ ପ୍ରଦତ୍ତ କରୁଛି ତୋଳ ସକାଶେ\nବନ୍ଦ ନାହିଁ; ଏବଂ ସେହିପରି କିଛି କିଛି ପ୍ରକାର କୌଣସି ପ୍ରକାର ଓ କାର୍ଯ୍ୟକୁ ସାହାଯ୍ୟ ପ୍ରଦତ୍ତ\nକରାଯାଇଛି, ଅଥଚ ଉପଲବ୍ଧ ପାଇଁ ବା କିଛି କିଛି କରାଯାଇଛି ଏବଂ, ଯେଉଁଠାରେ ଏହି ଅଧୂନିୟମ\nତାହାକୁ ଡ଼ିଜାଇନ ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000314_0_0_sub-ordered-list.png",
+      "width": 604,
+      "height": 907
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        604.0,
+        907.0
+      ],
+      "area": 547828.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          604.0,
+          0.0,
+          604.0,
+          907.0,
+          0.0,
+          907.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "৪। (১) ১৯৫০-এর ২৬শে জানুয়ারী তারিখে বা উহার\nপরে, ভারতের বাহিরে জাত কোন ব্যক্তি, তাঁহার জন্মের সময়ে\nতাঁহার পিতা ভারতের নাগরিক হইলে, বংশানুক্রমে ভারতের\nএকজন নাগরিক হইবেন :\nতবে, যদি ঐরূপ ব্যক্তির পিতা কেবল বংশানুক্রমে ভারতের\nএকজন নাগরিক হইয়া থাকেন, তাহা হইলে, ঐ\nব্যক্তি এই ধারা বলে ভারতের নাগরিক হইতে\nপারিবেন না, যদি না—\n(ক) তাঁহার জন্ম অথবা এই আইনের প্রারম্ভ, এতদুভয়ের\nমধ্যে যাহা পরবর্তী, তাহার এক বৎসরের মধ্যে,\nঅথবা উক্ত সময়সীমা অতিক্রান্ত হইবার পরে কেন্দ্রীয়\nসরকারের অনুমতি সহ, তাঁহার জন্ম ভারতীয়\nবাপিজ দূতাবাসো রেজিস্ট্রিকৃত হয়, অথবা\n(খ) তাঁহার পিতা, তাঁহার জন্মের সময়ে, ভারতস্থ কোন\nসরকারের অধীনে কৃতকৃত্য থাকেন।\n(২) যদি কেন্দ্রীয় সরকার সেরূপ নির্দেশিত করেন, তাহা\nহইলে, কোন জন্ম, রেজিস্ট্রিকরণের পূর্বে কেন্দ্রীয় সরকারের\nঅনুমতি লক্ষ না হওয়া সত্ত্বেও, এই ধারার প্রয়োজনার্থে কেন্দ্রীয়\nসরকারের অনুমতি সহ রেজিস্ট্রিকৃত হইয়াছে বলিয়া গণ্য হইবে।\n(৩) (১) উপধারার অসুবিধাৰ্থে প্রয়োজনার্থে, অবিভক্ত\nভারতের বাহিরে জাত কোন পুরুষ ব্যক্তি যিনি সংবিধানের\nপ্রারম্ভকালে ভারতীয় নাগরিক ছিলেন না নাগরিক বলিয়া গণ্য\nহইয়াছিলেন, তিনি কেবল বংশানুক্রমে ভারতের একজন\nনাগরিক বলিয়া গণ্য হইবেন।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

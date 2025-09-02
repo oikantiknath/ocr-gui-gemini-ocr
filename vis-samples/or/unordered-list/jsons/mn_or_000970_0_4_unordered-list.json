@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_or_000970_0_4_unordered-list.png",
+      "width": 402,
+      "height": 480
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        402.0,
+        480.0
+      ],
+      "area": 192960.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          402.0,
+          0.0,
+          402.0,
+          480.0,
+          0.0,
+          480.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* ପ୍ରତ୍ୟେକମାସରେ ଥରେ ଉପସ୍ଥିତ ଥିବା ଧାର୍ଯ୍ୟ\nଅଛି, ଅର୍ଥାତ୍ କମ୍; ଉପସ୍ଥିତ, ଅନୁପସ୍ଥିତ; ଉଚ୍ଚ, ନୀଚ ଓ ଉପରକୁ\nଉପସ୍ଥିତ; ଲୋକ; ଉଚ୍ଚ, ନୀଚ, ଧୀର ଓ ଉପରକୁ ଉପସ୍ଥିତ;\n* (କ) କମ୍ = ନିମ୍ନ, ନ୍ୟୁନ ।\n(ଖ) ବେଶି = ଅଧିକ; ଏହା ଅର୍ଥ ବର୍ତ୍ତମାନ ବାସ୍ତବ ନୁହେଁ ।\n(ଗ) ଅନୁପସ୍ଥିତ = ଅନୁପସ୍ଥିତ; ଅର୍ଥାତ୍ କୌଣସି ଉପସ୍ଥିତ ବା ସ୍ଥିତ ଲକ୍ଷଣରେ\nନିର୍ଦ୍ଦିଷ୍ଟ ଭାବରେ ସ୍ଥିତ ନଥିବାକୁ ଅନୁପସ୍ଥିତ କହନ୍ତି ଯେ ତାହା ଏକ ଅନୁପସ୍ଥିତ\nହେବ । ସେହି ଅନୁପସ୍ଥିତ ମୁଖ୍ୟତଃ ଧୀର ଧୀର ଭାବରେ ଧୀର ବା ଧୀର\nହୋଇପାରେ ।\n(ଘ) ଉପସ୍ଥିତ = ଯେ ବା ଯେଉଁ ମାନଙ୍କର ସ୍ଥିତି ଅତ୍ୟନ୍ତ ମାତ୍ରାରେ\nକୌଣସି ସ୍ଥିତ ରୂପରେ ସ୍ଥିତ ହୋଇ ଥିବାରୁ ସେମାନେ ଏହି ପରିସ୍ଥିତିରେ\nକୌଣସି କୌଣସି ଉପସ୍ଥିତ ନିଜେ ନିଜେ (ସେମାନଙ୍କ) ସେହି ଅନୁପସ୍ଥିତ\nରୂପେ ଥିବ ।\n(ଙ) ଲୋକ = କୌଣସି ଅନେକାଂଶ ସ୍ଥିତରେ ସମୟରେ ନିଜେ ମାନଙ୍କୁ\nସବୁ କୌଣସି ଉପସ୍ଥିତ ଲକ୍ଷଣରେ ଏହି ସ୍ଥିତିରେ ଥିବା ରୂପରେ ରୂପ-\nଧାରଣ ସେହି ଅନୁପସ୍ଥିତ ରୂପେ ଥିବ । ଏହା କୌଣସି ଏକ ସମୟରେ ଥିବା\nରୂପ;ରୂପ ।\n(ଚ) ଧୀର = ସର୍ବି ଅନୁପସ୍ଥିତ ସ୍ଥିତକୁ ସମାନ ଓ ଅନୁପସ୍ଥିତ ସ୍ଥିତକୁ\nସମାନ ରୂପେ ଥିବ !\n(ଛ) ଉପସ୍ଥିତ = ଅନୁପସ୍ଥିତ ଅନୁପସ୍ଥିତ ।\n(ଜ) ଉପସ୍ଥିତ = ଅନୁପସ୍ଥିତ ଅନୁପସ୍ଥିତ ।\n(ଝ) ଅନୁପସ୍ଥିତ = ଅନୁପସ୍ଥିତ ଅନୁପସ୍ଥିତ ।\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

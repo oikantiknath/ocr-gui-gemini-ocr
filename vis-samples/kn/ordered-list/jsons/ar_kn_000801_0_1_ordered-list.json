@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_kn_000801_0_1_ordered-list.png",
+      "width": 1017,
+      "height": 398
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        1017.0,
+        398.0
+      ],
+      "area": 404766.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1017.0,
+          0.0,
+          1017.0,
+          398.0,
+          0.0,
+          398.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ಎ) “ನಿಯಮಿಸಲಾದುದು” ಎಂದರೆ ಅಧ್ಯಾಯ-IIರ 18ನೇ ಪ್ರಕರಣದ ಮೇರೆಗೆ ರಚಿಸಿದ ವಿನಿಯಮಗಳ ಮೂಲಕ\\nನಿಯಮಿಸಲಾದುದು ಮತ್ತು ಬೇರೆ ಕಡೆಯಲ್ಲಿ 66ನೇ ಪ್ರಕರಣದ ಮೇರೆಗೆ ರಚಿಸಿದ ನಿಯಮಗಳ ಮೂಲಕ ನಿಯಮಿಸಲಾದುದು;\\n(ಬಿ) “ರಿಜಿಸ್ಟ್ರಾರು” ಎಂದರೆ IVನೇ ಅಧ್ಯಾಯದ ಮೇರೆಗೆ ನೇಮಿಸಿದ ಮತ್ತು ಗೆಜೆಟ್‌ನಲ್ಲಿ ಒಂದು ವಿಶೇಷ ತಯಾರಕರ\\nರಿಜಿಸ್ಟ್ರಾರು;\\n(ಸಿ) “ನೋಂದಾಯಿತ ವಿಶೇಷ ತಯಾರಕ” ಎಂದರೆ ಯಾರ ಹೆಸರನ್ನು, ಯಾವ ರಾಜ್ಯದಲ್ಲಿ ಅವನು ತತ್ಕಾಲದಲ್ಲಿ\\nವಾಸವಾಗಿರುವನೋ ಅಥವಾ ವೃತ್ತಿಗಾರಿಕೆಯ ವೃತ್ತಿ ಅಥವಾ ವ್ಯವಹಾರವನ್ನು ನಡೆಸುತ್ತಿರುವನೋ ಆ ರಾಜ್ಯದ ರಿಜಿಸ್ಟ್ರರಿನಲ್ಲಿ ತತ್ಕಾಲದಲ್ಲಿ\\nನಮೂದಿಸಲಾಗಿದೆಯೋ ಆ ವ್ಯಕ್ತಿ;\\n(ಡಿ) “ರಾಜ್ಯ ಪರಿಷತ್ತು” ಎಂದರೆ, 19ನೇ ಪ್ರಕರಣದ ಮೇರೆಗೆ ರಚಿಸಲಾದ ರಾಜ್ಯ ಔಷಧಿಗಾರಿಕೆ ಪರಿಷತ್ತು ಮತ್ತು ಅದು\\n20ನೇ ಪ್ರಕರಣದ ಮೇರೆಗಿನ ಅಧಿನಿಯಮದ ಅನುಸಾರವಾಗಿ ರಚಿಸಲಾದ ಔಷಧಿಗಾರಿಕೆಯ ಜಂಟಿ ಪರಿಷತ್ತನ್ನು ಒಳಗೊಳ್ಳುತ್ತದೆ;\\n(ಇ) “ವಿಶ್ವವಿದ್ಯಾಲಯ ಅನುದಾನ ಆಯೋಗ” ಎಂದರೆ, ವಿಶ್ವವಿದ್ಯಾಲಯ ಅನುದಾನ ಆಯೋಗ ಅಧಿನಿಯಮ, 1956\\n(1956ರ 3)ರ 4ನೇ ಪ್ರಕರಣದ ಮೇರೆಗೆ ಸ್ಥಾಪಿತವಾದ ವಿಶ್ವವಿದ್ಯಾಲಯ ಅನುದಾನ ಆಯೋಗ."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

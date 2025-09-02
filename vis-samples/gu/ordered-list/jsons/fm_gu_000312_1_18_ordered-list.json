@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_gu_000312_1_18_ordered-list.png",
+      "width": 265,
+      "height": 367
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        265.0,
+        367.0
+      ],
+      "area": 97255.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          265.0,
+          0.0,
+          265.0,
+          367.0,
+          0.0,
+          367.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "૯. નોંધ અને મુસદ્દા ગુજરાતીમાં લખવાની શક્તિ\n૧૦. અટપટા કેસો હાથ ધરવાની શક્તિ\n૧૧. દેવાલની મુદતમાં તેમણે કરેલું ખાસ ઉલ્લેખને પાત્ર વિશિષ્ટ\nકાર્ય.\n૧૨. દેવાલની મુદત દરમિયાન વિવિધ-કામગીરી માટે અથવા બીજા\nકોઈ કારણોસર તેમણે ઠપકો અપાયો હોય તો તેની ટૂંકી\nવિગત.\n૧૩. કાર્યક્ષમતા અને ચોક્કસ પ્રકારના કામ માટેની યોગ્યતાને નડે\nતેવી ચારિત્ર્યની ખામીઓ, દેવું વગેરે અંગે અભિપ્રાય.\n૧૪. વ્યક્તિત્વ, ચારિત્ર્ય અને સ્વભાવ, તેમજ સાથી-કર્મચારીઓ\nસાથેના સંબંધો.\n૧૫. પ્રમાણિકતા વિષે અભિપ્રાય.\n(તમારા ધ્યાન પર, કોઈ વિશુદ્ધ બાબત આવી હોય તો તે\nપણ દર્શાવો).\n૧૬. સેક્શન અધિકારી/અધીક્ષક તરીકે ચાલુ રાખવા અંગેની\nયોગ્યતા.\n૧૭. તેને તમારા હાથ નીચે સેક્શન અધિકારી/અધીક્ષક તરીકે રાખવા\nખુશી છો ?\n૧૮. સામાન્ય અભિપ્રાય"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

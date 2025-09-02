@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000862_1_0_subsub-headline.png",
+      "width": 1850,
+      "height": 1857
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        1850.0,
+        1857.0
+      ],
+      "area": 3435450.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1850.0,
+          0.0,
+          1850.0,
+          1857.0,
+          0.0,
+          1857.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ক) ৫ ধারা (৪) উপধারা অনুযায়ী চেয়ারম্যান ও অন্য সদস্যগণকে প্রদেয়\nবেতন ও ভাতাসমূহ এবং তাঁহাদের চাকরির অপর শর্তসমূহ;\n(খ) ৭ ধারা অনুযায়ী কোন ব্যক্তিকে নিয়োগের প্রক্রিয়া বা কোন অধিকার গঠন ও\nঅনুসন্ধান পরিচালনা;\n(গ) ১০ ধারা (৩) উপধারা অনুযায়ী পর্ষদের সচিব, আধিকারিকগণ ও অন্য\nকর্মচারিগণকে প্রদেয় বেতন ও ভাতাসমূহ এবং তাঁহাদের চাকরির অপর শর্ত ও\nভাতারসমূহ;\n(ঘ) এরূপ অপর কোন বিষয় যাহার ক্ষেত্রে পর্ষদ ১০ ধারার (১) উপধারার (২)\nপ্রকরণ অনুযায়ী দেওয়ানী আদালতের ক্ষমতা প্রয়োগ করিতে পারেন;\n(ঙ) ১৫ ধারার (১) উপধারা অনুযায়ী রেজিস্ট্রিকরণের জন্য কোন সত্তাকে যে\nযোগ্যতার শর্তসমূহ পূরণ করিতে হইবে;\n(চ) ৩৩ ধারার (২) উপধারা অনুযায়ী আপীলের ফরম এবং এরূপ ফরম\nসত্যযাপনের প্রণালী এবং এরূপ ফরমের সহিত যে ফী প্রদান করিতে হইবে;\n(ছ) ৪০ ধারার (১) উপধারা অনুযায়ী যে প্রণালীতে পর্ষদের হিসাব রক্ষা করিতে\nহইবে;\n(জ) ৪১ ধারার (১) উপধারা অনুযায়ী যে সময়ে ও প্রণালীতে পর্ষদের বার্ষিক\nপ্রতিবেদন প্রস্তুত করিতে হইবে;\n(ঝ) ৪৩ ধারার (৩) উপধারা অনুযায়ী যে ফরমে ও প্রণালীতে ক্ষতিপূরণ দাবি\nকরিবার আবেদন করিতে হইবে; ক্ষতিপূরণ নির্ধারণের প্রক্রিয়া এবং যে\nসময়ের মধ্যে এরূপ ক্ষতিপূরণ প্রদেয় হইবে;"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

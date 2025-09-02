@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_te_000408_0_60_footnote.png",
+      "width": 576,
+      "height": 199
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 12,
+      "bbox": [
+        0.0,
+        0.0,
+        576.0,
+        199.0
+      ],
+      "area": 114624.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          576.0,
+          0.0,
+          576.0,
+          199.0,
+          0.0,
+          199.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "Terms & Conditions (Bank Copy)\n\nI (In this context, \"I\", \"my\" and \"me\" refers to all holders of the account(s)) have read and understood the below T&C and understand that any changes to the T&C will be available on the website www.utkarsh.bank only.\nAccount opening/service provision: All services, including opening of the account are subject to verification of information/documents provided by me. In the event this account is not opened, initial funding amount will\nbe refunded to me in the form of a DD only. Services: All services will be provided by Utkarsh Small Finance Bank subject to force majeure circumstances. The complete list of services available to me will be available on\nwww.utkarsh.bank. Passbook: The discretion lies with the Bank regarding providing pass books to account holders. Cheque Book: Satisfactory conduct of the account entails maintaining sufficient balance to honor\ncheques issued to third parties. If there are high incidences (i.e. more than 3 cheque returns for want of funds) to the contrary, the Bank reserves the right to close the account under intimation to the customer. Any\nspecial instructions, both financial and non-financial in nature, like standing instructions, stop payment instructions, issuance of cheque books etc must be communicated in writing. Otherwise, it shall not be binding on\nthe Bank to comply with such instructions. I understand that if/we use my/our Savings account for business transactions the bank reserves the right to unilaterally freeze operations in such accounts. The Bank will be\nsending from time to time notices / correspondences to the address provided with the Bank/branch. Hence, it is incumbent upon the applicant(s) to intimate change in mailing address, if any, immediately without any\nloss of time. The Bank will not be responsible for any loss, damage, or consequences for wrong delivery of the above items arising out of non-intimation of change in mailing address. The account number is to be quoted\nin pay in slips / cheques issued by the account holder and in all the correspondences with the Bank. Alterations, if any, on cheques (Non-Clearing Instruments ) are required to be authenticated by the drawer's full\nsignature against each such alteration. Cheques Truncation system (CTS) instruments will be returned unpaid if altered. For Non-Clearing Cheques submitted at the base-branch the Bank/ branch reserves the right to\nrefuse payment of cheques that have been altered in any way unless the alteration is authenticated by the drawer under full signature as per specimen on record with the Bank. Cheques should be drawn in such a way\nas to prevent alteration after issue and the drawer's signature should be uniform with that on record. No overdrawing is permissible in accounts. The Bank has the authority to debit the accounts to recover any amount\ncredited erroneously. Collection of outstation instruments entail collection charges. Disputes, if any, in collection of cheques/ instruments will be dealt with as per Bank's Cheque Collection Policy. When a customer\nwants his / her operative account at one branch to be transferred to another branch, he / she has to give his / her request in writing. Cheque may be tendered for collection sufficiently early in the day as required vis-a-vis\nthe local clearing house times. Drawal against clearing cheques will be normally permitted only against cleared balances as per clearing house rules. Please don't keep the blank signed cheque books. Keep the cheque\nbooks in lock and key. Immediate credit of outstation / local cheques up to Rs.15000/- is permitted to satisfactorily operated Individuals Bank account holders. For further details, contact your branch. Fees & Charges:\nFees and Charges will be applicable on my account and for other services availed by me, as described in the Most Important Term & Conditions / schedule of charges and on the website www.utkarsh.bank. Service\nTaxes and other statutory imposts as applicable from time to time will be levied on all fees. Interest Payment: Utkarsh Small Finance Bank pays interest quarterly on daily balance basis in your Savings Account only (not\nin current account) as per the rate applicable for the scheme code. I understand that the bank is permitted to offer differential rates of interest for amounts exceeding Rs.1.00 lakh. Change in Fees & Charges, Services,\nand Interest Rate: Any change/discontinuation of Fees & Charges, Services, or Interest Rate will be intimated to me at least 30 days in advance through letter/SMS/website/email or other means. Recovery: If no funds\nare available in the account to pay fees/charges, I authorize Utkarsh Small Finance Bank to set off any available credit, including amounts flowing into the account from collection proceeds or any deposits. Inoperative\nAccount: No transactions induced by me in the account fora period of 2 years or more is treated as an Inoperative account. Account Freeze: I authorize the bank to freeze my account in the following circumstances, with\nintimation to me except where specified otherwise a) When a minor, who is the holder of the account, attains majority b) If it is suspected by the bank that transactions in my account are not initiated by me (the Bank will\nnot assume any liability for the transactions already executed) c) If it is suspected that my account is being misused as a money mule or as a channel for unauthorized money pooling or a conduit for any illegal activity (I\nwill not receive a notice in this case) d) The bank receives statutory requests for freezing the account. e) If bank found Non compliance to KYC guidelines as amended from time to time. Account Closure: I authorize the"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

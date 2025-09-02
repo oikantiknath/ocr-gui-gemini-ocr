@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_bn_000620_0_0_reference.png",
+      "width": 907,
+      "height": 1451
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        907.0,
+        1451.0
+      ],
+      "area": 1316057.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          907.0,
+          0.0,
+          907.0,
+          1451.0,
+          0.0,
+          1451.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "Aggarwal, J. C. Indian women: Education and status. New Delhi x Arya\nBook Depot.,1987. Print.\n\nAusten, Jane. Pride & Prejudice. England x UBSPD Pvt. Ltd., 2005.\nPrint.\n\nBagchi, A. K. India and Colonial Economy. Delhi xOxford University\nPress, 2010. Print.\n\nBandyopadhyay, S. Deshbhag Deshtyag. Kolkata xAnustup, 1994. Print.\n\nBanerji, Chitrita (tr). The Adventures of Feluda. New Delhi x Penguin\nBooks, 1988. Print.\n\nBasu, D. Chere Asa Gram. Kolkata xJijnasa, 1975. Print.\n\nBeauvior, Simone de. The Second Sex. England xPenguine Books, 1984.\nPrint.\n\nBest, W. John, and Khan, V. James. Research in Education. New Delhi x\nPractice-Hall of India Pvt. Ltd., 2011.Reprint.\n\nBhasin, Kamala. Borders & Boundaries. New Delhi x Kali for women,\n2007. Reprint.\n\nBhuimali, Anil. Education, Employment and Empowering Women. New\nDelhi xSerials Publications, 2004. Print.\n\nBurnell, Arthur. Hindu Piety : The Ordinance of Manu's. Ludhiyana\nxKalyani Publisher, 1972. Print.\n\nButalia, U. The Other Side of Silence. New Delhi xViking, 1998. Print."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

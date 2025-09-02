@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_001550_1_4_sub-ordered-list.png",
+      "width": 461,
+      "height": 288
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        461.0,
+        288.0
+      ],
+      "area": 132768.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          461.0,
+          0.0,
+          461.0,
+          288.0,
+          0.0,
+          288.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(1) ஆளுகூரையும் மாநில அரசாங்கத்தையும் பற்றிய கட்டுரைகள், 239ஆம் உறுப்பின்படி\nஅமர்த்தப்பெற்ற ஒன்றியத்து ஆட்சிநிலவரையின் ஆளுகூரையைப் பற்றிய கட்டுரைகளாக\nஇருந்தாற்போன்றோ (மாநில அரசாங்கம்” என்னும் சொற்றொடரில் தவிர) மாநிலம் பற்றிய\nகட்டுரைகள், மிசோரம் ஒன்றியத்து ஆட்சிநிலவரை பற்றிய கட்டுரைகளாக இருந்தாற்போன்றோ,\nமாநிலச் சட்டமன்றம் பற்றிய கட்டுரைகள் மிசோரம் ஒன்றியத்து ஆட்சிநிலவரையின்\nசட்டமன்றம்போன்றவை பற்றிய கட்டுரைகளாக இருந்தாற்போன்றோ,\n\n(2) (அ). (4) ஆம் பத்தியின் (5)ஆம் உள்பத்தியில் தொடர்புடைய மாநில அரசாங்கத்துடன்\nகலந்தாய்வு செய்வதற்கான வகையும் விட்டுவிடப்பட்டிருந்தாற்போன்றோ,\n\n(ஆ). (6) ஆம் பத்தியின் (2)ஆம் உள்பத்தியில் “மாநிலத்தின் ஆட்சி அதிகாரம்\nஅளவுகின்ற” என்னும் சொற்களுக்கு மாற்றாக, “மிசோரம் ஒன்றியத்து ஆட்சி\nநிலவரையின் சட்டமன்றம்போன்றவை சட்டங்களை இயற்ற அதிகாரம் உடைய”\nஎன்னும் சொற்கள் அமைக்கப்பட்டிருந்தாற்போன்றோ,\n\n(இ) 13ஆம் பத்தியில் “202ஆம் உறுப்பின்படி” என்னும் இலக்கங்களும் சொற்களும்\nவிட்டுவிடப்பட்டிருந்தாற் போன்றோ\nசெல்லுற்ற உடையன ஆகும்."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

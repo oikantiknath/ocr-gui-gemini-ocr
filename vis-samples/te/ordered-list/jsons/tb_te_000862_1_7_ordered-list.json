@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "tb_te_000862_1_7_ordered-list.png",
+      "width": 423,
+      "height": 267
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        423.0,
+        267.0
+      ],
+      "area": 112941.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          423.0,
+          0.0,
+          423.0,
+          267.0,
+          0.0,
+          267.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. కింది ఖాళీలను పూరించండి.\n(i) వృత్తానికి గీయబడిన స్పర్శరేఖ దానిని ................. బిందువు(ల) స్పృశిస్తుంది వద్ద ఖండిస్తుంది.\n(ii) ఒక రేఖ వృత్తాన్ని రెండు వేర్వేరు బిందువుల వద్ద ఖండిస్తే దానిని ................. అంటారు.\n(iii) ఒక వృత్తం యొక్క స్పర్శరేఖకు గరిష్టంగా గీయగలిగే సమారంతర స్పర్శరేఖలు .................\n(iv) ఒక వృత్తానికి, దాని స్పర్శరేఖకు గల ఉమ్మడి బిందువును ................. అంటారు.\n(v) ఒక వృత్తానికి మనం ................. స్పర్శరేఖలను గీయగలము.\n(vi) ఒక వృత్తానికి గీయగలిగే సమాంతర స్పర్శరేఖల సంఖ్య .................\n\n2. 5 సెం.మీ వ్యాసార్ధము గల వృత్తాన్ని, PQ స్పర్శరేఖ P వద్ద తాకింది. వృత్త కేంద్రము ‘O’ నుండి\nస్పర్శరేఖపై గల బిందువు Q నకు దూరము OQ = 13 సెం.మీ. అయిన PQ పొడవును కనుగొనుము.\n\n3. ఒక వృత్తాన్ని గీయండి. వృత్తానికి బాహ్యంలో గల ఒక రేఖకు సమాంతరముగా ఒక స్పర్శరేఖనూ, ఒక ఛేదన\nరేఖను గీయండి.\n\n4. 9 సెం.మీ వ్యాసార్ధముగా గల వృత్తానికి, దాని కేంద్రం నుండి 15 సెం.మీ దూరంలో ఒక బిందువు కలదు.\nఅయిన ఆ బిందువు నుండి వృత్తానికి గీయబడిన స్పర్శరేఖ పొడవును కనుగొనండి.\n\n5. ఒక వృత్త వ్యాసము చివరి బిందువుల వద్ద గీయబడిన స్పర్శరేఖలు సమాంతరమని చూపండి."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

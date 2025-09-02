@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_ml_000662_0_0_reference.png",
+      "width": 863,
+      "height": 570
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        863.0,
+        570.0
+      ],
+      "area": 491910.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          863.0,
+          0.0,
+          863.0,
+          570.0,
+          0.0,
+          570.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "Alexander, Porter Edward, Mary Alexander, 2000, Museums in Motion, UK: Alta Mira\nPress.\nAmbrose, Timothy, Paine Crispin, 2001, Museum Basics, London: Routledge.\nAnderson, Benedict, 1991, Imagined Communities: Reflections on the origin and spread\nof nationalism, London: Verso.\nAnderson, Gail, 2004, Reinventing the Museum: Historical and contemporary\nperspectives on the paradigm shift, Walnut Creek, Calif, Oxford: AltaMira\nPress.\nAscherson, N., 1987, Why Heritage is Right-Wing, London: Observer.\nBedno, Jane and Bedno, Ed, 2001, Museum Exbitions: Past Imperfect, Future Tense,\n(Lord &Lord 2001).\nBennett, Tony, 2006, The Birth of the Museum: History, theory, politics, London and\nNew York: Routledge.\nBoym, Svetlana, 2001, The Future of Nostalgia, New York: Basic books.\nBoylan, P.J., 2006, The Museum Profession, in S. Macdonald (ed) A Companion to\nMuseum Studies, 415–430, Malden, Mass., Oxford: Blackwell Publishing.\nBrett, David, 1996, The Construction of Heritage, Cork: Cork University Press.\nBryk, Nancy Villa, 2001, Reports of Our Death have been Greatly Exaggerated:\nReconsidering the Curator, Lord and Lord 2001.\nBurcaw, George Ellis, 1997, Introduction to Museum Works, Rawman Altamira."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

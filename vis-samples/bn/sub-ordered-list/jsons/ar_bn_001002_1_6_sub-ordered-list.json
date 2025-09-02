@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_001002_1_6_sub-ordered-list.png",
+      "width": 1421,
+      "height": 1372
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        1421.0,
+        1372.0
+      ],
+      "area": 1949612.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1421.0,
+          0.0,
+          1421.0,
+          1372.0,
+          0.0,
+          1372.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "৪৪। (১) রাজ্য সরকার, সরকারী গেজেটে প্রজ্ঞাপন দ্বারা, এই আইনের\nউদ্দেশ্যসমূহ কার্যে পরিণত করিবার জন্য নিয়মাবলী প্রণয়ন\nকরিতে পারিবেন।\n(২) বিশেষতঃ, এবং পূর্বগামী ক্ষমতার ব্যাপকতা ক্ষুণ্ণ না করিয়া\nঐরূপ নিয়মাবলী দ্বারা নিম্নলিখিত সকল বা যে কোন বিষয়ের\nজন্য ব্যবস্থা করা যাইবে, যথা :-\n(ক) এই আইন অনুযায়ী যে সকল শর্ত ও কড়ার সাপেক্ষে\nলাইসেন্স মঞ্জুর করা যাইবে বা নবীকৃত হইবে এবং ঐ\nলাইসেন্সের ক্ষেত্রে যে ফী প্রদান করিতে হইবে ;\n(খ) এই আইন অনুযায়ী কোন লাইসেন্সের জন্য আবেদনের\nফরম এবং ঐরূপ আবেদনের সহিত যে সকল দস্তাবেজ ও\nনকশা জমা দিতে হইবে ;\n(গ) কোন লাইসেন্স মঞ্জুর করিবার জন্য বা মঞ্জুর করিতে অস্বীকৃত\nহইবার জন্য ক্ষমতাপ্রাপ্ত প্রাচিকারী কর্তৃক যে সকল বিষয়\nবিবেচ্য হইবে ;"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

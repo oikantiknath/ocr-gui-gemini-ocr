@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_kn_000550_0_0_paragraph.png",
+      "width": 908,
+      "height": 639
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        908.0,
+        639.0
+      ],
+      "area": 580212.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          908.0,
+          0.0,
+          908.0,
+          639.0,
+          0.0,
+          639.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಬೆಳವಣಿಗೆಯಿಂದ ಒಂದು ಕಲಾ ಕೃತಿಯು ಉದ್ಭವಿಸಿ ಉನ್ನತವಾಗಿ\\nರೂಪುಗೊಂಡಿರುವುದು ಸಿದ್ಧಾಂತಗಳ ಸೂಕ್ಷ್ಮ ಸಂಗತಿಗಳಲ್ಲ, ದಿನ ಇತಿಹಾಸದ ಒಂದು\\nಕಲಸು ಮೇಲೋಗರ ಒಂದು ಸಿದ್ಧಾಂತವಾಗಿ ರೂಪುಗೊಂಡಿರುವುದು. ಗಣಿತ ವಿಷಯದಲ್ಲಿ ವಿಶೇಷ\\nವಾದ ಆಸಕ್ತಿ ಹೊಂದಿದ್ದ ಅವರು ಅತ್ಯಂತ ನಿಷ್ಠೆಯಿಂದ ಅಧ್ಯಯನದಲ್ಲಿ ತೊಡಗಿದ್ದರು.\\nರಾಮಾನುಜನ್ ಪೂರ್ತಿ ಶುದ್ಧೀಕರಣ ಶಾಲೆಯಲ್ಲಿ ಶಿಕ್ಷಣ ಮುಗಿಸಿದ ಕಲಾ ಕೃತಿಯು\\nಮುಂದಿನ ಶಿಕ್ಷಣವನ್ನು ತಿರುಮಲೈಯನ್ ಸೀನಿಯರ್ ಹೈಸ್ಕೂಲಿಗೆ ಪ್ರವೇಶ ಪಡೆದರು.\\nಮುಂದೆ ವಿಶ್ವವಿದ್ಯಾಲಯದಿಂದ ಪ್ರಥಮ ಸ್ಥಾನದಲ್ಲಿ ೧೯೯೪ ರಲ್ಲಿ ಪದವಿಯನ್ನು ಪಡೆದು\\nಕೊಂಡರು. ನಿರಂತರವಾಗಿ ನಾಲ್ಕು ವರ್ಷಗಳ ಕಾಲ ಓದಿ ಕಲಾ ಸಂಶೋಧನಾ ವಿಷಯ\\nಪಡೆದುಕೊಂಡರು. ಹೀಗಾಗಿ ಮುಂದೆ ಸಾಂಸ್ಕೃತಿಕ ಸಾಮ್ರಾಜ್ಯದಲ್ಲಿ ಅಂತರರಾಷ್ಟ್ರೀಯ\\nಖ್ಯಾತಿಯಿಂದ ಅಧ್ಯಯನ ಮುಂದುವರೆಸಲು ಹೊರಟು ನಿಂತು ಹೊಸದಾಗಿ\\nಜೀವನವನ್ನು ಸಾಗಿಸಿದರು ಕಲಾ ಕೃತಿಯು ವಿಷಯ ಆಯ್ಕೆ ಹಾಗೂ\\nಪಠ್ಯಕ್ರಮವನ್ನು ಮಕ್ಕಳಿಗೆ ಪರಿಚಯಿಸುತ್ತಾರೆ."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

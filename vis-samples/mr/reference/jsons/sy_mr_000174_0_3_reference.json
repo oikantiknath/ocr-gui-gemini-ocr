@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_mr_000174_0_3_reference.png",
+      "width": 1231,
+      "height": 1528
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        1231.0,
+        1528.0
+      ],
+      "area": 1880968.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1231.0,
+          0.0,
+          1231.0,
+          1528.0,
+          0.0,
+          1528.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "संदर्भग्रंथ-\n1. मुक्त गद्य: संकल्पना आणि उपयोजन – वि. शं. चौघुले, मॅजेस्टिक, मुंबई.\n2. लघूनिबंध ते मुक्तगद्य – वि. शं. चौघुले, मॅजेस्टिक, मुंबई.\n3. ललितगद्य – चंद्रकांत वर्तक, शं. रा. राणे, य. च. म. मु. वि., नाशिक.\n4. ललितगद्य विशेषांक, ललित, ऑगस्ट १९८८.\n5. ललितगद्य विशेषांक, ललित, मार्च २०१३.\n6. कुसुमानिल – आ. रा. देशपांडे, कुसुमावती देशपांडे\n7. विश्वश्र शारदा– ह. वि. मोटे\n8. जी. ए. ची निवडक पत्रे – संपा. म. द. हातकर्णंगलेकर, श्री. पु. भागवत\n9. इंदु काळे सरला भोळे – वा. म. जोशी\n10. सावित्री – पु. शि. रेगे\n11. बाळूताई, धडा घे – मालतीबाई बेडेकर\n12. ब बळीचा – राजन गवस\n13. पत्रलेखन https://vishwakosh.marathi.gov.in/20411/\n14. ‘...पत्रास कारण की’ (https://www.esakal.com/saptarang/arvind-jagtap-write-\nletter-article-saptarang-172970)\n15. ‘...पत्रास कारण की’ (https://www.saamana.com/letter-writing-in-chala-hawa-\nyevu-dya/)\n16. वाचणाऱ्याची रोजनिशी - सतीश काळसेकर, लोकवाङ्मय गृह, मुंबई.\n17. एका स्वागताध्यक्षाची डायरी – उत्तम कांबळे\n18. अस्वस्थ दशकाची डायरी – अविनाश धर्माधिकारी\n19. निवडक विठ्ठल रामजी शिंदे – संपा. गो. मा. पवार, साहित्य अकादमी, नवी दिल्ली.\n20. महर्षी विठ्ठल रामजी शिंदे: जीवन व कार्य - गो. मा. पवार, लोकवाङ्मय गृह, मुंबई.\n21. महर्षी विठ्ठल रामजी शिंदे यांचे धर्मविषयक विचार – अशोक चौसाळकर, लोकवाङ्मय\nगृह, मुंबई.\n22. दैनंदिनी (डायरी), शैलजा करंदीकर, मराठी विश्वकोश\n(https://vishwakosh.marathi.gov.in/18632/)\n23. ‘सदरा बदललेली माणसं’\n(https://akshaysharada.wordpress.com/%E0%A4%B8%E0%A4%A6%E0%A4%B0%E0%A4%BE%E0%A4%\n%E0%A4%AC%E0%A4%A6%E0%A4%B2%E0%A4%B2%E0%A5%80-%E0%A4%AE%E0%A4%BE%E0%A4%A3%E0%A4%B8%E0%A4%82/)"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

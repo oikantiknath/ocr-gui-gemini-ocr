@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_mr_000155_4_ordered-list.png",
+      "width": 460,
+      "height": 658
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        460.0,
+        658.0
+      ],
+      "area": 302680.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          460.0,
+          0.0,
+          460.0,
+          658.0,
+          0.0,
+          658.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "18. \"door to door collection\" means collection of solid waste from the door step of households, shops,\ncommercial establishments, offices, institutional or any other non residential premises and includes collection\nof such waste from entry gate or a designated location on the ground floor in a housing society, multi storied\nbuilding or apartments, large residential, commercial or institutional complex or premises;\n19. \"dry waste\" means waste other than bio-degradable waste and inert street sweepings and includes recyclable\nand non recyclable waste, combustible waste and sanitary napkin and diapers, etc;\n20. \"dump sites\" means a land utilised by local body for disposal of solid waste without following the principles\nof sanitary land filling;\n21. \"extended producer responsibility\" (EPR) means responsibility of any producer of packaging products such\nas plastic, tin, glass and corrugated boxes, etc., for environmentally sound management, till end-of-life of the\npackaging products;\n22. \"facility\" means any establishment wherein the solid waste management processes namely segregation,\nrecovery, storage, collection, recycling, processing, treatment or safe disposal are carried out;\n23. \"fine\" means penalty imposed on waste generators or operators of waste processing and disposal facilities\nunder the bye-laws for non-compliance of the directions contained in these rules and/or bye- laws\n24. \"Form\" means a F8orm appended to these rules;\n25. \"handling\" includes all activities relating to sorting, segregation, material recovery, collection, secondary\nstorage, shredding, baling, crushing, loading, unloading, transportation, processing and disposal of solid wastes;\n26. \"inerts\" means wastes which are not bio-degradable, recyclable or combustible street sweeping or dust and silt\nremoved from the surface drains;\n27. \"incineration\" means an engineered process involving burning or combustion of solid waste to thermally\ndegrade waste materials at high temperatures;\n28. \"informal waste collector\" includes individuals, associations or waste traders who are involved in sorting, sale\nand purchase of recyclable materials;\n29. \"leachate\" means the liquid that seeps through solid waste or other medium and has extracts of dissolved or\nsuspended material from it;\n30. \" local body\" for the purpose of these rules means and includes the municipal corporation, nagar nigam,\nmunicipal council, nagarpalika, nagar Palikaparishad, municipal board, nagar panchayat and town panchayat,\ncensus towns, notified areas and notified industrial townships with whatever name they are called in different\nStates and union territories in India;\n31. \"materials recovery facility\" (MRF) means a facility where non-compostable solid waste can be temporarily\nstored by the local body or any other entity mentioned in rule 2 or any person or agency authorised by any of\nthem to facilitate segregation, sorting and recovery of recyclables from various components of waste by\nauthorised informal sector of waste packers, informal recyclers or any other work force engaged by the local\nbody or entity mentioned in rule 2for the purpose before the waste is delivered or taken up for its processing or\ndisposal;\n32. \"non-biodegradable waste\" means any waste that cannot be degraded by micro organisms into simpler stable\ncompounds;\n33. \"operator of a facility\" means a person or entity, who owns or operates a facility for handling solid waste\nwhich includes the local body and any other entity or agency appointed by the local body;\n34. primary collection\" means collecting, lifting and removal of segregated solid waste from source of its\ngeneration including households, shops, offices and any other non-residential premises or from any collection\npoints or any other location specified by the local body;\n35. \"processing\" means any scientific process by which segregated solid waste is handled for the purpose of reuse,\nrecycling or transformation into new products;\n36. \"recycling\" means the process of transforming segregated non-biodegradable solid waste into new material or\nproduct or as raw material for producing new products which may or may not be similar to the original\nproducts;\n37. \"redevelopment\" means rebuilding of old residential or commercial buildings at the same site, where the\nexisting buildings and other infrastructures have become dilapidated;"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

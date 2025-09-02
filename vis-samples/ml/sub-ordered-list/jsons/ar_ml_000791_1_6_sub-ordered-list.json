@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ml_000791_1_6_sub-ordered-list.png",
+      "width": 503,
+      "height": 125
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        503.0,
+        125.0
+      ],
+      "area": 62875.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          503.0,
+          0.0,
+          503.0,
+          125.0,
+          0.0,
+          125.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(എ) ഈ ആക്ടിന്റെ പ്രാരംഭത്തിന് മുമ്പ് രൂപംകൊണ്ടതും ഗവൺമെന്റിന്റെ ബന്ധപ്പെട്ട\nപ്രകാരവും പ്രവർത്തിച്ചുവരുന്നതുമായ ഒരു പുതിയ ബോർഡോ രൂപീകരിക്കുന്നതുപ്രകാരം, ഒരു പുതിയ ബോർഡോ\nരൂപീകരിക്കുന്നതുപ്രകാരം, തുടർന്നുള്ള പ്രവർത്തിക്കുന്നതാണെങ്കിൽ, അങ്ങനെയുള്ള രൂപീകരണത്തിന് മുമ്പ്\nഅല്ലെങ്കിൽ രൂപീകരിക്കുന്നതിന് മുമ്പ് രൂപംകൊണ്ടതും ഗവൺമെന്റിന്റെ ബന്ധപ്പെട്ട പ്രകാരവും പ്രവർത്തിച്ചുവരുന്നതുമായ\nഒരു ബോർഡിനെ ഈ ആക്ടിന്റെ ആവശ്യങ്ങൾക്കായി അംഗീകരിക്കുന്നതും ആകുന്നു;\n(ബി) ഈ ആക്ട് പ്രകാരം, ഹൈസ്കൂൾ ഹെഡ്മാസ്റ്റർമാരുടെയും ഹെഡ്മിസ്ട്രസ്മാരുടെയും\nഈ ആക്ടിന്റെ പ്രാരംഭത്തിന് മുമ്പ് അംഗീകൃതമായ വിദ്യാലയങ്ങളിലെയും ഗവൺമെന്റ്\nഅംഗീകൃതമായ ദേശീയ സ്ഥാപനം, സെക്ഷൻ-67, ഹൈസ്കൂൾ ഹെഡ്മാസ്റ്റർമാരുടെയും\nഹെഡ്മിസ്ട്രസ്മാരുടെയും ഈ ആക്ടിന്റെ വ്യവസ്ഥകൾക്ക് അനുസൃതമായി, ഈ ആക്ടിന്റെ\nആവശ്യങ്ങൾക്കായി അംഗീകരിക്കുന്നതും ആകുന്നു."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

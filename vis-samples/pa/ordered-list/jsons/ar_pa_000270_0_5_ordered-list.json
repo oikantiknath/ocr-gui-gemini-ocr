@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_pa_000270_0_5_ordered-list.png",
+      "width": 961,
+      "height": 580
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        961.0,
+        580.0
+      ],
+      "area": 557380.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          961.0,
+          0.0,
+          961.0,
+          580.0,
+          0.0,
+          580.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(2) ਫਿਕਰਵੰਤਾ ਮੁਦੱਈਆ ਨਾਲ ਇਹ ਮੁਆਇਦਾ ਕਰਦਾ ਮੰਨਿਆ ਜਾਵੇਗਾ ਕਿ ਜੇ ਹਿੱਤ\nਫਿਕਰਵੰਤਾ ਮੁਦੱਈਆ ਨੂੰ ਮੁਤਕੱਲਿਮ ਕਰਨ ਦਾ ਕੰਮ ਕਰਦਾ ਹੈ, ਉਹ ਕਾਇਮ ਹੈ, ਅਤੇ ਉਹ\nਉਸ ਦੇ ਵਿਸ਼ਵਾਸ ਦੀ ਸਕਤੀ ਰੱਖਦਾ ਹੈ ;\nਪਰੰਤੂ ਜਿੱਥੇ ਫਿਕਰਵੰਤੀ ਕਿਸੇ ਫਿਕਰਵੰਤੀ ਦੁਆਰਾ ਕਿਸੇ ਵਿਸ਼ੇਸ਼ਮਾ ਹੈਸੀਅਤ ਵਿੱਚ ਕੀਤੀ\nਜਾਂਦੀ ਹੈ, ਉੱਥੇ ਉਹ ਮੁਦੱਈਆ ਨਾਲ ਇਹ ਮੁਆਇਦਾ ਕਰਦਾ ਮੰਨਿਆ ਜਾਵੇਗਾ ਕਿ ਫਿਕਰਵੰਤਾ\nਨੇ ਅਜਿਹਾ ਕੋਈ ਕਾਰਨ ਨਹੀਂ ਕੀਤਾ ਜਿਸ ਨਾਲ ਸੰਪੱਤੀ ਪ੍ਰਭਾਵਿਤ ਹੋ ਗਈ ਹੈ ਜਾਂ ਜਿਸ ਨਾਲ\nਉਸਦਾ ਵਿਸ਼ਵਾਸ ਕਰਨ ਵਿੱਚ ਉਸਨੂੰ ਅੜਚਨ ਪੈ ਗਈ ਹੈ।\nਇਸ ਨਿਯਮ ਵਿੱਚ ਜਿਕਰ ਕੀਤੇ ਮੁਆਇਦੇ ਦਾ ਫਾਇਦਾ ਵਿਸ਼ਵਾਸ-ਪੱਤਰ ਦੀ ਇਸ\nਹੈਸੀਅਤ ਵਿੱਚ ਉਸਦੇ ਹਿੱਤ ਨਾਲ ਉਪਬੰਧ ਹੋਵੇਗਾ ਅਤੇ ਉਸ ਦੇ ਨਾਲ ਜਾਵੇਗਾ, ਅਤੇ ਅਜਿਹੇ\nਹਰਇਕ ਫਿਕਰਵੰਤੀ ਦੁਆਰਾ ਲਾਗੂ ਕੀਤਾ ਜਾ ਸਕੇਗਾ ਜਿਸ ਵਿੱਚ ਸਮੇਂ ਤੇ ਉਹ ਹਿੱਤ ਸਾਰੇ\nਜਾਂ ਉਸ ਦਾ ਕੋਈ ਭਾਗ ਨਿਹਤ ਹੋਵੇ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

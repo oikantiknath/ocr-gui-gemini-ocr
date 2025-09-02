@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_bn_000075_0_0_sub-ordered-list.png",
+      "width": 786,
+      "height": 154
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        786.0,
+        154.0
+      ],
+      "area": 121044.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          786.0,
+          0.0,
+          786.0,
+          154.0,
+          0.0,
+          154.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ক. পরীক্ষায় অংশগ্রহণে ইচ্ছুক ব্যক্তি http://coxda.teletalk.com.bd এই ওয়েবসাইটে আবেদনপত্র পূরণ করতে পারবেন।\nআবেদনের সময়সীমা নিম্নরূপ:\n(i) Online-এ আবেদনপত্র পূরণ ও আবেদন ফি জমাদান শুরুর তারিখ ও সময়: ৩০/০৬/২০২২ খ্রি: সকাল ১০.০০ ঘটিকা।\n(ii) Online-এ আবেদনপত্র জমাদানের শেষ তারিখ ও সময়: ২১/০৭/২০২২ খ্রি: বিকাল ৫.০০ ঘটিকা।\nউক্ত সময়সীমার মধ্যে User ID প্রাপ্ত প্রার্থীগণ Online- এ আবেদন পত্র Submit এর সময় থেকে পরবর্তী ৭২ (বাহাত্তর) ঘন্টার মধ্যে এসএমএস এ\nপরীক্ষার ফি জমা দিতে পারবেন।\nখ. Online আবেদনপত্রে প্রার্থী তাঁর স্বাক্ষর (দৈর্ঘ্য ৩০০x প্রস্থ ৮০ Pixel) ও রঙ্গিন ছবি (দৈর্ঘ্য ৩০০x প্রস্থ ৩০০ Pixel) স্ক্যান করে নির্ধারিত স্থানে\nUpload করবেন।\nগ. Online আবেদনপত্রে পূরণকৃত তথ্যই যেহেতু পরবর্তী সকল কার্যক্রমে ব্যবহৃত হবে, সেহেতু Online-এ আবেদনপত্র Submit করার পূর্বেই\nপূরণকৃত সকল তথ্যের সঠিকতা সম্পর্কে প্রার্থী নিজে শতভাগ নিশ্চিত হবেন।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

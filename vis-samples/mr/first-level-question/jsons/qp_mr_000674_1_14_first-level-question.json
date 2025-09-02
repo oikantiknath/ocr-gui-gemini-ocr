@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "qp_mr_000674_1_14_first-level-question.png",
+      "width": 395,
+      "height": 370
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 8,
+      "bbox": [
+        0.0,
+        0.0,
+        395.0,
+        370.0
+      ],
+      "area": 146150.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          395.0,
+          0.0,
+          395.0,
+          370.0,
+          0.0,
+          370.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "33. खाली दिलेल्यांच्या योग्य जोड्या लावा :\nदेश राजधानी खंड\n(a) व्हेनेझुएला (i) सना (I) युरोप\n(b) सायप्रस (ii) काराकास (II) आशिया\n(c) येमन (iii) ॲटानानारियो (III) अफ्रिका\n(d) मादागास्कर (iv) निकोसिया (IV) दक्षिण अमेरिका\nपर्यायी उत्तरे :\n\n(1) (a)-(ii)-(IV) (d)-(iii)-(II) (b)-(i)-(III) (c)-(iv)-(I)\n(2) (c)-(i)-(II) (b)-(iii)-(III) (a)-(ii)-(IV) (d)-(iv)-(I)\n(3) (d)-(iii)-(III) (c)-(i)-(II) (a)-(ii)-(IV) (b)-(iv)-(I)\n(4) (b)-(i)-(I) (c)-(ii)-(II) (d)-(iii)-(III) (a)-(iv)-(IV)\nMatch the following suitable pairs :\nCountry Capital Continent\n(a) Venezuela (i) Sana (I) Europe\n(b) Cyprus (ii) Caracus (II) Asia\n(c) Yemen (iii) Antananarivo (III) Africa\n(d) Madagaskar (iv) Nicosia (IV) South America\nAnswer options :\n(1) (a)-(ii)-(IV) (d)-(iii)-(II) (b)-(i)-(III) (c)-(iv)-(I)\n(2) (c)-(i)-(II) (b)-(iii)-(III) (a)-(ii)-(IV) (d)-(iv)-(I)\n(3) (d)-(iii)-(III) (c)-(i)-(II) (a)-(ii)-(IV) (b)-(iv)-(I)\n(4) (b)-(i)-(I) (c)-(ii)-(II) (d)-(iii)-(III) (a)-(iv)-(IV)"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

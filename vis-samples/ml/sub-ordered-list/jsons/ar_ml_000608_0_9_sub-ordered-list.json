@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ml_000608_0_9_sub-ordered-list.png",
+      "width": 944,
+      "height": 367
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        944.0,
+        367.0
+      ],
+      "area": 346448.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          944.0,
+          0.0,
+          944.0,
+          367.0,
+          0.0,
+          367.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(2) ഈ ആക്ട് പ്രകാരം ഉണ്ടാക്കുന്ന ഏതൊരു ചട്ടവും അതുണ്ടാക്കിയതിനു\nശേഷം കഴിയുന്നത്ര വേഗം നിയമസഭാ സമ്മേളനത്തിലായിരിക്കുമ്പോൾ സഭ മുമ്പാകെ,\nഒരു സമ്മേളനത്തിലോ തുടർച്ചയായ രണ്ട് സമ്മേളനങ്ങളിലോ വരാവുന്ന ആക\nപതിനാല് ദിവസക്കാലത്തേക്ക് വയ്ക്കേണ്ടതും, അപ്രകാരം അത് ഏത് സമ്മേളനത്തിൽ\nവയ്ക്കുന്നുവോ ആ സമ്മേളനമോ തൊട്ടടുത്തുവരുന്ന സമ്മേളനമോ\nഅവസാനിക്കുന്നതിനുമുമ്പ് നിയമസഭ ആ ചട്ടത്തിൽ എന്തെങ്കിലും ഭേദഗതി\nവരുത്തുകയോ അഥവാ ആ ചട്ടം ഉണ്ടാക്കേണ്ടതില്ലെന്ന് തീരുമാനിക്കുകയോ\nചെയ്യുന്നപക്ഷം, ആ ചട്ടത്തിന് അതിനുശേഷം, അങ്ങനെയുള്ള ഭേദഗതി\nവരുത്തിയ രൂപത്തിൽ മാത്രം പ്രാബല്യമുണ്ടായിരിക്കുകയോ അഥവാ യാതൊരു\nപ്രാബല്യവുമില്ലാതിരിക്കുകയോ ചെയ്യുന്നതുമാകുന്നു. എന്നിരുന്നാലും, അങ്ങനെയുള്ള\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

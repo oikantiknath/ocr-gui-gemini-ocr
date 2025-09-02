@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_kn_000276_0_4_subsub-section-title.png",
+      "width": 1011,
+      "height": 432
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 33,
+      "bbox": [
+        0.0,
+        0.0,
+        1011.0,
+        432.0
+      ],
+      "area": 436752.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1011.0,
+          0.0,
+          1011.0,
+          432.0,
+          0.0,
+          432.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "- ಮೊದಲ ಭಾಗದಲ್ಲಿ —ಪ್ರಾಥಮಿಕವಾಗಿ ತಲೆ, ಅನ್ಯಾಳ, ಹೃದಯ ಮತ್ತು ಶ್ವಾಸನಾಳಗಳನ್ನು\nಒಳಗೊಂಡಿದೆ.\n- ಎರಡನೇ ಭಾಗದಲ್ಲಿ —ಶ್ವಾಸಕೋಶದ ಮುಂಭಾಗದ ಭಾಗವನ್ನು (ವಿಶೇಷವಾಗಿ\nರಕ್ತನಾಳಗಳೊಂದಿಗೆ), ಯಕೃತ್ತು ಮತ್ತು ಹೊಟ್ಟೆಯನ್ನು ಒಳಗೊಂಡಿದೆ.\n- ಮೂರನೇ ಭಾಗದಲ್ಲಿ —ಪಿತ್ತಕೋಶ, ಗುಲ್ಮ, ವೃಷಣಗಳು ಮತ್ತು ಅಂಡಾಶಯಗಳು ಇರುತ್ತವೆ. ಸಣ್ಣ\nಕರುಳು ಪ್ರಾಣಿಗಳ ಮೂಲಕ ಹಾದುಹೋಗುತ್ತದೆ ಮತ್ತು ಬಲ ಶ್ವಾಸಕೋಶವು ಅಡ್ಡ ಗೋಡೆಯಲ್ಲಿ\nಹಾದುಹೋಗುತ್ತದೆ.\n- ನಾಲ್ಕನೇ ಭಾಗದಲ್ಲಿ —ಸಣ್ಣ ಮತ್ತು ದೊಡ್ಡ ಕರುಳು ಮತ್ತು ಮೂತ್ರಪಿಂಡ, ಪ್ಲೇಯಾ\n(ಸಂಸಾನೋತ್ತಿ ಮತ್ತು ಜೀರ್ಣಕಾರಿ ವ್ಯವಸ್ಥೆಗಳು ಹೊರಗೆ ಪ್ರವೇಶಿಸುವ ದ್ವಾರ) ಮತ್ತು\nಪಡಿವಾಣಗಳು (ಬಲದ ಪ್ರದೇಶದಲ್ಲಿ ಇರುವ ಎರಡು ಸಂಸಾನೋತ್ತಿ ಅಂಗಗಳು)."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

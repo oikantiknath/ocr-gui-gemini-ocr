@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_bn_000546_0_3_subsub-section-title.png",
+      "width": 664,
+      "height": 576
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 33,
+      "bbox": [
+        0.0,
+        0.0,
+        664.0,
+        576.0
+      ],
+      "area": 382464.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          664.0,
+          0.0,
+          664.0,
+          576.0,
+          0.0,
+          576.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "২০১৭-১৮ সালে খাদ্যশস্য উৎপাদন বৃদ্ধি পেয়ে হয়েছে ১৭৭.৯ লক্ষ মেট্রিক\nটন। তুলনায় ২০১০-১১ সালে এটি ছিল ১৪৮.১ লক্ষ মেট্রিক টন। গত ৭ বছরে\n(২০১১-১২ থেকে ২০১৭-১৮-তৃতীয় আনুমানিক হিসাব অনুযায়ী) বার্ষিক গড়\nউৎপাদন বেড়ে দাঁড়িয়েছে ১৭২.৪ লক্ষ মেট্রিক টন। পূর্ববর্তী ৭ বছরে\n(২০০৪-০৫ থেকে ২০১০-১১) যা ছিল ১৫৮.২ লক্ষ মেট্রিক টন।\n\nভারতের মধ্যে চাল উৎপাদনে পশ্চিমবঙ্গ তার শীর্ষস্থান ধরে রেখেছে।\n২০১০-১১-তে ১০০.৯ লক্ষ মেট্রিক টনের তুলনায় ২০১৭-১৮-তে মোট চাল\nউৎপাদন বেড়ে হয়েছে ১৫৮.৯ লক্ষ মেট্রিক টন। গত সাত বছরে (২০১১-১২\nথেকে ২০১৭-১৮) বার্ষিক গড় উৎপাদন বেড়ে হয়েছে ১৫৪.৪ লক্ষ মেট্রিক টন।\nতুলনায় তার পূর্ববর্তী ৭ বছরে (২০০৪-০৫ থেকে ২০১০-১১) যেটি ছিল ১৪৪.২\nলক্ষ মেট্রিক টন।\n\nপোল্ট্রি ও মাছের খাদ্যের ক্রমবর্ধমান চাহিদা মেটাতে ২০১৭-১৮ সালে ভুট্টা\nউৎপাদন বৃদ্ধি পেয়ে হয়েছে ১৩.৩ লক্ষ মেট্রিক টন, তুলনায় ২০১০-১১-তে\nএটি ছিল ০.৫ লক্ষ মেট্রিক টন। গত সাত বছরে (২০১১-১২ থেকে ২০১৭-১৮)\nবার্ষিক গড় উৎপাদন বেড়ে হয়েছে ৬.৯ লক্ষ মেট্রিক টন। তুলনায় তার পূর্ববর্তী ৭\nবছরে (২০০৪-০৫ থেকে ২০১০-১১) যেটি ছিল ২.৮ লক্ষ মেট্রিক টন।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

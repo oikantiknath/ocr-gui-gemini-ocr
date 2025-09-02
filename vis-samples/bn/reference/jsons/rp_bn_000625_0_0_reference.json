@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_bn_000625_0_0_reference.png",
+      "width": 958,
+      "height": 1436
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        958.0,
+        1436.0
+      ],
+      "area": 1375688.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          958.0,
+          0.0,
+          958.0,
+          1436.0,
+          0.0,
+          1436.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "পশ্চিমবঙ্গ সাহিত্য আকাদেমি পত্রিকা, pWÉ 6, 1998-99 z\n<$#[illegible]#$>।\n<$#[illegible]#$>।\ni –QKNpafj z \"\"ejl f কলমে নারী ।'' আকাদেমি পত্রিকা, SMc, (1995) z\n<$#[illegible]#$> z\n\nl h<$#[illegible]#$>Z pWÉ 1406, f <$#[illegible]#$>h%, abÉJ pwú<$#[illegible]#$> chi jN, f x hx pl Ljl,\nLmLjaj z\n\nl h<$#[illegible]#$>WÉ 1403, f <$#[illegible]#$>h%, abÉJ pwú<$#[illegible]#$> chi jN, f x hx pl Ljl, LmLjaj z\npjdha hoÑl h<$#[illegible]#$>Z pWÉ 2010, f <$#[illegible]#$>h%, abÉJ pwú<$#[illegible]#$> chi jN, f x hx\npl Ljl, LmLjaj z\n\nসাহিত্য আকাদেমি পত্রিকা, 5, 1997, LmLjaj z\npja<$#[illegible]#$>l, 1j hoÑ9-10 pWÉ, SMc, B No, 1982 z\npja<$#[illegible]#$>l, hoÑ, 8-11 pWÉ, njl c, 1990 z\n\nসাহিত্যকোষ, f <$#[illegible]#$>l 3u hoÑ1-o সংখ্যা সেপ্টেম্বর 2000, শারদ সঙ্কলন ।\nKumar, Akhilesh. \"Women Empowerment: Nehruvian Thought\nand Action.\" Madhya Pradesh Journal of Social Sciences\n8.1(2003) : 45-58. Print.\n\nLeung, Lai-Ching. \"Empowering Women in Social Work Practice,\nA Hong Kong Case Study.\" International Social Work 48.4\n(2005) : 429-439. Print."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

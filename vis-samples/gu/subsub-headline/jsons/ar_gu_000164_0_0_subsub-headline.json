@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_gu_000164_0_0_subsub-headline.png",
+      "width": 862,
+      "height": 433
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        862.0,
+        433.0
+      ],
+      "area": 373246.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          862.0,
+          0.0,
+          862.0,
+          433.0,
+          0.0,
+          433.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(૧) “અસ્પૃશ્યતા” માંથી ઉપસ્થિત થતી કોઈ બાધાને પાત્ર બનતી વ્યક્તિઓ આવા હકોનો લાભ લઈ શકે\nતે માટે તેઓને કાનૂની સહાય સહિત પૂરતી સુવિધાની જોગવાઈ કરવા બાબત;\n\n(૨) આ અધિનિયમની જોગવાઈઓના ઉલ્લંઘન માટેની ફરિયાદોની કાર્યવાહી શરૂ કરવા અથવા તેના ઉપર\nદેખરેખ રાખવા માટે અધિકારીઓની નિમણૂક બાબત;\n\n(૩) આ અધિનિયમ હેઠળના ગુનાઓની ઇન્સાફી કાર્યવાહી માટે ખાસ ન્યાયાલયો સ્થાપવા બાબત;\n\n(૪) એવાં પગલાં નક્કી કરવા અથવા તેમનો અમલ કરવામાં રાજ્ય સરકારને મદદ કરવા સારુ રાજ્ય\nસરકારને યોગ્ય લાગે તેવી યોગ્ય કક્ષાએ સમિતિઓ સ્થાપવા બાબત;\n\n(૫) આ અધિનિયમની જોગવાઈઓના બહેતર અમલ માટે પગલાં સૂચવવાના ઉદ્દેશથી આ અધિનિયમની\nજોગવાઈઓના અમલની મુદતી સરવે માટે જોગવાઈ કરવા બાબત;\n\n(૬) જ્યાં વ્યક્તિઓ “અસ્પૃશ્યતા” માંથી ઉપસ્થિત થતી કોઈ બાધાને પાત્ર થતી હોય તેવા વિસ્તારોને\nપિછાણી લેવા બાબત અને આવા વિસ્તારોમાંથી તેવી બાધાનું ખાતરીપૂર્વક નિવારણ થાય તેવાં પગલાં\nઅપનાવવા બાબત."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

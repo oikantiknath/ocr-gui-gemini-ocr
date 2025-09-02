@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_hi_000837_0_8_unordered-list.png",
+      "width": 1531,
+      "height": 724
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        1531.0,
+        724.0
+      ],
+      "area": 1108444.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1531.0,
+          0.0,
+          1531.0,
+          724.0,
+          0.0,
+          724.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "पाठकों से निवेदन\n* जिन पाठकों की वार्षिक सदस्यता समाप्त हो रही है, कृपया वे सदस्यता का नवीनीकरण समय से करवा लें।\n* साथ ही अपने मित्रों, संबंधियों को भी सदस्यता ग्रहण करने के लिए प्रेरित करने की कृपा करें।\n* सदस्यता के नवीनीकरण अथवा पत्राचार के समय कृपया अपने सदस्यता क्रमांक का उल्लेख अवश्य करें।\n* सदस्यता शुल्क यदि मनीऑर्डर द्वारा भेजें तो कृपया इसकी सूचना अलग से पत्र द्वारा अपनी सदस्यता संख्या\nका उल्लेख करते हुए दें।\n* चैक साहित्य अमृत के नाम से भेजे जा सकते हैं।\n* ऑन लाइन बैंकिंग के माध्यम से सेंट्रल बैंक ऑफ इंडिया के एकाउंट नं. 1110734393 IFSC-CBIN\n0280297 में साहित्य अमृत के नाम से शुल्क जमा कर फोन अथवा पत्र द्वारा सूचित अवश्य करें।\n* आपको अगर साहित्य अमृत का अंक प्राप्त न हो रहा हो तो कृपया अपने पोस्ट ऑफिस में पोस्टमैन या\nपोस्टमास्टर से लिखित निवेदन करें। ऐसा करने पर कई पाठकों को पत्रिका समय पर प्राप्त होने लगी है।\n* सदस्यता संबंधी किसी भी शिकायत के लिए कृपया फोन नं. ०९९-२३२५७५५५, २३२७६३९६\nअथवा sahityaamritindia@gmail.com"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

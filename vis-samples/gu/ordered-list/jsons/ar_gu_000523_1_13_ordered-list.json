@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_gu_000523_1_13_ordered-list.png",
+      "width": 436,
+      "height": 94
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        436.0,
+        94.0
+      ],
+      "area": 40984.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          436.0,
+          0.0,
+          436.0,
+          94.0,
+          0.0,
+          94.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "૮૧. આ અધિનિયમ હેઠળ નીમેલા દરેક રજિસ્ટ્રાર અધિકારીને અને આ અધિનિયમમાં હેતુઓ માટે તેની કચેરીમાં\nનોકરી કરનાર દરેક વ્યક્તિને આ અધિનિયમની જોગવાઈઓ હેઠળ રજૂ અથવા અનામતમાં મુકેલા કોઈ દસ્તાવેજ\nઉપર ક્ષેડો કરવાનું, તેની નકલ કરવાનું, ભાષાંતર કરવાનું અથવા તે રજિસ્ટર કરવાનું સોંપવામાં આવ્યું હોય અને તે\nઅધિકારી કે વ્યક્તિ અને અન્ય કોઈ વ્યક્તિને ભારતના ફોજદારી અધિનિયમમાં વ્યાખ્યા કર્યા મુજબ ઊભો પડોપડાવવા ઈરાદાથી\nઅથવા તેને તેવી ઊભો પડાવવાનો સંભવ છે તેવું જાણવા છતાં, જો રીતે ખોટી હોવાનું પોતાના જાણવામાં કે માનવામાં\nહોય તે રીતે, તે દસ્તાવેજ ઉપર ક્ષેડો કરે, તેની નકલ કરે, તેનું ભાષાંતર કરે અથવા તે રજિસ્ટર કરે, તો તેને સાત\nવર્ષ સુધીની કેદની અથવા દંડની શિક્ષા, અથવા તે બંને શિક્ષા કરવામાં આવશે."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

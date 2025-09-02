@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_te_000504_0_5_ordered-list.png",
+      "width": 604,
+      "height": 668
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        604.0,
+        668.0
+      ],
+      "area": 403472.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          604.0,
+          0.0,
+          604.0,
+          668.0,
+          0.0,
+          668.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(1) రక్ష—కారకములు. (A) జబ్బుచేసి దగ్గువచ్చును.\nచెల్లినది చెల్లినప్పుడు అది ఆపరేషనులలోనికి పోవును.\nఆపరేషనులు వుండవు. కొంచెము కష్టము వుండును. గాని\nచెప్పుటకు ఆటంకము కలుగదు. కనుక ఆపరేషనులలోని\nయెటువంటి పదార్థమును ఆపటికి పోనివ్వనవసరము లేదని\nచెప్పుటలు వుపయోగించును. అదే దగ్గునుకూడ జరుగును.\n(B) మమ్ము, పాప మొదలగు నానా సంబంధము గాని\nగాని, గంధపుష్పము మొదలగు పని గలిగినవి చెల్లినప్పుడు\nదగ్గు వచ్చును. ఆపదార్థములు శరీరమున మెల చేయనవ\nశ్యకము చెప్పబడినదన్నమాట.\n(C) శ్వాసకాస, ఉబ్బసము, జ్వరము, మూర్ఛ, న\nన్ని పాపరోగము మొదలగు రోగములు దగ్గుతో వుండును.\nఎట్టిప్రకృతిని తీసికొనవలెను? దీనిని తెలుపరాదు.\nవారకాసమందున, శీతకాసమందున, అందఱో ఒకరి\nకాసముపోయి, పాతకాసము రాగానే దీనిని పోనివ్వరా\nదు. మమ్ముతో గూడిన గానిగాని, గంధపుష్పము మొదలగు న\nనాయుపదార్థములకు గలిగినవి తెలుపరాదు. జబ్బు చేయ\nకుండుటకు తీసికొనవలసిన జాగ్రత్త తీసికొనవలెను."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

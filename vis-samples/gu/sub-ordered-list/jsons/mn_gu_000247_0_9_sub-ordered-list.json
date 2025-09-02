@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_gu_000247_0_9_sub-ordered-list.png",
+      "width": 1067,
+      "height": 491
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        1067.0,
+        491.0
+      ],
+      "area": 523897.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1067.0,
+          0.0,
+          1067.0,
+          491.0,
+          0.0,
+          491.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(૧) ગામના નમુના નં. ૧ ખેતરવાર પત્રક :\nઆ નમુનો ગામની એકંદર જમીનનું ખેતરવાર પત્રક છે. આ નમુનો જમીન મહેસુલ તથા તમામ કિસ્સાઓનો પાયો\nછે. કેમ કે આ નમુનામાં કયાંયે સેટલમેન્ટ કયાંનું વર્ષ અને તે કેટલા વર્ષ માટે છે. તે સ્પષ્ટ રીતે બતાવેલું હોય છે. આ\nનમુનામાં ગામની જમીન સર્વે નંબર વાર તેમજ જે તે ખેતરની કાયમ ખાતે લેવાની ઉપજ તેમજ માપ બતાવવામાં આવે\nછે. આ નમુનો સર્વે જમીનથી ૩૦ વર્ષનો મુદત આવે છે.\nઆ નમુનામાં નીચેની વિગતોનો સમાવેશ કરવામાં આવે છે.\n(૧) ગીરાયત, બાગાયત અને કયારીનો મોકાદર (જમીન મહેસુલ)\n(૨) સેટલમેન્ટ અમલી રહેવાનો ગેરન્ટી સમય\n(૩) જમીનનો સત્તા પ્રકાર\n(૪) ખેડાણ જમીનની વિગત અને આકાર\n(૫) કૂવાની વિગત\n(૬) પાણીના હક ભાગની વિગત\n(૭) રસ્તાના હકો\n(૮) ખેતી માટે ઉપયોગી ન હોય તેવી જમીનોની વિગત\n(૯) ગામ કૂવા સર્વે ગ્રુપમાં છે તેની વિગત"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

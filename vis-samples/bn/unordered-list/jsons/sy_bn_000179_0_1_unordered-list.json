@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_bn_000179_0_1_unordered-list.png",
+      "width": 855,
+      "height": 569
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        855.0,
+        569.0
+      ],
+      "area": 486495.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          855.0,
+          0.0,
+          855.0,
+          569.0,
+          0.0,
+          569.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "চর্যাপদ\nশ্রীকৃষ্ণ কীর্তন (জন্মখণ্ড, তাম্বুলখণ্ড, বংশীখণ্ড, রাধাবিরহ)\nবৈষ্ণব পদাবলী : বিদ্যাপতি, চণ্ডীদাস, জ্ঞানদাস, গোবিন্দদাস, বলরামদাস\nমঙ্গলকাব্য : বিজয়গুপ্ত— মনসা মঙ্গল (নরখণ্ড) কবিকঙ্কণ মুকুন্দ চক্রবর্তী—\nচণ্ডীমঙ্গল (বণিক খণ্ড), রামেশ্বর ভট্টাচার্য— শিবায়ন (চায়পালা), ভারতচন্দ্র—\nঅন্নদা মঙ্গল (১ ম খণ্ড)\nচৈতন্যজীবনী : বৃন্দাবন দাস— শ্রীচৈতন্য ভাগবত (আদিখণ্ড), কৃষ্ণদাস\nকবিরাজ— শ্রীশ্রীচৈতন্য চরিতামৃত (মধ্যলীলা)\nঅনুবাদ সাহিত্য : মালাধর বসু— শ্রীকৃষ্ণ বিজয়, কৃত্তিবাস— রামায়ণ (আদিকাণ্ড,\nলঙ্কাকাণ্ড), কাশীরাম দাস— মহাভারত (আদিপর্ব, বিরাটপর্ব, ভীষ্মপর্ব)\nআরাকান রাজসভার কাব্য : দৌলত কাজী— লোচন্দ্রাণী, আলাওল— পদ্মাবতী\nশাক্ত পদাবলি : রামপ্রসাদ সেন, কমলাকান্ত ভট্টাচার্য\nময়মনসিংহ গীতিকা : মহুয়া পালা, দস্যু কেনারামের পালা"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

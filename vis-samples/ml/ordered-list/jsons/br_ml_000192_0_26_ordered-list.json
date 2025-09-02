@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_ml_000192_0_26_ordered-list.png",
+      "width": 493,
+      "height": 465
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        493.0,
+        465.0
+      ],
+      "area": 229245.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          493.0,
+          0.0,
+          493.0,
+          465.0,
+          0.0,
+          465.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "സംരക്ഷിക്കാൻ കഴിയാതെ വരുന്നു. ഈ മരങ്ങ\\nളിൽ മിന്നൽ പതിക്കുമ്പോൾ സമീപത്തുള്ള\\nവീടിന്റെ വൈദ്യുത ശൃംഖല, എർത്ത്ബോണ്ട്, മറ്റു\\nലോഹവസ്തുക്കൾ എന്നിവയിലൂടെ മിന്നലിന്റെ\\nഊർജ്ജം ഭൂമിയിലൂടെ വീടിനുള്ളിൽ പ്രവേശിക്കു\\nന്നു. ഇത്തരം സാഹചര്യങ്ങളിൽ പാലക വളയ\\nത്തിന് ഒരു പരിധി വരെ വീടിനെ സംരക്ഷിക്കാൻ\\nകഴിയും.\\n\\n4) മിന്നൽ അറസ്റ്റർ (Lighting Arrester)\\n\\nവൈദ്യുത ഉപകരണങ്ങളെ മിന്നൽ ആഘാത\\nത്തിൽ നിന്നും സംരക്ഷിക്കുന്നതിനുള്ള സംവിധാ\\nനമാണ് മിന്നൽ അറസ്റ്റർ. മിന്നൽ പ്രവാഹം\\nവൈദ്യുത ഉപകരണത്തിന്റെ സർക്യൂട്ടിലൂടെ കട\\nക്കാതെ ഭൂമിയിലേക്ക് കടത്തിവിടുന്നതിനുള്ള\\nമാർഗ്ഗമുണ്ടാക്കി, ഈ ഉപകരണം സഹായിക്കുന്നു."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

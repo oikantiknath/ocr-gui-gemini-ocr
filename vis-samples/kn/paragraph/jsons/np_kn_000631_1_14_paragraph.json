@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_kn_000631_1_14_paragraph.png",
+      "width": 91,
+      "height": 143
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        91.0,
+        143.0
+      ],
+      "area": 13013.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          91.0,
+          0.0,
+          91.0,
+          143.0,
+          0.0,
+          143.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಬೆಂಗಳೂರು: ರಾಜ್ಯದಲ್ಲಿರುವ ಸಾರ್ವಜನಿಕ ಆಸ್ತಿಗಳನ್ನು\nಒಪ್ಪತ್ತಿನಿಂದಿದ್ದ ಅಖಿಲ ಭಾರತೀಯ ‘ಮಹತ್ವಪೂರ್ಣ\nಸಂಸ್ಥೆ’ಯಾಗಿ ಮಾರ್ಪಡಿಸಿ ಅದಕ್ಕೆ ವಿಶೇಷ ಸ್ಥಾನಮಾನ\nನೀಡಲು ಕೇಂದ್ರ ಸರ್ಕಾರ\nಮುಂದಾಗಿದೆ.\nಸಂಸತ್‌ನಲ್ಲಿ ಮಂಡನೆ\nಯಾದ ಬಜೆಟ್‌ನಲ್ಲಿ\nರಾಜಧಾನಿಯಲ್ಲಿ\nಪ್ರಸ್ತುತ ಇರುವ\nಸಂಸ್ಥೆಗಳ ಸುಧಾರಣೆ\nಭದ್ರತೆಗೆ ಬಂದಿದೆ. ವಿಧಾನಸೌಧದ ಕಚೇರಿ\nಮೂಲಕ ರಾಜ್ಯದಲ್ಲಿರುವ ಈ ಐದು ದೊಡ್ಡ ಸದನವಾದ,\nಸಂಸದ ಸಿದ್ದರಾಮಯ್ಯ, ಮಾಜಿ ಸಿ.ಎಂ.ಸಿದ್ದರಾಮಯ್ಯ,\nಗೃಹ ಸಚಿವ ಡಾ.ಜಿ.ಪರಮೇಶ್ವರ ಸೇರಿದಂತೆ ಮಾಜಿ\nಮುಖ್ಯಮಂತ್ರಿ ಹಾಗೂ ಸಿದ್ದು-ಪರಮೇಶ್ವರ ಕಚೇರಿ, ರಾಜ್ಯಕ್ಕೆ\nಸಂಬಂಧಪಟ್ಟಂತೆ ಕಾಲಿ ಗಾಂಧೀಜಿ, ‘ರಾಜ್ಯದ ಐತಿ\nಹಾಸಿಕ ಭವನಗಳನ್ನು ಸುಧಾರಣಾ ಹಾಗೂ\nಮೂಲಸೌಕರ್ಯ ಬದಲಾವಣೆ’ ಪರಿಹಾರ ಕುರಿತು\nಮಾಜಿ ಸಿದ್ದರಾಮಯ್ಯ ಹಾಗೂ ಮಾಜಿ ಸಿ.ಎಂ.\nಸಮಯದಲ್ಲಿ ಸಿದ್ದರಾಮಯ್ಯ ರಾಜ್ಯದ ತಮ್ಮ ಕಚೇರಿ\nಮೂಲಕ ರಾಜ್ಯದ ೨೦ ಲಕ್ಷಕ್ಕೂ ಹೆಚ್ಚುವರಿಯಾಗಿ.\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

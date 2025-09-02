@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_kn_000635_0_17_paragraph.png",
+      "width": 719,
+      "height": 296
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        719.0,
+        296.0
+      ],
+      "area": 212824.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          719.0,
+          0.0,
+          719.0,
+          296.0,
+          0.0,
+          296.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಇದು ಉದ್ಯಮಿಗಳ ಪ್ರವೇಶಕ್ಕಿಂತಲೂ ಅಪಾಯಕಾರಿಯಾದ ಬೆಳವಣಿಗೆ.\nಜನಾಭಿಪ್ರಾಯವೇ ಪ್ರಜಾಪ್ರಭುತ್ವದ ಬುನಾದಿ. ರಾಜಕಾರಣಿಗಳು ಮತ್ತು ಅವರಿಗೆ\nನಿಷ್ಠುರಾಗಿರುವ ಉದ್ಯಮಿಗಳ ಒಡೆತನದಲ್ಲಿರುವ ಮಾಧ್ಯಮಗಳು ತಿರುಚಿದ\nಜನಾಭಿಪ್ರಾಯಗಳನ್ನು ಉತ್ಪಾದಿಸುತ್ತಿವೆ. ಇಂತಹ ನೋಮ್ ಚೋಮ್‌ಸ್ಕಿ ಬರೆದ ಒಂದೆ\n'ಸಮ್ಮತಿಯ ಉತ್ಪಾದನೆ'ಯ ಬಗ್ಗೆ ಎಚ್ಚರಿಸುವುದು ನಿಜವಾಗುತ್ತಿದೆ. ಇತ್ತೀಚೆಗೆ ಕೇಂದ್ರ\nಸರ್ಕಾರದ ಕೃಷಿ ಕಾಯ್ದೆಗಳ ಬಗ್ಗೆ ರಿಲಯನ್ ಒಡೆತನದ ನ್ಯೂಸ್ ೧೮ ಚಾನೆಲ್‌ಗಳು\nದೇಶಾದ್ಯಂತ ತಮ್ಮಲ್ಲಿ ಕೆಲಸ ಮಾಡುವವರೊಂದಿಗೇ ಸಮೀಕ್ಷೆ ನಡೆಸಿ ದೇಶದ ರೈತರಲ್ಲಿ\nಬಹುಪಾಲು ಮಂದಿ ಕೃಷಿ ಕಾನೂನುಗಳ ಪರವಾಗಿದ್ದಾರೆ ಎಂಬ ವರದಿಯನ್ನು ತಮ್ಮ\nಚಾನೆಲ್‌ಗಳಲ್ಲಿಯೇ ಬಿಡುಗಡೆ ಮಾಡಿದೆ."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

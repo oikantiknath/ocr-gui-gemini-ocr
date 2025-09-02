@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_or_000025_0_2_ordered-list.png",
+      "width": 645,
+      "height": 573
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        645.0,
+        573.0
+      ],
+      "area": 369585.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          645.0,
+          0.0,
+          645.0,
+          573.0,
+          0.0,
+          573.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ପୃଷ୍ଠା ୪୧ ଅନୁଯାୟୀ ଉପରେ ଲେଖିଥିବା ସ୍ଥାନ ସେଠାରେ ଥିବା ଆବଶ୍ୟକ ।\n\\n\n୨.୩.୩—ଯେ କୌଣସି ସ୍ଥାନରେ ବ୍ୟବସାୟ ବୃଦ୍ଧି ପାଇଁ ସ୍ଥାନ ଉପଯୁକ୍ତ ହେବା ଆବଶ୍ୟକ ।\n\\n\n୪.୩.୧—(କ) ଯେଉଁ ସ୍ଥାନରେ ସମସ୍ତ ଧରଣର ଧୂଳି ସ୍ଥାନ ଓ ସ୍ଥାନ ସହିତ ସଂଯୋଗ ହୋଇଥାଏ ।\n\\n\n(କ) ଯେଉଁ ସ୍ଥାନରେ ୨.୩.୪ ରୁ ଉପରକୁ ଉଠି ଥିବା ସ୍ଥାନ ସ୍ଥାନରେ ୮° ରୁ ଉପରକୁ ଉଠି ଥିବା ସ୍ଥାନ ସ୍ଥାନରେ ସ୍ଥାନୀୟ ସ୍ଥାନକୁ ଉପଯୁକ୍ତ ହେବା ସ୍ଥାନୀୟ ନାମ ସ୍ଥାନରେ ୯ ଅକ୍ଷର ଉପାୟରେ ଉପଯୁକ୍ତ ହେବା ୩ ଓ ଧାରାବାହିକ ଭାବେ ଧୂଳି ଥିବା ସ୍ଥାନ ସହିତ ସ୍ଥାନ ସହିତ ସଂଯୋଗ ହୋଇଥାଏ । ନୂତନ ସ୍ଥାନ ସହିତ ସ୍ଥାନୀୟ ସ୍ଥାନରେ ଉପଯୁକ୍ତ ହେବା ମଧ୍ୟ ।\n\\n\n(ଖ) ଯେଉଁ ସ୍ଥାନୀୟ ନାମ ସହିତ ସମସ୍ତ ସ୍ଥାନରେ ସଂଯୋଗ ହୋଇଥିବା ସ୍ଥାନୀୟ ସ୍ଥାନରେ ଧୂଳି ସ୍ଥାନ ସହିତ ସଂଯୋଗ ହୋଇଥାଏ ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

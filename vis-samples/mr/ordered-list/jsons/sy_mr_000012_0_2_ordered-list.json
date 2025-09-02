@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_mr_000012_0_2_ordered-list.png",
+      "width": 1264,
+      "height": 968
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        1264.0,
+        968.0
+      ],
+      "area": 1223552.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1264.0,
+          0.0,
+          1264.0,
+          968.0,
+          0.0,
+          968.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. समग्र बालकवी – संपा. नंदा आपटे, पॉप्युलर, मुंबई.\n2. बहिणाईची गाणी – बहिणाबाई चौधरी, सुचित्रा प्रकाशन, मुंबई.\n3. सत्यशोधक मार्क्सवादी, वर्ष १, अंक १, नोव्हेंबर १९८२.\n4. तुकारामाची काठी – पुरुषोत्तम पाटील, सुजय प्रकाशन, धुळे.\n5. चंद्रास्त – प्रभाकर श्रावण चौधरी, रसयात्रा प्रकाशन, जळगाव.\n6. काचेचं मन – गणेश चौधरी, मॅजेस्टिक, मुंबई.\n7. समर्पित – संपा. मंदाकिनी टोणगावकर, साधना, पुणे.\n8. नजराणा (रुबायांचा संग्रह) – राजा महाजन, गुरुदत्त प्रकाशन, जळगाव.\n9. ओल अंतरीची – गो. तु. पाटील, प्रकाशक: जयप्रकाश रामचंद्र लबदे, मुंबई.\n10. देशा शपथ खरं सांगेन – अनिल सोनार, आभा प्रकाशन, पुणे.\n11. तळपाणी – उत्तम कोळगावकर, मौज, मुंबई.\n12. लक्षवेधी आरोग्य-शिक्षण (जे. जी. खैरनार) – संपा. शिवशंकर त्र्यं. पटवारी, प्रतिक्षा प्रकाशन\nतोंडार, ता. उदगीर, लातूर.\n13. हा घोडा हे मैदान – नीलकंठ महाजन, शिल्प्य प्रकाशन, जळगाव.\n14. सावलीचं घड्याळ – अशोक कोतवाल, पद्मगंधा, पुणे.\n15. इज इट इन युवर डीएनए – मीनाक्षी पाटील, अभिधानंतर आणि पोएट्रीवाला, मुंबई.\n16. छलचक्र – शशिकांत हिंगोणेकर, अथर्व, जळगाव.\n17. ताई, मी कलेक्टर व्हयनू ! – राजेश पाटील, ग्रंथाली, मुंबई.\n18. बिजवाई – राहुल गोविंद निकम, स्वरूप, औरंगाबाद."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

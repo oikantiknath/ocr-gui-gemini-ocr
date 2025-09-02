@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_pa_000362_0_0_sub-ordered-list.png",
+      "width": 853,
+      "height": 821
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        853.0,
+        821.0
+      ],
+      "area": 700313.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          853.0,
+          0.0,
+          853.0,
+          821.0,
+          0.0,
+          821.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ੳ) ਕਿਸੇ ਸਮਸਿਆ ਦਾ ਵੇਰਵਿਆਂ ਬੋਰਡ ਜੋ ਇਸ ਐਕਟ ਦੇ ਮੰਤਵ ਤੋਂ ਤੁਰੰਤ\nਪਹਿਲਾਂ ਉਸ ਸਮੱਸਿਆ ਵਿੱਚ ਕਾਰਜ ਕਰ ਰਿਹਾ ਸੀ ਭਾਵੇਂ ਤੱਕ ਉਸੇ ਤਰ੍ਹਾਂ\nਕਾਰਜ ਕਰਦਾ ਰਹੇਗਾ ਜਦ ਤੱਕ ਇਸ ਐਕਟ ਅਧੀਨ ਉਸ ਸਮਸਿਆ ਲਈ ਨਵਾਂ\nਬੋਰਡ ਗਠਤ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ, ਪਰ ਇਸ ਐਕਟ ਅਧੀਨ ਨਵੇਂ ਬੋਰਡ ਦਾ\nਗਠਨ ਹੋ ਜਾਣ ਤੇ ਬੋਰਡ ਦੇ ਉਹ ਮੈਂਬਰ, ਜੋ ਅਜਿਹੇ ਗਠਨ ਤੋਂ ਪਹਿਲਾਂ ਅਹੁਦਾ\nਧਾਰਨ ਕਰ ਰਹੇ ਸਨ, ਅਹੁਦੇ ਤੇ ਨਹੀਂ ਰਹਿ ਜਾਣਗੇ।\n\n(ਅ) ਇਸ ਐਕਟ ਦੇ ਮੰਤਵ ਤੋਂ ਪਹਿਲਾਂ ਕਾਰਜਸ਼ੀਲ ਵਿੱਤੀਸੰਸਥਾਵਾਂ ਅਤੇ\nਟੈਕਨਾਲੋਜੀ, ਵਿੱਤੀ ਦੇ ਸੰਬੰਧ ਵਿੱਚ ਗਠਤ ਸਟਾਫ ਕਮੇਟੀ ਨੂੰ ਅਤੇ ਕਿਸੇ ਹੋਰ\nਸਮਸਿਆ ਦੇ ਸੰਬੰਧ ਵਿੱਚ ਗਠਤ ਕਿਸੇ ਵਿਸ਼ੇਸ਼ਕ ਕਮੇਟੀ ਨੂੰ ਇਸ ਐਕਟ\nਅਧੀਨ ਭਾਵੇਂ ਤੱਕ ਨੋਟਿਸ ਜਾਰੀ ਨਹੀ ਕੀਤਾ ਜਾਂਦਾ।\n\n(ੲ) ਜਦ ਤੱਕ ਇਸ ਐਕਟ ਅਧੀਨ ਪਹਿਲੇ ਪ੍ਰੋਵਿਜ਼ਨ ਅਤੇ ਅਰੇਂਜਮੈਂਟ ਨਹੀਂ ਬਣਾਏ\nਜਾਂਦੇ, ਭਾਵੇਂ ਤੱਕ ਵਿੱਤੀਸੰਸਥਾਵਾਂ ਵਿੱਤੀਪੁਣੇ ਅਤੇ ਟੈਕਨਾਲੋਜੀ, ਖੜ੍ਹੇਪੁਣਾ, ਦੇ\nਪ੍ਰੋਵਿਜ਼ਨ ਅਤੇ ਅਰੇਂਜਮੈਂਟ, ਜਿਵੇਂ ਉਹ ਇਸ ਐਕਟ ਦੇ ਮੰਤਵ ਤੋਂ ਤੁਰੰਤ\nਪਹਿਲਾਂ ਨਿਯਮ ਸਨ ਉਸ ਸਮਸਿਆ ਨੂੰ ਲਾਗੂ ਹੋਏ ਰਹਿਣਗੇ ਅਤੇ ਜਰੂਰੀ\nਤਬਦੀਲੀ ਅਤੇ ਅਨੁਕੂਲਤਾ ਸਹਿਤ ਕਿਸੇ ਹੋਰ ਸਮਸਿਆ ਨੂੰ ਵੀ ਲਾਗੂ ਹੋਣਗੇ\nਜਿੱਥੇ ਤੱਕ ਉਹ ਇਸ ਐਕਟ ਦੇ ਉਪਬੰਧਾਂ ਨਾਲ ਅਸੰਗਤ ਨਹੀਂ ਹਨ।\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_ml_000530_0_0_unordered-list.png",
+      "width": 944,
+      "height": 786
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        944.0,
+        786.0
+      ],
+      "area": 741984.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          944.0,
+          0.0,
+          944.0,
+          786.0,
+          0.0,
+          786.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "*   അപേക്ഷയുടെ ഉദ്ദേശ്യം:- അപേക്ഷയുടെ ഉദ്ദേശ്യം എന്നത് കോമ്പോ ബോക്സുമായി\n    ബന്ധപ്പെട്ടതാണ്. ഇതിൽ “ന്യൂ ലൈസൻസ്” (New Licence), “ലൈസൻസ് റിന്യൂവൽ”\n    (Licence Renewal), “ന്യൂ ലൈസൻസ് വിത്ത് പി.എഫ്.എ” (New Licence with PFA),\n    “ലൈസൻസ് റിന്യൂവൽ വിത്ത് പി.എഫ്.എ” (Licence Renewal with PFA), എന്നീ\n    നാലെണ്ണമാണ് ഉള്ളത്. ഇതിൽ “ലൈസൻസ്” എന്നതുകൊണ്ട് ഉദ്ദേശിക്കുന്നത് “ഡി ലൈസൻ\n    സ്” ആണ്.\n*   അപേക്ഷ നമ്പർ :- അപേക്ഷാ ഫോമിലെ നമ്പരാണ് ഇവിടെ കൊടുക്കേണ്ടത്.\n*   അപേക്ഷ തീയതി:- അപേക്ഷയിൽ രേഖപ്പെടുത്തിയിരിക്കുന്ന തീയതിയാണ്, അപേക്ഷാ\n    ഫോമിൽ അപേക്ഷകൻ എഴുതി നൽകുന്നതാണ്. ഇത് പിക്ക് കലണ്ടർ മുഖേന\n    തെരഞ്ഞെടുക്കാവുന്നതാണ്.\n    Pick Calender\n    അപേക്ഷാതീയതി* 04/03/2010\n    Get Institution\n*   നിലവിൽ നടപ്പാക്കിക്കൊണ്ടിരിക്കുന്ന ഒരു സ്ഥാപനത്തിന്റെ ലൈസൻസ് പുതുക്കാനാണെങ്കിൽ\n    ഗെറ്റ് ഇൻസ്റ്റിറ്റ്യൂഷൻ(Get Institution) എന്ന ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക. ഇവിടെ\n    ക്ലിക്ക് ചെയ്താൽ അപേക്ഷകന്റെ മുൻകാല വിവരങ്ങൾ ലഭ്യമാകും, ഇതിൽ നിന്നും\n    ആവശ്യമായ വിവരങ്ങൾ തിരഞ്ഞെടുത്ത് സേവ് ചെയ്യാവുന്നതാണ്.\n    ➢ ഗെറ്റ്ഇൻസ്റ്റിറ്റ്യൂഷൻ (Get Institution) ഉപയോഗിച്ച് സെർച്ച് ചെയ്യുന്ന വിധം:-\n    ഗെറ്റ്ഇൻസ്റ്റിറ്റ്യൂഷൻ ബട്ടണിൽ ക്ലിക്ക് ചെയ്താൽ പി.നം.5 ൽ കാണുന്ന പോലുള്ള\n    സ്ക്രീൻ ലഭിക്കും."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

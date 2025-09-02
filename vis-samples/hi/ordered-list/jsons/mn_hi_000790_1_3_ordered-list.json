@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_hi_000790_1_3_ordered-list.png",
+      "width": 451,
+      "height": 270
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        451.0,
+        270.0
+      ],
+      "area": 121770.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          451.0,
+          0.0,
+          451.0,
+          270.0,
+          0.0,
+          270.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. हर उस वस्तु को हटा दें जिससे पीड़ित को घुटन महसूस हो रही हो, परंतु ऐसा करते समय आप अपने जीवन\nको खतरे में न डालें।\n2. यदि व्यक्ति पीठ के बल लेटा हुआ नहीं है तो उसे पीठ के बल लिटाएं।\n3. पीड़ित व्यक्ति के एक ओर घुटने झुकाकर बैठें।\n4. सीपीआर शुरू करें।\n\nपुनर्जीवन प्रदान करने के इस कार्य को तब तक बंद न करें जब तक:\n* पीड़ित चेतन अवस्था में आ जाए, हिलने-डुलने लगे, अपनी आंखें खोल दे और सामान्य सांस लेने\nलगे;\n* सहायता (सीपीआर में प्रशिक्षित व्यक्ति) पहुंच जाए और पीड़ित की जिम्मेदारी संभाल ले;\n* आप इतने थक जाएं कि और अधिक सहायता जारी नहीं रख सकते; अथवा\n* घटना स्थल सहायता जारी रखने के लिए असुरक्षित हो जाए।\n\nयदि सांस फिर चलने लगती है तो :\nक. पीड़ित को कुछ उड़ाएं जिससे उसके शरीर की गर्मी बनी रहे।\nख. अस्पताल ले जाने के लिए किसी वाहन की तुरंत व्यवस्था करें।\nग. पीड़ित को अकेला न छोड़ें और उस पर नजर रखें।\nघ. यदि सांस चलना फिर बंद हो जाती है तो सीपीआर फिर से शुरू करें।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

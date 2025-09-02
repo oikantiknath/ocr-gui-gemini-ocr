@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "qp_or_000374_0_9_first-level-question.png",
+      "width": 504,
+      "height": 1380
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 8,
+      "bbox": [
+        0.0,
+        0.0,
+        504.0,
+        1380.0
+      ],
+      "area": 695520.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          504.0,
+          0.0,
+          504.0,
+          1380.0,
+          0.0,
+          1380.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "କେବେଠୁ ଏଠି ଛୁଆ, ତା କେବେଳ ତୁମର ସନ୍ତାନ\nରହିଲା କେଉଁଠି ? ତୁମେ ଆମ୍ବଗଛ, ଆମ୍ବଗଛ\nତୁମର ଛୁଆ ସ୍ଥାୟୀ ହେବା, ତୁମରିଠୁଁ, ତୁମରି\nଅଙ୍ଗଳାରୁ ହେବା ତୁମର ସେ ଆଉ କିଛି ନିଅନ୍ତି ।\nତୁମେ ପାଣିପବନ ଲଗେଇ ଲଗେଇ ବଡ଼ାକୁ କିଏ\nକରିବ ? ତୁମେ ଗୋଟାଏ ଆମ୍ବଗଛ ତୁମ୍ଭମାନଙ୍କ\nଗୋଟାଏ ମାଗୁ ଛୁଆ, ଏବଂ ଲଗଇ କିଏ ?\nତୁମେ ଅଲଗା, ଏକଟିଆ, ଏକଟିଆ ସାହାସ\nପୃଥିବୀରେ, ଏକଟିଆ କେବଳ କେହିବାସୀ ନିଜ\nସଙ୍ଗ । କେହିବାସୀ, ତୁମର ଛୁଆ କାମରେ ଲଗେଇ\nତୁମେ ଛୁଅ ସବୁ ଲଗିବ, କେହିବାସୀ, ତାପରେ\nତୁମର ସବୁବେଳେ । ତୁମ୍ଭାବର ନିମନ୍ତେ ମଧ୍ୟ ତୁମର\nସ୍ଥାନ ନାହିଁ ।\n\n129. ସାହାସ ଶବ୍ଦରୁ କାଢ଼ିବା\n___________\n(1) ଅସାସ\n(2) ଅସନ୍ତ\n(3) ଛୁଅ\n(4) ଅସହାୟତା"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

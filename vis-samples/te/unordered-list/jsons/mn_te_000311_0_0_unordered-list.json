@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_te_000311_0_0_unordered-list.png",
+      "width": 691,
+      "height": 793
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        691.0,
+        793.0
+      ],
+      "area": 547963.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          691.0,
+          0.0,
+          691.0,
+          793.0,
+          0.0,
+          793.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "*  విచిత్ర పురోగమన పఠనం (ఒకవేళ విద్యార్థులు సుముఖులయితే దేని పురోగమన\n    కూడా ఇవ్వవచ్చు)\n*  సాధన పఠనాలు - కాలేజీ అడ్వైజర్\n*  విద్యార్థుల పరిచయ కార్యక్రమం.\n*  అధ్యాపకుల పరిచయ కార్యక్రమం.\n*  ఎన్.ఎస్.ఎస్. పరిచయం మరియు కాలేజీలో దాని సేవ పరిచయం- ఎన్.ఎస్.ఎస్.కు\n    చెందిన ఒక బాధ్యుడు.\n*  టీ బ్రేక్\n*  గైడెన్స్ లెక్చర్ - ఒక అధ్యాపకుడు (సంబంధిత కోర్సు మరియు కాలేజీకి సంబంధించిన\n    ప్రాథమిక మార్గనిర్దేశనం)\n*  అనుభవాలను పంచుకోవడం (Sharing of Experiences)\n    (ముగ్గురు లేదా నలుగురు సీనియర్ విద్యార్థులు)\n*  లంచ్ బ్రేక్\n*  Ice Breaking (జూనియర్ విద్యార్థుల సాంస్కృతిక కార్యక్రమాలు, ఇంకా ఇతర\n    కార్యక్రమాలు)\n*  ప్రశ్నోత్తరాల కార్యక్రమం. (జూనియర్ విద్యార్థుల ప్రశ్నలకు అధ్యాపకులు, ఎన్.ఎస్.ఎస్.\n    బాధ్యులు మరియు సీనియర్ విద్యార్థులు జవాబులిస్తారు.)\n*  తుదిపలుకులు మరియు వోట్ ఆఫ్ థాంక్స్."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_ml_000565_0_0_reference.png",
+      "width": 875,
+      "height": 1340
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        875.0,
+        1340.0
+      ],
+      "area": 1172500.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          875.0,
+          0.0,
+          875.0,
+          1340.0,
+          0.0,
+          1340.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "Enemark, S., McLaren, R., and Molen, P. van der, 2009, Land Governance\n    in support of The Millennium Development Goals: A New Agenda\n    for Land Professionals, International Federation of Surveyors\n    Policy Report No.45, FIG/World Bank Conference, Washington DC.\n    pp. 1–37.\nErkman, Suren, 1997, Industrial Ecology: A Historical View, Science\n    Journalist, Coordinator IMM, IMM – 97 – 01, Geneva.\nEvans, G. W. and Jacobs, S. V., 1984, Air pollution and human behaviour,\n    in G.W.Evans (eds.), Environmental Stress. Cambridge:\n    Cambridge University Press, pp.105–129.\nFlorgard, C., 2012,“Perspectives on urban blue-green infrastructure,\n    International Conference Proceedings, IFLA Regional Conference,\n    11–15 June 2012, Saint Petersburg State Polytechnic University.\nForman, T. T. R., 2008, Urban Regions, Ecology and Planning Beyond the\n    City, Cambridge: Cambridge University Press.\nGanapathy, G.P., 2011,“First level seismic microzonation map of Chennai\n    city-a GIS approach, Natural Hazards Earth System Sciences,\n    Vol11 (2), pp.549– 559.\nGandy, M., 2004, Rethinking urban metabolism: Water, space and the\n    modern city. City. Vol. 8(3), pp. 363–379.\nGarlauskas, A.B., 1975, Conceptual Framework of Environmental\n    Management, Journal of Environmental Management, 3 (3), pp.\n    185–203.\nGeorge, K.K., 2011, Kerala Economy: Growth, Structure, Strength and\n    Weakness, Working Paper No. 25, Centre for Socio-economic &\n    Environmental Studies, Kochi.\nGibbs, David., Deutz, P., and Amy Proctor, 2005, Industrial Ecology and\n    Ecoindustrial Development: A potential Paradigm for Local and\n    Regional Development, Regional Studies, Vol. 32. 2, pp 171–183.\nGirardet, H., 1999, Creating Sustainable Cities, Dartington: Green Books.\nGovernment of Kerala, 2002, Urban Policy and Action Plan for Kerala.\nGraedel, Thomas E. and Braden R. Allenby, 1994, Industrial Ecology and\n    the automobiles, New York: Prentice Hall."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_bn_000618_0_0_reference.png",
+      "width": 937,
+      "height": 1543
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        937.0,
+        1543.0
+      ],
+      "area": 1445791.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          937.0,
+          0.0,
+          937.0,
+          1543.0,
+          0.0,
+          1543.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "মুখোপাধ্যায়, কনক। নারীমুক্তির প্রশ্নে। কলকাতা : ন্যাশনাল বুক এজেন্সি, ২০০৩।\n¢ Ë¥ z\nমুখোপাধ্যায়, কনক। নারী অতীত বর্তমান ও ভবিষ্যতে z LmL¡j x eÉine¡m h¢b\nএজেন্সি, ১৯৮৩। প্রিন্ট।\nমুখোপাধ্যায়, মানবেন্দ্র। গোষ্ঠীজীবনের উপন্যাস z LmL¡j x h%p¡ p¡cÉpwpc,\n২০০৭ z ¢Ë¥ z\nমুরশিদ, গোলাম। নারী প্রগতি : আধুনিকতার অগ্নিতে বঙ্গরমণী z LmL¡j x eu¡\nউদ্যোগ, ২০০১। প্রিন্ট।\nj q¡f ¡c® AejL¥l z i¡L¡a® pj ¡ShÉÜj ¡ কলকাতা : সুজন পাবলিকেশন,\n২০০২ z ¢Ë¥ z\nl¡u, i¡L¡a® e¡j£J ¡ ¢h¢hl z LmL¡j x B e®¾f j h¢mpÑN2002 z ¢Ë¥ z\nl¡u, p®n z শিক্ষা মনোবিদ্যা। কলকাতা : সোমা বুক এজেন্সি, ২০১১। প্রিন্ট।\nl¡u, p®n z শিক্ষক প্রসঙ্গে ভারতের শিক্ষা। কলকাতা : সোমা বুক এজেন্সি,\n২০১৩ z ¢Ë¥ z\nরায়চৌধুরী, সমীর। f®%o¡l h®cÉb z LmL¡j x p¡cÉf¡ue, 2000 z ¢Ë¥ z\nn¡U® ®h®jb z l¡j a®m¡s£J aV L¡m® h%pj ¡S z LmL¡j x ü®r l¡j\nf Éjne, 1383 z ¢Ë¥ z\npL L¡l, p®h¡Q®Z p®r¡l¡nk q®u¡n z LmL¡j x H j . pL L¡l A®a¡ p®p¡f É\n¢m, 1396 z ¢Ë¥ z\n¢pvq, j ”®M®Z f¡r¡b¡l¡ c®v¡ ও জ্যোতির্ময়ী c®v¡ z LmL¡j x h%p¡ p¡cÉÉ\nf ¢ov, 1411 z ¢Ë¥ z"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

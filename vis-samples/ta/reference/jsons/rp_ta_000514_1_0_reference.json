@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_ta_000514_1_0_reference.png",
+      "width": 457,
+      "height": 379
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        457.0,
+        379.0
+      ],
+      "area": 173203.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          457.0,
+          0.0,
+          457.0,
+          379.0,
+          0.0,
+          379.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "Creswell, JW. (2009). *Research Design:Qualitative, Quatitative, and Mixed Methods*\nApproaches. (3rd ed). Los Angles:Sage.\nDeslandes, S.F, Mendes, C.H.F, Pires, T.O & Campos, D.S. (2010). Use of the Nominal Group\nTechnique and the Delphi Method to draw up evaluation indicators for strategies to deal\nwith violence against children and adolescent in Brazil, *Rev. Bras. Saude Matern. Infant*\nRecife, 10 (1), 29-37.\nDhandayutham R. (1973). 1992-1983, *Malaysiayil Tamil Kalvi* (Tamil). Madras: University\nChennai.\nMerriam, S., B. (2001). *Qualitative Research and Case Study Applications in Education*. San\nFrancisco, CA: Jossey-Bass.\nParanthamanar, A., K. (1984). *Nalla TamiL eLutha ve:nduma:?* (Hendakkah menulis bahasa\nTamil yang betul). Chennai: Pa:ri Nilaiyam.\nPelan Pembangunan Pendidikan Malaysia 2013- 2025. Putrajaya: Kementerian Pelajaran\nMalaysia.\nPelan Induk Pembangunan Pendidikan (PIPP) 2006-2010. Kementerian Pendidikan\nMalaysia.\nRichey, R., C. & Klein, J., D. (2007). *Design and Development Research: Methods.\nStrategies and Issues*. Mahwah, NJ: Lawrence Erlbaum Associates.\nRouillard, J. (2008, July). Contextual QR codes In Computing in the Global Information\nTechnology, ICCGI'08. *The Third International Multi-Conference Greece, Athens*.\nSiti Hajar Halili & Suguneswary. (2016). Penerimaan guru terhadap penggunaan teknologi\nmaklumat dan komunikasi berasaskan Model TAM dalam pengajaran mata pelajaran\nbahasa Tamil. *Jurnal Kurikulum & Pengajaran Asia Pasifik*. 4(2), pp.31-41.\nYennah Juakim. (2013). *Hubungan Sikap, Minat dan Pengajaran Guru dengan Pencapaian\nAkademik dalam Mata Pelajaran Matematik di Kalangan Pelajar di Sekolah\nMenengah Kota Marudu, Sabah*. Universiti Malaysia Sabah."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

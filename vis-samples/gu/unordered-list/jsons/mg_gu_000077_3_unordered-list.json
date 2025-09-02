@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_gu_000077_3_unordered-list.png",
+      "width": 518,
+      "height": 110
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        518.0,
+        110.0
+      ],
+      "area": 56980.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          518.0,
+          0.0,
+          518.0,
+          110.0,
+          0.0,
+          110.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "જેવાં ઘરેણાં પહેરે છે. કાનમાં ગલગોટાનાં ફૂલોનો શણગાર કરે છે. કેડ ઉપર ચામડાનો પટ્ટો બાંધે છે અને તેની ઉપર પિત્તળની ઘૂઘરીઓ\nબાંધેલી હોય છે.\n- ઘેરના પ્રથમ દિવસે માતાને મરઘાનો ભોગ આપી ભૂવો કહો ત્યાં મરઘાનું માથું દાટી નૃત્ય કરવામાં આવે છે તેમનો એક હાથમાં મોરના પીંછા\nઅને બીજા હાથમાં તલવાર પકડેલી હોય છે. ઘેરના નૃત્યનો આ પ્રકાર યુદ્ધના નૃત્યનો મનાતો આવે છે.\n- ઘેર ઘેરાયો નૃત્ય કરતાં પારંપ, પવાડા કે માતાના ગરબા ગાય છે.\n- આમ, ઘેરાયો નૃત્ય ધાર્મિક તહેવારનું એક અંગ છે. દેવ-દેવીઓ પ્રત્યે કૃતજ્ઞતા દર્શાવવા આ નૃત્ય કરવામાં આવે છે."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_bn_000624_0_0_reference.png",
+      "width": 915,
+      "height": 1471
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        915.0,
+        1471.0
+      ],
+      "area": 1345965.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          915.0,
+          0.0,
+          915.0,
+          1471.0,
+          0.0,
+          1471.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "জ্যোতিরায়, উপেন্দ্রনাথ। “অসময়ের সাহিত্যভাবনা, রবীন্দ্রনাথ ও রাজনীতি ২”\\n i j l a h o N i . 6 , ( 2 0 1 0 ) q j s j z ¢ ₤ ¤ z\\n\\nচক্রবর্তী, সুমিতা। “রবীন্দ্রনাথ ঠাকুর ও একুশ শতকের বাঙালী।” h d Ñ e\\n¢ n ñ c É m u f c ¢ j , h d Ñ e ( 2 0 1 1 ) z ¢ ₤ ¤ z\\n\\nচট্টোপাধ্যায়, মহুয়া বসু। “জ্যোতির্ময়ী দেবীর জ্যোতিতে শিক্ষাদর্শন।” B ¢ A l ¢ Z\\n৩.২ (সেপ্টেম্বর, ২০১৪) : ৯৫-৯৪ z ISSN : 2277-8780. ¢ ₤ ¤ z\\n\\nচট্টোপাধ্যায়, মহুয়া। “নারীশক্তির প্রাসঙ্গিকতায় মহীয়সী প্রেমপাঠ।” B ¢ A l ¢ Z\\n২.২ (অক্টোবর, ২০১৩) : ১১৭-১২১ z ISSN : 2277-8780. ¢ ₤ ¤ z\\n\\nচ্যাটার্জী, মহুয়া। “গণতান্ত্রিক সমাজব্যবস্থা বিষয়ে জ্যোতির্ময়ী দেবীর দৃষ্টিভঙ্গির বিশ্লেষণ\\n২” B ¢ A l ¢ Z 4.1 (H ¢ ë 2015) : 157-158 z ISSN : 2277-\\n8780. ¢ ₤ ¤ z\\n\\nদেবী, অনিন্দিতা। “নারীর সংক্ষিপ্ত ইতিহাস।” S u n É ( j i Q 1339) z ¢ ₤ ¤ z\\n\\nদেবী, অনিন্দিতা। “মেয়েদের ভোট।” S u n É ( n ë Z , 1340) z ¢ ₤ ¤ z\\n\\nদেবী, ইলা। “নারীর মূল্য।” ¢ h c Q e ( j i Q 1335) z ¢ ₤ ¤ z\\n\\nদেবী, মহামায়া। “জ্যোতির্ময়ী দেবী : শতবর্ষের আলোতে।” H L i ¢ ! (1997) z\\n¢ ₤ ¤ z\\n\\nদেবী, চিত্রিতা। “প্রাচীন ভারতে আর নারী।” ভারতবর্ষ (জ্যৈষ্ঠ, ১৩২৬) । প্রিন্ট\\nz\\n\\nদেবী, সুধাময়ী। “জনশাসন।” S u n É ( A N ë j U Z , 1339) z ¢ ₤ ¤ z\\n\\nদেবী, শাঁ ¢ j z \"\" e j É p ¢ É z ' f É p É (পৌষ, ১৩৩০) । প্রিন্ট।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

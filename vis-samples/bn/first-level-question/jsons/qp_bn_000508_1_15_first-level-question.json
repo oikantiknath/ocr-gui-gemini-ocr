@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "qp_bn_000508_1_15_first-level-question.png",
+      "width": 2291,
+      "height": 2675
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 8,
+      "bbox": [
+        0.0,
+        0.0,
+        2291.0,
+        2675.0
+      ],
+      "area": 6128425.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          2291.0,
+          0.0,
+          2291.0,
+          2675.0,
+          0.0,
+          2675.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "১। নিম্নলিখিত প্রশ্নগুলির এক কথায় বা একটি বাক্যে উত্তর দাও (বিকল্প প্রশ্নগুলি লক্ষ্যণীয়): ১×১০=১০\n(ক) রৈখিক গতিতে ________ রৈখিক গতির ভুমিকা পালন করে। (শূন্যস্থান পূরণ করো)\nউঃ জড়তার ভ্রামক / জাড্যভ্রামক।\n(খ) ‘m’ ভরের কৃত্রিম উপগ্রহ ‘r’ ব্যাসার্ধের বৃত্তাকার কক্ষপথে ‘M’ ভরে পৃথিবীকে প্রদক্ষিণ করলে উপগ্রহটির\nমোট শক্তি হল — (i) -GM/r , (ii) GMm/2r , (iii) -GMm/2r , (iv) 2GMm/2r\nউঃ (iii) -Gmm/2r\n(গ) সমোষ্ণ প্রক্রিয়ার 1 মোল গ্যাসের আয়তন পরিবর্তন হলে কৃতকার্যের রাশিমালাটি লেখো।\nউঃ W = RT ln v2/v1\nঅথবা, P-V লেখচিত্রের নতিমাত্রা পদার্থের পারমাণবিকতার উপর নির্ভর করে ________ প্রক্রিয়ার ক্ষেত্রে (শূন্যস্থান\nপূরণ করো)\nউঃ রুদ্ধতাপ প্রক্রিয়া।\n(ঘ) গড়মুক্ত পথ কি?\nউঃ বিভিন্ন গ্যাস অণুর বিভিন্ন দৈর্ঘ্যের মুক্তপথ গুলির গড়মানকে গড়মুক্তপথ বলে।\nঅথবা, স্বরকম্প প্রতিবোহা হবার শর্ত কি?\nউঃ (i) উৎস দুটি একই প্রকৃতির। (ii) কম্পাঙ্কের সামান্য পার্থক্য থাকতে হবে। (iii) বিস্তার, প্রাবল্য, বেগ,\nঅভিমুখ সমান বিশিষ্ট দুটি তরঙ্গের উপরিপাত হতে হবে।\n(ঙ) তরঙ্গ মুখ কি?\nউঃ সমদশা সম্পন্ন কণাগুলির সঞ্চারপথ হল তরঙ্গমুখ।\nঅথবা, সুসংগত আলোক উৎস বলতে কি বোঝ?\nউঃ দুটি তরঙ্গের উৎস সবসময় সমদশাসম্পন্ন হলে অথবা তাদের দশাপার্থক্য সবসময় স্থির থাকলে, উৎস দুটি\nসুসংগত উৎস বলা যায়।\n(চ) n-type অর্ধপরিবাহীতে কি ধরনের আধান বাহকের কাজ করে?\nউঃ ইলেকট্রন।\n(ছ) চৌম্বক ভেদ্যতা ও চৌম্বক প্রবণতার সম্পর্ক কি?\nউঃ µr = 1 + K = µ/µ0 = আপেক্ষিক চৌম্বক ভেদ্যতা, k = চৌম্বকপ্রবণতা।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

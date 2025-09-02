@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "tb_bn_000747_0_0_reference.png",
+      "width": 600,
+      "height": 995
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        600.0,
+        995.0
+      ],
+      "area": 597000.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          600.0,
+          0.0,
+          600.0,
+          995.0,
+          0.0,
+          995.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "3 Gary Walsh, ‘Therapeutic Insulins and Their Large-\nScale Manufacture’, Applied Microbiology and\nBiotechnology 67:2 (2005), 151–9.\n4 James G. Wallis et al., ‘Expression of a Synthetic\nAntifreeze Protein in Potato Reduces Electrolyte\nRelease at Freezing Temperatures’, Plant Molecular\nBiology 35:3 (1997), 323–30.\n5 Robert J. Wall et al., ‘Genetically Enhanced Cows\nResist Intramammary Staphylococcus Aureus\nInfection’, Nature Biotechnology 23:4 (2005), 445–51.\n6 Liangxue Lai et al., ‘Generation of Cloned Transgenic\nPigs Rich in Omega-3 Fatty Acids’, Nature\nBiotechnology 24:4 (2006), 435–6.\n7 Ya-Ping Tang et al., ‘Genetic Enhancement of\nLearning and Memory in Mice’, Nature 401 (1999),\n63–9.\n8 Zoe R. Donaldson and Larry J. Young, ‘Oxytocin,\nVasopressin and the Neurogenetics of Sociality’,\nScience 322:5903 (2008), 900–904; Zoe R. Donaldson,\n‘Production of Germline Transgenic Prairie Voles\n(Microtus Ochrogaster) Using Lentiviral Vectors’,\nBiology of Reproduction 81:6 (2009), 1,189–95.\n9 Terri Pous, ‘Siberian Discovery Could Bring Scientists\nCloser to Cloning Woolly Mammoth’, Time, 17\nSeptember 2012, accessed 19 February 2013;\nPasqualino Loi et al, ‘Biological time machines: a\nrealistic approach for cloning an extinct mammal’,\nEndangered Species Research 14 (2011), 227–33; Leon\nHuynen, Craig D. Millar and David M. Lambert,\n‘Resurrecting ancient animal genomes: The extinct\nmoa and more’, Bioessays 34 (2012), 661–9.\n10 Nicholas Wade, ‘Scientists in Germany Draft\nNeanderthal Genome’, New York Times, 12 February\n2009, accessed 10 December 2010,"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

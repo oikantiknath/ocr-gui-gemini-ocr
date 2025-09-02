@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_gu_000047_0_0_reference.png",
+      "width": 911,
+      "height": 1322
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        911.0,
+        1322.0
+      ],
+      "area": 1204342.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          911.0,
+          0.0,
+          911.0,
+          1322.0,
+          0.0,
+          1322.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "૧. ‘બૃહદ ગુજરાતી કોશ : ખંડ – ૨’, પદ્મશ્રી અધ્યા. કેશવરામ શા. શાસ્ત્રી, યુનિવર્સિટી ગ્રંથનિર્માણ બોર્ડ,\nઅમદાવાદ, પ્ર. આ. ૨૦૧૬, પૃ. ૧૯૯૧\n૨. ‘અર્થ ગુજરાતી જોડણીકોશ’, ગુજરાત વિદ્યાપીઠ, પુરાણી સહિતનું નવું પુનર્મુદ્રણ, ૨૦૧૨, પૃ.\n૩. ‘ભગવદ્ગોમંડલ : ભાગ – ૮’, ભગવતસિંહજી, પ્રવીણ પ્રકાશન, રાજકોટ, પુનર્મુદ્રણ, ૧૯૯૬, પૃ. ૭૬૨૯\n૪. ‘મોટો કોશ’, રતિલાલ શા. નાયક, અક્ષરા પ્રકાશન, અમદાવાદ, પાંચમી. આ. નવે., ૨૦૦૧, પૃ. ૪૭૪\n૫. ‘હિન્દી સાહિત્ય જ્ઞાનકોશ : ખંડ-૬’, શંભુનાથ, ભારતીય ભાષા પરિષદ પ્રકાશન, નવી દિલ્લી, ૨૦૧૯, પૃ.\n727\n૬. ‘હિન્દી શબ્દ સાગર : ભાગ-૪’, શ્યામસુંદરદાસ, નાગરી મુદ્રણા, ૧૯૭૧, પૃ. ૧૯૭૧\n૭. ‘હિન્દી સાહિત્ય જ્ઞાનકોશ : ખંડ-૬’, શંભુનાથ, ભારતીય ભાષા પરિષદ પ્રકાશન, નવી દિલ્લી, ૨૦૧૯, પૃ.\n3385\n૮. ‘Oxford American Dictionary’, Eugene Ehrlich, and Other, New York, Oxford University\nPress, 1980, p. 518\n૯. એજન, પૃ. ૫૧૮\n૧૦. ‘Webster Dictionary’, Volume II, J. G. Ferguson Publishing Company, Chicago, 1996, p.\n983\n૧૧. ‘The Oxford Reference Dictionary’, Edited by Joyce M. Hawkins, Oxford University\nPress, 1993, p. 649\n૧૨. ‘The New Shorter Oxford English Dictionary, Volume-2, Edited by Hesley Brown,\nOxford University Press, 1993, p. 2292\n૧૩. એજન, પૃ. ૨૨૯૩\n૧૪. એજન, પૃ. ૨૨૯૩\n૧૫. ‘The World Book Dictionary’, Volume II, Edited by Robert K. Barnhart, World Book,\nInc., Chicago, 1996, p. 1622\n૧૬. એજન, પૃ. ૧૬૨૨\n૧૭. એજન, પૃ. ૧૬૨૨\n૧૮. ‘New Practical Standard Dictionary’, Charles Earle Funk, Funk & Wagnalls Company,\nNew York, 1956, p. 1020\n૧૯. ‘A Glossary of Contemporary Literature Theory’, Jeremy Hawthorn, Heritage\nPublishers, New Delhi, Fourth Edition, 2011, p. 268\n૨૦. ‘A Handbook to Literature’, William Harmon, William Flint Thrall, Addison Hibbard,\nand C. Hugh Holman, 2006 p. 405"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

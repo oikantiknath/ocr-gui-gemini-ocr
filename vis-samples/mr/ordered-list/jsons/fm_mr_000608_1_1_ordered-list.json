@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_mr_000608_1_1_ordered-list.png",
+      "width": 262,
+      "height": 170
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        262.0,
+        170.0
+      ],
+      "area": 44540.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          262.0,
+          0.0,
+          262.0,
+          170.0,
+          0.0,
+          170.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "१. कार्ड हरवले किंवा चोरीला गेल्यास कार्ड धारकाने त्वरीत बँकेत कार्ड हॉटलिस्ट\nकरण्यास नोंदवावे. बँकेच्या टोल फ्री हेल्प लाईनद्वारे चोरीची नोंद केली असली\nतरी, कार्डधारकाने लवकरच लवकर बँकेला लिखित स्वरूपात यावी पुष्टी केलीच\nपाहिजे.मान्यताप्राप्त पोलीस तक्रारीची एक प्रत या लेखी पुष्टीकरणासह असणे\nआवश्यक आहे.\n२. बँकेला चोरीची नोंद केल्यानंतर कार्डधारक अथवा सर्व आर्थिक उत्तरदायित्वापासून\nसंरक्षित आहे जे लाभा कार्डवर केलेल्या कोणत्याही खरेदी व्यवहारामुळे उद्भवू\nशकते. कृपया लक्षात घ्यावे कि एटीएमद्वारे पैसे काढण्यावर किंवा व्यापारी\nप्रतिष्ठानांवर (पिन / पीओएस) द्वारे कार्डचा वापर केल्यास कोणतीही भरपाई\nउपलब्ध होणार नाही कारण असे व्यवहार निवादात केले जातात जे केवळ\nकार्डधारकास गोपनीय असतात.\n३. कार्ड गहाळ किंवा चोरी झाल्यास अथवा त्याच्या गैर वापर होऊन बँकेला\nकळवण्याच्या अगोदर उद्भवणारे कोणतेही दायित्व (नागरी किंवा गुन्हेगारी)\nतोटा. सर्व खर्च किंवा नुकसानीविरुद्ध कार्डधारक पूर्णपणे नुकसान बँकेला\nभरपाई देण्यास सहमत आहे.\n४. गमावलेले / चोरी झालेले कार्ड परत मिळाल्यास त्याचा वापर न करता ते कर्नाटक\nबँकेच्या शाखेत परत करून किंवा त्याला नष्ट करून नवीन कार्ड धारकाने\nबँकेकडून घ्यावे."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

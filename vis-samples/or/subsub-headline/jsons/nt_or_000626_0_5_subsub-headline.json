@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_or_000626_0_5_subsub-headline.png",
+      "width": 421,
+      "height": 166
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        421.0,
+        166.0
+      ],
+      "area": 69886.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          421.0,
+          0.0,
+          421.0,
+          166.0,
+          0.0,
+          166.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(a) ନାମ\n(b) ବୟସ\n(c) ଲିଙ୍ଗ\n(d) କୌଣସି ପିଲାମାନଙ୍କ ପଞ୍ଜୀକରଣ ID କିମ୍ବା ଆଧାର ସଂଖ୍ୟା, ବିଶେଷତଃ ଜଣେ ପିଲାଙ୍କ ବାପା କିମ୍ବା\nଅଭିଭାବକ ଉପସ୍ଥିତରେ ନାମ ସଂଖ୍ୟା | ଏହିପରି ପିଲାମାନଙ୍କ କିମ୍ବା ଅଭିଭାବକ ଆଧାର ନମ୍ବର କିମ୍ବା EID\nସାହାଯ୍ୟରେ, ଏବଂ ସମ୍ପର୍କ ପାଇଁ ଏକ ଲେଖୁ ନୁହେଁ ଲେଖ\n(e) ଏହିପରି ଶିଶୁର ପିତାଙ୍କ ପାଇଁ ସଂପୂର୍ଣ୍ଣ ପିଲାମାନଙ୍କ / ଅଭିଭାବକଙ୍କ ସହିତ ସମ୍ପର୍କ\n(f) ଶିଶୁର ମୃତ ତିଥି ଏବଂ ଧାର୍ମିକ | ଯେଉଁ କୌଣସି ପିଲାମାନଙ୍କ / ଅଭିଭାବକ ନାମେନିଷ୍ଟ ସୂଚନା ପଞ୍ଜୀକରଣ\nସମୟରେ ଧାର୍ମିକ କିମ୍ବା ପ୍ରାମାଣିକ କର"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

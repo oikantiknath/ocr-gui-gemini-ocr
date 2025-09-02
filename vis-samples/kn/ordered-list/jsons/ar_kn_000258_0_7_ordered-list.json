@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_kn_000258_0_7_ordered-list.png",
+      "width": 947,
+      "height": 361
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        947.0,
+        361.0
+      ],
+      "area": 341867.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          947.0,
+          0.0,
+          947.0,
+          361.0,
+          0.0,
+          361.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(2) ರಾಜ್ಯ ಸರ್ಕಾರವು, ಯಾವುದೇ ಅಂಥ ಉದ್ದೇಶಕ್ಕಾಗಿ ಅದರ ಮೇಲ್ವಿಚಾರಣೆಗೆ ಅದರ ಹಿತಾಸಕ್ತಿಗಾಗಿ\nಯೋಜಿಸಿರುವಂಥ ಕಾಮಗಾರಿಯನ್ನು ಯಾವುದೇ ಅರಣ್ಯ ಅಥವಾ ಬಂಜರು ಭೂಮಿಯಲ್ಲಿ ಅಥವಾ ಅದರ ಮೇಲೆ\nನಿರ್ಮಿಸಬಹುದು.\n\n(3) ಸಂದರ್ಭಾನುಸಾರ ಅಂಥ ಅಧಿನಿಯಮವನ್ನು ವಶಪಡಿಸಿಕೊಂಡು ಅಥವಾ ಕಾಮಗಾರಿಯನ್ನು\nನಿರ್ಮಿಸಿಕೊಂಡು ಎಂಬ ಬಗ್ಗೆ, ಅಂಥ ಸೂಚನೆಯಲ್ಲಿ ನಿರ್ದಿಷ್ಟಪಡಿಸಬೇಕಾದ ಯುಕ್ತ ಅವಧಿಯೊಳಗೆ ಕಾರಣವನ್ನು\nಹೇಳಲು ಅಂಥ ಅರಣ್ಯ ಅಥವಾ ಭೂಮಿಯ ಒಡೆಯನಿಗೆ ಸೂಚನೆಯನ್ನು ಕಳುಹಿಸಿದವರು ಮತ್ತು ಅವನ\nಉದ್ದೇಶನೆಗಳ ಯಾವುದಾದರೂ ಇದ್ದರೆ ಅವುಗಳನ್ನು ಮತ್ತು ಅವುಗಳ ಸಮರ್ಥನೆಯಲ್ಲಿ ಅವನು\nಹಾಜರುಪಡಿಸಬಹುದಾದ ಯಾವುದೇ ಸಾಕ್ಷ್ಯವನ್ನು ಆ ಬಗ್ಗೆ ತರುವಾಯ ನಿರ್ವಹಿಸಿಕೊಂಡು ಒಬ್ಬ ಅಧಿಕಾರಿಯು\nಸಮಾವೇಶ ಮಾಡಿದ ತರುವಾಯ ರಾಜ್ಯ ಸರ್ಕಾರವು ಅವುಗಳನ್ನು ಪರ್ಯಾಲೋಚಿಸುವವರೆಗೆ, (1)ನೇ\nಉಪಪ್ರಕರಣದ ಮೇರೆಗೆ ಯಾವುದೇ ಅಧಿನಿಯಮವನ್ನು ವಶಪಡಿಸಿಕೊಳ್ಳತಕ್ಕದ್ದಲ್ಲ ಅಥವಾ (2)ನೇ ಉಪಪ್ರಕರಣದ\nಮೇರೆಗೆ ಯಾವುದೇ ಕಾಮಗಾರಿಯನ್ನು ಪ್ರಾರಂಭಿಸತಕ್ಕದ್ದಲ್ಲ."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_mr_000108_0_9_sub-ordered-list.png",
+      "width": 1029,
+      "height": 522
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        1029.0,
+        522.0
+      ],
+      "area": 537138.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1029.0,
+          0.0,
+          1029.0,
+          522.0,
+          0.0,
+          522.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(क) या खंडातील उपबंधाच्या व्यापकतेला बाध न येता, त्यामध्ये, निर्देशिल्याप्रमाणे\nअशी जी कोणतीही व्यक्ती,—\n(एक) कोणत्याही उमेदवाराला किंवा कोणत्याही मतदाराला ज्या व्यक्तीमध्ये उमेद-\nवाराचा किंवा मतदाराचा हितसंबंध आहे त्या व्यक्तीला, सामाजिक बहिष्कार तसेच जाती\nबहिष्कार किंवा कोणत्याही जातीतून किंवा समाजातून वाळीत टाकणे यासुद्धा अशा कोणत्याही\nप्रकारची क्षती पोहोचवण्याची धमकी देईल, किंवा\n(दोन) उमेदवाराला किंवा कोणत्याही मतदाराला, तो स्वतः किंवा ज्यामध्ये त्याचा हित-\nसंबंध आहे अशी अन्य व्यक्ती, दैवी अवकृपेचा किंवा धार्मिक रोषाचा बळी होईल किंवा केला\nजाईल असे समजण्यास प्रवृत्त करील किंवा प्रवृत्त करण्याचा प्रयत्न करील,\nती व्यक्ती, या खंडाच्या अर्थानुसार अशा उमेदवाराच्या किंवा मतदाराच्या निवडणूकविषयक\nअधिकाराच्या वापरामध्ये हस्तक्षेप करीत असल्याचे समजण्यात येईल;\n(ख) सार्वजनिक धोरणाची घोषणा किंवा सार्वजनिक कार्य करण्याचे वचन किंवा निवडणूक-\nविषयक अधिकारामध्ये हस्तक्षेप करण्याचा उद्देश नसताना केवळ वैध अधिकाराचा वापर हा, या\nखंडाच्या अर्थानुसार हस्तक्षेप असल्याचे मानले जाणार नाही."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

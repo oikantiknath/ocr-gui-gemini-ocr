@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_kn_000430_1_5_ordered-list.png",
+      "width": 500,
+      "height": 289
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        500.0,
+        289.0
+      ],
+      "area": 144500.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          500.0,
+          0.0,
+          500.0,
+          289.0,
+          0.0,
+          289.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "8. ವ್ಯವಸ್ಥಾಪಕ ನಿರ್ದೇಶಕ ಮತ್ತು ಕಾರ್ಯಕಾರಿ ನಿರ್ದೇಶಕ ಪದವಧಿ, ಸೇವಾ ಷರತ್ತುಗಳು,\nಇತ್ಯಾದಿ.- (1) 6ನೇ ಪ್ರಕರಣದ (3)ನೇ ಉಪಪ್ರಕರಣದ ಮೇರೆಗೆ ನೇಮಕಗೊಂಡ ವ್ಯವಸ್ಥಾಪಕ ನಿರ್ದೇಶಕ\nಮತ್ತು ಯಾರೇ ಕಾರ್ಯಕಾರಿ ನಿರ್ದೇಶಕನು.-\n\n(ಎ) ನೇಮಕದ ಕಾಲದಲ್ಲಿ ಕೇಂದ್ರ ಸರ್ಕಾರವು ನಿರ್ದಿಷ್ಟಪಡಿಸಬಹುದಾದ ಒಂದು\nವರ್ಷಗಳನ್ನು ಮೀರದ ಅವಧಿಗೆ ಪದಧಾರಣ ಮಾಡತಕ್ಕದ್ದು ಮತ್ತು ಮರುನೇಮಕಗೊಂಡಲು\nಅರ್ಹನಾಗಿರತಕ್ಕದ್ದು;\n\n(ಬಿ) ಮಂಡಳಿಯ ಕೇಂದ್ರ ಸರ್ಕಾರದ ಪೂರ್ವಾನುಮೋದನೆ ಪಡೆದು ಮತ್ತು ರಿಸರ್ವ್\nಬ್ಯಾಂಕಿನೊಂದಿಗೆ ಸಮಾಲೋಚಿಸಿ ನಿರ್ಧರಿಸಬಹುದಾದ ಸಂಬಳ ಮತ್ತು ಭತ್ಯೆಗಳನ್ನು\nಪಡೆಯತಕ್ಕದ್ದು ಮತ್ತು ಅಂಥ ಸೇವಾ ನಿಬಂಧನೆಗಳಿಗೆ ಮತ್ತು ಷರತ್ತುಗಳಿಗೆ ಒಳಪಟ್ಟಿರತಕ್ಕದ್ದು:\n\nಪರಂತು, ಮೊದಲೇ ಮಂಡಳಿಗೆ ನೇಮಕಗೊಂಡ ವ್ಯವಸ್ಥಾಪಕ ನಿರ್ದೇಶಕನು ಮತ್ತು ಅಂಥ ಯಾರೇ\nಕಾರ್ಯಕಾರಿ ನಿರ್ದೇಶಕನು ಕೇಂದ್ರ ಸರ್ಕಾರವು ರಿಸರ್ವ್ ಬ್ಯಾಂಕಿನೊಂದಿಗೆ ಸಮಾಲೋಚಿಸಿ\nನಿರ್ಧರಿಸಬಹುದಾದ ಸಂಬಳ ಮತ್ತು ಭತ್ಯೆಗಳನ್ನು ಪಡೆಯತಕ್ಕದ್ದು ಮತ್ತು ಅಂಥ ಸೇವಾ ನಿಬಂಧನೆಗಳಿಗೆ\nಮತ್ತು ಷರತ್ತುಗಳಿಗೆ ಒಳಪಟ್ಟಿರತಕ್ಕದ್ದು.\n\n(2) ಕೇಂದ್ರ ಸರ್ಕಾರವು, ರಿಸರ್ವ್ ಬ್ಯಾಂಕಿನೊಂದಿಗೆ ಸಮಾಲೋಚಿಸಿ, 6ನೇ ಪ್ರಕರಣದ (3)ನೇ\nಉಪಪ್ರಕರಣದ ಮೇರೆಗೆ ನೇಮಕಗೊಂಡ ನಿರ್ದೇಶಕನನ್ನು ಅಥವಾ ಯಾರೇ ಕಾರ್ಯಕಾರಿ ನಿರ್ದೇಶಕನನ್ನು\nಅವನ ಪದವಧಿಯು ಮುಗಿಯುವುದಕ್ಕೆ ಮುಂಚೆ ಯಾವುದೇ ಕಾಲದಲ್ಲಿ ತೆಗೆದುಹಾಕಬಹುದು."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

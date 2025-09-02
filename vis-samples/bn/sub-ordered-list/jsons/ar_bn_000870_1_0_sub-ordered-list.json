@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000870_1_0_sub-ordered-list.png",
+      "width": 1649,
+      "height": 1286
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        1649.0,
+        1286.0
+      ],
+      "area": 2120614.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1649.0,
+          0.0,
+          1649.0,
+          1286.0,
+          0.0,
+          1286.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ক) “অভিভাবক” বলিতে নাবালক বা মানসিকভাবে অসুস্থ ব্যক্তির ভরণপোষণ\nকরেন এরূপ ব্যক্তিকে বুঝায়;\n\n(খ) “মানসিকভাবে অসুস্থ ব্যক্তি” বলিতে মানসিক প্রতিবন্ধকতা ব্যতীত কোন\nমানসিক বৈকল্যের কারণে যাঁহার চিকিৎসার প্রয়োজন আছে, সেরূপ ব্যক্তিকে\nবুঝায়;\n\n(গ) “নাবালক” বলিতে, যে ব্যক্তি ইন্ডিয়ান মেজরিটি অ্যাক্ট, ১৮৭৫-এর বিধানাবলী\nঅনুযায়ী সাবালকত্ব অর্জন করেন নাই বলিয়া গণ্য হন, সেই ব্যক্তিকে বুঝায়;\n\n(ঘ) “রেজিস্ট্রিকৃত চিকিৎসক” বলিতে এরূপ কোন চিকিৎসককে বুঝায়, যিনি\nইন্ডিয়ান মেডিক্যাল কাউন্সিল অ্যাক্ট, ১৯৫৬-র ২ ধারার (জ) প্রকরণে\nযথা-সংজ্ঞাত কোন স্বীকৃত চিকিৎসা যোগ্যতার অধিকারী হন, যাঁহার নাম রাজ্য\nচিকিৎসা সংক্রান্ত রেজিস্টারে প্রবিষ্ট রহিয়াছে এবং যাঁহার এই আইন অনুযায়ী\nপ্রণীত নিয়মাবলীর দ্বারা যেরূপ বিহিত করা যাইবে স্ত্রীরোগবিদ্যা ও ধাত্রীবিদ্যায়\nসেরূপ অভিজ্ঞতা ও প্রশিক্ষণ রহিয়াছে।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

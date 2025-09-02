@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_hi_000316_1_0_sub-ordered-list.png",
+      "width": 409,
+      "height": 243
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        409.0,
+        243.0
+      ],
+      "area": 99387.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          409.0,
+          0.0,
+          409.0,
+          243.0,
+          0.0,
+          243.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1.1 दृढ़ पिंडों की यांत्रिकी\nआकाश में साम्यावस्था का समीकरण एवं इसका अनुप्रयोग, क्षेत्रफल के प्रथम एवं\nद्वितीय आघूर्ण, घर्षण की सरल समस्याएँ, समतल गति के लिए कणों की शुद्धगति की\nप्रारंभिक कण गतिकी।\n\n1.2 विरूपणीय पिंडों की यांत्रिकी\nव्यापीकृत हुक का नियम एवं इसका अनुप्रयोग, अक्षीय प्रतिबल पर अभिकल्प समस्याएँ,\nअपरूपण प्रतिबल एवं आधारक प्रतिबल, गतिक भारण के लिए सामग्री के गुण, दंड में\nबंकन अपरूपण एवं प्रतिबल, मुख्य प्रतिबलों एवं विकृतियों का निर्धारण निर्धारण-\nविश्लेषिक एवं आलेखीय, संयुक्त एवं मिश्रित प्रतिबल, द्विअक्षीय प्रतिबल-तनु भित्तिक\nदाब भाण्ड, गतिक भार के लिए पदार्थ व्यवहार एवं अभिकल्प कारक, केवल बंकन एवं\nमरोड़ी भार के लिए गोल शैफ्ट का अभिकल्प, स्थैतिक निर्धारी समस्याओं के लिए दंड का\nविक्षेप, भंग के सिद्धांत।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

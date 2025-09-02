@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_bn_000927_1_2_sub-ordered-list.png",
+      "width": 1393,
+      "height": 733
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        1393.0,
+        733.0
+      ],
+      "area": 1021069.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1393.0,
+          0.0,
+          1393.0,
+          733.0,
+          0.0,
+          733.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "১৪৪। (১) প্রয়োজনীয় ক্ষেত্রে ফ্যাক্স, ই-মেইল, জিপি, এসএমএস ও অন্যান্য ইলেকট্রনিক মাধ্যমে যোগাযোগ\nকরা যাইবে। প্রযোজ্য ক্ষেত্রে ইহাদের মূলকপি প্রাপকগণের নিকট ডাকে প্রেরিত হইবে। ফ্যাক্স বার্তার ব্যবহার\nযথাসম্ভব হ্রাস করিয়া ব্যয় সংকোচনের জন্য সীমিত রাখিতে হইবে। ইহার প্রাপক বিষয়টি জরুরি বলিয়া গণ্য করিয়া\nপ্রাপ্ত ফ্যাক্স বার্তা সম্পর্কে অবিলম্বে কার্যক্রম গ্রহণ করিবেন। এই বার্তার নমুনা যথাক্রমে ক্রোড়পত্র-২০(ক)\nও ২০(খ) -এ দ্রষ্টব্য।\n\n(২) যখন কোনো বার্তা সাইফারে প্রেরণ করা হইবে তখন স্বাভাবিক বাংলায় ও ইংরেজিতে বার্তার খসড়া\nরচিত হইবে। গবেষণাসংকেত পরিদপ্তর কর্তৃক অনুমোদিত সংস্থার মাধ্যমে সাইফার বার্তাগুলি প্রেরণ করিতে হইবে।\nপ্রেরিত সকল সাইফার বার্তার ক্ষেত্রে স্বরাষ্ট্র মন্ত্রণালয় কর্তৃক জারীকৃত শ্রেণিবিন্যাসকরণ, সম্পাদনা ও সংখ্যা প্রদান\nসংক্রান্ত নির্দেশাবলি সতর্কতার সহিত পালন করিতে হইবে। ‘সাইফার’ -এ বার্তা প্রেরণ কেবল শ্রেণিবিন্যাসকৃত\nবিষয়াদিতে সীমাবদ্ধ রাখিতে হইবে; কারণ-\n\n(ক) এইগুলিকে সাংকেতিক ভাষায় সাজাইতে এবং সেই ভাষাকে স্বাভাবিক ভাষায় রূপান্তরিত করিতে\nসময়ের প্রয়োজন; এবং\n\n(খ) নির্বিচারে ব্যবহারের ফলে ঐগুলির নিরাপত্তা ক্ষয় হওয়ার আশঙ্কা থাকে।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

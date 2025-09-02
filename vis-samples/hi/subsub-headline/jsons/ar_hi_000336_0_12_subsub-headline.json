@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_hi_000336_0_12_subsub-headline.png",
+      "width": 1433,
+      "height": 554
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        1433.0,
+        554.0
+      ],
+      "area": 793882.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1433.0,
+          0.0,
+          1433.0,
+          554.0,
+          0.0,
+          554.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "2. अधिनियम का लागू होना—⁴[(1) यह प्रथमतः—\n    (क) हर ऐसे स्थापन को जो कारखाना, खान या बागान है, जिसके अन्तर्गत सरकार का ऐसा कोई स्थापन भी है\nऔर प्रत्येक ऐसे स्थापन को लागू होता है जिसमें लोगों को घुड़सवारी, कलाबाजी और अन्य कर्तव्यों के प्रदर्शन के लिए\nनियोजित किया जाता है;\n    (ख) किसी राज्य में दुकानों और स्थापनों के संबंध में तत्समय प्रवृत्त किसी विधि के अर्थ के अंतर्गत ऐसी प्रत्येक\nदुकान या स्थापन को लागू होता है जिसमें दस या अधिक व्यक्ति नियोजित हैं या पूर्ववर्ती बारह मास के किसी दिन\nनियोजित थे:]\nपरन्तु राज्य सरकार, केंद्रीय सरकार के अनुमोदन से, ऐसा करने के अपने आशय की दो मास से अन्यून की सूचना देने के\nपश्चात् राजपत्र में अधिसूचना द्वारा, घोषित कर सकेगी कि इस अधिनियम के सब या कोई उपबंध औद्योगिक, वाणिज्यिक, कृषिक या\nअन्य प्रकार के किसी अन्य स्थापन या स्थापनों के वर्ग को भी लागू होंगे ।]\n    (2) ⁵[⁶[धारा 5क और धारा 5ख] में जैसा अन्यथा उपबंधित है उसके सिवाय इस अधिनियम में अंतर्विष्ट कोई भी बात] किसी\nऐसे कारखाने या अन्य स्थापन को लागू न होगी जिसे कर्मचारी राज्य बीमा अधिनियम, 1948 (1948 का 34) के उपबंध तत्समय लागू\nहोते हों ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

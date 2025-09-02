@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ml_000511_0_9_sub-ordered-list.png",
+      "width": 985,
+      "height": 1149
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        985.0,
+        1149.0
+      ],
+      "area": 1131765.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          985.0,
+          0.0,
+          985.0,
+          1149.0,
+          0.0,
+          1149.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "അനുബന്ധം അടങ്ങിയിരിക്കുന്നതാണ്, അതായത്:—\n(i) ലൈസൻസ്—ഉപദേശങ്ങൾ;\n(ii) ലൈസൻസ്ഡ് വ്യക്തിയെക്കൊണ്ട് ബോർഡ് ഉപദേശിക്കുന്ന\nനിയമീകൃത ശാസ്ത്രം, സാങ്കേതികവിദ്യ, മാനദണ്ഡങ്ങൾ എന്നീ രംഗങ്ങളിൽ\nനിന്നുള്ള മൂന്ന് അക്കാഡമിക് വിദഗ്ദ്ധർ;\n\n(iii) അക്കാഡമിക് വിഭാഗത്തിന്റെ ഡീൻ;\n\n(iv) ഗവേഷണ വിഭാഗത്തിന്റെ ഡീൻ;\n\n(v) സർവ്വകലാശാലയിലെ എല്ലാ ഫാക്കൽറ്റികളും; കൂടാതെ\n\n(vi) സർവ്വകലാശാലയിലെ വിഭാഗാധിപതികളിൽ നിന്നും ബോർഡ് നാമനിർദ്ദേശം\nചെയ്യുന്ന രണ്ട് വിഭാഗാധിപതി (പ്രസിഡൻ്റ്, അഥവാ ഒരു വിഭാഗാധിപതി\nആയിരിക്കേണ്ടതാണ്).\n\n(2) രജിസ്ട്രാർ അക്കാഡമിക് കൗൺസിലിന്റെ സെക്രട്ടറി ആയിരിക്കുന്നതാണ്.\n\n(3) അക്കാഡമിക് കൗൺസിൽ, ലൈസൻസ്ഡ് നിയമീകൃത പ്രകാരം\nയോഗം ചേരുമ്പോഴോ മറ്റ് യോഗങ്ങൾ നടത്തുമ്പോഴോ ഓരോ കാരണവശാലും\nഅതുമായി ബന്ധത്തിൽ കവിഞ്ഞത് പാടില്ലാത്തതാകുന്നു.\n\n(4) അക്കാഡമിക് കൗൺസിലിന്റെ ഒരു യോഗത്തിന്റെ ക്വാറം മൊത്തം\nഅംഗങ്ങളുടെ മൂന്നിലൊന്നായിരിക്കുന്നതാണ്.\n\n(5) നാമനിർദ്ദേശം ചെയ്യപ്പെട്ട അംഗങ്ങളുടെ ഔദ്യോഗിക കാലാവധി\nതുടർച്ചയായ രണ്ട് വർഷം വരെ ആയിരിക്കുന്നതാണ്. മറ്റ് അംഗങ്ങളുടെ"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

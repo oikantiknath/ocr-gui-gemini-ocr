@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_te_000474_0_3_ordered-list.png",
+      "width": 647,
+      "height": 326
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        647.0,
+        326.0
+      ],
+      "area": 210922.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          647.0,
+          0.0,
+          647.0,
+          326.0,
+          0.0,
+          326.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. తగిన విధంగా కరిగిన బ్లీచ్ సొల్యూషన్ను యూసింగ్ డస్టర్ క్లాత్తో క్లీన్ చేయుతూ ఉండండి.\n2. కేబుల్ కనెక్ట్సన్ను తగిన విధంగా జత చేయుతూ మరియు గట్టిగా కలిపి కట్టేలా చూడండి.\n3. యూసింగ్లు, అంటేగానీ డోర్, టివి కేబినెట్ మొదలైన వాటిపై పేరుకుపోయి దుమ్మును శుభ్రపరిచేలా\nచూడండి.\n4. మృదువైన మరియు పొడి గుడ్డతో యూసింగ్ను శుభ్రపరిచేలా చూడండి.\n5. యూసింగ్ స్విచ్ఛాఫ్ స్థితిలో ఉన్నప్పుడే శుభ్రపరిచేలా చూడండి.\n6. డ్రమ్ములో వేసిన ఎగ్ బీట్ పౌడర్ కనీసం వారానికి ఒక సారి క్రమం తప్పకుండా నీరు పోసేలా\nచూడండి.\n7. పరిశరం యొక్క సంబంధిత పాస్ వర్డ్ (సంకేతపదం)ను సురక్షితమైన స్థలంలో పొందుపరచి ఉంచండి.\n8. ఎల్ ఎస్ డి సిస్టమ్లో ఆర్ ఎస్ కనెక్టర్కు న్యాయం చేసిన (సెల్ఫ్ అల్యూమినేటింగ్) టేపు ద్వారా సరఫరా\nనీటి ఇంకుడు నుంచి రక్షణ కల్పించబడింది. ఆ టేపు ఉడిపోయినపుడు మరొక టేపు వేసేలా\nచూడండి.\n9. సిస్టమ్ ఉష్ణోగ్రతను సమీకరించుటకు వీలుగా ఒక లాగ్ బుక్ను నిర్వహించండి."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

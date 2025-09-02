@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_bn_000428_1_53_contact-info.png",
+      "width": 113,
+      "height": 371
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 4,
+      "bbox": [
+        0.0,
+        0.0,
+        113.0,
+        371.0
+      ],
+      "area": 41923.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          113.0,
+          0.0,
+          113.0,
+          371.0,
+          0.0,
+          371.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "উত্তরা ২৪ পরগনা\nঅ্যাড কানেক্সন\nসৌরভ কুমার মি:\nরুম নং-৩, বিশ্রাম নং-১৮, মেঘনা\nমোড়, পোস্ট ও থানা-জঙ্গল, উত্তরা ২৪\nপরগনা, ফোন- ৮৩৩০ ৮৮৭২১\nইমেইল-adconnexon@gmail.com\nএ.এন. বিজ্ঞাপন গ্রাহনকেন্দ্র\nশেখ আজাহার উদ্দিন, বারাসাত, জেলা-\nউত্তরা ২৪ পরগনা, কলকাতা-৭০০১২৪,\nমো:- ৯৭৩৩৫২৫৫৫৮\nহুগলি\nমা লক্ষ্মী জেমস্ সেন্টার, সর্বাণী চ্যাটার্জি,\nঠিকানা কোটুর ঘর ও ডঃ জেলা পরিষদ,\nচুঁচুড়া, জেলা হুগলি, পিন: ৭১২১০১,\nমো: ৯৪৩৪৩৯৯২১৬।\nবিষ্ণু আর্টপ্রিন্টিং এজেন্সি, প্রসেনজিৎ\nসামন্ত, ঠিকানা- পনুইহাটা, সিঙ্গুর, বচন\nব্যাঙ্কের পাশে, জেলা- হুগলি, পশ্চিমবঙ্গ,\nমো: ৯৮৩১৩৯৯২৪৪\nনদিয়া\nট্রিপল স্টার, নিরঞ্জন পাল, ঠিকানা :\nকলেজের মোড়, এম.পি বাংলার\nবিপরীতে, পো: কৃষ্ণনগর, জেলা:\nনদিয়া, পিন: ৭৪১১০১, মো:\n৯৭৭৫৪৩৪১৭৮\nরাজ টেলিকম, অমিতাভ বিশ্বাস,\nঠিকানা: করিমপুর, জেলা নদিয়া,\nমো: ৯৮৩২৪২০৭৮৬/\n৯১৩৪৬৬৭৯১০।\nসুভাষ উদ্যোগ সমূহ, শ্রীধর অঙ্কন, বাজার\nরোড, নবদ্বীপ, নদিয়া-৭৪১১৩২৫,\nমো: ৯৯৩২৫২০৮৯১।\nঅক্ষয়, ডি. বালা, তাহেরপুর, নদিয়া। মো:\n৭৫০৭৪৮০১৩৮।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_mr_000049_0_2_sub-ordered-list.png",
+      "width": 1092,
+      "height": 578
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        1092.0,
+        578.0
+      ],
+      "area": 631176.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1092.0,
+          0.0,
+          1092.0,
+          578.0,
+          0.0,
+          578.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "१५. (१) अशी नोंद केल्यानंतर वन जमाबंदी अधिकारी, आपल्या कार्यकुशलतेनुसार, आणि ज्यासंबंधी\nहक्कमागणी करण्यात आलेली आहे त्या राखीव वनाचे परिरक्षण होण्याच्या दृष्टीने यथायोग्य विचार करून,\nअशा प्रकारचे आदेश मंजूर करील की, ज्यायोगे याप्रमाणे मान्य केलेल्या हक्कांचा वापर चालू राहण्याची खात्री मिळेल.\n(२) या प्रयोजनार्थ, वन जमाबंदी अधिकारी,—\n(क) अशा हक्कमागणीदारांसाठी पुरेशा आकाराचा आणि वाजवीरित्या सोईस्कर अशा स्थानिक\nक्षेत्रांमधील जंगलाचा भूभाग आखून देऊ शकेल, आणि अशा प्रकारे मान्य केलेल्या मर्यादेपर्यंत गुरे चारण्याचा\nकिंवा, यथास्थिति, वनोत्पादनाबाबतचा हक्क बहाल करणारा आदेश नमूद करू शकेल ; किंवा\n(ख) हक्कमागणीदारांसाठी पुरेशा विस्ताराची आणि वाजवीरित्या सोईस्कर अशा स्थानिक क्षेत्रातील\nवनजमीन वगळली जाईल अशा प्रकारे नियोजित वनाच्या सीमांमध्ये फेरफार करू शकेल ; किंवा\n(ग) अशा हक्कमागणीदारांचा गुरे चारण्याचा किंवा, यथास्थिति, वनोत्पादनाबाबतचा हक्क ज्या\nमर्यादेपर्यंत मंजूर करण्यात आला त्या मर्यादेपर्यंत आणि राज्य शासनाकडून यासंबंधात करण्यात येतील\nअशा नियमान्वये, अशा हंगामामध्ये नियोजित वनाच्या अशा भूभागांमध्ये चालू ठेवणारा आदेश नमूद करू\nशकेल."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

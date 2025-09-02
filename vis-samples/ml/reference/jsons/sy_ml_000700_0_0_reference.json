@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_ml_000700_0_0_reference.png",
+      "width": 878,
+      "height": 1307
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        878.0,
+        1307.0
+      ],
+      "area": 1147546.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          878.0,
+          0.0,
+          878.0,
+          1307.0,
+          0.0,
+          1307.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "മാരാശ്ശേരി, ഇ.വി., 2012, അച്ചടിയും ആധുനികതയും അക്ഷരങ്ങളെ ആർക്കാണോ\\nപേടി?, കോട്ടയം: ഡി.സി. ബുക്സ്.\\n\\nശശി, കെ.വി. (എഡി.), 2012, മലയാളചലച്ചിത്രഗാഥ: ഭാഷ, ശരീരം, ഭാവം,\\nകോട്ടയം: ഡി.സി.ബുക്സ്.\\n\\nഷാജി കുമാർ, 2002, സാഹിത്യവും ടെലിവിഷൻ.സംസ്കാരവും: കേരളീയ\\nഅനുഭവങ്ങൾ. കുന്നംകുളം ഒരു വിചാരം,മനുഷ്യരുടെ സാഹിത്യം നമ്മുടെ\\nസാഹിത്യം, (എഡി.) എം.എൻ. വിജയൻ, കേരളസാഹിത്യഅക്കാദമി.\\n\\nസൂസൻ പി. ഇളയിടം, 2012, കാലികേ, നിന്നകന്നെന്നാ ഉയിരൊടുങ്ങും, കോട്ടയം: ഡി.സി. ബുക്സ്.\\n\\nസൂസൻ, ടി.വി., 2012, ഇൻ്റർനെറ്റിലെ മലയാളം, ഇ-മലയാളം, തിരുവനന്തപുരം:\\nകേരള ഭാഷാഇൻസ്റ്റിറ്റ്യൂട്ട്.\\n\\nസൂസമ്മൻ, വി.പി., 2012, മലയാളചലനാമൃതം. കുറുമൊഴിയും, കാക്കനാട്, കൊച്ചി:\\nകേരള പ്രസ് അക്കാദമി.\\n\\nറോബിൻ ജ്യോതി, 2010, ഇന്ത്യനുപവിപ്ലവം, കോട്ടയം: ഡി.സി. ബുക്സ്.\\n\\nCroteau, David, R. and Hoynes, William, 2003, Media/Society: Industries, Images, and\\nAudiences, Sage Publications.\\n\\nDevika, J., 2013, Engendering Individuals, Orient Blackswan Private Ltd.\\n\\nDevika, J., 2013, Women Writing=Man reading?, Penguin Books.\\n\\nHabermans, Jurgen, 1991, The structural Transformation of the Public Sphere: an\\ninquiry into a category of Bourgeois Society (Studies in contemporary German\\nSocial Thought), MIT Press.\\n\\nJeffrey, Robin, 2010, Media and Modernity: Communications, Women and the State in\\nIndia, Orient Blackswan Private Ltd.\\n\\nJonathan, Bignell, 2000, Postmodern Media Culture, Edinburgh University Press.\\n\\nLev, Manovich, 2001, The Language of New Media, MIT Press.\\n\\nMcLuhan, Marshall, 1994, Understanding Media: The Extension of man, The MIT\\nPress.\\n\\nMeenakshi, Gigi Durham, Douglas M. Kellner, 2012, Media and cultural Studies:\\nKeywords, Wiley-Blackwell.\\n\\nOng, Walter, J., 2002, Orality and Literacy (New Accents), Routledge.\\n\\nSardar, Ziauddin, 1997, Postmodernism and the Other: New Imperialism of Western\\nCulture, Pluto Press.\\n\\nWinston, Brian, 2005, Messages: Free Expression, Media and the west from\\nGutenberg to Google, Routledge."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

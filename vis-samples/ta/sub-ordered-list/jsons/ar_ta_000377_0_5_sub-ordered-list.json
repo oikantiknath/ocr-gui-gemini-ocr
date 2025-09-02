@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_000377_0_5_sub-ordered-list.png",
+      "width": 782,
+      "height": 498
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        782.0,
+        498.0
+      ],
+      "area": 389436.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          782.0,
+          0.0,
+          782.0,
+          498.0,
+          0.0,
+          498.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(i) அவனுடைய அல்லது அவளுடைய தந்தை ;\n(ii) அவனுடைய அல்லது அவளுடைய தாய் ;\n(iii) அவனுடைய விதவை, அவள் மறுமணம் செய்து கொள்ளாத\nவரையில் ;\n(iv) அவனுடைய அல்லது அவளுடைய மகள் அல்லது அவனுக்கு முன்பு\nஇறந்து போன மகனுடைய மகன், அல்லது அவனுக்கு முன்பு போன\nஅவனுடைய மகளின் இறந்து போன மகனுடைய மகன், இவ்வாறாக இருக்கும்\nவரையிலும்\nஅவன் போஷகனாக இருக்கும் நேர்வில், அவனது தந்தையின் அல்லது\nதாயின் சொத்திலிருந்தும், கொள்போஷகனாக இருக்கும் நேர்வில், அவனது\nதந்தையின் அல்லது தாயின் அல்லது தந்தையினுடைய தந்தையின் அல்லது\nதந்தையினுடைய தாயின் சொத்திலிருந்தும் அவள் வாழ்க்கைப் பொருளுதவி\nபெற முடிந்திருக்கிற அளவுக்கும் ;\n(v) அவனுடைய அல்லது அவளுடைய திருமணமாகாத மகள் அல்லது\nஅவனுக்கு முன்பு இறந்துபோன அவளுடைய மகளின் திருமணமாகாத மகள் ;\nஅல்லது அவனுக்கு முன்பு இறந்துபோன அவனுடைய மகனின் இறந்துபோன\nமகனுடைய திருமணமாகாத மகள் மறுமணம் செய்து கொள்ளாதிருக்கும் வரை\nயிலும் ;"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

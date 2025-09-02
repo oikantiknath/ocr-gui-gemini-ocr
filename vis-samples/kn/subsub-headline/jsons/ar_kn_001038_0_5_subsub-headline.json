@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_kn_001038_0_5_subsub-headline.png",
+      "width": 1087,
+      "height": 395
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        1087.0,
+        395.0
+      ],
+      "area": 429365.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1087.0,
+          0.0,
+          1087.0,
+          395.0,
+          0.0,
+          395.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ಕ) ಸಮಿತಿಯ ಸದಸ್ಯರ ನಾಮನಿರ್ದೇಶನ, ಆಯ್ಕೆ ಅಥವಾ ನೇಮಕಾತಿ;\n(ಖ) ಸಮಿತಿಯ ಸದಸ್ಯರಿಗೆ ಯಾವುದೇ, ಅಥವಾ ಸಾಮಾನ್ಯ ಸಭೆಗೆ ಹಾಜರಾಗಲು;\n(ಗ) ಸದಸ್ಯರ ಪದವಿಯಿಂದ ಹೊರಬೀಳುವ ಸನ್ನಿವೇಶ ಮತ್ತು ವಿವಾದಗಳನ್ನು ನಿರ್ಧರಿಸುವಂತಹ ರೀತಿ;\n(ಘ) ಸಮಿತಿಯ ಅಧ್ಯಕ್ಷ ಮತ್ತು ಇತರ ಸದಸ್ಯರ ಉಚ್ಚಾಟನೆ ಅಥವ ಸ್ಥಾನಗಳನ್ನು ಭರ್ತಿಮಾಡುವುದು;\n(ಙ) ಸಮಿತಿಯ ಅಧ್ಯಕ್ಷ ಮತ್ತು ಇತರ ಸದಸ್ಯರ ತೆಗೆದುಹಾಕುವಿಕೆ ಮತ್ತು ಅವರ ರಾಜೀನಾಮೆ;\n(ಚ) ಅಧ್ಯಕ್ಷನ ಚುನಾವಣಾ ಮತ್ತು ಅವನ ಅಧಿಕಾರಗಳು ಹಾಗೂ ಕರ್ತವ್ಯಗಳು;\n(ಛ) ಸಭೆಗೆ ಹಾಜರಾಗದಿರುವವರ ಕರ್ತವ್ಯಗಳು;\n(ಜ) ನಿರ್ದೇಶಕರು ಅಥವಾ ಅಧಿಕಾರಗಳು ಹಾಗೂ ಕರ್ತವ್ಯಗಳು ಮತ್ತು ನಿರ್ದೇಶಕರು ಹಾಗೂ ಸಮಿತಿಯ ಇತರ ನಿರ್ದೇಶಕರ\nಸೇವಾ ಷರತ್ತುಗಳು;\n(ಝ) ನಿರ್ದಿಷ್ಟ ನಿಧಿಯ ಅಧಿಷ್ಟಾಪನೆ ಮತ್ತು ಅದರ ಶಿಲುಬೆಗಳ ಹಂಚಿಕೆ;\n(ಞ) ನಿರ್ದಿಷ್ಟ ನಿಧಿಯ ಯಾವುದೇ ಭಾಗದಿಂದ ವಿನಿಯೋಗಿಸುವಿಕೆ;\n(ಟ) ಕೇಂದ್ರ ಸರ್ಕಾರದ ಮಂಜೂರಾತಿ ಇಲ್ಲದೆ ಸಮಿತಿಯ ಯಾವುದೇ ಹಣದ ವಿನಿಯೋಗದ ಮೇಲೆ ನಿಷೇಧ;\n(ಠ) ಸಮಿತಿಯ ಇಲಾಖೆಯ ಲೆಕ್ಕಪತ್ರಗಳ ಮತ್ತು ಲೆಕ್ಕಪತ್ರಗಳ ಪರಿಶೋಧನೆ;\n(ಡ) ಸಮಿತಿಯ ಆಯವ್ಯಯದ ತಯಾರಿಕೆ, ಸಲ್ಲಿಕೆ ಮತ್ತು ಅನುಮೋದನೆ;\n(ಢ) ಸಮಿತಿಯ ನೌಕರರ ನೇಮಕಾತಿಗಳು, ಅವರ ವೇತನಗಳು ಮತ್ತು ಭತ್ಯೆಗಳು;\n(ಣ) ನಿಯಮಿತವಾದ, ಅಥವಾ ನಿಯಮಿತವಲ್ಲದ ಇತರ ಯಾವುದೇ ವಿಷಯ.\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

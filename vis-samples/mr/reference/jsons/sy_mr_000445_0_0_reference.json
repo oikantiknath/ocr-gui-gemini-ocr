@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_mr_000445_0_0_reference.png",
+      "width": 1297,
+      "height": 1943
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        1297.0,
+        1943.0
+      ],
+      "area": 2520071.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1297.0,
+          0.0,
+          1297.0,
+          1943.0,
+          0.0,
+          1943.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "7. Nicholas, David: The Evolution of the Medieval World, Society, Government and\nthought in Europe, 312-1500, Rout ledge, 1992.\n8. Ray, U.N.: Vishwa Sabhyata Ka Itihas, Lok Bharti Prakashan, 2017.\n9. Swain J.E: A History of World Civilization, McGraw Book, New York, 1938, reprint,\nS. Chand, New Delhi 2000.\n10. Trever, A. Albert: History of Ancient Civilization Harcourt, Brace, 1936.\n11. Wells, H.G: The Outline of History, George Newness Revised Edition 1971.\n12. Sharma, Manoj: History of World Civilization, Anmol Pub, New Delhi, 2005\n13. A.H. M. Jones, Athenian Democracy, Oxford, 1969.\n14. A.H. M. Jones, The Roman Economy, Oxford, 1974.\n15. Amar Farooqi, Ancient Social Formations (also in Hindi), Delhi, 2001.\n16. Antony Andrews, Greek Society, Harmondsworth, 1991.\n17. Antony Andrews, The Greeks, London, 1968.\n18. Barbara Bender, Farming in Prehistory, London, 1977.\n19. Brian Fagan, Peoples of the Earth: An Introduction to World Prehistory, 11th Edition,\n2004.\n20. Bruce Trigger, et al, Ancient Egypt: A Social History, Cambridge, 1983.\n21. D. Rindos, The Origins of Agriculture, New York, 1984.\n22. D.R. Harris (ed) The Origin and Spread of Agriculture and Pastoralism in Eurasia,\nLondon, 1966.\n23. D.R. Harris and G. Hillman, Foraging and Farming, London, 1989.\n24. D.T. Potts, Mesopotamian Civilization: the Material Foundation, London, 1997.\n25. E. Leacock and R. Lee (eds), Politics and History in Band Societies, Cambridge,\n1982.\n26. E. M. Balsden, The Story of Empire,\n27. F. Dahlberg, Women the Gatherer, London, 1981.\n28. G. Alfoldy, The Social History of Rome, London, 1985.\n29. G. Dalton (ed), Tribal and Peasant Economies, New York, 1967.\n30. G.E.M. de Ste Croix, The Class Struggle in the Ancient Greek World, Ithaca, 1987.\n31. George, Roux, Ancient Iraq, Third Edition, Harmondsworth, 1992.\n32. H.J.M. Claessen and P. Skalnik (eds), The Early State, the Hague, 1978.\n33. J. Gledhill, B. Bender, and M.J. Larsen (eds), State and Society, London, 1988.\n35. J. Middleton and D. Tait, Tribes without Rulers, London, 1958.\n36. J.N. Postgate, Early Mesopotamia: Society and Economy at the Dawn of History,\nLondon, 1992.\n37. K. Polanyi et. al, Trade and Market in Early Empires, Glencoe, 1957.\n38. L. De Blois and R. J. Van Der Spek, An Introduction to the Ancient World (Second\nEdition), New York, 2008.\n39. M.D. Sahlins, Tribesmen, Englewood Cliffs, 1969.\n40. M.I. Finley, Ancient Economy, Berkley, 1973.\n41. M.I. Finley, Politics in Ancient World, Cambridge, 1983.\n42. Perry Anderson, Passages from Antiquity to Feudalism, London, 1978.\n43. R.B. Lee and I de Vore (eds), Man the Hunter, Chicago, 1968."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

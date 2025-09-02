@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nv_te_000838_1_0_ordered-list.png",
+      "width": 213,
+      "height": 337
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        213.0,
+        337.0
+      ],
+      "area": 71781.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          213.0,
+          0.0,
+          213.0,
+          337.0,
+          0.0,
+          337.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "6. ఆలోచించి మాట్లాడటం (THINK & TALK)\nమాట్లాడే సమయంలో సమయం, సందర్భాన్ని బట్టి\nఆలోచించి తగిన విధంగా మాట్లాడాలి. మన ఎదురుగా\nఉన్నవారు పెద్దలయినప్పుడు మర్యాదగా, సమ\nవయస్కులైనప్పుడు ఫ్రెండ్స్‌లాగ, పిల్లలైనప్పుడు ఆప్యాయంగా\nమాట్లాడాలి. అలాగే అవతలి వారు కూడా అదేవిధంగా\nమాట్లాడాలని ఆశించడంలో తప్పులేదు. కాని ఎదుటివారు\nమనకన్నా చిన్నవారు, మనల్ని దామివేసే చేసూ\nమాట్లాడినప్పుడు, సున్నితంగా హెచ్చరిస్తూ మాట్లాడాలి.\nఅలాకాకుండా “బావుండదు ఏం అనుకుంటారో ఏమో!”\nఅనుకుంటే మీకు తాటకూలు కట్టి తీరుతారు.\n\n7. స్వతంత్ర భావాలు కలిగి ఉండటం\n(INDEPENDENT NATURE)\n\nమీ యొక్క అభిప్రాయాలను వ్యక్తపరచి మాకు\nమీకుందని మీరున్నప్పుడూ మర్చిపోవద్దు. ఎదుటివారిని తృప్తి\nపరచడానికి వారి మాటలకు ‘సై’ అన్నారంటే తరువాత\nచిక్కుల్లో పడతారు. ఉదాహరణకు గుజరాత్ ముఖ్యమంత్రిని\nతప్పించాలని కొందరు, పిల్లలదని కొందరు బల్లగుద్ది\nవాదించారు. ఇందులో రాజకీయం ఉందా? లేదా? అనే\nమాట అటుంచి తమ అభిప్రాయాలను చివరి వరకు ఒకే\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

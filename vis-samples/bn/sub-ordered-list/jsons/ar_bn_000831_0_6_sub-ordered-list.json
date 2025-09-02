@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000831_0_6_sub-ordered-list.png",
+      "width": 480,
+      "height": 635
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        635.0
+      ],
+      "area": 304800.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          480.0,
+          0.0,
+          480.0,
+          635.0,
+          0.0,
+          635.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ক) “কেন্দ্রীয় অন্তঃশুল্ক আইন” বলিতে কেন্দ্রীয়\nঅন্তঃশুল্ক ও লবণ আইন, ১৯৪৪ বুঝাইবে ;\n\n(খ) “কারখানা” বলিতে এরূপ কোন পরিসর ও তৎসহ\nউহার পরিপার্শ্ব বুঝাইবে, যেখানে বা যাহার কোন\nঅংশে চিনি প্রস্তুত করা হইতেছে, অথবা যেখানে বা\nযাহার কোন অংশে চিনির উৎপাদনের সহিত সংশ্লিষ্ট\nকোন প্রস্তুতকরণ প্রক্রিয়া চালান হইতেছে বা সাধারণত:\nচালান হয়, এবং উহা এরূপ কোন পরিসর\nঅন্তর্ভুক্ত করিবে যেখানে, যে চিনি সম্পর্কে কেন্দ্রীয়\nঅন্তঃশুল্ক আইন বা অতিরিক্ত অন্তঃশুল্ক (বিশেষ\nগুরুত্বপূর্ণ দ্রব্য) আইন, ১৯৬৭ অনুযায়ী প্রদেয়\nঅন্তঃশুল্ক প্রদত্ত হয় নাই, সেই চিনি গুদামজাত\nকরা হয় ;\n\n(গ) “চিনি” বলিতে যেকোন প্রকারের চিনি বুঝাইবে\nউহা সম্পূর্ণতই প্রস্তুত হউক বা অংশত:ই প্রস্তুত\nহউক, কিন্তু উহা অন্তর্ভুক্ত করিবে না—\n(i) খান্ডসারী চিনি, অর্থাৎ যে চিনি প্রস্তুতকরণে কোনও\nনির্বাত পাত্র বা নির্বাত বাষ্পীকরণ যন্ত্র কোনটিই\nব্যবহৃত হয় না ; অথবা\n(ii) তাল-চিনি, অর্থাৎ পালমারা জাতীয় তালগাছের\nরস জ্বাল দিয়া প্রাপ্ত তালের গুড় হইতে প্রস্তুত\nচিনি।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_kn_000075_0_0_paragraph.png",
+      "width": 191,
+      "height": 245
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        191.0,
+        245.0
+      ],
+      "area": 46795.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          191.0,
+          0.0,
+          191.0,
+          245.0,
+          0.0,
+          245.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಸಮಯವೇಕೂ ಹೆಚ್ಚು ಹಿಡಿಯಲಿಲ್ಲ.\nಬಂದಿತು. ಸಂಗಮ ಬಿ. ಎ. ಪರೀಕ್ಷೆಯಲ್ಲಿ ಕೂಡ\nಅದೇ ತರಹದಲ್ಲಿ ಪಾಸಾಗಿದೆ. ಅವನಲ್ಲಿ ಎಲ್ಲ\nರೀತಿಯಾದ ವಿಶೇಷ ತರಹದಲ್ಲಿ ಪಾಸಾಗಿ\nದ್ದಾನೆ. ಸಂಗಮ ನಿಖರ ಮುಂದೆ ಓದುವದನ್ನು\nಬಿಟ್ಟು, ಅವನ ತಂದೆಯಾಗಿ ನಿಖರ ಮನೆಗೆ\nಸಹಾಯವನ್ನು ತರಬಾರದು. ಒಂದು ಕಡೆ\nಸಹಾಯವೇ ಇಲ್ಲದಿದ್ದರೆ, ಅವನ ತಂದೆಯ\nಮನೆಗೆಲ್ಲಾ ತೊಂದರೆ. ದಿನೇದಿನೇದಿನೇ ಸಂಗಮ\nಸಹಾಯಕ್ಕೆ ನಿಖರವಾದ ಸ್ಥಳವಿಲ್ಲ. ಹೀಗಾಗಿ\nಸಂಗಮ ಮನೆಯಾಗಿ ಮುಂದೆ ಓದುವದನ್ನು\nನಿಖರ ಮಾಡಲಾಯಿತು. ಮನೆಗೆಲ್ಲಾ ಸಂಗಮ\nಮಕ್ಕಳು. ಇದು ಅವನ ಪ್ರಾಯದಲ್ಲಿ ಹೆಚ್ಚು\nಹಿರಿದಾದ ದಿನಗಳಲ್ಲ. ಈ ಎಲ್ಲ ರೀತಿಯ\nಮನೆಯಲ್ಲಿ ಸುಖವಾಗಿರಬೇಕೆಂದು ಸಂಗಮರಿಗೆ ಮನ\nಬಂದಿತು."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

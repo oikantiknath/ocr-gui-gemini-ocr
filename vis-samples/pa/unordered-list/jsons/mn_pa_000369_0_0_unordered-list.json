@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_pa_000369_0_0_unordered-list.png",
+      "width": 1416,
+      "height": 462
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        1416.0,
+        462.0
+      ],
+      "area": 654192.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1416.0,
+          0.0,
+          1416.0,
+          462.0,
+          0.0,
+          462.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* ਤੁਹਾਡੇ ਵਾਹਨ ਵਿੱਚ ਕਾਰਬਨ ਮੋਨੋਆਕਸਾਈਡ ਦੇ ਜ਼ਹਿਰ ਨੂੰ ਰੋਕਣ ਲਈ ਤੁਹਾਡੇ ਵਾਹਨ ਦੇ ਐਗਜ਼ਾਸਟ ਸਿਸਟਮ ਅਤੇ ਸਲੰਡਰ ਦੀ ਨਿਯਮਿਤ ਜਾਂਚ-ਪੜਤਾਲ ਜ਼ਰੂਰੀ ਹੈ। ਜੇ ਤੁਸੀਂ ਆਪਣੇ\n  ਐਗਜ਼ਾਸਟ ਸਿਸਟਮ ਵਿੱਚ ਛੇਕ ਜਾਂ ਹੋਰ ਕਮੀਆਂ ਲੱਭਦੇ ਹੋ ਤਾਂ ਤੁਰੰਤ ਕਿਸੇ ਆਟੋਮੋਟਿਵ ਮਾਹਰ ਦੁਆਰਾ ਜਾਂਚ ਕਰਾਓ।\n* ਗਰਾਜ ਦੇ ਦਰਵਾਜ਼ੇ ਨੂੰ ਖੁੱਲ੍ਹਾ ਰੱਖੋ ਜਾਂ ਅੱਗੇ ਤੋਂ ਖੁੱਲ੍ਹੇ ਕਾਰਬਨ ਦੇ ਵਾਹਨ ਦੇ ਵਿੱਚ ਆਪਣੇ ਵਾਹਨ ਨੂੰ ਚਾਲੂ ਨਾ ਕਰੋ। ਆਪਣੇ ਗਰਾਜ ਦਰਵਾਜ਼ੇ ਨੂੰ ਪੂਰੀ ਤਰ੍ਹਾਂ ਖੋਲ੍ਹੋ ਜੇਕਰ ਤੁਹਾਡਾ ਵਾਹਨ\n  ਤੁਹਾਡੇ ਗਰਾਜ ਵਿੱਚ ਚੱਲ ਰਿਹਾ ਹੈ।\n* ਜੇਕਰ ਤੁਹਾਡਾ ਵਾਹਨ ਚਾਲੂ ਨਹੀਂ ਹੈ ਅਤੇ ਤੁਸੀਂ ਇਸਨੂੰ ਕਮਿਊਨਿਟੀ ਗਰਾਜ ਵਿੱਚ ਖੜ੍ਹੇ ਕਰਦੇ ਹੋ, ਤਾਂ ਵਾਹਨ ਨੂੰ ਬੰਦ ਕਰਨਾ ਕਦੇ ਨਾ ਭੁੱਲੋ।\n* ਬਰਫ਼ਬਾਰੀ ਵਾਲੇ ਦਿਨ, ਹਮੇਸ਼ਾ ਆਪਣੀ ਟੇਲ ਪਾਈਪ ਨੂੰ ਸਾਫ਼ ਰੱਖੋ ਅਤੇ ਕੋਈ ਵੀ ਬਰਫ਼ ਜਾਂ ਹੋਰ ਰੁਕਾਵਟ ਤੁਹਾਡੀ ਵਾਹਨ ਦੀ ਟੇਲ ਪਾਈਪ ਦੇ ਵਿੱਚ ਰੁਕਾਵਟ ਬਣ ਰਹੀ ਹੈ।\n* ਜੇਕਰ ਤੁਸੀਂ ਟਰੈਫਿਕ ਦੇ ਵਿੱਚ ਫਸੇ ਗਏ ਹੋ ਜਾਂ ਜੇ ਤੁਸੀਂ ਇੱਕ ਅੰਡਰਗਰਾਊਂਡ ਵਾਹਨ ਦੇ ਵਿੱਚ ਹੋ, ਤਾਂ ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਤੁਸੀਂ ਅਸਲ ਤੋਂ ਤਿੰਨ ਫੁੱਟ ਪਿੱਛੇ ਰਹਿੰਦੇ ਹੋ।\n* ਆਪਣੇ ਵਾਹਨ ਵਿੱਚ ਇੱਕ ਬੈਟਰੀ ਸਥਾਪਤ ਕਰਨ ਮੋਨੋਆਕਸਾਈਡ ਡਿਟੈਕਟਰ ਲਗਾਉਣ ਬਾਰੇ ਵਿਚਾਰ ਕਰੋ ਅਤੇ ਹਰ ਸਮੇਂ ਸਪੱਸ਼ਟ ਅਤੇ ਪੜ੍ਹਨ ਵਾਲੇ ਬੈਟਰੀਆਂ ਦੀ\n  ਜਾਂਚ ਕਰੋ ਜਾਂ ਬਦਲੋ।\n* ਜੇਕਰ ਤੁਹਾਨੂੰ ਆਪਣੇ ਵਾਹਨ ਵਿੱਚ ਕਾਰਬਨ ਮੋਨੋਆਕਸਾਈਡ ਦੇ ਜ਼ਹਿਰ ਦਾ ਸ਼ੱਕ ਹੋਵੇ, ਤਾਂ ਤੁਹਾਡੇ ਵਾਹਨ ਤੋਂ ਬਾਹਰ ਨਿਕਲੋ, ਤਾਜ਼ੀ ਹਵਾ ਲਓ, ਅਤੇ ਤੁਰੰਤ ਐਮਰਜੈਂਸੀ ਡਾਕਟਰੀ ਸਹਾਇਤਾ ਲਓ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

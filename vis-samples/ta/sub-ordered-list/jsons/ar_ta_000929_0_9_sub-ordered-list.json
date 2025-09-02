@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_000929_0_9_sub-ordered-list.png",
+      "width": 704,
+      "height": 398
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        704.0,
+        398.0
+      ],
+      "area": 280192.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          704.0,
+          0.0,
+          704.0,
+          398.0,
+          0.0,
+          398.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(அ) “சட்டுபெயர்” என்பது, கல்வி வழியாகச் சொத்தினை சட்டுக்கிற\nபிரிவினையாகாத ஓர் இந்துக் குடும்பத்தின் உறுப்பினர் ஒருவர் என்று\nபொருள்படும்;\n(ஆ) “கல்விவழி சட்டிய சொத்து” என்பது, அத்தகைய சட்டங்கள், இந்தச்\nசட்டத்தின் தொடக்கநிலைக்கு முன்போ, பின்போ\nசட்டப்பட்டதாயினும் அத்தகைய கல்வியின் பொதுவான அல்லது\nசிறப்பான பயனால் ஏற்பட்டதாயினும், பெருமளவு கல்வி வழியாக\nசட்டப்பட்ட சொத்துக்கள் அனைத்தும் என்று பொருள்படும்; மற்றும்\n(இ) “கல்வி” என்பது, தொடக்கநிலை, தொழில் நுட்பம், அறிவியல்,\nசிறப்பியல் அல்லது பொதுவியல் கல்விப் பயிற்சி என்றும்,\nவாழ்க்கையில் ஏதேனும் வணிகத்தொழிலை, விசைத் தொழிலை,\nவிழைத்தொழிலை, தேர் தொழிலை, ஒருவர் மேற்கொள்வதை இயல்விக்க\nவழக்கமாகக் கருதப்படுகிற ஒவ்வொரு வகை பயிற்சி என்றும்\nபொருள்படும்."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_mr_000684_0_1_unordered-list.png",
+      "width": 1091,
+      "height": 695
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        1091.0,
+        695.0
+      ],
+      "area": 758245.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1091.0,
+          0.0,
+          1091.0,
+          695.0,
+          0.0,
+          695.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* समाजात निम्नस्थानी असलेला स्त्री पार्टी दुय्यम नट हा या नाटकातील नायक आहे.\nपूर्णतः कर्तृत्वहीन, पराभूत, अगतिक, दुर्बळ अशी व्यक्ती नाटकात केंद्रस्थानी असणे हे\nआधुनिक काळातील नायक संकल्पनेतील परिवर्तन आहे.\n* व्यक्तिमत्त्वाचे दुभंगलेपण हे या नायकाचे वैशिष्ट्य आहे. नायकाच्या जगण्याचा अपरिहार्य\nभाग असलेले वास्तव जग आणि आपल्या अभावग्रस्त आणि शोषित जिण्यापासून सुटका\nमिळवण्यासाठी त्याने निर्माण केलेले कल्पित जग अशा दोन स्तरांवर तो वावरतो आहे.\n* स्वतःचा शोध घेऊ पाहणारा, आपल्या प्रवृत्ती प्रेरणांची, इच्छा आकांक्षांची पूर्तता न होऊ\nशकण्याची कारणे शोधणारा, जगण्यातील दुःखाचे चिंतन करणारा हा नायक आहे.\n* दडपलेल्या लैंगिक वासनांचे व्यक्तीच्या अबोध मनातील अस्तित्व तिच्या मानसिक\nदुर्बलतेचे, दुभंग व्यक्तिमत्त्वाचे कारण असते. बेगम बर्वे मधील नायक माणसाच्या\nवर्तनव्यवहारावर परिणाम करणाऱ्या आंतरिक विश्वाचे मानवी जगण्यातील स्थान\nअधोरेखित करतो."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

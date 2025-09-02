@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "tb_bn_000731_0_2_ordered-list.png",
+      "width": 544,
+      "height": 500
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        544.0,
+        500.0
+      ],
+      "area": 272000.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          544.0,
+          0.0,
+          544.0,
+          500.0,
+          0.0,
+          500.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "Timothy Flannery, The Future Eaters: An Ecological\nHistory of the Australasian Lands and Peoples (Port\nMelbourne: Reed Books Australia, 1994); Anthony D.\nBarnosky et al., ‘Assessing the Causes of Late\nPleistocene Extinctions on the Continents’, Science\n306:5693 (2004): 70–5; Barry W. Brook and David M.\nJ. S. Bowman, ‘The Uncertain Blitzkrieg of Pleistocene\nMegafauna’, Journal of Biogeography 31:4 (2004),\n517–23; Gifford H. Miller et al., ‘Ecosystem Collapse\nin Pleistocene Australia and a Human Role in\nMegafaunal Extinction’, Science 309:5732 (2005),\n287–90; Richard G. Roberts et al., ‘New Ages for the\nLast Australian Megafauna: Continent Wide Extinction\nabout 46,000 Years Ago’, Science 292:5523 (2001),\n1,888–92.\nStephen Wroe and Judith Field, ‘A Review of\nEvidence for a Human Role in the Extinction of\nAustralian Megafauna and an Alternative Explanation’,"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

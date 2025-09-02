@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_ta_000460_1_0_reference.png",
+      "width": 467,
+      "height": 531
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        467.0,
+        531.0
+      ],
+      "area": 247977.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          467.0,
+          0.0,
+          467.0,
+          531.0,
+          0.0,
+          531.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "worklife/article/20190213-is-waking-up-early-good-or-bad#\nNasrullah, S; Khan, M.S. (2015). The Impact of Time Management on the Students' Academic\nAchievements. Journal of Literature, Languages and Linguistics, 11, 66-71.\nhttps://www.iiste.org/\nPalliveettil, A. R. (2012). Time Management Islamic perspective [PowerPoint slides].\nSlideShare. https://www.slideshare.net/AbdurahmanPalliveettil/tame-your-time\nRazali, S.N.A.M., Rusiman, M.S., Gan, W.S., & Arbin, N. (2018). The Impact of Time\nManagement on Students' Academic Achievement. Journal of Physics: Conference\nSeries, 995, 12042, 1-7. doi: 10.1088/1742-6596/995/1/012042\nRazi, S. (2016). Time Management in Islam. Al-Idah, 32(1), 98-106. http://al-idah.szic.pk/index.\nphp/al-idah/article/view/159\nRukshana, B.F. (2018 May). Nera Mugamaithuvam [Time Managment]. News View.\nhttps://www.newsview.lk/2018/05/blog-post_4640.html\nSatija, S., & Satija, P. (2013). Time Management: An Insight with Indian Perspective.\nPurushartha, V(2), 115-134. https://journals.smsvaranasi.com/index.php/purushartha/\narticle/download/274/260/\nShah, M; Sadaratullah, Al-Azhari, M.R.K; Rahman, S; Fayaz, M; Khan, K. (2016). Effects, Need\nand Importance of Research Art in Islamic Teachings. Journal of Applied Environmental\nand Biological Sciences, 6(10), 154-156. http://www.textroad.com/\nSubramanian, A. (2016). Time Management and Academic Achievement of Higher Secondary\nSchool Students. International Journal of Research - Granthaalayah, 4(12SE), 6-15.\nhttps://doi.org/10.5281/zenodo.230852\nTaylor, Harold. (2014, December 12). Spirituality impacts time management. taylor in time.\nhttps://www.taylorintime.com/?s=SpiriTatuality+impacts+time+management\nTaylor, Harold. (2014, October 30). Sleep is an important time management strategy. taylor in\ntime. https://www.taylorintime.com/sleep-is-an-important-time-management-strategy/\nThompson, C.A. (2002). Managing the Work-Life Balancing Act: An Introductory Exercise.\nJournal of Management Education 26(2),205-220. doi: 10.1177/105256290202600206\nWallace, Heather. Sedges. (2010). An Investigation of Time Management and Organization in\nHead Start Families (Doctoral Dissertation, University of Tennessee, Knoxville,\nTennessee). https://trace.tennessee.edu/utk_graddiss/756\nXu, Chunming., Wang, Can., & Yang, Nan. (2020). Study on College Students' Spare Time\nManagement. Proceedings of the 5th International Conference on Financial Innovation\nand Economic Development (ICFIED 2020), 11 March 2020. Advances\nin Economics, Business and Management Research, 126, 20-23.\nhttps://dx.doi.org/10.2991/aebmr.k.200306.005"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

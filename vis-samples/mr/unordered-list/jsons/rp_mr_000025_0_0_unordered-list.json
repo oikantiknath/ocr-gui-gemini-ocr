@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_mr_000025_0_0_unordered-list.png",
+      "width": 1175,
+      "height": 783
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        1175.0,
+        783.0
+      ],
+      "area": 920025.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1175.0,
+          0.0,
+          1175.0,
+          783.0,
+          0.0,
+          783.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "• ‘थिएटर ॲकॅडमी’ (१९७३) :- ‘घाशीराम कोतवाल’ नाटकावरून वाद होऊन जब्बार\nपटेल, सतीश आळेकर, मोहन आगाशे, श्रीधर राजगुरु ही मंडळी पी.डी.ए. मधून बाहेर पडली\nव थिएटर ॲकॅडमी नावाची संस्था यांनी काढली. पंचवीसपेक्षा अधिक नाटके, काही एकांकिका,\nकाही संगीतिका, काही परभाषिक नाटके, नाट्यशिबिरे असे रंगभूमीशी संबंधित अनेक उपक्रम या\nसंस्थेने केले. ‘तीन पैशाचा तमाशा’, ‘घाशीराम कोतवाल’, ‘महानिर्वाण’, ‘महापूर’, ‘बेगम\nबर्वे’ आणि ‘पडघम’ हे थिएटर ॲकॅडमीच्या नाट्यप्रवासातील प्रातिनिधिक टप्पे आहेत. या संस्थेच्या\nनाटकापूर्वी गद्यात्मक वा संगीतात्मक असा ठोकळेबाजपणा व्यावसायिक नाटकांत होता. प्रेक्षकांना ते\nरुचतही होते. अशा नाटकांत एक प्रकारचा कृत्रिमपणा व अस्वाभाविकपणा जाणवत होता. परंतु\nथिएटर ॲकॅडमीने आपल्या नाटकांद्वारे व्यक्तिचित्रणाचा एक भाग म्हणून, नेपथ्य म्हणून संगीताचा\nवापर करून घेणे हे एक धाडस केले. ते धाडस प्रस्थापित करणे हेच मराठी प्रायोगिक\nरंगभूमीस व व्यावसायिक रंगभूमीस थिएटर ॲकॅडमीने दिलेले मोठे योगदान आहे. संहितेचा\nअपरिहार्य संदर्भ म्हणूनच ‘तीन पैशाचा तमाशा’, ‘घाशीराम कोतवाल’, ‘महानिर्वाण’, ‘बेगम\nबर्वे’ या नाटकांत संगीत आले आहे."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

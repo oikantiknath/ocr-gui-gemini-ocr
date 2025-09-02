@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_ml_000171_0_4_subsub-headline.png",
+      "width": 971,
+      "height": 377
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        971.0,
+        377.0
+      ],
+      "area": 366067.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          971.0,
+          0.0,
+          971.0,
+          377.0,
+          0.0,
+          377.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. യാത്രക്കാരിൽനിന്നും ടിക്കറ്റുകൾ നൽകാതിരിക്കുക (യാത്രാടിക്കറ്റ്, ലഗേജ് ടിക്കറ്റ്) (Collected Fare\nand non-issue of tickets)\n2. യാത്രക്കാരിൽനിന്നും ടിക്കറ്റുകൾ നൽകാതിരിക്കുകയും (Uncollected fare and non-\nissue of tickets)\n3. മനഃപൂർവ്വം യാത്രക്കാരോ ലഗേജ് ടിക്കറ്റോ നൽകാതിരിക്കുകയും ഇൻസ്പെക്ടറെ കണ്ട മാത്രയിൽ\nടിക്കറ്റ് കൊടുക്കുകയും ചെയ്യുക (Attempt of fraud and issue of tickets at the sight of inspector)\n4. മുഴുവൻ യാത്രക്കാരിൽനിന്നും മുൻകൂട്ടി വാങ്ങിയശേഷം കുറഞ്ഞ തുകയ്ക്കുള്ള ടിക്കറ്റ് നൽകി പണവ\nഹരണം നടത്തുക (Collected correct fare and issue of lesser valued tickets)\n5. ഉപയോഗിച്ച ടിക്കറ്റ് വീണ്ടും നൽകുക (Re-issue of tickets)\n6. ടിക്കറ്റ് തെറ്റായി മാർക്ക് ചെയ്ത് നൽകുക (Issue of mismarked tickets)\n7. ടിക്കറ്റിൽ മാർക്ക് ചെയ്തിരുന്നത് മായ്ച്ച് വീണ്ടും യാത്രക്കാർക്ക് നൽകുക (Issue of rubbed tickets)\n8. മനഃപൂർവ്വം ടിക്കറ്റുകൾ കീറിയും മുറിച്ചും നൽകുക. (Issue of mutilated and broken tickets\nintentionally)\n9. മാർക്ക് ചെയ്യാതെ ടിക്കറ്റുകൾ കൊടുക്കുക (Issue of unmarked tickets)"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

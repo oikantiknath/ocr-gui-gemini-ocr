@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_000118_0_6_sub-ordered-list.png",
+      "width": 916,
+      "height": 282
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        916.0,
+        282.0
+      ],
+      "area": 258312.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          916.0,
+          0.0,
+          916.0,
+          282.0,
+          0.0,
+          282.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(1) நாடாளுமன்ற சட்டத்தினால் பிறவாறு வகைசெய்தால் அல்லாமல், ஒன்றியத்து\nஆட்சிநிலவரை ஒவ்வொன்றையும், குடியரசுத்தலைவர் தாம் குறித்துரைக்கும் பதவிப்பெயருடன்\nஅமர்த்தும் ஆளுகையர் ஒருவர் மூலமாகத் தாம் தக்கதெனக் கருதுகிறவாறு நிர்வாகம்\nசெய்வார்.\n\n(2) IV ஆம் பகுதியில் அடங்கியுள்ள எது எவ்வாறிருப்பினும், குடியரசுத்தலைவர், ஒரு\nமாநிலத்தின் ஆளுநரை அந்த மாநிலத்தை ஒட்டியுள்ள ஒன்றியத்து ஆட்சிநிலவரை ஒன்றின்\nஆளுகையாக அமர்த்தலாம்; அவ்வாறு ஆளுநர் ஒருவர் அமர்த்தப்பெறுமிடத்து, அவர் தமது\nஅமைச்சரவையைச் சாராது தனித்து அத்தகைய ஆளுகையாகத் தமது பதவிப்பணிகளை\nஆற்றுவார்."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

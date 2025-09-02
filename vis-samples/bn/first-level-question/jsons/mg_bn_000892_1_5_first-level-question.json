@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_bn_000892_1_5_first-level-question.png",
+      "width": 693,
+      "height": 792
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 8,
+      "bbox": [
+        0.0,
+        0.0,
+        693.0,
+        792.0
+      ],
+      "area": 548856.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          693.0,
+          0.0,
+          693.0,
+          792.0,
+          0.0,
+          792.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "যম বললেন, “না, শিকার হওয়ার কোন রাগ নেই। কারণ,\nযাঁহারা মাসিক আজবিকা কোনও চিহ্নই রাখে না সাংবাদিকতাতে।\nতবে আমি আদারকে ফোন করে রাগটা না জানালে, উনি কিন্তু\nআমাকে ফোন করে ফলাফল জানতে চান। এবং সেই ফোনটা ছিল\nএকটি বিপদঘটিত। উনি আমাকে প্রশ্ন করেন, ‘রেজাল্ট কী হল?\nসাংবাদিকটা অনর্গল?’ আমি বলেছিলাম, ‘আপনি তো ভালমতোই\nজানেন সাংবাদিক হয়ে মাসিক আজবিকা পরিষদ যায় না। তবু কেন এটা\nবলছেন?’ উনি বলেছিলেন, ‘আমিও তো পাই বাবা। আপনারা জ্ঞানী\nমানুষ। নানা রকম রিসার্চের মাধ্যমে বের করে ফলতেই পারেন\nসাংবাদিকটা অনর্গল কিনা?’ আমার ফোন শুনে রহিম আমাকে\nঅপমান করার জন্য উনি কথাটা বলছেন। আসলে আমি বারবার\nওঁকে বলেছি, এই সাংবাদিকটা অনর্গল। এতে হওয়ার সম্ভাবনা\nপ্রবল। উনি সেটা মানতে চাইতেন না। বলতেন, তোরা শতেক এই\nছোট্ট সাংবাদিক হনর্গল আনতে ছিল। অনর্গলের মতো পরিপক্ক,\nজ্ঞানী মানুষ এই ছোট সাংবাদিকতে থাকতে পারেন কেন? আপনাদের\nউন্নত এলাকার আরও অনেক বড়-বড় সাংবাদিক ছিল। যদিও সে সব\nসাংবাদিক এখন আর কোনও অস্তিত্ব নেই। প্রাকৃতিক দুর্যোগ কিংবা\nঅন্যান্য কার্যকলাপের কারণে বিলীন হয়েছে।... কিন্তু এই যত\nপোকাণ করতেন, তিনি কেন ফোন করে আমাকে জিজ্ঞেস করেন\nসাংবাদিকটা অনর্গল কিনা? এটা তোতোই আমার জন্য বড়ো বলে\nমনে হয়েছিল।”"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

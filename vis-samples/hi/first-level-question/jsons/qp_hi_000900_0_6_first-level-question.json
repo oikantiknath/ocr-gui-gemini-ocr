@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "qp_hi_000900_0_6_first-level-question.png",
+      "width": 465,
+      "height": 374
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 8,
+      "bbox": [
+        0.0,
+        0.0,
+        465.0,
+        374.0
+      ],
+      "area": 173910.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          465.0,
+          0.0,
+          465.0,
+          374.0,
+          0.0,
+          374.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "प्रश्न 1. निम्नलिखित अपठित गद्यांश को पढ़कर प्रश्नों के उत्तर लिखिए :\n1 x 5 = 5\nसुभाषचंद्र बोस बचपन से ही बड़े ही मेधावी और स्वाभिमानी थे। एंट्रेंस\nकी परीक्षा उत्तीर्ण करने के पश्चात् वे कोलकाता के प्रेसीडेंसी कालेज में\nपढ़ने लगे। इस कालेज में भारतीय विद्यार्थियों को अंग्रेज अध्यापक और\nअंग्रेज विद्यार्थी तिरस्कार की दृष्टि से देखते थे। इसे सहन करना\nसुभाष के स्वभाव में न था। इसी कारण उन्होंने एक दिन अंग्रेज\nअध्यापक का अपमान कर दिया। इसलिए उन्हें कॉलेज से निकाल दिया\nगया। बाद में उन्हें कोलकाता विश्वविद्यालय में प्रवेश मिला। वहाँ से\nउन्होंने प्रथम श्रेणी में बी.ए. की परीक्षा उत्तीर्ण की।\n(क) सुभाषचंद्र बोस बचपन में कैसे थे?\n(ख) अंग्रेज भारतीय विद्यार्थियों से कैसा व्यवहार करते थे?\n(ग) सुभाषचंद्र ने बी.ए. की परीक्षा कहाँ से और किस श्रेणी में उत्तीर्ण\nकी?\n(घ) विद्यार्थी का समानार्थी शब्द लिखें।\n(ङ) 'सम्मान' शब्द का विलोम शब्द अनुच्छेद से चुनकर लिखिए।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

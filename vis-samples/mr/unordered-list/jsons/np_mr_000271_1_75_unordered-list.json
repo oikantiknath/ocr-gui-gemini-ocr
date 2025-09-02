@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_mr_000271_1_75_unordered-list.png",
+      "width": 144,
+      "height": 324
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        144.0,
+        324.0
+      ],
+      "area": 46656.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          144.0,
+          0.0,
+          144.0,
+          324.0,
+          0.0,
+          324.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "त्यातील व्याख्या, तरतुदी, अपवाद यांमागील\nकारणे लक्षात येतील. हा कार्यकारण भाव -\nलाजिक लक्षात घेतला तर अधिनियमातील\nसगळीच कलमे व्यवस्थित समजून घेता\nयेतात आणि खरंच वेळा काही प्रश्न तारतम्य\n(कॉमन सेन्स) चारूनही सोडविता येतात.\n• अधिनियमातील सार्वजनिक प्राधिकरण,\nमाहिती, अभिलेख, माहितीचा अधिकार\nयांच्या व्याख्या बारकाईने समजून घ्यायला\nहव्यात.\n• सार्वजनिक प्राधिकरणाने स्वतःच घोषित\nकरावयाच्या माहितीची अधिनियमामध्ये\nनमूद केलेली यादी लांबलचक आहे. तरीही\nत्यातील मुद्यांमागचे लाजिक समजून घेतले\nतर लक्षात ठेवता येते आणि त्याबाबत प्रश्न\nविचारला गेला तर तारतम्याने उत्तर देता येते.\n• माहिती अर्ज निकाली काढण्यासाठी\nकलम ७ मध्ये विहीत केलेली कार्यवाही\nसमजून घ्यावी. यातील माहिती देणे, माहिती\nनाकारणे आणि अर्ज हस्तांतरीत करणे या\nतिन्ही बाबतीत करावयाची कार्यवाही,\nयाबाबतच्या कालमर्यादा माहीत असायला\nहव्यात. अर्ज हस्तांतरीत करणेबाबतची\nकार्यवाही कलम ६ मध्ये देण्यात आली\nआहे. तीही व्यवस्थित समजून घ्यायची.\n• माहिती नाकारण्याबाबतचे कलम ८\nआणि माहिती अधिकार कायदा लागू"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

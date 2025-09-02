@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_hi_000631_1_2_sub-ordered-list.png",
+      "width": 504,
+      "height": 174
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        504.0,
+        174.0
+      ],
+      "area": 87696.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          504.0,
+          0.0,
+          504.0,
+          174.0,
+          0.0,
+          174.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "27. वार्षिक वित्तीय विवरण—(1) उपराज्यपाल प्रत्येक वित्तीय वर्ष के संबंध में विधान सभा के समक्ष, राष्ट्रपति की पूर्व\nमंजूरी ने, उस वर्ष के लिए प्राक्कलित प्राप्तियां और व्यय का विवरण रखवाएगा जिसे इस भाग में “वार्षिक वित्तीय विवरण” कहा\nगया है।\n(2) वार्षिक वित्तीय विवरण में दिए हुए व्यय के प्राक्कलनों में,—\n(क) इस अधिनियम में राजधानी की संचित निधि पर भारित व्यय के रूप में वर्णित व्यय की पूर्ति के लिए\nअपेक्षित राशियां; और\n(ख) राजधानी की संचित निधि में से किए जाने के लिए प्रस्थापित अन्य व्यय की पूर्ति के लिए अपेक्षित राशियां,\nपृथक्-पृथक् दिखाई जाएंगी और राजस्व लेखे से होने वाले व्यय का अन्य व्यय से भेद किया जाएगा।\n(3) तत्समय प्रवृत्त किसी विधि में किसी बात के होते हुए भी, निम्नलिखित व्यय राजधानी की संचित निधि पर भारित\nव्यय होगा, अर्थात् :—"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

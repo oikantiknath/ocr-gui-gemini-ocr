@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_001032_1_2_ordered-list.png",
+      "width": 1879,
+      "height": 1359
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        1879.0,
+        1359.0
+      ],
+      "area": 2553561.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1879.0,
+          0.0,
+          1879.0,
+          1359.0,
+          0.0,
+          1359.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(২) পর্ষদ, এরূপ অনুসন্ধানের নিকর্ষের উপর ভিত্তি করিয়া কর্মকর্তাকে অপসারিত\nকরিতে পারিবেন অথবা যেরূপ উপযুক্ত গণ্য হইবে সেরূপ অন্য কোন ব্যবস্থা গ্রহণ করিতে\nপারিবেন এবং ঐ সংস্থান যুক্তিসঙ্গত সময়ের মধ্যে এরূপ নির্দেশাবলী পালন করিতে বাধ্য\nথাকিবেন।\n\n১৯। পর্ষদ, সংস্থানের কোন আকিবারিক বা আকিবারিকগণকে সংস্থানের অভিলক্ষ্যসমূহ,\nসাধারণ সীলমোহর, তহবিল ও অন্য কোন সম্পত্তির অতিরক্ষাকারীৰূপে নামোদিষ্ট করিতে\nপারিবেন।\n\n১৯। তফসিলে (৩)য় স্তরের অধীনে ক্রমিক নং ২ ও ৩-এ উল্লিখিত সমিতি সমূহের\nসদস্যগণকে তৎস্থানী সংস্থানসমূহের নিজ নিজ পর্ষদ, উহাকে পরামর্শমূলক সহায়তা প্রদানের\nজন্য তৎপক্ষে গৃহীত সংকল্প দ্বারা নিয়োজিত করিতে পারিবেন।\n\n২০। (১) পর্ষদ, প্রনিয়মাবলী দ্বারা সংস্থানের কমিটিসমূহ এবং অন্যান্য প্রাধিকার গঠন\nকরিতে পারিবেন এবং এরূপ প্রত্যেক কমিটি ও প্রাধিকারের কর্তব্যসমূহ ও কৃতাসমূহ বিনির্দিষ্ট\nকরিতে পারিবেন।\n\n(২) পর্ষদ, সংস্থানের কার্যাবলীর যথাযথ পরিচালনার জন্য যেরূপ উপযুক্ত গণ্য করিবেন\nসেরূপ তদর্থক কমিটিসমূহ গঠন করিতে পারিবেন।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

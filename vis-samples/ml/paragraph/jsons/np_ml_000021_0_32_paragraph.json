@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_ml_000021_0_32_paragraph.png",
+      "width": 294,
+      "height": 406
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        294.0,
+        406.0
+      ],
+      "area": 119364.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          294.0,
+          0.0,
+          294.0,
+          406.0,
+          0.0,
+          406.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "മിസ് യൂണിവേഴ്സ് പട്ടം സ്വന്തമാ\nക്കി മെക്സിക്കൻ സുന്ദരി ആ\nൻഡ്രിയ മെസ. ഫ്ലോറിഡയിൽ ഇന്ന\nലെ നടന്ന മത്സരത്തിൽ ബ്രസീൽ, പെ\nറു രാജ്യങ്ങളിൽ നിന്നുമുള്ള മത്സരാ\nർത്ഥികളെ പിന്നിലാക്കിയാണ് ആ\nൻഡ്രിയ ഒന്നാമത് എത്തിയത്. 73 പേർ\nപങ്കെടുത്ത മത്സരത്തിലാണ് മിസ് മെ\nക്സിക്കോ ആയ ആൻഡ്രിയ മിസ് യൂ\nണിവേഴ്സായത്. ബ്രസീലിൽ നിന്നുള്ള\nജൂലിയ ഗാമ രണ്ടാമതും പെറുവിലെ\nജാനിക്ക് മാസെറ്റ മൂന്നാമതും എത്തി.\nമിസ് ഇന്ത്യ അഡ്‌ലൈൻ കാസ്റ്റെലിനം\nആണ് മൂന്നാം റണ്ണറപ്പായത്. 22 കാ\nരിയായ അഡ്‌ലൈൻ ബ്യൂട്ടി പേജന്റ്\nമത്സരത്തിൽ നാലാം സ്ഥാനം നേ\nടി. മുൻ മിസ് യൂണിവേഴ്സ് സോസി\nബിനി തുൻസിയോണാണ് ആൻഡ്രിയ\nയെ വിശ്വസുന്ദരി കിരീടം ചൂടിപ്പിച്ച\nത്"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

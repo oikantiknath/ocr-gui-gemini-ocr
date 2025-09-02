@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_ml_000835_0_0_reference.png",
+      "width": 1828,
+      "height": 2837
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        1828.0,
+        2837.0
+      ],
+      "area": 5186036.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1828.0,
+          0.0,
+          1828.0,
+          2837.0,
+          0.0,
+          2837.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "57. വേലായുധൻ, പണിക്കശ്ശേരി. 2017, നവോത്ഥാന കണ്ട് കേരളം, ഒന്നാം പതിപ്പ്,\nകോട്ടയം: ഡി.സി. ബുക്സ്, പു. 362\n58. ഭാഗ്യനാഥൻ, പി. 2019, പത്തൊമ്പതാം നൂറ്റാണ്ടിലെ കേരളം, നാലാം പതിപ്പ്,\nകോട്ടയം: കേരള സാഹിത്യ അക്കാദമി, പു.1054\n59. വേലായുധൻ, പണിക്കശ്ശേരി. 2017, നവോത്ഥാന കണ്ട് കേരളം, ഒന്നാം പതിപ്പ്,\nകോട്ടയം: ഡി.സി. ബുക്സ്, പു. 362\n60. ജോസഫ്, വില്യം. 2017, മലബാർ മാന്വൽ, പതിനൊന്നാം പതിപ്പ്, മാതൃഭൂമി ബുക്സ്\nകോട്ടയം: ഡി.സി. ബുക്സ്, പു. 96\n61. ഭാഗ്യനാഥൻ, പി. 2019, പത്തൊമ്പതാം നൂറ്റാണ്ടിലെ കേരളം, നാലാം പതിപ്പ്,\nകോട്ടയം: കേരള സാഹിത്യ അക്കാദമി, പു.1058\n62. സുഗതൻ, കെ. 2014, ബുദ്ധമതവും ജാതിവ്യവസ്ഥയും, രണ്ടാം പതിപ്പ്, പ്രഭാത്\nബുക്സ്, പു.74\n63. നാരായണൻ, എം.ജി.എസ്. 2017, ഗുരു സന്ദേശട് എഴുതുന്നവർ സൈദ്ധാന്തിക\nമാല്യം, ഒന്നാം പതിപ്പ്, ഡിസിബി ബുക്സ്, പു.48-49,\n64. ഭാഗ്യനാഥൻ, പി. 2019, പത്തൊമ്പതാം നൂറ്റാണ്ടിലെ കേരളം, നാലാം പതിപ്പ്,\nകോട്ടയം: കേരള സാഹിത്യ അക്കാദമി, പു.1054\n65. രാഘവവാരിയർ, രാജൻഗുരുക്കൾ. 2012, കേരള ചരിത്രം രണ്ടാം ഭാഗം, ഒന്നാം\nവാല്യം, നാഷണൽ ബുക്ക് സ്റ്റാൾ, പു. 216\n66. ലീലാവതി. എം. 2015, ഭാരതസ്ത്രീ, രണ്ടാം വാല്യം, സാഹിത്യ പ്രവർത്തക\n205\n67. Rita M Gross, Buddhism after Patriarchy:A feminist history analysis and\nreconstruction of Buddhism, State University of Newyork Press, p.43\n68. International Congress on Buddhist Vinay and Ordination, www.congress on\nbudhistwomen.org 2007 ൽ അംബേദ്കർ സർവകലാശാലയിൽ നടന്ന പ്രഭാഷണ\nത്തിലാണ് സ്ത്രീകളെക്കുറിച്ചുള്ള സ്വന്തം നിലപാട് ദലൈലാമ വ്യക്തമാക്കിയത്.\n69. എഴുത്തച്ഛൻ സുഗതൻ, 2004, ബുദ്ധമതത്തെയും കിളിപ്പാട്ട്, സാഹി.പ്ര.ക (എ\nഡി), ഒന്നാം പതിപ്പ്, മാതൃഭൂമി ബുക്സ്, പു. 129"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

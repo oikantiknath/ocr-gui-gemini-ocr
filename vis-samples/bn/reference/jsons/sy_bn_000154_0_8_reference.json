@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_bn_000154_0_8_reference.png",
+      "width": 648,
+      "height": 689
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        648.0,
+        689.0
+      ],
+      "area": 446472.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          648.0,
+          0.0,
+          648.0,
+          689.0,
+          0.0,
+          689.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "সহায়ক গ্রন্থ\nপণ্ডিতপ্রবর ঘোষ : রোবাইয়াত ই ওমর খৈয়াম\nগৌরীনথ শাস্ত্রী : সংস্কৃত সাহিত্যসম্ভার\nনরেশচন্দ্র জানা : অনুবাদে মেঘদূত সার্থকতা\nবিশ্বনাথ চক্রবর্তী : সংস্কৃত সাহিত্য সন্দর্শন\nপার্থপ্রতিম ভট্টাচার্য : মেঘদূত পরিচয়\nরাজশেখর বসু : কালিদাসের মেঘদূত\nশামসুল আলম সাঈদ : ওমর খৈয়াম\nশফি আহমদ : শেক্সপীয়রের নারী; নাট্যকথা : দূর ও কাছের\nশিশিরকুমার দাশ : কাব্যতত্ত্ব : এরিস্টটল; ওইদিপাউস (অনূদিত)\nসফিউদ্দিন আহমদ : সাহিত্যের কাল ও কালান্তর\nসাধনকুমার ভট্টাচার্য : এরিস্টটলের পোয়েটিকস ও সাহিত্যতত্ত্ব\nসায়েরা হাবীব ও পিয়াস মজিদ (সংকলক ও সম্পাদক) : উইলিয়াম শেক্সপিয়ার :\nচারশতম মৃত্যুবার্ষ স্মরণগ্রন্থ\nসিরাজুল ইসলাম চৌধুরী : শেক্সপীয়রের মেয়েরা; অ্যারিস্টটল : কাব্যতত্ত্ব\nArthur F. Kinney (Editor) : Hamlet : Critical Essays\nA. C. Bradley : Shakespearean Tragedy\nH.D.F. Kitto : Greek Tragedy\nMichael Pennington : Hamlet : A User's Guide\nT. B. L. Webster : Greek Tragedy"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

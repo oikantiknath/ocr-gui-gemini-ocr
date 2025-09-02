@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_or_000662_1_8_subsub-headline.png",
+      "width": 396,
+      "height": 155
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        396.0,
+        155.0
+      ],
+      "area": 61380.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          396.0,
+          0.0,
+          396.0,
+          155.0,
+          0.0,
+          155.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "୩୩୫କ ଇ । (୧) ଏହି ଉପଧାରାରେ ଯାହା କିଛି ଥିବା ସତ୍ତ୍ୱେ, ରାଜ୍ୟପାଳ ମନ୍ତ୍ରୀଙ୍କ ରାଜ୍ୟ ସରକାରଙ୍କ\nଅଧୀନରେ ଥିବା ଯେଉଁ କାର୍ଯ୍ୟ ସମ୍ପାଦନ କରିବାକୁ ସେହି ଉପଧାରାକୁ ନିର୍ଦ୍ଦିଷ୍ଟ ଭାବରେ\nକେବଳ ରାଜ୍ୟ ବିଧାନ ମଣ୍ଡଳର ଗୋଟିଏ ମନ୍ତ୍ରୀଙ୍କ ଉପରେ ଓ ତାହାର ସହାୟତା ନିମିତ୍ତ ରାଜ୍ୟ ସରକାରଙ୍କ\nକାର୍ଯ୍ୟ, କ୍ଷମତା ନିୟନ୍ତ୍ରଣରେ ଏବଂ ଉପାଧାନର ପ୍ରକ୍ରିୟା କ୍ଷମତା ନିୟନ୍ତ୍ରଣରେ ଉପାଧାନର\nନିମିତ୍ତ, ଏବଂ ସେହି ନିମିତ୍ତ ଠିକ୍ ଭାବେ କାର୍ଯ୍ୟ କରିବା ପ୍ରତିଷ୍ଠିତ ହେବା ଉଦ୍ଦେଶ୍ୟରେ ରାଜ୍ୟପାଳଙ୍କ\nଗୋଟିଏ ବିଶେଷ ଦାୟିତ୍ୱ ନିମିତ୍ତ ଗଠନ କରାଯିବ ।\n\n(୨) ରାଜ୍ୟପାଳ ପ୍ରତିବର୍ଷ ଅଥବା ରାଜ୍ୟପାଳ ଯେତେବେଳେ ଉପଯୁକ୍ତ ମନେକରେ, ସେତେବେଳେ ମନ୍ତ୍ରୀଙ୍କ\nରାଜ୍ୟର କାର୍ଯ୍ୟ ସମ୍ପାଦନ ସମ୍ବନ୍ଧରେ ରାଜ୍ୟପାଳଙ୍କୁ ରିପୋର୍ଟ ଦେବେ ଏବଂ ଏକ-ସମୟ କାର୍ଯ୍ୟ-\nଦାୟିତ୍ୱ ଥିବା ସମସ୍ତ ଉପାଧାନ ପ୍ରକ୍ରିୟା ସମ୍ବନ୍ଧରେ ରାଜ୍ୟକୁ ନିର୍ଦ୍ଦେଶ ଦେବା ପାଇଁ ଏକ-ସମୟ କାର୍ଯ୍ୟଦାୟିତ୍ୱ\nକ୍ଷମତାର ବିଚାର କରିବ ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

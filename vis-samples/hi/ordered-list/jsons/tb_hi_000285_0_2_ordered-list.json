@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "tb_hi_000285_0_2_ordered-list.png",
+      "width": 437,
+      "height": 927
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        437.0,
+        927.0
+      ],
+      "area": 405099.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          437.0,
+          0.0,
+          437.0,
+          927.0,
+          0.0,
+          927.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "54. रामराज सिंह\n55. रामेश्वर सिंह ‘निराश’\n56. रमाशंकर यादव ‘विद्रोही’\n57. राघवराम मिश्र ‘मलूक’\n58. राम प्यारे प्रजापति\n59. ऋषिराम मिश्र ‘सम्राट’\n60. लाल शीतला शरण सिंह\n61. बृजेश कुमार पाण्डेय ‘इन्दु’\n62. वेणीमाधव पाण्डेय ‘व्यास’\n63. वंशराज वर्मा ‘प्रलयंकर’\n64. विजय प्रकाश ‘अकेला’\n65. विनोद कुमार मिश्र\n66. बैजनाथ शुक्ल ‘भव्य’\n67. सियाराम विश्वकर्मा ‘पवन’\n68. शम्भूनाथ पाठक ‘पंकज’\n69. स्वराज्य बहादुर सिंह ‘अटल’\n70. संकटा प्रसाद सिंह ‘देव’\n71. शिवमूर्ति पाण्डेय ‘कुबरी’\n72. शिवनाथ यादव ‘उत्साही’\n73. शिवराम ‘चक्रवर्ती’\n74. हनुमान प्रसाद ‘हनुमत’\n75. हनुमान प्रसाद तिवारी\n76. हरीलाल मिश्र ‘सदोप’"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

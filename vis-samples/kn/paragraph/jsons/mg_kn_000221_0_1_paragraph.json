@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_kn_000221_0_1_paragraph.png",
+      "width": 434,
+      "height": 374
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        434.0,
+        374.0
+      ],
+      "area": 162316.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          434.0,
+          0.0,
+          434.0,
+          374.0,
+          0.0,
+          374.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಹಿಂದೂನ ಮಾಫಿಯಾ ('ಪ್ರಬಲ ಜಾತಿ' ಹಿಂದೂಗಳ\nಪರವಾಗಿ) ಮತ್ತು ದಮನಿತ ವರ್ಗಗಳ (ದಲಿತ ಎಂಬ ಪದ\nಆಗ ಚಾಲ್ತಿಯಲ್ಲಿ ಇರಲಿಲ್ಲ) ಪರವಾಗಿ ಡಾ. ಅಂಬೇಡ್ಕರ್\nಅವರು ಸಹಿ ಮಾಡಿದ್ದ 'ಪೂನಾ ಒಪ್ಪಂದ'ಕ್ಕೆ (ಸೆಪ್ಟೆಂಬರ್ 24\n) ಈಗ 90 ವರ್ಷ ತುಂಬಿದೆ. ಮಹಾತ್ಮ ಗಾಂಧಿ ಅವರು\nಉನ್ನತ ಧೇಯ ಇರಿಸಿಕೊಂಡಿದ್ದ 'ಹರಿಜನ ಸೇವಕ\nಸಂಘ'ವನ್ನು ಅದೇ ದಿನ ಸ್ಥಾಪಿಸಿದರು: ಅಸ್ಪೃಶ್ಯತೆಯ\nಶಾಪವನ್ನು ನಿರ್ಮೂಲಗೊಳಿಸಿ ಜಾತಿ, ಮತ, ಜನಾಗ,\nಮತ್ತು ಲಿಂಗದ ಆಧಾರದಲ್ಲಿ ಯಾವುದೇ ರೀತಿಯ ಅನ್ಯಾಯ,\nಅಪಮಾನ ಮತ್ತು ತಾರತಮ್ಯ ಇಲ್ಲದ ಸಮಾಜ ನಿರ್ಮಾಣವೇ\nಆ ಧೇಯವಾಗಿತ್ತು. ಈ ಎಲ್ಲ ಅನಿಷ್ಟಗಳಿಂದ ಸಮಾಜವು\nಮುಕ್ತವಾಗದೇ ಇದ್ದರೆ ಬಗ್ಗಟ್ಟು, ಶಾಂತಿ, ಸಾಮರಸ್ಯ ಮತ್ತು\nಖಚಿತ ಪ್ರಗತಿ ಸಾಧ್ಯವಿಲ್ಲ ಎಂಬುದು ಗಾಂಧೀಜಿಗೆ\nಮನದಟ್ಟಾಗಿತ್ತು."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

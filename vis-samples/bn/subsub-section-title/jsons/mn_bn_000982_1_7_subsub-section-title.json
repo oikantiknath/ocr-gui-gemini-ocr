@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_bn_000982_1_7_subsub-section-title.png",
+      "width": 1362,
+      "height": 647
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 33,
+      "bbox": [
+        0.0,
+        0.0,
+        1362.0,
+        647.0
+      ],
+      "area": 881214.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1362.0,
+          0.0,
+          1362.0,
+          647.0,
+          0.0,
+          647.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "বাংলাদেশ সরকার, বিশ্ব ব্যাংক, ইফাদ ও ইউএসএআইডি এর আর্থিক সহায়তায় বর্তমানে\nদেশের ৫টি জেলার ২१०টি উপজেলায় ন্যাশনাল এগ্রিকালচারাল টেকনোলজি প্রোগ্রাম - ফেজ\nII প্রজেক্ট (এনএটিপি-২) এর কার্যক্রম পরিচালিত হচ্ছে।\n➢ এনএটিপি-২ এর মূল লক্ষ্য ও উদ্দেশ্য হচ্ছে - প্রান্তিক ও ক্ষুদ্র খামারী/কৃষকদের খামারের\nউৎপাদনশীলতা বৃদ্ধি ও উৎপাদিত পণ্যের ন্যায্য বাজারমূল্য প্রাপ্তিতে বাজারে প্রবেশাধিকার তাঁদের\nসক্ষমতা বৃদ্ধিকরণ।\n➢ উক্ত লক্ষ্য ও উদ্দেশ্য বাস্তবায়নের নিমিত্তে প্রাণিসম্পদ, কৃষি ও মৎস্য অধিদপ্তরের যৌথ\nপরিচালনায় প্রকল্পের কার্যক্রম পরিচালিত হচ্ছে।\n➢ এ জন্য প্রতি ইউনিয়ন পরিষদের নির্বাচিত ভবনে দুইটি কক্ষ নিয়ে FIAC গঠন করা হচ্ছে। এ\nপর্যায়ে FIAC সম্পর্কে একটি সংক্ষিপ্ত ধারণা দেয়া যেতে পারে এবং সংশ্লিষ্ট ইউনিয়ন এর\nCEAL-কে উপস্থিত সিআইজি সদস্যগণের সঙ্গে পরিচয় করিয়ে দেয়া হবে।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

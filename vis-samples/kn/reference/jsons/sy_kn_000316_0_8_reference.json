@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_kn_000316_0_8_reference.png",
+      "width": 1145,
+      "height": 591
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        1145.0,
+        591.0
+      ],
+      "area": 676695.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1145.0,
+          0.0,
+          1145.0,
+          591.0,
+          0.0,
+          591.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಪರಾಮರ್ಶನ ಪಠ್ಯಗಳು :\n1. ಕನ್ನಡ ಸಾಹಿತ್ಯ ಚರಿತ್ರೆಯ ಆಯ್ದ ಭಾಗಗಳು, ಒಂದು ವಿಮರ್ಶಾ ಜೀವನ, ಮುಖ್ಯ ಘಟನೆಗಳ ಕುರಿತ ಜೀವನಗಳು, ವಚನ\nಚಳುವಳಿಯ ಸಾಮಾಜಿಕ ನ್ಯಾಯದ ಆಶಯಗಳು.\n2. ನಾಡೋಜ ನುಡಿನುಡಿ ಸಂಪುಟ – ದ.ರಾ. ಬೇಂದ್ರೆ\n3. ಅಳಿಕೆತನ, ವಿಶ್ವಮಾನವ ಸಂದೇಶ – ಕುವೆಂಪು\n4. ಕನ್ನಡ ದೇವಿ – ಮಧುರ ತಂತ್ರಪಟು, ತಂಕ – ನಾಡು\n5. ಕನ್ನಡ ಪದಗೋಷ – ಪಿ.ವಿ. ರಾಜಶೇಖರ\n6. ಕನ್ನಡ ವಾಸುಂಖ್ಯ – ಶಾಂತಕವಿ – ಕನ್ನಡ ಬಾವುಟ\n7. ಲಲಿತಕಲಾ ಕನ್ನಡ – ಮಲ್ಲಿಂಗಂಗ, ಅನುಪಮಾವತಿ.\n8. ಬೆಂಕಿ ಬಿದ್ದ ಮನೆಗೆ – ಕಯ್ಯಾರ ಕಿಞ್ಞಣ್ಣ ರೈ\n9. ನೀಲಾಂಜಲಾ – ಅಂಬಿಕಾತನಯದತ್ತ\n10. ನನ್ನ ಕನ್ನಡ ಜಗತ್ತು – ಕೆ.ವಿ. ಸುಬ್ಬಣ್ಣ,\n11. ಕನ್ನಡ ಸಿರಿಗನ್ನಡ – ಮುನ್ನುಡಿ – ಕುವೆಂಪು,\n12. ಕನ್ನಡ ತಾಯಿಗೆ ನುಡಿನಮನ, – ಕನ್ನಡ ಎ.ವಿ. ಕಂಬ\n13. ಕನ್ನಡ ನಾಡಿನ ಪ್ರಾಚೀನತೆ ಮತ್ತು ಕನ್ನಡಿಗೆರ ಹೋರಾಟವನ್ನು ಕುರಿತ ಕವಿರಾಜಮಾರ್ಗದ ಆಯ್ದ ಭಾಗಗಳು.\nಅ. ಕವಿರಾಜಮಾರ್ಗ ಗೋದಾವರಿಮಿದಿರ್ಫ್.......ಭಾಗ\nಆ. ಕವಿಕಂ ಕವಿರಾಜಂಂಂ.......ಭಾಗ\n14. ಕನ್ನಡಿಗೆರ ವಿಶ್ವ ಗುಣಗಣ್ಯ, ಸಂಚಿನದ ಬಾದಾಮಿ ಶಾಸನ\n15. ಕನ್ನಡಿಗೆರ ಜೀವದ ಮೌಲ್ಯವನ್ನು ತಿಳಿಸುವ ಬಯಲು ಲೇ ಪ್ರದಾನ ಶಾಸನ.\n16. ಕನ್ನಡ ನಾಡು ತಲೆಯೆತ್ತಿದ ಬಗೆ, ಕನ್ನಡ ಜಾಯ್ತಿ-ಬಿ.ಎಂ.ಶ್ರೀ."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

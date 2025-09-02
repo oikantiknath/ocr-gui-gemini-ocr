@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_ml_000325_0_87_unordered-list.png",
+      "width": 271,
+      "height": 658
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        271.0,
+        658.0
+      ],
+      "area": 178318.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          271.0,
+          0.0,
+          271.0,
+          658.0,
+          0.0,
+          658.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ബേണനങ്ങളുള്ള വ്യാപാറ വി\nപണനങ്ങൽ തുടങ്ങുന്നതി\nന്റെ പ്രാഥമിക ചർച്ചയിൽ പ\nങ്കെടുക്കും. ഉത്തരവാദിത്ത\nങ്ങൾ വർദ്ധിക്കുന്ന വിഭാസ\nത്തിലേയ്ക്ക് ഉയർത്താനുമാറുമാ\nകും.\n* പൂയം: ദമ്പതികളുടെ അവ\nശ്യങ്ങൾ പരിഗണിക്കപ്പെടും. സാമ്പ\nത്തിക പുരോഗതി കൈവരിക്കും.\nസാമ്പത്തിക ലാഭം വർദ്ധിക്കും.\n* അയില്യം: വിദ്യാർത്ഥികൾക്ക് ഉ\nത്സാഹവും ഉന്മേഷവും ഉണ്ടാകും.\nപ്രവർത്തനമേഖലകളിൽ അനുകൂ\nലസാഹചര്യങ്ങൾ വന്നുകൂടും. വി\nജ്ഞാനപ്രദമായ വിഷയങ്ങൾ മറ്റു\nള്ളവർക്ക് പറഞ്ഞുകൊടുക്കുന്നതി\nൽ ആത്മാഭിമാനം തോന്നും.\n* മകം: തൊഴിൽ മേഖലകളോട് ബ\nന്ധപ്പെട്ട് തൃപ്തിയായ അന്തരീക്ഷം\nഉണ്ടാകുകയില്ല. അത്യാവശ്യത്തിന്\nകടം വാങ്ങാനിടവരും. ബന്ധുസ\nഹായത്താൽ ഏറ്റെടുത്ത ദൗത്യം വി\nജയിപ്പിക്കാൻ സാധിക്കും.\n* പൂരം: സമർപ്പിച്ച പദ്ധതികൾക്ക്\nഅംഗീകാരം ലഭിക്കും. ചർച്ചകളും\nപരീക്ഷണങ്ങളും സന്ധിസംഭാ\nഷണവും വിജയിക്കും. സുപ്രധാന\nകാര്യകാരണത്താൽ ആത്മനിർവൃതി\nയുണ്ടാകും.\n* ഉത്രം: ആത്മാവിശ്വാസം കുറയും.\nകീഴ്ജീവനക്കാരുടെ അബദ്ധങ്ങൾ"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

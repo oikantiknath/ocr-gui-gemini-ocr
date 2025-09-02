@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_ml_000654_1_107_unordered-list.png",
+      "width": 153,
+      "height": 522
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        153.0,
+        522.0
+      ],
+      "area": 79866.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          153.0,
+          0.0,
+          153.0,
+          522.0,
+          0.0,
+          522.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "കോ ഓപ്പറേറ്റീവ് സൊസൈറ്റിയുടെ\nകൈ കാപ്പിറ്റൽ ഹിൽ അപ്പാർട്ടുമെ\nൻ്റ് സമുച്ചയം. ഉദ്ഘാടനം. മന്ത്രി\nവി.എൻ. വാസവൻ 4.00\n* ജവഹർ നഗർ ലേബർ ഓഫ്\nകോൺഗ്രസ്സ് ആൻഡ് ഇൻഡ\nസ്ട്രീൽ റോഡ്: ഫെഡറേഷൻ ഓഫ്\nഹോട്ടലേഴ്സ് അസോസിയേഷൻ\nമഹാസഭ സിംഹാരോഹണ പ്രകാശനം.\nമന്ത്രി സജി ചെറിയാൻ 10.30ലെ\n* ഹോട്ടൽ പ്രശാന്ത്: ലൈൻ\nസെൻ്റർ ക്ലീം സമ്മേളനം.\nമന്ത്രി ജി.ആർ. അനിൽ 9.30\n* പാളയം. ഡീസൻ മരയ്ക്കാർ\nഹാൾ: കേരള യൂണിവേഴ്സിറ്റി\nസ്റ്റുഡൻ്റ് യൂണിയൻ വാർഷികം.\nകെ. മുരളീധരൻ എം.പി 10.00\n* സയൻസ് മ്യൂസിയം ഹാൾ: ജെ.\nസി.എ ഹാനിയോൽ ഹാനോയേ\nൻ്റെ ചലച്ചിത്ര പുരസ്കാര സമർ\nപ്പണം. 3.00\n* പ്രസ്സ് ക്ലബ്ബ്: ജേർണലിസ്റ്റ് വി\nവിധ മേഖലകളിലെ പ്രമുഖരെ\nആദരിക്കൽ 11.30\n* തൈക്കാട് ശ്രീരാഗം: സൂര്യ\nഫെസ്റ്റിവലിൽ ചൈനൈ കോ\nമൽ തിയറ്ററിൻ്റെ ദൃശ്യനാടക\nഅവതരണം. 6.45\n* വികാസ് ഭവൻ അങ്കണം: ജോ\nയിൻ്റ് കൗൺസിൽ നയന സാം\nസ്കാരിക വേദി നോർത്ത് ക്ലീം\nകമ്മിറ്റിയുടെ \"വരാഹണം\" ഗാന\nവിരുന്ന്. പരിപാടി 11.00\n* പൂജപ്പുര സരസ്വതി മണ്ഡപം\nഓഡിറ്റോറിയം: ആർട്ടിസ്റ്റ് പ്രഫ\nഷനൽ നാടക മത്സരത്തിൽ കാ\nളിദാസ കലാകേന്ദ്രത്തിൻ്റെ നാട\nകം 'പാവാട' 6.30\n* ഉള്ളൂർ ബാലസുബ്രഹ്മണ്യ\nസ്വാമി ക്ഷേത്രം: ഭാഗവത\nസപ്താഹം 7.00"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

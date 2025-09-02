@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_ml_000275_0_1_unordered-list.png",
+      "width": 617,
+      "height": 1019
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        617.0,
+        1019.0
+      ],
+      "area": 628723.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          617.0,
+          0.0,
+          617.0,
+          1019.0,
+          0.0,
+          1019.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* KB നബാർഡ് ‣ ക്ഷയരഹിത ബോർഡുകൾ, ഫാമർ പ്രൊഡ്യൂസർ\nഓർഗനൈസേഷൻ, സ്റ്റാർട്ടപ്പുകൾ തുടങ്ങിയവ ബാങ്ക് അക്കൗണ്ടിൽ\nനിലവിലുള്ള സംരംഭങ്ങളുടെ / സംരംഭകരുടെ കീഴിൽ ജോലി\nചെയ്യുന്നവരും, അവരുടെ ഗ്രാമ/ഗ്രാമീണ അക്കൗണ്ട് ബാങ്കിൽ\nനിലനിർത്തുന്നതുമായ സ്ഥിരം നിക്ഷേപക്കാർക്ക് 2 ലക്ഷം രൂപ\nവരെ. കാലാവധി 60 മാസം.\n* KB വാഡി (WADI) ‣ തണ്ണീർത്തട (watershed) അടിസ്ഥാന\nമേഖലയുടെ വികസനത്തിനുള്ള പ്രത്യേക വായ്പ പദ്ധതി. 60\nലക്ഷം രൂപ വരെ. കാലാവധി 60 മാസം.\n* പി എം സ്വാനിധി (SWANIDHI) ‣ നഗരങ്ങളിലെ തെരുവ്\nകച്ചവടക്കാർക്കുള്ള വായ്പ, 10,000 രൂപ വരെ, (പലിശ സബ്\nസിഡിക്ക് അർഹത), കാലാവധി 12 മാസം.\n* ദീർഘകാല കാർഷിക വായ്പകൾ ‣ കാർഷിക മേഖലയി\nലെയും, കാർഷിക അനുബന്ധ മേഖലകളിലെയും, വിവിധ\nവിഹിതങ്ങൾക്ക് മധ്യകാല / ദീർഘകാല വായ്പകൾ 60 ലക്ഷം രൂപ\nവരെ അനുവദിക്കുന്നു. കാലാവധി 15 വർഷം.\n* കാർഷിക മേഖല - അടിസ്ഥാന സൗകര്യ വികസന വായ്പ\n(Agriculture Infrastructure Development Loan) ‣\nകർഷകരുടെ വരുമാനം വർദ്ധിപ്പിക്കുക എന്ന ലക്ഷ്യത്തോടെ,\nകാർഷിക മേഖലയിലെ അടിസ്ഥാന സൗകര്യങ്ങൾ വികസിപ്പി\nക്കുന്നതിന്, പ്രാഥമിക മൂലധനവികസനങ്ങൾക്ക് വായ്പയായി 2\nകോടിവരെ അനുവദിക്കുന്നു. അഗ്രികൾച്ചർ ഇൻഫ്രാസ്ട്രക്\nചർ ഫണ്ട് (Agriculture Infrastructure Fund) നിന്നും പലിശ\nഇളവിന് അർഹത.\n* ഭക്ഷ്യ സംസ്കരണ സൂക്ഷ്മ വ്യവസായ വായ്പ (Micro Food\nProcessing Enterprise Loan) ‣ ഭക്ഷ്യ സംസ്കരണ സൂക്ഷ്മ\nവ്യവസായ മേഖലക്ക് 60 ലക്ഷം വരെ വായ്പ അനുവദിക്കുന്നു.\nകാലാവധി 5 വർഷം.\n* KB SAF (Society For Assistance to Fisher Women)‣\nKB സാഫ് മത്സ്യത്തൊഴിലാളി സ്ത്രീകളെക്കുള്ള വായ്പ കേരള\nസർക്കാരിന്റെ ഫിഷറീസ് ഡിപ്പാർട്ട്മെന്റുമായി സഹകരിച്ച് SAF\n(സൊസൈറ്റി ഫോർ അസിസ്റ്റൻസ് ടു ഫിഷർ വിമൺ ) ന്റെ\nകീഴിലുള്ള സ്വയം സഹായ സംഘങ്ങൾക്ക് / ജോയിന്റ് ലയബിലിറ്റി\nഗ്രൂപ്പുകൾക്ക് മത്സ്യബന്ധന മേഖലയുമായി ബന്ധപ്പെട്ട ആവശ്യ\nങ്ങൾക്ക് 2 ലക്ഷം രൂപ വരെ കൈകാര്യം നിർത്തുന്ന വായ്പ\nലഭിക്കുന്നു. കാലാവധി 36 മാസം.\n* മുദ്രാലോൺ വായ്പകൾ\n(ലഘുവായ, മധ്യകാല വായ്പകൾ 2 ലക്ഷം രൂപ വരെ\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

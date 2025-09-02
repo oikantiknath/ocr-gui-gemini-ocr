@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "tb_ta_000304_0_6_unordered-list.png",
+      "width": 860,
+      "height": 506
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        860.0,
+        506.0
+      ],
+      "area": 435160.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          860.0,
+          0.0,
+          860.0,
+          506.0,
+          0.0,
+          506.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "*   ஜனநாயகத்தினை நிலைநிறுத்துவதற்கு அவசியமான பண்புகளைக்\n    கட்டியெழுப்பவும்,\n*   சிறுவர் உரிமைகள் மற்றும் கடமைகள் தொடர்பான புரிந்துணர்வைப் பெற்றுக்\n    கொள்ளவும்,\n*   மனவெழுச்சிகளை பயனுள்ள விதத்தில் மாற்றிக் கொள்வதன் முக்கியத்\n    துவத்தை விளங்கிக் கொள்ளவும்,\n*   தலைமைத்துவத்தின் அவசியத்தை விளங்கிக் கொள்வதுடன் தலைமைத்துவப்\n    பண்புகளை விருத்தி செய்துகொள்வதில் கவனம் செலுத்தவும்\n*   பின்பற்றுபவர் என்ற வகையில் செயற்பட வேண்டிய விதம் குறித்து அறிந்து\n    கொள்ளவும், அவசியமான தேர்ச்சிகளை மாணவர்களிடத்தில் உறுதிப்\n    படுத்தவும்,\n\nமுடியுமாக இருக்கும்."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

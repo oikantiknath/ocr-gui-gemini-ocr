@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_or_000593_1_3_subsub-headline.png",
+      "width": 350,
+      "height": 135
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        350.0,
+        135.0
+      ],
+      "area": 47250.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          350.0,
+          0.0,
+          350.0,
+          135.0,
+          0.0,
+          135.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(କ) ଆଇନର ବ୍ୟାଖ୍ୟାକ୍ଷେତ୍ରରେ ସ୍ଵାଧୀନ ପ୍ରକାର ହୋଇଥିବା ସୁଧାକର, ଆବେଗ, ଉପସ୍ଥିତି,\nନିୟମ, ବିନିୟମ, ଅଧିସୂଚନା, ରୁଲ୍ ଅଥବା ପ୍ରଥା “ବିଧି” ର ଅନ୍ତର୍ଗତ ଅଟେ ;\n\n(ଖ) ପ୍ରକୃତ ବିଧି କହିଲେ ତହିଁରେ ଏପରି ବିନିୟମ ଅନ୍ତର୍ଗତ ହେବ ଯାହାକି ଆଇନ ବ୍ୟାଖ୍ୟାକ୍ଷେତ୍ରରୁ\nକୌଣସି ବିନିୟମକ୍ରମ ଦ୍ଵାରା ବାତିଲ ବା ପ୍ରତ୍ୟାହାର ହୋଇଥାଏ ଏବଂ ତହିଁରୁ ନିବୃତ୍ତ ହୋଇ\nନଥାଏ, ଯଦ୍ୟପି କେଉଁଠି ବିଧି ବା ତାହାର କୌଣସି ଧାରାରେ ହୋଇଥିବା କିମ୍ବା ଅନ୍ୟପ୍ରକାରେ ପ୍ରଯୁକ୍ତ\nଆଦେଶ ପ୍ରକୃତ ହୋଇ ନଥାଏ ବା କୌଣସି ବିଶେଷ କ୍ଷେତ୍ରାଧିକାରରେ ପ୍ରଯୁକ୍ତ\nହୋଇ ନ ଥାଏ ।\n\n(ଗ) ଏହି ଉପବନ୍ଧରେ କେଉଁଠି ବିଶେଷ ଅନୁଚ୍ଛେଦ ନାମ ସଂଯୁକ୍ତ ଥାଏ ଏହି ସଂବିଧାନର\nକୌଣସି ସଂଶୋଧନକୁ ପ୍ରତି ପ୍ରକଳ୍ପିତନାହିଁ ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

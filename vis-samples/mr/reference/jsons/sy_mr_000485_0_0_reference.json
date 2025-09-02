@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_mr_000485_0_0_reference.png",
+      "width": 1273,
+      "height": 1980
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        1273.0,
+        1980.0
+      ],
+      "area": 2520540.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1273.0,
+          0.0,
+          1273.0,
+          1980.0,
+          0.0,
+          1980.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "32. Taylor AJP: The Struggle for Mastery in Europe 1848-1918 (1954) advancedhistory\n    and analysis of major diplomacy\n33. Wesseling, H.L The European colonial Empire 1815-1919 (2015)\n34. Bhatnagar and Gupt: आधुनिक यूरोप का इतिहास (भाग-2)\n35. K.S Lal: आधुनिक यूरोप का इतिहास (भाग-2)\n36. Lal Bahadur Verma: (1998) यूरोप का इतिहास (भाग-2) नई दिल्ली प्रकाशन संस्थान\n37. Parthsarthi Gupta: (1983) आधुनिक पश्चिम का उदय, नई दिल्ली, हिन्दी माध्यम\n    कार्यान्वयन निदेशालय, दिल्ली विश्वविद्यालय\n38. Parthsarthi Gupta: (1983) यूरोप का इतिहास, नई दिल्ली, हिन्दी माध्यम कार्यान्वयन\n    निदेशालय, दिल्ली विश्वविद्यालय\n39. James Jole: यूरोप 1870 से, नई दिल्ली, हिन्दी माध्यम कार्यान्वयन निदेशालय, दिल्ली\n    विश्वविद्यालय\n40. Parthsarthi Gupta: ब्रिटेन का इतिहास, नई दिल्ली, हिन्दी माध्यम कार्यान्वयन निदेशालय,\n    दिल्ली विश्वविद्यालय\n41. Banarasi Prasad Saxena: अमरीका का इतिहास, नई दिल्ली, हिन्दी माध्यम कार्यान्वयन\n    निदेशालय, दिल्ली विश्वविद्यालय\n42. Barzun Jacques from Dawn to Decandence 500 years of western Cultural life : 1500-\n    present New York, Harper Collins 2001\n43. Benns F. Lee : Europe Since 1914\n44. Car, E.H (1948) International Relations between two World Wars (1919-1939), Delhi,\n    Macmillian & Co.\n45. Carsten. F.L (1982) : The Rise of Fascism University of California Press\n46. Cayley, E.S (1856) The European revolutions of 1848, London Smith Elder & Co.\n    Vol I and II\n47. Contemporary History of the World by Edwin Augustus Grosvenor\n48. Crawley C.W (1965) The new Cambridge modern History Volume 9. War & Peace in\n    an age of upheaval. 1793-1830. Cambridge University Press.\n49. Dhar, S.N (1967) : International Relations and World Politics since 1919, Bombay,\n    Asia Publish House\n50. Doenecke Justus D. Stoler Mark A (2005). Debating Franklin D roosevelt's Foreign\n51. Policies. 1933-1945 Rowman & Little field\n52. Dunan Marcel Larousse: Encyclopedia of Modern History from 1500 to the Present\n    day, New York Harper & Row, 1964.\n53. Duruy V & Grosvenor E.A (1894) History of modern times: From the fall of\n    Constantipole to the French Revolution, New York H Holt and Company\n54. FP Walters: A History of the League of Nations (oxford 1965)\n55. Gaddis John Lewis (1972) The UNiTED States and the Origins of the Cold War, 1941-\n    1947 Columbia University Press\n56. Grosvenor, Edwin A Contemporary History of the World New York and Boston T.Y\n    Crowell & Co. 1899\n57. Henry Kitchell Webster : Early European History\n58. Jules Michelet, Mary Charlotte, Mair Simpson : A summary of Modern history"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

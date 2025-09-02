@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_mr_000479_0_3_ordered-list.png",
+      "width": 1106,
+      "height": 596
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        1106.0,
+        596.0
+      ],
+      "area": 659176.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1106.0,
+          0.0,
+          1106.0,
+          596.0,
+          0.0,
+          596.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(छ) 'क' हा 'ख' ला घोडा विकतो व तो निकोप असल्याबद्दल तोंडी हमी देतो. “क' कडून\n५०० रुपयाला घोडा विकत घेतला” अशा शब्दात 'क' हा 'ख' ला कागदपत्र करून देतो. 'ख' ला\nतोंडी हमी शाबीत करता येईल.\n(ज) 'क' हा 'ख' कडून राहण्याची जागा भाड्याने घेतो, व 'ख' ला एक कार्ड देतो आणि\nत्यावर “खोल्या, दरमहा २०० रुपये,” असे लिहिलेले आहे, या अटींमध्ये अंशतः भोजनाचा अंतर्भाव\nहोतो असा तोंडी करार झाल्याचे 'क' ला शाबीत करता येईल.\n'क' हा 'ख' कडून एका वर्षासाठी राहण्याची जागा भाड्याने घेतो व एका मुखत्याराने तयार\nकेलेला व रीतसर मुद्रांक लावलेला असा एक करारनामा त्यांच्या दरम्यान करण्यात येतो. भोजनाविषयी\nत्यात काही उल्लेख नाही. अटींमध्ये भोजनाच्या अटींचा तोंडी अंतर्भाव केलेला होता हे 'क' ला शाबीत\nकरता येणार नाही.\n(झ) 'ख' कडे पैशाची पावती पाठवून 'क' आपणांस येणे असलेल्या ऋणाची मागणी करतो.\n'स' पावती ठेवून घेतो, पण पैसे पाठवत नाही. त्या रकमेसाठी केलेल्या दाव्यात 'क' ला ही वस्तुस्थिती\nशाबीत करता येईल.\n(ग) 'क' व 'ख' विवक्षित संभावी घटना घडून आल्यावर परिणामक व्हावयाची अशी विवक्षित\nलेखी संविदा करतात; तो लेख 'ख' कडे ठेवलेला असून तो त्यावरून 'क' विरुद्ध दावा लावतो. कोणत्या\nपरिस्थितीत तो लेख दिला होता ते 'क' दाखवून देऊ शकेल."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

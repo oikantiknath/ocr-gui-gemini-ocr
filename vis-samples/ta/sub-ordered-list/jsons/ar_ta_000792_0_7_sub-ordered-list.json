@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_000792_0_7_sub-ordered-list.png",
+      "width": 746,
+      "height": 448
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        746.0,
+        448.0
+      ],
+      "area": 334208.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          746.0,
+          0.0,
+          746.0,
+          448.0,
+          0.0,
+          448.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "12. (1) இந்தத் திட்டம் செயற்பாட்டிற்குக் கொண்டு வரப்பட்ட தேதிக்குப்\nபின்பு, இத்திட்டத்திற்கிணங்க காப்பீட்டு ஒப்பந்தங்கள் மேற்கொள்வதற்கு\nஒரு முகவராக மைய அரசாங்கத்தால் அதிகாரமளிக்கப்பட்ட நபர் தவிர பிற\nஎவரும், இத்திட்டம் வகைசெய்யும் காப்பீட்டிற்கான பொறுப்புடைமைகளைப்\nபொறுத்து, இந்தியாவில், பணியமர்த்துநர்களைக் காப்பீடு செய்யும் தொழில்\nநடத்துதல் ஆகாது.\n\n(2) இந்தத் திட்டம் செயற்பாட்டிற்குக் கொண்டுவரப்பட்ட தேதிக்கு\nமுன்பு மேற்கொள்ளப்பட்ட, அந்தத் தேதிக்குப் பின்பும் நடைமுறையில் உள்ள\nகாப்பீட்டு ஒப்பந்தம் எதற்கும் அல்லது இந்தச் சட்டத்தினால் சுமத்தப்பட்டுள்ள\nபொறுப்புடைமைகளுக்கு மிகையான பொறுப்புடைமைகளைக் கொண்டுள்ள\nகாப்பீட்டு ஒப்பந்தம் எதற்கும், உட்பிரிவு (1)இன் எதுவும் பொருந்துவதில்லை.\n\n(3) உட்பிரிவு (1)இன் வகையங்களை மீறுகிறவர் எவராயினும், அவர்\nஐயாயிரம் ரூபாய் வரை அபராதம் விதித்துத் தண்டிக்கப்படத்தக்கவராவார்;\nஅந்த மீறுகை தொடரும் நாள் முதற்கொண்டு, அதற்குப் பின்பு ஒவ்வொரு\nநாளுக்கும் ஆயிரம் ரூபாய் வரை மேலுமான அபராதம் விதித்துத்\nதண்டிக்கப்படத்தக்கவராவார்."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

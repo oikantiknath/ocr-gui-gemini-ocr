@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ml_000313_0_5_sub-ordered-list.png",
+      "width": 948,
+      "height": 459
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        948.0,
+        459.0
+      ],
+      "area": 435132.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          948.0,
+          0.0,
+          948.0,
+          459.0,
+          0.0,
+          459.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "12. പ്രബോധക പാനീയക്ക് ഹെഡ് ഓഫീസ് ബോർഡിന്റെ അധികാരങ്ങൾ.—(1) പ്രബോധക\nപാനീയക്ക് ഹെഡ് ഓഫീസ് ബോർഡ് മറ്റ് അധികാരികളിലുള്ള അങ്ങേയറ്റും സംശയ\nസ്ഥാപനങ്ങളിൽ പൊതുവായതോ മാർഗ്ഗനിർദ്ദേശങ്ങളും ചട്ടങ്ങളും\nപാലിക്കുന്നുണ്ടെന്ന് ഉറപ്പുവരുത്തുന്നതാണ്.\n\n(2) പ്രബോധക പാനീയക്ക് ഹെഡ് ബോർഡ് ഏതെങ്കിലും വ്യക്തിയുടേയോ\nസ്ഥാപനത്തിന്റേയോ, വിനിർദ്ദേശിക്കപ്പെട്ട അത്തരം സമയത്തിനുള്ളിൽ, ഏതെങ്കിലും\nപ്രവൃത്തി നടത്തുന്നതിനോ അല്ലെങ്കിൽ നിർത്തിവയ്ക്കുന്നതിനോ അല്ലെങ്കിൽ\nപൊതുവായതോ ഉറപ്പാക്കുന്നതിന് ആവശ്യമായ കാര്യങ്ങൾ ഏതൊരു\nഅവസ്ഥയ്ക്കും മാറ്റംവരുത്തുന്നതിനോ നിർദ്ദേശം നൽകുന്നതിന്\nഅധികാരമുണ്ടായിരിക്കുന്നതാണ്. എന്നാൽ വിനിർദ്ദേശിച്ചിട്ടുള്ള സമയത്തിനുള്ളിൽ\nആ വ്യക്തി അല്ലെങ്കിൽ സ്ഥാപനം ആകാരം ചെയ്യുന്നതിൽ\nപരാജയപ്പെടുകയാണെങ്കിൽ പാനീയക്ക് ഹെഡ് ബോർഡ് ബന്ധപ്പെട്ട മേൽ\nസ്വയഭരണ സ്ഥാപനത്തെ അറിയിക്കേണ്ടതും, മേൽ സ്വയഭരണ സ്ഥാപനം ആ\nപ്രവൃത്തി നടത്തുകയോ നിർത്തിവയ്ക്കുകയോ മാറ്റം വരുത്തുകയോ ചെയ്യേണ്ടതും\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

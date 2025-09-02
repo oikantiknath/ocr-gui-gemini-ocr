@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_hi_000551_1_0_subsub-headline.png",
+      "width": 452,
+      "height": 214
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        452.0,
+        214.0
+      ],
+      "area": 96728.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          452.0,
+          0.0,
+          452.0,
+          214.0,
+          0.0,
+          214.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(क) धारा 7 की उपधारा (2) के अधीन अध्यक्ष और पदेन सदस्यों से भिन्न सदस्यों के वेतन, पदावधि और सेवा की\nशर्तें तथा उसकी उपधारा (3) के अधीन पद और गोपनीयता की शपथ की रीति;\n(ख) धारा 37 की उपधारा (1) के अधीन खाद्य सुरक्षा अधिकारी की अर्हताएं;\n(ग) धारा 38 की उपधारा (8) के अधीन अभिगृहीत दस्तावेजों से उद्धरण लेने की रीति;\n(घ) धारा 42 की उपधारा (4) के अधीन समुचित न्यायालय को निर्देश करने के लिए मामलों का अवधारण और\nऐसे अवधारण के लिए समय-सीमा;\n(ङ) धारा 45 के अधीन खाद्य विश्लेषकों की अर्हताएं;\n(च) धारा 47 की उपधारा (1) के अधीन विश्लेषण के लिए नमूने भेजने की रीति और इस संबंध में अनुसरित की\nजाने वाली प्रक्रिया के ब्यौरे;\n(छ) धारा 68 की उपधारा (1) के अधीन मामलों के न्यायनिर्णयन में अनुसरित की जाने वाली प्रक्रिया;\n(ज) धारा 70 की उपधारा (4) के अधीन पीठासीन अधिकारी की अर्हताएं, पदावधि, त्यागपत्र और उसका हटाया\nजाना, अपील की प्रक्रिया और उपधारा (5) के अधीन अधिकरण की शक्तियां;"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

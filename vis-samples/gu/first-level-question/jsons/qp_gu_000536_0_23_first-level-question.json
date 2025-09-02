@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "qp_gu_000536_0_23_first-level-question.png",
+      "width": 1093,
+      "height": 558
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 8,
+      "bbox": [
+        0.0,
+        0.0,
+        1093.0,
+        558.0
+      ],
+      "area": 609894.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1093.0,
+          0.0,
+          1093.0,
+          558.0,
+          0.0,
+          558.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "૨ (અ) નાણાકીય અર્થશાસ્ત્રના દર્દી વર્તણૂકનો અભ્યાસ કેવી રીતે કરે છે?\nઅથવા\n(અ) નાણાકીય ગણતરીમાં “વળતર”નો ઉપયોગ સંપૂર્ણ રીતે સમજાવો.\n(બ) ગમે તે બે ના ૧૦ વાક્યોમાં જવાબ આપો :\n(૧) નાણા ઉછીના લેનાર ૧૦ વર્ષની મુદત માટે અમુક રકમ ઉછીના લેવા માગે છે. નાણા\nઉછીના લેનારને ૧૦%ના સાદા વ્યાજ દરે અથવા ૬%ના ચક્રવૃદ્ધિ વ્યાજના દરે લોન\nદરખાસ્ત છે. જો નાણા ઉછીના લેનાર માટે કઈ વ્યાજ દરની પસંદગી યોગ્ય થશે?\n(૨) અન્યુઇટીનું વર્તમાન મૂલ્ય કઈ રીતે ગણવામાં આવે છે?\n(૩) એક બોન્ડ દ્વારા વાર્ષિક ૧૫%ના દરે વ્યાજ આપે છે. અને એક બોન્ડ ઇસ્યુની કિંમત\nપર ૧૨%ના વટાવે વેચવામાં આવ્યો. જો પરિપક્વતાનો સમય ત્રણ વર્ષનો હોય તો\nરોકાણકારે કયા બોન્ડ ખરીદવા જોઇએ?\n(ક) ગમે તે બેના બે વાક્યોમાં જવાબ આપો :\n(૧) એક રોકાણકાર નિયમિત ધોરણે દર વર્ષે ૨૦ વર્ષ માટે રૂ. ૧,૦૦૦ રોકાણ ખાતામાં\nજમા કરાવે છે જેના ઉપર ૭% વ્યાજ મળે છે. આ રોકાણનું ભવિષ્ય મૂલ્ય શું હશે?\n(૨) અસ્થિરતા (volatility) એટલે શું?\n(૩) ત્રિમાસિક ધોરણે ૨% લેખે વ્યાજ વસુલ કરવામાં આવે તો વાર્ષિક વ્યાજનો દર શું હશે?"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

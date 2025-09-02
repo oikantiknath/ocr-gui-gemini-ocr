@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_mr_000078_13_ordered-list.png",
+      "width": 357,
+      "height": 296
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        357.0,
+        296.0
+      ],
+      "area": 105672.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          357.0,
+          0.0,
+          357.0,
+          296.0,
+          0.0,
+          296.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "१०. कोणते करार संविदा असतात.\n११. संविदा करण्यास कोण सक्षम असतात.\n१२. संविदा करण्याच्या प्रयोजनार्थ निकोप मन कोणते.\n१३. “संमती” याची व्याख्या.\n१४. “मुक्त संमती” याची व्याख्या.\n१५. “जबरदस्ती” याची व्याख्या.\n१६. “गैरवाजवी प्रभाव” याची व्याख्या.\n१७. “लबाडी” याची व्याख्या.\n१८. “विपर्यांस” याची व्याख्या.\n१९. मुक्त संमतीरहित करारांची शून्यकरणीयता.\n१९क. गैरवाजवी प्रभावामुळे निर्माण झालेली संविदा रद्द ठरवण्याचा अधिकार.\n२०. जेथे तथ्याच्या बाबीबाबत उभय पक्षकारांची चूकभूल असेल तेथे करार शून्यवत असणे.\n२१. कायद्याबाबतच्या चूकभूलिंचा परिणाम.\n२२. तथ्याच्या बाबीबाबत एका पक्षकाराच्या झालेल्या चूकभूलिमुळे उद्भवलेली संविदा.\n२३. कोणती प्रतिफले व उद्दिष्टे कायदेशीर असतात व कोणती नसतात."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

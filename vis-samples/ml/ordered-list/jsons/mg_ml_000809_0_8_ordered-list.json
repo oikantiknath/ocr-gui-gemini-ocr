@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_ml_000809_0_8_ordered-list.png",
+      "width": 769,
+      "height": 200
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        769.0,
+        200.0
+      ],
+      "area": 153800.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          769.0,
+          0.0,
+          769.0,
+          200.0,
+          0.0,
+          200.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. മലങ്കര മെത്രാപ്പോലീത്ത ഒരു സഭാദ്ധ്യക്ഷനായിരിക്കണം.\n(1848-ലെ കൊല്ലോം പഞ്ചായത്തു വിധി)\n2. അന്ത്യോഖ്യാ പാത്രിയർക്കീസിന് മലങ്കരയിൽ ലൗകിക അധികാരം ഇല്ല.\n3. മലങ്കര മെത്രാപ്പോലീത്തായ്ക്ക് അന്ത്യോഖ്യാ പാത്രിയർക്കീസിന്റെ കൈവെപ്പും ജനത്തിന്റെ\nതിരഞ്ഞെടുപ്പും തുല്യപ്രാധാന്യത്തോടെ അത്യാവശ്യപേക്ഷികമാണ്.\n4. റീശീസ്സായുടെ അവകാശം മലങ്കര മെത്രാപ്പോലീത്തായ്ക്കാണോ അന്ത്യോഖ്യാ പാത്രി\nയർക്കീസിനാണോ എന്ന് ഖണ്ഡിതമായി പറയാനാവില്ല.\n(2,3,4 - സെമിനാരിക്കേസിൽ 1889-ലെ തിരുവിതാംകൂർ റോയൽ കോടതി വിധി. കോട്ടയം\nചെറിയപള്ളിക്കേസിൽ തിരുവിതാംകൂർ റോയൽ കോടതി, ആർത്താറ്റ് പള്ളിക്കേസിൽ കൊച്ചി"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

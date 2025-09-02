@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_pa_000269_0_8_ordered-list.png",
+      "width": 985,
+      "height": 1229
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        985.0,
+        1229.0
+      ],
+      "area": 1210565.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          985.0,
+          0.0,
+          985.0,
+          1229.0,
+          0.0,
+          1229.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "54. “ਵਿਵਾਦੀ”, ਅਮਲ ਦੇ ਵਟਾਂਦਰੇ ਵਿੱਚ ਮੁਸਲਿਮਜ਼ ਦਾ ਵਿਸ਼ਵਾਸ ਹੈ ਜਿਹੜੀ ਸੇਵਾ\nਕੀਤੀ ਗਈ ਹੋਵੇ ਜਾਂ ਜਿਸ ਦੇ ਸੇਵਾ ਕਰਨ ਦਾ ਵਚਨ ਦਿੱਤਾ ਗਿਆ ਹੋਵੇ ਜਾਂ ਜਿਸਦਾ ਕੁਝ ਭਾਗ\nਸੇਵਾ ਕੀਤਾ ਗਿਆ ਹੋਵੇ ਅਤੇ ਕੁਝ ਭਾਗ ਸੇਵਾ ਕਰਨ ਦਾ ਵਚਨ ਦਿੱਤਾ ਗਿਆ ਹੋਵੇ।\n\nਅਜਿਹਾ ਵਿਸ਼ਵਾਸ, ਇੱਕ ਸੋ ਰੁਪਏ ਅਤੇ ਉਸ ਤੋਂ ਵੱਧ ਮੁੱਲ ਦੀ ਹਰਜਾ ਮੁਆਵਜ਼ੇ ਲਈ ਸੇਵਾ\nਦੀ ਸ਼ਰਤ ਵਿੱਚ, ਜਾਂ ਕਿਸੇ ਉੱਤਰ-ਭੋਗ ਜਾਂ ਹੋਰ ਸਮਝੌਤੇ ਦੀ ਸੇਵਾ ਵਿੱਚ ਕੇਵਲ ਰਜਿਸਟਰੀ\nਕੀਤੀ ਲਿਖਤ ਦੁਆਰਾ ਹੀ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।\n\nਇੱਕ ਸੋ ਰੁਪਏ ਤੋਂ ਘੱਟ ਮੁੱਲ ਦੀ ਹਰਜਾ ਮੁਆਵਜ਼ੇ ਲਈ ਸੇਵਾ ਦੀ ਸ਼ਰਤ ਵਿੱਚ ਅਜਿਹਾ\nਵਿਸ਼ਵਾਸ ਜਾਂ ਤਾਂ ਰਜਿਸਟਰੀ ਕੀਤੀ ਲਿਖਤ ਦੁਆਰਾ ਜਾਂ ਸੇਵਾ ਦੀ ਦੇਣਗੀ ਦੁਆਰਾ ਕੀਤਾ\nਜਾ ਸਕੇਗਾ।\n\nਹਰਜਾ ਮੁਆਵਜ਼ੇ ਸੇਵਾ ਦੀ ਦੇਣਗੀ ਭਾਵੇਂ ਹੋਵੇ ਜਿਹੜੀ ਹੋਵੇ ਤੇ ਜਦੋਂ ਦੇਣ ਵਾਲਾ ਮੁਕੱਰਰ\nਦਾ ਜਾਂ ਮੁਕੱਰਰ ਦੁਆਰਾ ਨਿਯੋਜਤ ਵਿਅਕਤੀ ਦਾ ਸੇਵਾ ਤੇ ਕਬਜ਼ਾ ਕਰਵਾ ਦਿੰਦਾ ਹੈ।\n\nਮੁਆਵਜ਼ੇ ਸੇਵਾ ਦੀ ਵਿਵਾਦੀ ਲਈ ਮੁਆਵਿਜ਼ਾ ਇਹ ਮੁਆਵਿਜ਼ਾ ਹੈ ਕਿ ਉਸ ਮੁਆਵਜ਼ੇ\nਸੇਵਾ ਦੀ ਵਿਵਾਦੀ ਪੂਰੀ ਵਿਵਾਦਕ ਏਕਮ ਹੋਇਆ ਨਿਯੋਜਨ ਤੇ ਹੋਵੇਗੀ।\n\nਇਹ ਆਪਣੇ ਆਪ ਅਜਿਹੀ ਸੇਵਾ ਵਿੱਚ ਕੋਈ ਹਿੱਤ ਜਾਂ ਉਸਤੇ ਕੋਈ ਭਾਰ ਸਿਰਜਨ\nਨਹੀਂ ਕਰਦਾ।\n\n55. ਇਸ ਦੇ ਉਲਟ ਕਿਸੇ ਮੁਆਵਿਜ਼ੇ ਦੀ ਸਟੇਟ ਦੇ ਦੀ ਸ਼ਰਤ ਵਿੱਚ, ਮੁਆਵਜ਼ੇ ਸੇਵਾ\nਦਾ ਮੁਕੱਰਰ ਅਤੇ ਵਿਵਾਦੀ ਦੁਆਰਾ ਉਨ੍ਹਾਂ ਵੇਦਵੇਦੀਆਂ ਦੇ ਤੇ ਭੇਜੇ ਹਨ, ਅਤੇ ਉਹ ਮੁਕੱਰਰ\nਰਖਦੇ ਹਨ, ਜਿਨ੍ਹਾਂ ਦਾ ਹੇਠ-ਲਿਖੇ ਨਿਯਮਾਂ ਵਿੱਚ ਜ਼ਿਕਰ ਹੈ ਜਾਂ ਉਨ੍ਹਾਂ ਵਿੱਚ ਅਜਿਹੀਆਂ\nਵੇਦਵੇਦੀਆਂ ਦੇ ਭਾਗ ਹਨ ਅਤੇ ਅਜਿਹੇ ਅਧਿਕਾਰ ਰਖਦੇ ਹਨ ਜੋ ਵਿਵਾਦੀ ਕੀਤੀ ਸੇਵਾ ਨੂੰ\nਲਾਗੂ ਹੁੰਦੇ ਹਨ :-\n\n(1) ਵਿਵਾਦੀ ਪਾਬੰਦ ਹੈ ਕਿ ਉਹ-\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

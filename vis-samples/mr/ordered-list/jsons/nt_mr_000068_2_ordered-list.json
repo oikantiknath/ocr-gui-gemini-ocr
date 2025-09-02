@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_mr_000068_2_ordered-list.png",
+      "width": 406,
+      "height": 219
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        406.0,
+        219.0
+      ],
+      "area": 88914.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          406.0,
+          0.0,
+          406.0,
+          219.0,
+          0.0,
+          219.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(क) \"क\" \"ख\" ला \"शंभर टन तेल\" विकण्याचा करार करतो. कोणत्या प्रकारचे तेल अभिप्रेत होते हे दाखवणारे\nकाहीही यात नाही. करार अनिश्चिततेमुळे शून्यत्व आहे.\n(ख) \"क\" \"ख\" ला वाणिज्य वस्तू म्हणून ओळखले जाणारे विनिर्दिष्ट वर्णनाचे शंभर टन तेल विकण्याचा करार\nकरतो. करार शून्यत्व करणारी कोणतीही अनिश्चितता या ठिकाणी नाही.\n(ग) \"क\" केवळ खोबरेलतेलाचा व्यापारी असून तो \"ख\" ला \"शंभर टन तेल\" विकण्याचा करार करतो. \"क\"\nच्या व्यापाराच्या स्वरूपावरून शब्दांचा अर्थ दर्शवला जातो व म्हणून \"क\" ने शंभर टन खोबरेलतेलाच्या विक्रीची संविदा\nकेली आहे असे होते.\n(घ) \"क\" रामनगर येथील आपल्या कोठारातील धान्य \"ख\" ला विकण्याचा करार करतो. करार शून्यत्व\nकरणारी कोणतीही अनिश्चितता या ठिकाणी नाही.\n(ङ) \"क\" \"एक हजार मण तांदूळ \"ग\" निश्चित करील त्या किमतीस \"ख\" ला विकण्याचा करार करतो. किंमत\nनिश्चित करणे शक्य आहे, म्हणून करार शून्यत्व करणारी कोणतीही अनिश्चितता या ठिकाणी नाही.\n(च) \"क\" \"ख\" ला \"माझा पांढरा घोडा पाचशे रुपयाला किंवा एक हजार रुपयाला\" विकण्याचा करार करतो.\nदोघांपैकी कोणती किंमत द्यावयाची होती ते दाखवणारे काहीही नाही. करार शून्यत्व आहे."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

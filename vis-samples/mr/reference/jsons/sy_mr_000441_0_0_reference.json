@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_mr_000441_0_0_reference.png",
+      "width": 1158,
+      "height": 1571
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        1158.0,
+        1571.0
+      ],
+      "area": 1819218.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1158.0,
+          0.0,
+          1158.0,
+          1571.0,
+          0.0,
+          1571.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "7. Desai A.R: India's Path of Development\n8. Desai, A.R. : Social Background of Indian Nationalism\n9. Dodwell : A Sketch of the History of India\n10. Dutta,K.K : Social History of Modern India\n11. Freedemberg, R.E : Land Control and Social Structure in India\nI. Prasad & Subedar: History of Modern India (English or Hindi)\n12. J.N Farquhar : Modern Relegious Movements in India\n13. J.N. Sarkar : Mughal Economy\n14. Kesvan Veluthat : Political Structure of Early Medieval South India\n15. M. Athar Ali : Mughal Nobility under Aurangzeb\n16. Mishra, B.B : Administrative History of modern India\n17. Nobora Karashima : South Indian History and Society\n18. P.J. Marshall : The Eighteenth century in Indian History\n19. R.C Majumdar : British Paramountacy and Indian Renaissance (Part I)\n20. R.P Dutt : India Today\n21. R.P. Tripathi : The Rise and Fall of Mughal Empire\n22. Ramsay Muir: The making of British India\n23. Sarkar Sumit : Modern India\n24. R. Jeffery, J Masseloss: From Rebellion to the Republic\n25. Paul Brass: The Politics of India since Independence\n26. K.G Subramanian: The Living Tradition: perspectives on Modern Indian Art.\n27. Dutta. K.K: Social History of Modern India\n28. Desai A.R.: Social background of Indian Nationalism\n29. Desai A.R.: India's Path of Development\n30. Prasad, Bisheswar: Bondage and Freedom, Vol. 2\n31. Tara Chand: History of Freedom Movement in India, Vol. 1,2\n32. S.R Mehrotra: The Emergence of Indian National congress\n33. Bipan Chandra and Others: Freedom Struggle\n34. Gerard Delanty & Krishna Kumar, Nations & Nationalism\n35. Sen Sunil K. : Agrarian Relations in India, 1793-1947\n36. Singh, G.N : Constitutional Development of India\n37. Stein Burton : The Making of Agrarian Policy in British India, 1770-1900\n38. Stewart Gordon : The Marathas 1600-1818\n39. Thomas Metealf : Ideologies of the Raj\n40. Thompson & Garret : Rise and Fulfilment of British Rule in India"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

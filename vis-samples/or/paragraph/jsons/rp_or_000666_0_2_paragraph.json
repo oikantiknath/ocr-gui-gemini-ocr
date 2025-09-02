@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_or_000666_0_2_paragraph.png",
+      "width": 931,
+      "height": 460
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        931.0,
+        460.0
+      ],
+      "area": 428260.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          931.0,
+          0.0,
+          931.0,
+          460.0,
+          0.0,
+          460.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ବର୍ତ୍ତମାନ ସମାଜରେ ନାନାଦି ସମସ୍ୟାଗତ ଆଭାସରେ ବିବାହ ଦିଆଯାଉଥିଲା । ଏହି ବିବାହ\nସଂସ୍କାରରେ ନାନାଦି ସର୍ତ୍ତବଳୀ ବି ରୁଢ଼ିବାଦୀର ସ୍ୱୀକାର ନଥିଲା । ରୁଢ଼, ବୈଦ୍ଧିକମାନ, ମନୁଷ୍ୟ\nନିର୍ବିଶେଷରେ ସମସ୍ୟାଗତ ସେହି ମନୁଷ୍ୟତା ମନୁଷ୍ୟ ବିବାହ ନାମରେ ନିଷ୍ପନ୍ନ କରି ଦେଉଥିଲେ ।\n‘ରଘୁଅରକ୍ଷିତ’ ସମସ୍ୟାବଳରେ ବିବାହ ବିନା ବୈଧର ସୌନ୍ଦର୍ଯ୍ୟ ମନୁଷ୍ୟ ଲକ୍ଷ୍ୟ ବିବାହରେ ନାନାଦିର\nକୌଣସି ବୈଶିଷ୍ଟ୍ୟ ବିବାହର ସହ ବିବାହ ହେଉଅଛି । ଯାହା ମୁଖ୍ୟତଃ ସାଧାରଣ ସେହିବିଧି ଏ ସାମାଜିକ\nସମାଜାଗତ ସମାନ ହେଉ ତାହା ତାହା ତାହା ହେଉ ତାହା ଲକ୍ଷ୍ୟକରି; ମାତ୍ର ବିନା ପ୍ରତି ଓ ପ୍ରକୃତ ସାମିତ୍ର ସମାଜ\nପ୍ରତି ତାଙ୍କ ମନର ଅସନ୍ତୋଷ ରହି ରହି ଲକ୍ଷ୍ୟକରି । ବିବାହକୁ ଅବଶ୍ୟକ କରି ତାହା ରୂପକର ସାର୍ବଜନୀନ\nସାକ୍ଷୀ ଲକ୍ଷ୍ୟକରି, ‘ତାହା ସେହି ହେଉ ତାହା ବିଧିବିଧି ସେ ତୁମାର ସେହି ନୁହେଁ ।’ ତାହା ମାଧ୍ୟମରେ ସେହି\nରୂପରେ ବିନା ସାକ୍ଷୀ ମନର ଓ ତୁମାର ।’"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

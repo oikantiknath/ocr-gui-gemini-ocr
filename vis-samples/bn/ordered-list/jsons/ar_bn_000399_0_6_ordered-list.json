@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000399_0_6_ordered-list.png",
+      "width": 639,
+      "height": 811
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        639.0,
+        811.0
+      ],
+      "area": 518229.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          639.0,
+          0.0,
+          639.0,
+          811.0,
+          0.0,
+          811.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "৭। (১) যথাযোগ্য সরকার, একজন শ্রম-আধিকারিক অপেক্ষা\nনিম্ন পদমর্যাদার নহেন এরূপ যে আধিকারিকগণকে উপযুক্ত মনে\nকরিবেন সেরূপ আধিকারিকগণকে—\n\n(ক) এই আইনের কোনও বিধানের উল্লঙ্ঘন সম্পর্কিত\nনালিশসমূহ,\n\n(খ) একই কার্য বা অনুরূপ প্রকৃতির কার্যের জন্য পুরুষ ও\nমহিলা কর্মিগণকে সমান হারে মজুরি প্রদান না-করা\nহইতে উদ্ভূত দাবিসমূহ\n\nশুনানী ও মীমাংসা করিবার প্রয়োজনার্থে আধিকারীরূপে, প্রজ্ঞাপন\nদ্বারা, নিযুক্ত করিতে পারিবেন এবং, ঐ একই বা পরবর্তী প্রজ্ঞাপন\nদ্বারা, যে স্থানীয় সীমার মধ্যে এরূপ প্রত্যেক আধিকারীর স্বীয়\nক্ষেত্রাধিকার প্রয়োগ করিবেন সেই স্থানীয় সীমা পরিনির্ধারিত\nকরিতে পারিবেন।\n\n(২) (১) উপধারায় উল্লিখিত প্রতিটি নালিশ বা দাবি যেরূপ\nবিহিত হইবে সেরূপ প্রণালীতে করিতে হইবে।\n\n(৩) দুই বা ততোধিক কার্য একই প্রকৃতির অথবা অনুরূপ\nপ্রকৃতির, এতৎসম্পর্কে যদি কোন প্রশ্ন উত্থিত হয়, তাহা হইলে (১)\nউপধারা অনুযায়ী নিযুক্ত আধিকারীরা উহা মীমাংসা করিবেন।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

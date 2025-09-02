@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_mr_000423_0_0_reference.png",
+      "width": 1285,
+      "height": 1785
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        1285.0,
+        1785.0
+      ],
+      "area": 2293725.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1285.0,
+          0.0,
+          1285.0,
+          1785.0,
+          0.0,
+          1785.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "3. Majumdar, R.C. and Pusalkar, A.D (edited): The History and Culture of Indian People\nVol. II: The Age of Imperial\n4. Pandey, Rajbali: Prachin Bharat, Vishwavidyalya Prakashan, revised edition,\nVaranasi, 2010.\n5. Raychaudhary, H.C: Political History of Ancient India, rev Edition, 1996 by\nB.N.Mukherjee\n6. Raychaudhary, H.C.: The History and Culture of Ancient India, Vol III:The Classical\nage\n7. Sankalia, HD: Prehistory and Prohistory of India and Pakistan, Poona 1974\n8. Sastri, K.A Nilakanta: A History of South India, from Prehistoric Times to the fall of\nVijaynagar, Oxford University Press, 1955; Also, in Hindi Translation by Bihar Hindi\nGranth Academy.\n9. Singh, Kripa Shankar: Rigveda, Harrappa Sabhyata and SanskriticNirantarta, Kitab\nGhar publication, New Delhi, 2007\n10. Majumdar R.C and Pusalkar A.D (edited): The History of Indian People, vol. V, The\nStruggle for Empire\n11. Majumdar R.C. and Pusalkar A.D (edited): The History of Indian People, Vol. IV,\nThe AgeImperial Kanauj\n12. Majumdar, A.K.: Bhakti Renaissance, Bhartiya Vidyabhawan, Calcutta.\n13. Majumdar, R.C. and Altekar, A.S Vakataka: Gupta Age, Motilal Banarasi Das, 2007.\n14. Pande, Rekha: Religion movement in Medieval India, Gyanbook, New Delhi.\n15. Raychaudhary, H.C.: Political History of Ancient India.\n16. Sastri, K.A. Nilkanta: a History of South India, from Prehistoric times to the fall of\nVijaynagar, Oxford University Press, 1955, also, in Hindi translation by Bihar Hindi\nGranthAcademy.\n17. Sastri, K.A. Nilkanta: Studies in Chola History and Administration, University of\nMadras, 1932.\n18. Singh, Upinder: A History of Ancient and Early Medieval India, from Stone Age to\nEarly Medieval India, a Pearson pub., New Delhi, 2008.\n19. Srivastva, B: दक्षिण भारत का इतिहास, Varanasi, 2010.\n20. Vaidya, C.V: History of Medieval Hindu India, Reprint, Gyan books, New Delhi,\n2018.\n21. Thapar, Romilla: Early India from the Beginnings to 1300, London, 2002\n22. A. L. Basham, The Wonder That was India (Mumbai, Rupa, 1971)\n23. D.N. Jha and K.M. Shrimali, Prachin Bharat Ka Itihas (Delhi, Hindi, Directorate\n1990)\n24. Kalambe Chitralekha, Prachin Bhartacha Sanshipt Itihas aani Priyadarshi Itihas Part-I,\nSwayam Prakashan, Mumbai, 2017\n25. Kalambe Chitralekha, Prachin Bhartacha Sanshipt Itihas aani Priyadarshi Itihas Part-II,\nSwayam Prakashan, Mumbai, 2017"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

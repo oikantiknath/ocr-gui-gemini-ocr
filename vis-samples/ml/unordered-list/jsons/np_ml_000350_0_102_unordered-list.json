@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_ml_000350_0_102_unordered-list.png",
+      "width": 378,
+      "height": 368
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        378.0,
+        368.0
+      ],
+      "area": 139104.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          378.0,
+          0.0,
+          378.0,
+          368.0,
+          0.0,
+          368.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "കൺ 18 ആമത് യാത്രയിലേക്ക്. സ്കൂളുക\\nൾ, നിരീക്ഷണങ്ങളും, മാളുകൾ തുടങ്ങി\\nഅവർക്കു് സാധ്യതയുള്ള എല്ലാ രംഗങ്ങളിലും\\nനിയന്ത്രണം.\\n• സ്കൂളുകൾ തുറക്കുന്നതു് എന്നതു് മുൻപുള്ള ഒരു\\nനയമനുസരിച്ച് ഒരു അടിയന്തിരവാക പ്രർത്തനങ്ങ\\nളും നിർത്തി. 15 ദിവസത്തേക്കു് നിയന്ത്രണം.\\nവിദ്യാർത്ഥികളെല്ലാം വീടുകളിലേക്കു് മടങ്ങണം.\\nക്ലാസുകളും പരീക്ഷകളും വെബ്സൈറ്റുകളോ യോഗ\\nങ്ങളോവാനും ഉണ്ടായിരിക്കില്ലെന്നു് പറയുന്നുണ്ട്.\\n• ചോദ്യനമ്പരും കേന്ദ്രമായ ഒരു യോഗം ന\\nടന്നു് ലോകാരോഗ്യസംഘടനയുള്ള എല്ലാ കേന്ദ്രങ്ങളും അ\\nടച്ചു. എല്ലാ പരിപാടികളും മാറ്റിവച്ചു. സെപ്റ്റംബറി\\nലെ ഒരു വർത്തമാനവും ചോദ്യനമ്പരും പരിശോധ\\nനയ്ക്കു് വിധേയമാക്കും. സെപ്റ്റംബറിൽ നിന്നും ചോ\\nദ്യാവനം ഉണ്ടായാലും നിലനിൽക്കില്ല. സെപ്റ്റംബറി\\nന്റെ ആവശ്യത്തിനു് വേണ്ടി യാത്ര ചെയ്യുന്നവരും"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

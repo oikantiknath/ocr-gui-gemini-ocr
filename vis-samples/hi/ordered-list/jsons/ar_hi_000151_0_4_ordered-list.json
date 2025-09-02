@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_hi_000151_0_4_ordered-list.png",
+      "width": 1295,
+      "height": 838
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        1295.0,
+        838.0
+      ],
+      "area": 1085210.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1295.0,
+          0.0,
+          1295.0,
+          838.0,
+          0.0,
+          838.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(क) रेल या स्टीमर में यात्रा करने पर -\n\n(i) न्यायाधीश स्वयं उच्चतम श्रेणी, 2(वातानुकूलित सहित) के आरक्षित डिब्बे या केबिन में यात्रा कर सकते हैं।\nन्यायाधीश के परिवार के सदस्य भी न्यायाधीश के साथ ऐसे आरक्षित डिब्बे या केबिन में यात्रा कर सकते हैं।\n\n(ii) उसके परिवार के सदस्य जो आरक्षित डिब्बे या केबिन में यात्रा नहीं कर रहे हैं, वे उच्चतम श्रेणी के आवास 2\n2(वातानुकूलित सहित) में यात्रा कर सकते हैं।\n\n2[परंतु कि न्यायाधीश या उसके परिवार के सदस्य अपने विकल्प पर किसी सार्वजनिक हवाई परिवहन से यात्रा करें]\n\n(ख) सड़क में यात्रा करने पर -\n\n3 न्यायाधीश के लिए एक मील भत्ता, दूसरा मील भत्ता यदि उसके परिवार के दो सदस्य उसके साथ यात्रा कर रहे हैं और तीसरा\nमील भत्ता यदि दो से अधिक सदस्य उसके साथ यात्रा करते हैं तो ऐसे न्यायाधीश के लिए उस तिथि पर लागू दर पर जब वह\nआखिरी बार ड्यूटी पर था।\n\nपरंतु कि जब यात्रा का कोई भी हिस्सा रेल द्वारा किया जा सकता है, तो उस हिस्से के संबंध में दावा किया गया भत्ता उस स्वीकार्य\nराशि से अधिक नहीं होगा, यदि न्यायाधीश और उसके परिवार के सदस्यों ने वातानुकूलित को छोड़कर, द्वारा रेल द्वारा उच्चतम\nश्रेणी ऐसे हिस्से पर यात्रा की होती।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

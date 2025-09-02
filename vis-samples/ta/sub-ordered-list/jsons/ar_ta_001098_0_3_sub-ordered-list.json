@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_001098_0_3_sub-ordered-list.png",
+      "width": 773,
+      "height": 438
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        773.0,
+        438.0
+      ],
+      "area": 338574.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          773.0,
+          0.0,
+          773.0,
+          438.0,
+          0.0,
+          438.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "8. (1) இந்தச் சட்டத்தின் வகைகளினடி பாகிஸ்தானுக்கு மாற்\nறப்பட்டுள்ள ஆள் எவரும், மைய அரசாங்கத்தின் எழுத்துமூலமான அனுமதியின்றி,\nஇந்தியாவிற்குத் திரும்பி வருதல் ஆகாது.\n\n(2) உட்பிரிவு (1) இன் வகைகளை ஆள் எவரும் மீறுவாரானால்,\nஅவர், மூன்றாண்டுகள் வரை நீடிக்கலாகும் சிறைத்தண்டனை விதித்துத் தண்டிக்\nகப்படத்தக்கவராவார்; மற்றும் பாகிஸ்தானுக்கு மாற்றப்படுகிற சமயத்தில் அவர்\nஇந்தியாவில் சிறைத்தண்டனை அனுபவித்து வந்தாரானால், அவர் மாற்றப்பட்ட\nபிறகு பாகிஸ்தானில் இருத்தி வைத்திருக்கக்கூடிய அல்லது அடைத்து வைத்திருக்கக்\nகூடிய காலஅளவையும் கணக்கில் எடுத்துக்கொள்ளாமல், அந்தத்\nதண்டனையில் முடிவடையாமலிருக்கும் காலப்பகுதிக்கு மேற்கொண்டு தண்டிக்கப்\nபடுதல் வேண்டும்.\n\n(3) உட்பிரிவு (1) இன் வகைகளை மீறுகிற ஆள், பாகிஸ்தானுக்கு\nமாற்றப்படுகிற சமயத்தில் இந்தியாவிலுள்ள நீதிமன்றம் எதிலும் குற்றச்செயல்\nஎதற்காகவும், விசாரணை செய்யப்பட்டு வருவாரானால், அவர் உட்பிரிவு (2)இன்\nவகைகளுக்கு ஊரின்றி, அதே நீதிமன்றத்தால் அல்லது அதிகார வரம்புடைய\nவேறேதேனும் நீதிமன்றத்தால், அத்தகைய குற்றச்செயலுக்காக விசாரணை செய்யப்\nபடுவதற்கு ஆளாகத்தக்கவராவார்:"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

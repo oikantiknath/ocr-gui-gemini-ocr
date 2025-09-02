@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_gu_000516_1_33_first-level-question.png",
+      "width": 457,
+      "height": 318
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 8,
+      "bbox": [
+        0.0,
+        0.0,
+        457.0,
+        318.0
+      ],
+      "area": 145326.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          457.0,
+          0.0,
+          457.0,
+          318.0,
+          0.0,
+          318.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "• નીચે આપેલા વિધાનો માટે તેમની નીચે આપેલ વિકલ્પોમાંથી સાચો વિકલ્પ પસંદ કરો.\n1. હળદર બેઈઝ પદાર્થ સાથે કેવો રંગ આપે છે ?\n(A) પીળો (B) કથ્થાઈ પડતો પીળો (C) લાલશ પડતો કથ્થાઈ (D) કાળો\n2. નીચેનામાંથી કયા સંયોજનોમાં -OH ક્રિયાશીલ સમૂહ હોય છે ?\n(A) બ્યુટેનોન (B) બ્યુટેનોલ (C) બ્યુટેનોઈક એસિડ (D) બ્યુટેનાલ\n3. પાચનમાર્ગના કયા ભાગમાં ખોરાકનું સંપૂર્ણ પાચન થાય છે ?\n(A) જઠર (B) મુખગુહા (C) મોટું આંતરડું (D) નાનું આંતરડું\n4. વિદ્યુતપ્રવાહનો એકમ લખો.\n(A) કુલંબ (B) એમ્પીયર (C) વોલ્ટ (D) ઓહ્મ\n5. શબ્દકોશમાં જોવા મળતા નાના અક્ષરો વાંચવા માટે તમે નીચે આપેલ પૈકી શું પસંદ કરશો ?\n(A) અંતર્ગોળ લેન્સ (B) બહિર્ગોળ લેન્સ\n(C) અંતર્ગોળ અરીસો (D) બહિર્ગોળ અરીસો\n6. પ્રેસબાયોપિયાની ખામી ધરાવતી વ્યક્તિ કયા લેન્સના ચશ્મા પહેરતી હશે?\n(A) બાયફોકલ (B) નળાકારીય લેન્સ (C) બહિર્ગોળ લેન્સ (D) અંતર્ગોળ લેન્સ"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_ml_000550_0_0_reference.png",
+      "width": 880,
+      "height": 1361
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        880.0,
+        1361.0
+      ],
+      "area": 1197680.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          880.0,
+          0.0,
+          880.0,
+          1361.0,
+          0.0,
+          1361.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "Babu, Suresh, G.S. \"Civil Society with Fractured Social Capital: Fore\ngrounding. Contemporary dalit and Adivasi Assertion\nKerala\"http://www.academia.edu/2142043/CIVIL SOCIETY WITH_\nFRACTURED SOCIAL CAPITAL FOREGROUNDING\nCONTEMPORARY_DALIT_AND_ADIVASI ASSERTION IN KERALA\n\nBeher A and Samuel J. 2006, Social Watch in India: Citizens Report on\nGovernance and Development, Pune: NCAS\n\nBendell, Jem, 2000. Terms of Endearment: Business, NGOs and\nSustainable Development. Greenleaf Publishing.\nBerlie, Lawrence Schwesinger. 2010, Alliances for Sustainable\nDevelopment: Business and NGO partnerships, Palgrave\nMacmillan.\n\nBijaya, M K. The growing role of civil society organisations in\ncontemporary India: http://w cademia.edu/1129289/The_\ngrowing_role_of_civilsociety_organisations_in_contemporary\nIndia.\n\nBoon, Andrew and Book Andy. 1999, Advocacy, USA Cavendish\nPublications Centre for Education and Documentation, Indian civil\nsociety engagement with Climate Policy. From the Centre to the\nMargins: http://base.d-p-h.info/fr/fiches/ dph/fiche-dph-\n8772.html\n\nChalakudy Puzha Samrakshana Samithy: http://ph.famedpages.com\n/www/ chalakudy+puzha+samrakshana+samithy\n\nChandra, Ramesh, 2004. Globalisation. Liberalisation. Privatisation, and\nIndian Polity, Gyan Publishing House.\n\nChengara, Kerala-land grab, Adivasis, and peasant struggle – A\ncitizens report – See more at:\nhttp://sanhati.com/articles/535/#sthash.X3CsMSCZ.dpuf\nChoudhary, Kameshwar, 2007, Globalisation. Governance Reforms and\nDevelopment In India, SAGE Publications India.\nChoudhury, S., 1990, Project Management, New Delhi, Tata McGraw-Hill\nPublishing Company Ltd.\n\nClark, John, The Relationship Between the State and the Voluntary\nSector: http://www.gdrc.org/ngo/state-ngo.html."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

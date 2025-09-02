@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_hi_000893_1_5_paragraph.png",
+      "width": 364,
+      "height": 79
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        364.0,
+        79.0
+      ],
+      "area": 28756.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          364.0,
+          0.0,
+          364.0,
+          79.0,
+          0.0,
+          79.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "एफएफडी ने एक कार्यक्रम विकसित किया है, जिसे सनरेफ (प्राकृतिक संसाधनों और ऊर्जा वित्त का सतत\nउपयोग) कहा जाता है, जो स्थानीय वित्तीय संस्थाओं के लिए पर्यावरणीय ऋण सुगम्यता के माध्यम से नवीन\nहरित निवेश विकसित करने हेतु समर्थन प्रदान करता है। कार्यक्रम में स्थानीय वित्तीय संस्थाओं को तकनीकी\nसहायता और ऋण सुगम्यता दोनोंको बढ़ाना शामिल है जिससे वे सार्वजनिक और निजी प्रवर्तकों की छोटी और\nमध्यम आकार परियोजनाओं को वित्तपोषित कर सकें। अब तक, सनरेफ के अंतर्गत, एफएफडी ने 20 से अधिक\nविकासशील देशों में हरित परियोजनाओं के वित्तपोषण कार्य के लिए 70+ वित्तीय संस्थाओं को 2.5 बिलियन यूरो\nकी सहायता प्रदान की है।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_bn_000493_1_0_subsub-section-title.png",
+      "width": 2344,
+      "height": 567
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 33,
+      "bbox": [
+        0.0,
+        0.0,
+        2344.0,
+        567.0
+      ],
+      "area": 1329048.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          2344.0,
+          0.0,
+          2344.0,
+          567.0,
+          0.0,
+          567.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "• সাত ও আট অঙ্কের সংখ্যার প্রয়োজন বোধ তৈরি করা (ছয় অঙ্কের দুটি সংখ্যা যোগ করার সময় বা ছয় অঙ্কের\nসংখ্যা দিয়ে তৈরি বাস্তব সমস্যা সমাধানের সময় সাত অঙ্কের সংখ্যা প্রথম আসতে পারে।)\n• সাত ও আট অঙ্কের সংখ্যা কথায় ও অঙ্কে প্রকাশ করতে পারা ও স্থানীয় মানে বিস্তার করতে পারা\n• সাত ও আট অঙ্কের সংখ্যার ছোটো, বড়ো বিচার করতে ও চিহ্ন দিয়ে ছোটো ,বড়ো প্রকাশ করতে পারা\n• সাত ও আট অঙ্কের সংখ্যার যোগ -বিয়োগ -গুণ - ভাগ বিষয়ক বাস্তব সমস্যা তৈরি করা ও সমাধান করা ও\nপ্রাসঙ্গিক মানসাঙ্ক করতে পারা"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

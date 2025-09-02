@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_ta_001316_1_1_unordered-list.png",
+      "width": 406,
+      "height": 230
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        406.0,
+        230.0
+      ],
+      "area": 93380.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          406.0,
+          0.0,
+          406.0,
+          230.0,
+          0.0,
+          230.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* சொட்டு நீர் பாசன முறையில் இதை பயன்படுத்த முடியும்.\n* தானியங்கி முறையில் உர மேலாண்மையை கையாள்வதால் மனித\nஆற்றல் குறைவு.\n* ஒவ்வொரு பயிருக்கும் தேவையான ஜீவாமிர்தம். அதற்கான அளவு\nமற்றும் நேர மேலாண்மையை மாற்றி அமைக்க முடியும்.\n* தொடர்ந்து பயன்படுத்துவதால் மண் புழுக்களின் பெருக்கம்\nஅதிகமாகும் மற்றும் நிலத்துக்குள் மழைநீர் சுலபமாக இறங்கும்.\n* தானியங்கு முறை காரணமாக, ஓர் வேலை ஆள் கொண்டே 10 முதல் 20\nஏக்கர் வரை ஜீவாமிர்தக் கரைசலை பயிர்களுக்கு பயன்படுத்த முடியும்.\n* இயற்கை விவசாயத்தின் மேல் ஓர் உத்வேகம் மற்றும் உற்சாகத்தை\nஇந்த வடிகட்டி ஏற்படுத்தும். மேலும் நிலத்தின் மண் மிகவும்\nமென்மையாக மாற்றம் பெறும்."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

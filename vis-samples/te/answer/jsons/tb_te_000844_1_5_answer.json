@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "tb_te_000844_1_5_answer.png",
+      "width": 446,
+      "height": 200
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        446.0,
+        200.0
+      ],
+      "area": 89200.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          446.0,
+          0.0,
+          446.0,
+          200.0,
+          0.0,
+          200.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "సాధన : బొమ్మను H తో బొరుసును T తో సూచిస్తే రెండు నాణెములు ఎగురవేసినప్పుడు ఏర్పడు అన్ని పర్యవసానములు\n(H, H), (H, T), (T, H), (T, T) అవి అన్ని సమసంభవాలే. ఇందు (H, H) అనగా మొదటి నాణెం (₹1) బొమ్మ,\nరెండవ నాణెం (₹2) బొమ్మ అని అర్థం. అట్లే (H, T) అనగా మొదటి నాణెం బొమ్మ రెండవ నాణెం బొరుసు అని\nఅర్థం. అట్లే మిగిలిన పర్యవసానాలు.\n\nకనీసం ఒక బొమ్మకు అనుకూల పర్యవసానాలు E = {(H, H), (H, T), (T, H)}\n\nE కు అనుకూల పర్యవసానాల సంఖ్య n(E) = 3.\n\nP(E) = 3/4 [:: ప్రతిరూప ఆవరణలో పర్యవసానాలు 4]\n\nఅనగా హర్షిత్ కనీసం ఒక బొమ్మ పొందే సంభావ్యత = 3/4\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

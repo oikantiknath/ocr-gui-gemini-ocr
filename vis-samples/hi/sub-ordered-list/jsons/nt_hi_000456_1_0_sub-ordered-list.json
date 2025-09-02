@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_hi_000456_1_0_sub-ordered-list.png",
+      "width": 420,
+      "height": 173
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        420.0,
+        173.0
+      ],
+      "area": 72660.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          420.0,
+          0.0,
+          420.0,
+          173.0,
+          0.0,
+          173.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "क) देय शुल्क: रु. 100/- (सौ रुपये मात्र)\nख) महिला उम्मीदवारों, ट्रांसजेंडर उम्मीदवारों और अनुसूचित जाति (एससी), अनुसूचित जनजाति (एसटी), बेंचमार्क विकलांग व्यक्तियों\n(पीडब्ल्यूबीडी) और आर्थिक रूप से कमजोर वर्ग के उम्मीदवारों को शुल्क के भुगतान से छूट दी गई है।\nग) शुल्क का भुगतान यूपीआई, नेट बैंकिंग, क्रेडिट या डेबिट कार्ड आदि के माध्यम से ऑनलाइन किया जा सकता है।\nघ) आवेदन प्राप्त होने की अंतिम तिथि तक उम्मीदवार ऑनलाइन शुल्क का भुगतान कर सकते हैं।\nङ) जिन उम्मीदवारों को शुल्क के भुगतान से छूट नहीं मिली है, उन्हें यह सुनिश्चित करना होगा कि शुल्क भुगतान सफलतापूर्वक हो गया\nहै। ऐसे आवेदन जो शुल्क का भुगतान न करने के कारण अधूरे रह जाएंगे, उन्हें सरसरी तौर पर खारिज कर दिया जाएगा और अंतिम\nतिथि के बाद ऐसे आवेदनों पर विचार करने और शुल्क भुगतान के किसी भी अनुरोध पर विचार नहीं किया जाएगा। इसलिए, उम्मीदवारों"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

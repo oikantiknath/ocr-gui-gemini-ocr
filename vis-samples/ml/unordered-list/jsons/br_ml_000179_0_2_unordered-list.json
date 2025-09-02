@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_ml_000179_0_2_unordered-list.png",
+      "width": 939,
+      "height": 782
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        939.0,
+        782.0
+      ],
+      "area": 734298.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          939.0,
+          0.0,
+          939.0,
+          782.0,
+          0.0,
+          782.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* കൊഴുപ്പ് ശല്യം കുറയ്ക്കുന്നതിനായി കൊഴുപ്പുവെള്ളം\nഅന്തർഭാഗങ്ങളിലെ ഉപയോഗിക്കുക\n* കിണറുകളും മറ്റ് കുടിവെള്ളമുള്ള സ്രോതസ്സുകളും ചോദിക്കാതെ\nമലിനീകരിച്ച് കളയരുത്. മരങ്ങൾ കുഴിക്കുക\n* പുറംതൊലി നീക്കം കൊണ്ടുവരുന്ന പഴങ്ങളും പച്ചക്കറികളും നന്നായി കഴുകി\nഉപയോഗിക്കുക\n* രോഗകാരികളായ പ്രാണികളെ തുരത്തുന്നതിനായി കീടനാശിനികൾ\nഉപയോഗിക്കുക\n* പഴകിയതും കേടായതുമായ ഭക്ഷണസാധനങ്ങൾ ഉപയോഗിക്കരുത്\n* അണുബാധയേയും സുരക്ഷിതമല്ലാത്ത രോഗലക്ഷണങ്ങൾ\nകഷ്ടപ്പാടുകളിലേയോ മരണങ്ങളിലേയോ ശ്രദ്ധയിൽ\nപെടുത്തുന്നതിൽ ഏറ്റവും പെട്ടെന്ന് ആരോഗ്യപ്രവർത്തകരെ\nഅറിയിക്കുക\n* രോഗസൗഖ്യം ഉണ്ടായാൽ ഏറ്റവും പെട്ടെന്ന് വൈദ്യസഹായം\nതേടുകയും നിർദ്ദേശാനുസരണം മരുന്നുകൾ ഉപയോഗിക്കുകയും\nചെയ്യുക."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

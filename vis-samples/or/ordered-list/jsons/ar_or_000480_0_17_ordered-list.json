@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_or_000480_0_17_ordered-list.png",
+      "width": 797,
+      "height": 755
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        797.0,
+        755.0
+      ],
+      "area": 601735.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          797.0,
+          0.0,
+          797.0,
+          755.0,
+          0.0,
+          755.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(କ) ଏ ଲକ୍ଷ୍ୟ ପୂର୍ଣ୍ଣ ଓ ସର୍ବ ସାଧାରଣଙ୍କ ସୁବିଧା ନିମନ୍ତେ ଏ ନିୟମ ଓ ଉପନିୟମ କରାଯିବ ।\n(ଖ) ସଭାପତି ହେବ ଏ ସଭାର ମୁଖ୍ୟ ଓ କର୍ତ୍ତା । ତାଙ୍କୁ ସାଧାରଣ ସମ୍ପାଦକ ଓ ଅନ୍ୟ\nକର୍ମଚାରୀ ସାହାଯ୍ୟ କରିବେ ।\nତାଙ୍କ ପରେ ଏ ସଭା ସାଧାରଣ ଲୋକଙ୍କ ଓ ସର୍ବ ନିମ୍ନ ତଥା ଉଚ୍ଚ ସ୍ତରୀୟ ନାଗରିକ\nଓ ସମସ୍ତ ଅଧିକାରୀଙ୍କୁ ନେଇ ଗଠିତ । ଏ ସଭା ହେବ ଦେଶର ସର୍ବ ଉଚ୍ଚ ସଭା ଓ ଅନୁଷ୍ଠାନ ।\nଏ ନିୟମ ଓ ଉପନିୟମ ଲାଗୁ ଓ ବଳବତ୍ତର ରହିବ ।\n(ଗ) ଏ ଠାରୁ ଛୋଟ ସଭା ସବୁ ସେହି ପରିଠାରୁ ଏ ନିୟମ ଓ ଉପନିୟମ ଲଗାଇ\nକାର୍ଯ୍ୟ କରିବେ ।\n(ଘ) ନିମ୍ନ ସ୍ତରରୁ ଉଚ୍ଚ ସ୍ତରକୁ ତାଙ୍କ ଲାଗି କିଛି ନିୟମ ସେହି ସବୁ ସଭା ଓ ସାଧାରଣ\nଓ ନିୟମ ଅନୁସାରେ କରିବେ । ଏ ନିୟମର ବିରୋଧୀତା ଲାଗୁ ଓ ବଳବତ୍ତର\nରହିବ ।\n(ଙ) ନୂଆ ନୂଆ ନିୟମ ଓ ଉପନିୟମ ଓ କିଛି ନୂଆ ନୀତି, ନିୟମ ଓ ବ୍ୟବସ୍ଥା\nକରିବାକୁ ପଡିବ ।\n\nସାଧାରଣ ଅନୁଷ୍ଠାନ ସାଧାରଣଙ୍କୁ ସେହି ଲାଭ ନିମନ୍ତେ ପ୍ରସ୍ତୁତ ଅଟେ ।\n\n(ଚ) ସେହି ନିୟମ ଏବଂ ସେହି ସଭା ଠାରୁ ଛୋଟ ଛୋଟ ସଭାମାନଙ୍କୁ ଓ ଉପର ସଭାକୁ\nବୋଧ କରାଯିବ । ପୁଣି ସମାଜିକ, ରାଜନୈତିକ ତଥା ସବୁ ନୀତି ଲାଗୁ ପ୍ରସ୍ତୁତ ଅଟେ ।\n\n(ଛ) ଏ ସଭା ତଥା ଏ ସଭା ନିୟମ ଲଗାଇବ । ଏ ନିୟମ ଓ ଉପନିୟମ ନୀତି\nଏବଂ ଏ ସାଧାରଣ ତଥା ସବୁ ସାଧାରଣ ତଥା ସାଧାରଣ ତଥା ଅନୁଷ୍ଠାନ ନୀତି\nଲାଗୁ । ଅନୁଷ୍ଠାନ ପ୍ରସ୍ତୁତ ଅଟେ ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

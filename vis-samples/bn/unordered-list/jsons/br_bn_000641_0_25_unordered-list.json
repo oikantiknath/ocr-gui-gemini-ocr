@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_bn_000641_0_25_unordered-list.png",
+      "width": 464,
+      "height": 535
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        464.0,
+        535.0
+      ],
+      "area": 248240.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          464.0,
+          0.0,
+          464.0,
+          535.0,
+          0.0,
+          535.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "■ জন্মের সময় শিশুর ওজন\n২৫০০ গ্রামের বেশি ওজন নিয়ে যে শিশু\nজন্মায় তার জীবন অনেক বেশি মসৃণ হয়। তাকে\nনিয়ে সমস্যা অনেক কম থাকে সাধারণত।\n\nকিন্তু ২৫০০ গ্রাম বা তার কম ওজন নিয়ে যে\nশিশু পৃথিবীতে ভূমিষ্ঠ হল তার সমস্যা অনেক। বিশ্ব\nস্বাস্থ্য সংস্থার মতে, এদের বলা হয় কম ওজনের\nশিশু বা Low Birth Weight অর্থাৎ LBW\nChild।\n\nশিশুর জন্মসময়ে ১৫০০ গ্রামের কম ওজন\nথাকলে বলা হয় Very Low Birth Weight\n(VLBW) Child এবং ১০০০ গ্রাম অর্থাৎ ১\nকেজির কম ওজন থাকলে বলা হয় Extremely\nLow Birth Weight (ELBW) Child.\n\n■ ওজন কম কেন ?\n৩৭ সপ্তাহের আগে জন্মানো শিশুর শরীর গঠন"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

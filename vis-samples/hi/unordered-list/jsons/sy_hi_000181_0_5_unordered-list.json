@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_hi_000181_0_5_unordered-list.png",
+      "width": 1260,
+      "height": 641
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        1260.0,
+        641.0
+      ],
+      "area": 807660.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1260.0,
+          0.0,
+          1260.0,
+          641.0,
+          0.0,
+          641.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* आयकर : मूल संकल्पनाएं; आवासीय प्रस्थिति और कर भार; छूट प्राप्त आय; कृषि आय, विभिन्न\nशीर्षों के अधीन कर योग्य आय का अभिकलन; सकल कुल आय से कटौती; व्यक्तियों का कर-\nनिर्धारण; आयों का सम्मिलित करना\n* अंतर्राष्ट्रीय कराधान : दोहरा कराधान और इसका परिहार तंत्र, ट्रांसफर प्राइसिंग\n* निगम कर योजना: निगम कर योजना की संकल्पना और महत्व; कर परिहार बनाम कर अपवंचन;\nनिगम कर योजना की तकनीकें; विशिष्ट व्यवसाय की स्थितियों में कर विचारण; बनाने या\nखरीदने संबंधी निर्णय लेना, किसी परिसंपत्ति का स्वामित्व या पट्टा, परिसंपत्ति का प्रतिधारण,\nपरिसंपत्ति का नवीनीकरण या प्रतिस्थापन, प्रचालनों को बंद करना या जारी रखना\n* स्रोत पर कर की कटौती और संग्रहण; कर का अग्रिम भुगतान; आयकर विवरणी को इलेक्ट्रोनिक\nमाध्यम से दाखिल करना"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

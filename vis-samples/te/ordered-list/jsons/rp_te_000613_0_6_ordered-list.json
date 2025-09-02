@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_te_000613_0_6_ordered-list.png",
+      "width": 387,
+      "height": 690
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        387.0,
+        690.0
+      ],
+      "area": 267030.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          387.0,
+          0.0,
+          387.0,
+          690.0,
+          0.0,
+          690.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "8. ‘సా వా గా ్య రసవృత్తికి’ అను చింతా\nమణి సూత్రమునుబట్టియు, అప్పకవి యొనర్చిన\nదాని వివరమునుబట్టియు1 రసమే కావ్యమున\nకాత్మయను తన్మతము విశదమగుచున్నది. కాని\nజోసెఫ్‌ఫోటె జాదామణి ననుసరించి ‘అఖిల\nకావ్యములకు నాత్మలు రీతులు’ అని చెప్ప\nబడినది. [పుట 15.] ఇచ్చట జాదామణి కారుఁడు\nదోసర్చిన పారఫాటె యప్పకవియు నను\nసరించెను.\n4. జాదామణిలో నున్నట్లే యిందును\n‘ప్రాణము’ వానికిఁ బ్రాణదకము’ [పుట\n15.] అని దశగుణముల నే యంగీకరించెను.\nకొన్నిగుణములు కొన్నిదోషములను బోగొట్టుట\nకేర్పడినవని చెప్పి సుందరముగఁ జాదామణి\nయందున్నరీతిని మీఁది దశగుణములే కాక\nఉదాత్త, ఓజస్వి-వేయము-యు-కీ-మాధు\nఅను క్రోఁత్రిగుణములు చెప్పబడినవి. [పుట\n17, 18 లు.]\n5. జాదామణి ననుసరించి యలంకారము\nలలో శ్లేషనే (స్వభావోక్తినే) ప్రాధానం\nకారణముగా అప్పకవి చెప్పియున్నాఁడు.2 కాని\nయతనికాలమునాఁటికి, ఉపమాదులగు గౌరవము\nజాతికి లేకపోయినది. ప్రాచీనకాలంకారికులు\nస్వభావోక్తికిఁ బ్రాముఖ్యము నొసంగి;"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

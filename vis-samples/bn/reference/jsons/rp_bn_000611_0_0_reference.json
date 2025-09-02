@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_bn_000611_0_0_reference.png",
+      "width": 954,
+      "height": 1357
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        954.0,
+        1357.0
+      ],
+      "area": 1294578.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          954.0,
+          0.0,
+          954.0,
+          1357.0,
+          0.0,
+          1357.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "pqiuL NËÛk\nআহমদ, আইয়ুব আলিম আল। শিক্ষা গবেষণা পদ্ধতি। ঢাকা : প্রতীক লাইব্রেরী,\n২০০৪z ¢Ëz\nগুপ্ত, অশোক। ন্যায়ালয় দুর্নীতির দিনে। কলকাতা : দে’জ পাবলিশিং, ২০০০।\n¢Ëz\n..,ç, nËj mËz শত লেখিকা শত গল্প। কলকাতা : সাহিত্যম, 1996 z ¢Ëz\n..,ç, pbZÑz ইতিহাসে নারী ও শিক্ষা। কলকাতা : প্রগ্রেসিভ পাবলিশার্স, ২০০১।\n¢Ëz\n..,ç, pañL}il z Eedwn na jËro বাংলার নবজাগরণ z LmLa¡x H jMSÑ\nআও কোং প্রাঃ লিঃ, ১৩৮৩। প্রিন্ট।\nগোস্বামী, ডঃ হরি সাধন। ভারতের শিক্ষার ইতিহাস z LmLa¡x f@h%oL¡SÉ\nfBL fOñ 1989 z ¢Ëz\n..,q, tiL }”e z ør ju fBLv। কলকাতা : মৈত্রী, ২০১১। প্রিন্ট।\nঘোষ, অরুণ। ør jL i jhdL¡ j pj pÉ C¤aqp। কলকাতা : এডুকেশনাল এন্টার\nfËCS¡pÑ2001 z ¢Ëz\nঘোষ, কালীপ্রসন্ন। e¡L S¡m ¢houL fËBh z কলকাতা : অভিষেক পাবলিশার্স,\n1926 z ¢Ëz\nঘোষ, বিনয়। d¢cEpÑN J h¡p¡pÉpj¡S। কলকাতা : কলকাতা বেঙ্গল পাবলিশ\nপাবলিশার্স প্রাইভেট লিমিটেড, ১৯৯৯। প্রিন্টz"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

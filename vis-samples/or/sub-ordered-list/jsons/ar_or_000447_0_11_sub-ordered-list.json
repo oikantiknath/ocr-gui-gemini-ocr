@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_or_000447_0_11_sub-ordered-list.png",
+      "width": 781,
+      "height": 229
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        781.0,
+        229.0
+      ],
+      "area": 178849.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          781.0,
+          0.0,
+          781.0,
+          229.0,
+          0.0,
+          229.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "16. (1) ଧାରା 13,14, 15 ଓ 15କ ଉପଧାରା ପ୍ରତ୍ୟେକ ସମସ୍ତ ଧନ କିମ୍ବା ମାଲିକେସନ\nଦ୍ୱାରା ବଣ୍ଟୁଥିବା ହେଉଛି, 1882ର ଧାରା 386 ଓ 387 ରେ ଲିଖିତାନା ଉଲ୍ଲୁକ ନିମିତ ଉପଦିଷ୍ଟ ତ\nବାହିରେ ବା କୌଣସି ସମୟ ବ୍ୟାପାରରେ ମକଦମା ଦ୍ୱାରା ଉଲ୍ଲୁକ ଘୋଷା ହେଉ ।\n* * * *\n(3) ଧାରା 15କ ଉପଧାରା ଦିଆଯାଇଥିବା ବା ଉଲ୍ଲୁକ କରାଯାଇଥିବା ସମସ୍ତ ଧନ ସେହି ଧାରା\nଉପଧାରା ସେହି ବ୍ୟକ୍ତିମାନଙ୍କ ଓ ସେହି ଉପଧାରାରେ ପ୍ରତ୍ୟେକ ଲୋକାଧିକ, କିମ୍ବା ମାଲିକେସନ ଦ୍ୱାରା\nସେହି ବ୍ୟକ୍ତିମାନଙ୍କ ସେହି ଉପଧାରାରେ ଦିଆଯିବ ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

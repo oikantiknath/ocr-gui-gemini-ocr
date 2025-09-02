@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_ml_000254_0_92_ordered-list.png",
+      "width": 268,
+      "height": 587
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        268.0,
+        587.0
+      ],
+      "area": 157316.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          268.0,
+          0.0,
+          268.0,
+          587.0,
+          0.0,
+          587.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "അശ്വതി: പരിചയസമ്പത്തുള്ള\nനുഭവസ്ഥനായ ഒരാൾ ലഭിക്കും. മാ\nതാപിതാക്കളുടെ ആഗ്രഹങ്ങൾ സാ\nധിച്ചെടുക്കും. വ്യവസായങ്ങൾ പാലിക്കും.\nഭരണി: അപൂർണ്ണമായ ചർച്ചകൾ\nമാറ്റിവെക്കും. അശ്രദ്ധകൊണ്ടു വി\nഴ്ചയ്ക്കു സാധ്യതയുണ്ട്, ചുമതലക\nൾ മറ്റൊരാളെ ഏൽപ്പിക്കരുത്.\nകാർത്തിക: വിദേശബന്ധമുള്ള\nവ്യാപാരം തുടങ്ങാൻ പുനരാലോചി\nക്കും. മേലധികാരിയുടെ ജോലിക\nൾ ചെയ്തുതീർക്കേണ്ടതായിവരും.\nരോഹിണി: പുതിയ ഭരണപരി\nഷ്കാരം ഏറ്റെടുക്കും. താമസിക്കു\nന്നതിന്റെ അടുത്തുള്ള പട്ടണത്തി\nലേക്ക് ഉദ്യോഗമാറ്റങ്ങളുണ്ടാകും. ക്രയ\nവിക്രയങ്ങളിൽ സാമ്പത്തികനേട്ടമു\nണ്ടാകും.\nമകയിരം: പുത്രപ്രതിഭാസമുണ്ടാ\nകും. പുണ്യപ്രവർത്തികളി\nലും മംഗളകർമ്മങ്ങളിലും പങ്കെടു\nക്കും. പുതിയ ഭരണപരിഷ്കാരങ്ങ\nൾ പ്രാവർത്തികമാക്കാക്കും.\nതിരുവാതിര: കഴിവു പ്രകടിപ്പി\nക്കാൻ അവസരമുണ്ടാകും. പദ്ധതി\nവിജയത്താൽ അധികൃതരുടെ പ്രീ\nതിനേടും. ഉന്നതരെ പരിചയപ്പെടാ\nനവസരമുണ്ടാകും.\nപുണർതം: ആശയവിനിമയങ്ങ\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

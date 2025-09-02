@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_pa_000371_0_9_subsub-headline.png",
+      "width": 874,
+      "height": 452
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        874.0,
+        452.0
+      ],
+      "area": 395048.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          874.0,
+          0.0,
+          874.0,
+          452.0,
+          0.0,
+          452.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ੳ) ਸਭ ਮੈਂਬਰ, ਭੰਗ ਹੋਣ ਦੀ ਤਰੀਕ ਤੋਂ, ਅਜਿਹੇ ਮੈਂਬਰਾਂ ਵਜੋਂ ਆਪਣੇ ਅਹੁਦੇ ਖਾਲੀ\nਕਰ ਦੇਣਗੇ;\n(ਅ) ਭੰਗ ਹੋਣ ਦੀ ਮੁੱਦਤ ਦੇ ਦੌਰਾਨ ਬੋਰਡ ਦੀਆਂ ਸਭ ਸ਼ਕਤੀਆਂ ਦੀ ਵਰਤੋਂ ਅਤੇ\nਕਰਤੱਵਾਂ ਦਾ ਪਾਲਣ ਅਜਿਹੇ ਵਿਅਕਤੀ ਜਾਂ ਵਿਅਕਤੀਆਂ ਦੁਆਰਾ ਕੀਤਾ\nਜਾਵੇਗਾ, ਜਿਸ ਨੂੰ ਜਾਂ ਜਿਨ੍ਹਾਂ ਨੂੰ ਕੇਂਦਰੀ ਸਰਕਾਰ ਇਸ ਨਮਿੱਤ ਨਿਯੁਕਤ ਕਰੇ;\n(ੲ) ਬੋਰਡ ਵਿੱਚ ਨਿਹਿਤ ਸਭ ਫੰਡ ਅਤੇ ਹੋਰ ਸੰਪੱਤੀ, ਭੰਗ ਹੋਣ ਦੀ ਮੁੱਦਤ ਦੇ\nਦੌਰਾਨ, ਕੇਂਦਰੀ ਸਰਕਾਰ ਵਿੱਚ ਨਿਹਿਤ ਹੋਵੇਗੀ; ਅਤੇ\n(ਸ) ਭੰਗ ਹੋਣ ਦੀ ਮੁੱਦਤ ਗੁਜ਼ਰਦਿਆਂ ਹੀ, ਬੋਰਡ ਦਾ ਪੁਨਰਗਠਨ ਇਸ ਐਕਟ ਦੇ\nਉਪਬੰਧਾਂ ਦੀ ਅਨੁਸਾਰਤਾ ਵਿੱਚ ਕੀਤਾ ਜਾਵੇਗਾ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

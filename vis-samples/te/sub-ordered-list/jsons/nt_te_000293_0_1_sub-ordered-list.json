@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_te_000293_0_1_sub-ordered-list.png",
+      "width": 359,
+      "height": 449
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        359.0,
+        449.0
+      ],
+      "area": 161191.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          359.0,
+          0.0,
+          359.0,
+          449.0,
+          0.0,
+          449.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "i) అతని నైతికత లేక సామర్థ్యత ఎటువంటి ప్రభావము\nచూపని, నేరారోపణలు/నిందారోపణలు స్వభావములో, సాధారణ\nలోపాలకు చెందినట్లయితే, నిష్కలంక రికార్డు కల్గియున్న అధికారిపై,\nనిరూపితమైనప్పుడు, అతనికి పదోన్నతి ఇచ్చుటలో ఆటంకముగా\nఉండజాలదు.\n\nii) నేరారోపణలు/నిందారోపణలు, విచారణ దర్యాప్తు,\nవిచారణ లేక శోధనలకు సంబంధము లేకుండా, ఒక అధికారి యొక్క\nరికార్డు పదోన్నతికి పొందేటట్లుగా; మరియు\n\niii) నేరారోపణలకు సంబంధించి, అవి\nనిరూపించబడినట్లయితే,దర్యాప్తు, విచారణ లేక శోధనలకు,\nఎదుర్కొనకున్నట్లయితే, ఒక ఆఫీసరు యొక్క రికార్డు, పదోన్నతి\nపొందియుండి జామీగా ఉన్నట్లయితే, అతనిని తప్పించుటకు\nసరిపోవునదిగా ఉండును."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

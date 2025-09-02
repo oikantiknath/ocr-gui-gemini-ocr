@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_kn_000193_0_15_answer.png",
+      "width": 686,
+      "height": 287
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        686.0,
+        287.0
+      ],
+      "area": 196882.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          686.0,
+          0.0,
+          686.0,
+          287.0,
+          0.0,
+          287.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಸೋಂಕಿತ ವ್ಯಕ್ತಿಯು ಸೀನಿದಾಗ ಅಥವಾ ಕೆಮ್ಮಿದಾಗ ಹೊರಹಾಕುವ ದ್ರವ\nಪದಾರ್ಥಗಳನ್ನು ಬೇರೆಯವು ಮುಟ್ಟಿ ನಂತರ ಕಣ್ಣು, ಬಾಯಿ, ಮೂಗನ್ನು\nಸ್ಪರ್ಶಿಸಿದರೆ ಸೋಂಕು ಹರಡುತ್ತದೆ. ಅಲ್ಲದೇ ಸೋಂಕಿತ ವ್ಯಕ್ತಿಯು ಸೀನು ಮತ್ತು\nಕೆಮ್ಮಿನ ಸಣ್ಣ ಸಣ್ಣ ದ್ರವಗಳು ಮುಂದಿರುವ ವ್ಯಕ್ತಿಯ ಕಣ್ಣು ಮೂಗು ಬಾಯಿ ಮೇಲೆ\nಬಿದ್ದಾಗಲೂ ಪೀಡಿತರಾದ ವ್ಯಕ್ತಿಯು ಚಳಕಕ್ಕೆ ಸೋಂಕು ಉಂಟಾಗಬಹುದು. ಅಲ್ಲದೇ\nಸೋಂಕಿತಿರುವ ವ್ಯಕ್ತಿ ಕೂರುವ, ಅವರ ಎದುರಿಗಿರುವ ಮೇಜು, ಕುರ್ಚಿ, ನೆಲ,\nಗೋಡೆ ಇತ್ಯಾದಿ ವಸ್ತುಗಳ ಮೇಲೆಯೂ ಇರಬಹುದು. ಅದನ್ನು ಮುಟ್ಟಿ ಇತರರು\nಕಣ್ಣು, ಬಾಯಿ ಹಾಗೂ ಮೂಗನ್ನು ತೊಳೆಯದೇ ಮುಟ್ಟಿಕೊಂಡರೆ ಸೋಂಕು\nಹರಡುತ್ತದೆ. ಆದರೆ ಮಣ್ಣಿನಿಂದ ಹರಡಿರುವ ಉದಾಹರಣೆಗಳಿಲ್ಲ.\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

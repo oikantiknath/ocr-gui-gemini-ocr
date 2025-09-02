@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_ta_001238_1_1_answer.png",
+      "width": 495,
+      "height": 177
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        495.0,
+        177.0
+      ],
+      "area": 87615.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          495.0,
+          0.0,
+          495.0,
+          177.0,
+          0.0,
+          177.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "இந்தியா ஓர் பரந்த நாடு. மேலும் பல்வேறுபட்ட தட்பவெப்ப சூழல் நிலவுகின்றன. பல்வேறு\nவகையான பயிர்சாகுபடி முறைகள், பருவ காலங்கள், நிலவுகின்றன. உலக நிலப்பரப்பில் இந்தியா 2.4%\nநிலப்பரப்பை பெற்றுள்ளது. ஆனால் உலக மக்கள் தொகையில் 18% இந்தியாவில் உள்ளது. இந்திய மக்கள்\nதொகையில் சுமார் 64% வேளாண்மையில் ஈடுபட்டுள்ளனர். மேலும் 68% உழைக்கும் மக்கள்\nநேரடியாகவோ மறைமுகமாகவோ வேளாண் தொழிலில் ஈடுபட்டுள்ளனர். மொத்த உள்நாட்டு உற்பத்தியில்\n25% க்கு மிகாமல் வேளாண்மை பங்களிக்கின்றது. உலக அளவில் நீர் ஆதாரங்களில் 4% மட்டுமே\nஇந்தியாவில் உள்ளது. பாசனத்திற்காக 83% நீர் ஆதாரங்கள் பயன்படுத்தப்படுகின்றது. சாகுபடி பரப்பில்\n66% மழையை நம்பியே பயிர் செய்யப்படுகின்றது. 40 மில்லியன் சாகுபடி நிலப்பரப்பு வெள்ளப்பாதிப்பிற்கு\nஉள்ளாகும் அபாயம் உள்ளது. கிழக்கு கடற்கரை பகுதியில் வெப்ப மண்டல புயல்களின் தாக்கம் அதிகமாக\nஉள்ளது. ஒழுங்கற்ற பருவமழை பொழிவு, பருவம் தவறி மழை பெய்தல் போன்றவை பருவநிலை\nமாற்றத்தால் ஏற்படுகின்றன."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

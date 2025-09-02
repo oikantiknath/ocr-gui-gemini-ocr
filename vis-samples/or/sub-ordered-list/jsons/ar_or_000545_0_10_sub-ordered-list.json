@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_or_000545_0_10_sub-ordered-list.png",
+      "width": 855,
+      "height": 465
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        855.0,
+        465.0
+      ],
+      "area": 397575.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          855.0,
+          0.0,
+          855.0,
+          465.0,
+          0.0,
+          465.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "21କ. (1) ଏହି ଅଧିନିୟମ ଅନୁଯାୟୀ ହୋଇଥିବା ଏକ ଆବେଦନର ବିଭିନ୍ନ ସଂଦର୍ଭରେ ଅଧ୍ୟକ୍ଷ\nନ୍ୟାୟାଳୟରେ ସ୍ଥାୟୀ ରୂପେ କାର୍ଯ୍ୟ କରିବାକୁ ବାଧ୍ୟ ନଥିବେ, ସର୍ବଦା ସାଧୁ ପ୍ରତିକ୍ରିୟା ସୁନିଶ୍ଚିତ, ମାତ୍ର ଯଦି\nସେହି ବିଷୟ ସରକାରୀ ଢାଞ୍ଚାରେ ହୋଇଥିବା ଦିନକୁ ମୂଳଦିନ ରୂପେ ଗଣନାକୁ ନ୍ୟାୟାଳୟ ଆବଶ୍ୟକ ମନେ\nକରନ୍ତି ତେବେ ତାହାର ମାସିକ ନିର୍ଦ୍ଧାରଣ କରିବେ ।\n\n(2) ଏହି ଅଧିନିୟମ ଅଧୀନ ପ୍ରତ୍ୟେକ ଆବେଦନପତ୍ର ଅଧ୍ୟକ୍ଷ, ସଭ୍ୟ ବିଷୟ ଉପାଧି ଏବଂ\nମହାସଚିବଙ୍କ ନିକଟେ ଆବେଦନପତ୍ରର ଗୋଟିଏ ଲାଗି ତାରିଖ ଠାରୁ ଛଅ ମାସ ମଧ୍ୟରେ ସମାପ୍ତ\nକରିବାକୁ ପ୍ରଚେଷ୍ଟା କରାଯିବ ।\n\n(3) ଏହି ଅଧିନିୟମ ଅଧୀନ ପ୍ରତ୍ୟେକ ଅଭିଯୋଗ ତଥା ଶାସ୍ତ୍ର ସଭ୍ୟ ଶୁଣାଣି ହେବ ଏବଂ ମହାସ-\nଚିବଙ୍କ ନିକଟେ ଅଭିଯୋଗ ଗୋଟିଏ ଲାଗି ତାରିଖଠାରୁ ତିନିମାସ ମଧ୍ୟରେ ସେହି ଶୁଣାଣି ସମାପ୍ତ କରିବାକୁ\nପ୍ରଚେଷ୍ଟା କରାଯିବ ।\n\n21. ଖ. ବିଚାରାଳୟରେ ହେଉଥିବା କାର୍ଯ୍ୟାନୁଷ୍ଠାନରେ ବାଧାସୃଷ୍ଟି ଥିବା ସତ୍ତ୍ୱେ ଏହି ଅଧିନିୟମ ଅଧୀନ\nଆବେଦନପତ୍ରର ବିଷୟ ହେଉଥିବା କାର୍ଯ୍ୟାନୁଷ୍ଠାନରେ, ଗୋଟିଏ ଉପାଧି, ତାହାର ସହଯୋଗୀ ଲାଗି ସାଧୁ\nମହାସଭା ଲାଗି ବା ହେଉଥିବା ମହାସଭା ଲାଗି କୌଣସି ମାସିକ ବସନ୍ତ ଆବଶ୍ୟକ ଅଛି ଅନୁଯାୟୀ ହେବ ନାହିଁ ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

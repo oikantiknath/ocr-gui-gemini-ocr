@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ml_000212_0_7_sub-ordered-list.png",
+      "width": 953,
+      "height": 636
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        953.0,
+        636.0
+      ],
+      "area": 606108.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          953.0,
+          0.0,
+          953.0,
+          636.0,
+          0.0,
+          636.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "3.  കമ്മീഷനുകളുടെ സംരക്ഷണവും ഉദ്യോഗസ്ഥന്മാരും എങ്ങനെയോ.—(1) സർക്കാർ,\nഗസറ്റ് വിജ്ഞാപനം വഴി, താഴെപ്പറയുന്ന മൂന്ന് കമ്മീഷനുകൾ സ്ഥാപിക്കേണം എന്നും\nഅവ പൊതുവായി കേരള സംസ്ഥാന ഗവൺമെൻ്റിൻ്റെ കമ്മീഷനുകൾ\nഎന്നറിയപ്പെടുന്നതുമാകുന്നു, അതായത്:—\n\n(എ) ഗവൺമെൻ്റ് റവന്യൂ കമ്മീഷൻ;\n\n(ബി) ഇന്ത്യൻ സിവിൽ സർവ്വീസ് ബോർഡ് റവന്യൂ കമ്മീഷൻ;\n\n(സി) കോർപ്പറേഷൻ റവന്യൂ കമ്മീഷൻ.\n\n(2) അങ്ങനെയുള്ള ഓരോ കമ്മീഷനും ഒരു ഉദ്യോഗസ്ഥനും നിയമവാധിയായിരിക്കണമെന്നും\nശാസ്ത്രജ്ഞന്മാർക്ക് ഉപദേശകന്മാരോടോ ഒരു പൊതുവായ ഉത്തരവാദിത്തമുള്ളതും\nപ്രസ്തുത ജോലിക്ക് വ്യവസ്ഥാപിതമായും വ്യവസ്ഥാപിതമല്ലാത്തതായും ചെയ്യേണ്ടതുമാകുന്നു:\n\nഎന്നാൽ ഈ ആക്റ്റ് പ്രബല്യത്തിൽ വരുമ്പോൾ പ്രവർത്തിച്ചുകൊണ്ടിരിക്കുന്ന\nകമ്മീഷനുകൾ ഈ ആക്റ്റിൽ നിന്ന് സംരക്ഷിക്കപ്പെടുന്നതാണെന്ന് കണക്കാക്കുകയും\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

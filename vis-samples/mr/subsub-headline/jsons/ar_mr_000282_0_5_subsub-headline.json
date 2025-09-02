@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_mr_000282_0_5_subsub-headline.png",
+      "width": 950,
+      "height": 349
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        950.0,
+        349.0
+      ],
+      "area": 331550.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          950.0,
+          0.0,
+          950.0,
+          349.0,
+          0.0,
+          349.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(एक) निधीच्या नियमांन्वये अशी रक्कम, अशी शिल्लक रक्कम किंवा असा भाग\nघेण्यास ज्या व्यक्तीस नामनिर्देशित केले असेल त्या व्यक्तीने मयत व्यक्तीच्या इस्टेटोचा\nकारभार पाहण्याचे काम आपणाकडे देण्यात आले आहे या गोष्टीच्या पुराव्यादाखल मृत्युपत्र-\nप्रमाण किंवा प्रशासनपत्र सादर केल्यावर किंवा ज्या प्रमाणपत्रांन्वये त्याच्या धारकास अशा\nरक्कमचे, शिल्लक रकमेचे किंवा अशा भागाचे प्रदान स्वीकारण्याचा हक्क मिळतो असे\n\"उत्तराधिकार प्रमाणपत्र अधिनियम, १८८९\" अन्वयेचे किंवा सन १८२७ चा मुंबई विनियम\nआठ याअन्वयेचे प्रमाणपत्र सादर केल्यावर त्या नामनिर्देशित व्यक्तीस देईल, अथवा,\n\n(दोन) अशा रीतीने कोणतीही व्यक्ती नामनिर्देशित करण्यात आली नसेल तर अशा\nप्रसंगी, असे मृत्युपत्रप्रमाण, प्रशासनपत्र किंवा असे प्रमाणपत्र सादर करणाऱ्या कोणाही\nव्यक्तीला देईल :\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

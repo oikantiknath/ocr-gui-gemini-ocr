@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ml_000926_1_5_ordered-list.png",
+      "width": 390,
+      "height": 147
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        390.0,
+        147.0
+      ],
+      "area": 57330.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          390.0,
+          0.0,
+          390.0,
+          147.0,
+          0.0,
+          147.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "165. സംസ്ഥാനത്തിന്റെ അഡ്വക്കേറ്റ്-ജനറൽ—(1) ഓരോ സംസ്ഥാനത്തിന്റെയും\nഗവർണ്ണർ ഒരു ഹൈക്കോടതിയിലെ ജഡ്ജിയായി നിയമിക്കപ്പെടുവാൻ യോഗ്യതയുള്ള ഒരാളെ, ആ\nസംസ്ഥാനത്തിന്റെ അഡ്വക്കേറ്റ്-ജനറലായി നിയമിക്കുന്നതാണ്.\n(2) അഡ്വക്കേറ്റ്-ജനറലിന് അപ്പോഴപ്പോൾ ഗവർണ്ണർ ഏൽപ്പിച്ചുകൊടുക്കാതെ\nഏൽപ്പിച്ചുകൊടുക്കാതെ ചെയ്യുന്ന അങ്ങനെയുള്ള നിയമപരമായ വിഷയങ്ങളെക്കുറിച്ച് ആ സംസ്ഥാനത്തിന്റെ\nസർക്കാറിന് ഉപദേശം കൊടുക്കുകയും, നിയമ സമാവായമുള്ള അത്തരം മറ്റ് കർത്തവ്യങ്ങൾ\nനിർവ്വഹിക്കുകയും ഈ ഭരണഘടനയോ ഭരണഘടനപ്രകാരമോ ആ സമയം പ്രാബല്യത്തിലിരിക്കുന്ന\nമറ്റേതെങ്കിലും നിയമത്താലോ നിയമപ്രകാരമോ നൽകിയിട്ടുള്ള ചുമതലകൾ നിർവ്വഹിക്കുകയും\nചെയ്യുന്നത് അഡ്വക്കേറ്റ്-ജനറലിന്റെ കർത്തവ്യമായിരിക്കുന്നതാണ്.\n(3) അഡ്വക്കേറ്റ്-ജനറൽ, ഗവർണ്ണർക്ക് ഇഷ്ടമുള്ളിടത്തോളം കാലം പദവിയിൽ വസിക്കുന്നതും,\nഗവർണ്ണർക്ക് നിയമിക്കുന്ന അങ്ങനെയുള്ള വേതനം സർക്കാറിൽനിന്നും ലഭിക്കുന്നതും ആകുന്നു."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_or_000547_0_0_ordered-list.png",
+      "width": 424,
+      "height": 521
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        424.0,
+        521.0
+      ],
+      "area": 220904.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          424.0,
+          0.0,
+          424.0,
+          521.0,
+          0.0,
+          521.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "୧୯. ନକଲୀ ପଠାଉଥିବା ପାଇଁ ଦଣ୍ଡାଦେଶ, ରାଜାନୀତିରେ କହିଥିଲେ ଯେ ଡି ଏଫ୍\nସହିତ ଆଲୋଚନା ହୋଇଛି, ଯେଉଁ ଯୋଗାଣର ପ୍ରଦର୍ଶନ ରୂପେ ରାଜ୍ୟ ନକଲୀ ରାଜ୍ୟ କର୍ମୀଙ୍କ\nସାଧାରଣ ସହିତ ନକଲୀମାନିଙ୍କୁ ପଠାଉଥିବା କର୍ମୀଙ୍କୁ ଅନୁମତି ମିଳିଥିଲେ । ଯେତେବେଳେ ସେ ସାହା\nଯ୍ୟରେ, ସାଧାରଣରୁ ନୂଆ ନକଲୀ ରାଜ୍ୟ କର୍ମୀ ପାଇଁ ଲୋକାପି ଅନୁମତି ଦେଇନଥିଲେ ।\n୨୦. ଯେତେବେଳେ ଉପଯୋଗୀମାନେ ଯୋଗାଣରେ ପ୍ରସ୍ତୁତ ରାଜ୍ୟ କର୍ମୀଙ୍କ\nକର୍ମୀଙ୍କୁ ସଜ୍ଜା ଦେଇନଥିଲେ, ଓଡ଼ିଶା ଉଚ୍ଚ ନ୍ୟାୟାଳୟରେ ଉଚ୍ଚ ଡି. (ସି) ୧୦୭୯ /\n୨୦୦୮ ମାମଲାରେ ଉଚ୍ଚ ଡି. ଓଡ଼ିଶା ରାଜ୍ୟ ନ୍ୟାୟାଳୟରୁ ଉଚ୍ଚ ଡି. ଓଡ଼ିଶା ରାଜ୍ୟ-ପ୍ରଶାସନ\nପ୍ରଶାସନରୁ ସେ ଅନୁମାନିତ ଉପଦେଶ ଦାବି କରି ସେହିମାନେ ନକଲୀ ରାଜ୍ୟ କର୍ମୀ ଏବଂ\nଏବଂ ପଠାଉଥିବା କର୍ମୀ ସମ୍ପର୍କରେ ଲୋକାପି ଉପଦେଶ ନୁହେଁ । ୨୬° ୨୯.୧୯୯୭\nସଂଖ୍ୟା ୫୩୬ / ୯୦ ରେ ଉପଯୋଗୀ ଉପଯୋଗୀଙ୍କୁ ସ୍ଥାନ ପାଇଁ ତାଙ୍କ ୦୧.୦୩.୧୯୯୦\nଆଦେଶ ଆଦେଶରେ ଲୋକାପି କରି ଡି. ଏମ୍. ଏବଂ ନିମ୍ନ ଗ୍ରୁପ୍ କର୍ମୀଙ୍କୁ ସାହାଯ୍ୟ କରିବାକୁ ।\nପ୍ରଶାସନିକ ନିୟମ ସମ୍ପର୍କରେ, ଧାରା ୧୦୮୬ ଏବଂ ଧାରା ୧୩୮୬.୧୯୯୯ ରେ ସେହିମାନେ\nନକଲୀରେ ନୁହେଁ, ଉପଯୋଗୀ ଉପଯୋଗୀଙ୍କୁ ସ୍ଥାନ ପାଇଁ ତାଙ୍କ ୧୬.୧୨.୧୯୯୭\n୦୧.୦୩.୧୯୯୦ ରୁ ଆଦେଶ ଉପରେ ନିର୍ଭର କରିବାକୁ । ଉଚ୍ଚ ଡି. ଓଡ଼ିଶା\n୨୧.୧୧.୨୦୦୮ ରେ ସମସ୍ତ କହିଥିବାକୁ । ଉଚ୍ଚ ଡି. ଆବେଦନକାରୀଙ୍କୁ ଆବଶ୍ୟକ ଥିଲା\nଯେ ଯୋଗାଣ ଉପଯୋଗ-ଅନୁମାନ ଉପଯୋଗୀ ସମ୍ପର୍କରେ ଆଦି ନିୟମ କହିଥିଲେ, ଯେଉଁ"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

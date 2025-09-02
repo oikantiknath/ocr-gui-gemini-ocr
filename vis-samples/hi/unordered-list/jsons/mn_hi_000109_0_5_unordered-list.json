@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_hi_000109_0_5_unordered-list.png",
+      "width": 868,
+      "height": 817
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        868.0,
+        817.0
+      ],
+      "area": 709156.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          868.0,
+          0.0,
+          868.0,
+          817.0,
+          0.0,
+          817.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "• अगर गोबर के ढेर को कृषि अवशेष इत्यादि से ढक कर रखा\\nजाए तो बेहतर रहता है। ढेर की लिपाई करने से खाद जल्दी बनती\\nहै। ढेर की ऊपरी परत में पुरानी तैयार खाद मिलाने से भी खाद\\nजल्दी तैयार होगी।\\n• 15-20 दिनों में ढेर को पलटने से और फिर ढकने से भी खाद\\nजल्दी तैयार होती है, परन्तु पलटना आवश्यक नहीं है।\\n• गोबर के ढेर में शीशा, लोहा, प्लास्टिक आदि न गल सकने वाले\\nपदार्थ नहीं होने चाहियें।\\n• अच्छी बनी खाद खुशबूदार होती है, चाय की पत्ती सी। छान कर\\nडालने लायक। तापमान सामान्य होता है। अगर खाद गर्म है, तो\\nतैयार नहीं है।\\n• तैयार होने पर खाद जितनी जल्दी प्रयोग की जाए उतना अच्छा।\\nअगर तुरंत प्रयोग न करनी हो तो मिट्टी से ढक कर और नमी बना\\nकर रखनी चाहिए। इतनी नमी खाद में बना कर रखें कि खाद को\\nमुट्ठी में बंद करने पर लड्डू बंध जाए और मुट्ठी खोलने पर आसानी\\nसे बिखर जाए।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_te_000183_0_0_ordered-list.png",
+      "width": 579,
+      "height": 812
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        579.0,
+        812.0
+      ],
+      "area": 470148.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          579.0,
+          0.0,
+          579.0,
+          812.0,
+          0.0,
+          812.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. వేదోక్త ధర్మములు గూర్చి చెప్పిన పదునైదు\\nవచనములకు ‘సమాధి’ మని పేరు. సమాధులలోని పదు\\nమూడు వచనము లయినవి, సమాధున కర్థము చెప్పెడి\\nదానికి ‘విగ్రహ’ మని పేరు. రామాయణము. (సమాధము.)\\nరామునియొక్క బాణము. (విగ్రహము.)\\n2. ‘సాంఖ్యము, ఉద్యమము, మిశ్రము’ అని సమా\\nసములు మూడువిధములు.\\nసాంఖ్యము ‘ఏకము, సాధ్యము,’ అని రెండువిధ\\nములు. సాంఖ్యములకు నుదాహరించినవి ఏకసమాసము.\\nతటస్థుడైనవాడు, లక్ష్మీధరుడు, కీర్తివంతుడు, ఇందు\\nమొదలైనవియు కేవలసాంఖ్యము, రెండుపదములు తత్సమాసము.\\nతత్సమాసములతోఁ గూడినవి సాధ్యసమాసము.\\nరామునిచే, లక్ష్మీధరుడు, కీర్తివంతుడైనవాడు.\\n3. అన్ని తెలుగుపదములు కలయికచే ఏర్పడిన\\nఉద్యమము,\\nతెలుగునకు, ఉద్యమమునకు, ఉదాహరణ.\\n4. ఉద్యమతత్సమాసము కలయికచే ఏర్పడిన\\nమిశ్రము.\\nమిశ్రమునకు, ఉదాహరణ, కీర్తివంతుడు.\\n5. అపదార్థభావము, తత్పదార్థము, కర్మపదార్థము,\\nఅనుపదార్థము, ద్విగుపదము అని సమాసములు అయిదువిధములు.\\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

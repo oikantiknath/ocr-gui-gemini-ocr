@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_ml_000225_0_11_unordered-list.png",
+      "width": 393,
+      "height": 409
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        393.0,
+        409.0
+      ],
+      "area": 160737.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          393.0,
+          0.0,
+          393.0,
+          409.0,
+          0.0,
+          409.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "● പോളിങ്ങിനു തലേന്ന് പോളിംഗ് സ്റ്റേഷൻ അണു\nവിമുക്തമാക്കണം. സ്റ്റേഷനു മുമ്പിൽ സോപ്പ്,\nവെള്ളം, തുടങ്ങിയവയുണ്ടാകണം.\n● ഒരു പോളിംഗ് സ്റ്റേഷനിൽ പരമാവധി 1000 പേർ.\n(ഇപ്പോൾ 1500)\n● എല്ലാ പോളിംഗ് സ്റ്റേഷനിലും കാവലിൽ രണ്ട്\nആർ നഴ്സുമാർ. ഇവിടെ മുഴുവൻ ജോലിയും പരി\nശോധിക്കാൻ പോളിംഗ് ഉദ്യോഗസ്ഥനോ പാരാ\nമെഡിക്കൽ ജീവനക്കാരോ ആശാ വർക്കറോ ഉ\nണ്ടായിരിക്കണം.\n● ആദ്യ പരിശോധനയിൽ പിഴവുണ്ടെന്നു സംശ\nയം തോന്നിയാൽ രണ്ടു തവണ കൂടി പരിശോധ\nന. അപ്പോഴും മാറ്റമില്ലെങ്കിൽ ടോക്കൺ നൽകി\nയശേഷം പോളിങ്ങിന്റെ അവസാന മണിക്കൂറി\nലെന്നോണം നിർദ്ദേശിച്ചയയ്ക്കുക. അവ\nസാന മണിക്കൂറിൽ അവർക്ക് വോട്ട് ചെയ്യാൻ\nഅവസരം നൽകണം.\n● മൂന്നോ അതിലധികമോ പോളിംഗ് സ്റ്റേഷനിൽ"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

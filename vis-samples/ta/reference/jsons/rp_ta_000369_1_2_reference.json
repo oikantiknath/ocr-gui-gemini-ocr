@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_ta_000369_1_2_reference.png",
+      "width": 448,
+      "height": 332
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        448.0,
+        332.0
+      ],
+      "area": 148736.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          448.0,
+          0.0,
+          448.0,
+          332.0,
+          0.0,
+          332.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "Irasamanikkanar,Ma.(2002). Periya purāṇa ārāycci. Chennai: Alamu Publication.\nKayilai Subramaniya Thesika Gnanasambantha paramprachariya Swamigal. (1964). Cuntaramurti cuvāmikal\ntēvāram. Mayiladuthurai: Gnanasambanthan Publication.\nKumaresamurthy,C.(2004). Caiva camaya ulakil nālvari celvākku. Chennai: The Parkar Publishers.\nMuthukumaraswamigal. (1992). Cuntaramūrtti cuvāmikal tēvāram. Thiruppananthal: Atthiccudi\nPublications.\nNadarasan,P.R.(2005). Tiruttondar purāṇam enum periya purāṇam. Chennai: Uma publications.\nNagappan Arumugam.(2008). Cittānta caivam. Kuala Lumpur Siva Enterprise.\nNallasivam,G.P. (2008). Tēvāram unarttum valipāṭu. Thanjavur: Professor Tha.Ko.Paramasivanar foundation.\nNarayana Veluppillai,Ma.(2004). Cuntaramūrtti cuvāmikal arulic ceyta tēvāram. Chennai:\nVarthamanan Publications.\nParamasivam,Ko.,Nallanayagi,Pa & Nallasivam,Ko.Pa.(2005). Cuntarar āyvu mālai. Varanasi: Suntharar’s\nLiterary Research.\nPuthuvai Vayi.Narayanasamy. (2010). Periyapurāṇa āyvu nūl. Pondichery: Vijaya Publication.\nPuthuvai Vayi.Narayanasamy. (2011). Panniru tirumurai āyvu nūl. Chennai: Manivasagar Publications.\nRajantheran,M.,Silllalee,K & Viknarasah,R. (2012). An Introduction To Hinduism. Petaling Jaya: Malaysia\nHindu Sangam.\nRattina Sababathy.(1987). Caiva camayak kuravar nālvar. Kuala Lumpur: Saravanan Publications.\nSanga Nadaraja.(1998). Caiva camaya āccāriyar nālvar. Kuala Lumpur: Malaysia Indian Congress.\nSri Lasri Shanmuga Thesiga Gnanasambantha pararachariya Swamigal. (1997). Cuntarar tēvāram cīḷam\ntirumuai. Mayiladuthurai: Gnanasambanthan Publication.\nVellaivaranar, Ka. (2011). Panniru tirumurai varalāṟu. Chennai: Ramaiya Publications.\nhttp://www.tamilvu.org/library."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

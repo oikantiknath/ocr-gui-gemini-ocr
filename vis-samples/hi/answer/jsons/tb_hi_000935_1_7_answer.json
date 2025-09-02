@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "tb_hi_000935_1_7_answer.png",
+      "width": 448,
+      "height": 453
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        448.0,
+        453.0
+      ],
+      "area": 202944.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          448.0,
+          0.0,
+          448.0,
+          453.0,
+          0.0,
+          453.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "हल\\n\\nसोमू और आशु की पुस्तकें\\nवसूली खाता\\n\\nनाम\\nविवरण\\nराशि\\n(रु.)\\nविवरण\\nजमा\\nराशि\\n(रु.)\\nस्टॉक\\nफर्नीचर\\nदेनदार\\n45,000\\n16,000\\n70,000\\nऋण\\nलेनदार\\nसोमू की पूँजी\\n(संयंत्र व यंत्र)\\nआशु की पूँजी (देनदार)\\nबैंक :\\nस्टॉक\\nफर्नीचर\\n12,000\\n18,000\\n60,000\\nसंयंत्र व यंत्र\\nबैंक (लेनदार)\\nसोमू की पूँजी (ऋण)\\nबैंक (वसूली व्यय)\\nलाभ का हस्तांतरण\\nसोमू की पूँजी\\nआशु की पूँजी\\n52,000\\n17,100\\n12,000\\n1,600\\n69,000\\n42,000\\n13,900\\n55,900\\n900\\n300\\n1,200\\n2,14,900\\n2,14,900\\n\\nसाझेदारों के पूँजी खाते\\n\\nनाम\\nजमा\\nतिथि\\nविवरण\\nरो.पृ.\\nसं.\\nसोमू\\n(रु.)\\nआशु\\n(रु.)\\nतिथि\\nविवरण\\nरो.पृ.\\nसं.\\nसोमू\\n(रु.)\\nआशु\\n(रु.)\\n2020\\nवसूली\\n(संयंत्र व यंत्र)\\nवसूली (देनदार)\\nबैंक\\n60,000\\n69,000\\n62,900\\n2020\\nशेष आ/ला\\nवसूली (ऋण)\\nवसूली (लाभ)\\nबैंक\\n1,10,000\\n68,000\\n12,000\\n900\\n300\\n700\\n1,22,900\\n69,000\\n1,22,900\\n69,000"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

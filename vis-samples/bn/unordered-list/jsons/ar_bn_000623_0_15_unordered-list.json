@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000623_0_15_unordered-list.png",
+      "width": 849,
+      "height": 239
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        849.0,
+        239.0
+      ],
+      "area": 202911.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          849.0,
+          0.0,
+          849.0,
+          239.0,
+          0.0,
+          239.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ব্যাখ্যা ১—উপরি-উক্ত বর্ণনাসমূহের যে কোনটির আওতাধীন ব্যক্তিগণ, সরকার কর্তৃক নিযুক্ত হউন বা না হউন,\nলোক কৃতকার্য্য হইবেন।\nব্যাখ্যা ২—যে স্থলেই “লোক কৃতকার্য্য” শব্দসমূহ থাকিবে, সে স্থলেই তদ্বারা এরূপ প্রত্যেক ব্যক্তি বুঝাইবে\nযিনি প্রকৃতপক্ষে লোক কৃতকার্য্য পদে আসীন থাকেন, ঐ পদে আসীন থাকিবার তদীয় অধিকারে বিধিগত ত্রুটি যাহাই\nথাকুক না কেন।\nব্যাখ্যা ৩—“নির্বাচন” শব্দটি এরূপ যে কোন প্রকারের বিধানিক, পৌর বা অন্য লোক প্রাধিকারের সদস্যগণকে বরণ\nকরিবার জন্য উদ্দিষ্ট কোন নির্বাচনের দ্যোতক হইবে যেখানে তাঁহাদের বরণ পদ্ধতি নির্বাচনের দ্বারা হইবে বলিয়া কোন\nবিধি দ্বারা বা অনুযায়ী বিহিত হয়।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000343_0_6_sub-ordered-list.png",
+      "width": 599,
+      "height": 704
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        599.0,
+        704.0
+      ],
+      "area": 421696.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          599.0,
+          0.0,
+          599.0,
+          704.0,
+          0.0,
+          704.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "২। (১) এই আইনে, প্রসঙ্গত: অন্যথা আবশ্যক না হইলে, —\n(ক) “যথাযোগা সরকার” বলিতে বুঝায়,—\n(i) যে প্রতিষ্ঠান সম্পর্কে কেন্দ্রীয় সরকার শিল্পবিরোধ আইন,\n১৯৪৭ অনুযায়ী যথাযোগা সরকার, সেই প্রতিষ্ঠান সম্পর্কে\nকেন্দ্রীয় সরকার,\n(ii) অন্য যে কোন প্রতিষ্ঠান সম্পর্কে, ঐ অন্য প্রতিষ্ঠান যে রাজ্যে\nঅবস্থিত সেই রাজ্যের সরকার ;\n(খ) কোন কর্মকারীকে কোন প্রতিষ্ঠানের কর্মে বা কর্ম সম্পর্কে\n“ঠিক শ্রমিক”রূপে নিয়োজিত বলিয়া সেক্ষেত্রে গণ্য করা\nহইবে সেক্ষেত্রে তাহাকে, মুখ্য-নিয়োজকের জ্ঞাতসারে বা\nঅজ্ঞাতসারে, কোন ঠিকাদারের দ্বারা বা মাধ্যমে এরূপ কর্মে\nবা কর্ম সম্পর্কে ভাড়া করা হয় ;\n(গ) কোন প্রতিষ্ঠান সম্পর্কে “ঠিকাদার” বলিতে, যে ঠিক\nশ্রমিকের মাধ্যমে, ঐ প্রতিষ্ঠানকে মালপত্র বা বিনির্মাণ দ্রব্য\nসরবরাহ করা ভিন্ন, ঐ প্রতিষ্ঠানের জন্য কোন কর্মের কোন\nনির্ধারিত ফল উৎপন্ন করিবার দায়িত্ব গ্রহণ করে অথবা যে\nঐ প্রতিষ্ঠানের কোন কর্মের জন্য ঠিক শ্রমিক সরবরাহ করে,\nসেরূপ ব্যক্তি বুঝায় এবং উহা উপ-ঠিকাদারকে অন্তর্ভুক্ত করে ;"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

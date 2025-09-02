@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_or_000495_0_8_subsub-section-title.png",
+      "width": 467,
+      "height": 210
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 33,
+      "bbox": [
+        0.0,
+        0.0,
+        467.0,
+        210.0
+      ],
+      "area": 98070.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          467.0,
+          0.0,
+          467.0,
+          210.0,
+          0.0,
+          210.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* ଆବେଦନର ବୟସ ଉପଯୁକ୍ତତା: ଷଷ୍ଠ ବର୍ଷ ପାଠାଗତ ବ୍ୟବସ୍ଥା ସହ ଆଠ ନିୟମ ଉକ୍ତ ଆଧାର ହେତୁ ବିବରଣୀ\nପାଠାଗାରେ\n* ଏକ ଆଧାର ସହ ସଂଲଗ୍ନ: ଆପଣ ଆଧାର ଆବେଦନ ପାଇଁ ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ବୟସସୀମାରେ ଥିବା ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ\nସମୟ ସୀମା ପାଇଁ ଯୋଗ୍ୟତା ପ୍ରମାଣକର ଆଧାର ହେତୁରୁ ଅବଶ୍ୟକ କରିପାରିବେ |\n* ଆଧାର ଡିଓ ବିଓ ଲଗ୍ନ: ଆପଣ ପୂର୍ବ ନାମ ଏବଂ ଠିକଣା ହେତୁ ବିବରଣୀ ସହିତ 14 ଅଙ୍କ ବିଶିଷ୍ଟ ID / URN\nଏବଂ 14 ଅଙ୍କ ବିଶିଷ୍ଟ ଜନ୍ମ ତାରିଖ ପ୍ରବେଶ କରି ଆପଣଙ୍କ ଆଧାର ଆବେଦନ / ଅପଡେଟ୍ ଡିଓ ବିଓ ଲଗ୍ନ\nକରିପାରିବେ |\n* ଆଧାର ପ୍ରମାଣିତ ଲଗ୍ନ: ଆପଣ ଆପଣଙ୍କ ଆଧାର ଡିଓ ତାରିଖରୁ ଅବଶ୍ୟକ ଆଧାର ପ୍ରମାଣିତ ଲଗ୍ନ କରିପାରିବେ\n| ଏହା ଏକ ହେତୁରୁ ହେବ | ରାଜ୍ୟ 6.4 ହେତୁ ବିବରଣୀ\n* ପ୍ରମାଣିତ ଡିଓ ବିଓ ଲଗ୍ନ: ଆପଣ SRN (ସେବା ଅନୁରୋଧ ସଂଖ୍ୟା) ଏବଂ ଆଧାର ନମ୍ବର ସହିତ ଆପଣଙ୍କ\nଆଧାର ପ୍ରମାଣିତ ଅନୁରୋଧ ଡିଓ ବିଓ ଲଗ୍ନ କରିପାରିବେ |\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

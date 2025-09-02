@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_te_000598_0_20_sub-ordered-list.png",
+      "width": 410,
+      "height": 67
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        410.0,
+        67.0
+      ],
+      "area": 27470.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          410.0,
+          0.0,
+          410.0,
+          67.0,
+          0.0,
+          67.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ఎ) \"నగదు\" అనేది నగదు రూపంలో ఉన్న కరెన్సీ, కాయిన్‌లు, బ్యాంక్ నోట్‌లు, చెక్కులు, డ్రాఫ్ట్‌లు, పే ఆర్డర్‌లు, మనీ ఆర్డర్‌లు, పోస్టల్ ఆర్డర్‌లు, నగదు (ప్రస్తుతమున్న రూపంలో గల ప్రభుత్వపు చట్టబద్ధమైన & ప్రభుత్వేతర కరెన్సీ)తో సహా అన్నింటిని సూచిస్తుంది.\nబి) \"నగదు డిపాజిట్ యంత్రం\" (CDM) అనేది ప్రత్యేకంగా నగదు డిపాజిట్ చేయడానికి ఉపయోగించే టెర్మినల్‌ను సూచిస్తుంది.\nసి) \"నగదుతో కూడిన అన్ని రకాల డిపాజిట్ల స్వీకరణకు\" ఇది ఉపయోగపడుతుంది.\nడి) \"ఎటిఎమ్\" అనేది ఆటోమేటెడ్ టెల్లర్ యంత్రాన్ని సూచిస్తుంది.\nఇ) \"టెర్మినల్‌లు\" అనేది బ్యాంక్ కౌంటర్లలో, బ్రాంచ్ కార్యాలయాలలో ఉండే డెస్క్‌టాప్, ల్యాప్‌టాప్, ట్యాబ్లెట్, మొబైల్, హ్యాండ్‌హెల్డ్.\nఎఫ్) \"సేవలు\" అనేది నగదును డిపాజిట్ చేయడానికి, నగదును ఉపసంహరించుకోవడానికి, ఈ సేవలను ఉపయోగించుకునే కస్టమర్‌లకు ప్రత్యేకంగా అందించబడే సేవలను సూచిస్తుంది.\nజి) \"మొబైల్ ట్యాబ్లెట్\" అనేది, అనుబంధంగా ఉన్న పరికరాలతో పాటు సాధారణ కమ్యూనికేషన్ మరియు సమాచారమును ఇచ్చి పుచ్చుకునే సామర్ధ్యము కలిగి ఉండే మొబైల్ పరికరాన్ని.\nహెచ్) \"వెబ్‌సైట్\" అనేది www.unionbankofindia.co.in వద్ద లభ్యమయ్యే యూనియన్ బ్యాంక్ ఆఫ్ ఇండియాకు చెందిన వెబ్‌సైట్‌ను సూచిస్తుంది."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

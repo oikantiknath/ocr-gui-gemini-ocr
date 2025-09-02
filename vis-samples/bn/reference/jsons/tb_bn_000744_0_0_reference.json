@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "tb_bn_000744_0_0_reference.png",
+      "width": 567,
+      "height": 599
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        567.0,
+        599.0
+      ],
+      "area": 339633.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          567.0,
+          0.0,
+          567.0,
+          599.0,
+          0.0,
+          599.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1 Vaclav Smil, The Earth's Biosphere: Evolution,\nDznamics and Change (Cambridge, Mass.: MIT Press,\n2002); Sarah Catherine Walpole et al., 'The Weight of\nNations: An Estimation of Adult Human Biomass',\nBMC Public Health 12:439 (2012),\nhttp://www.biomedcentral.com/1471-2458/12/439.\n2 William T. Jackman, The Development of\nTransportation in Modern England (London: Frank\nCass & Co., 1966), 324–7; H. J. Dyos and D. H.\nAldcroft, British Transport–An Economic Survey From\nthe Seventeenth Century to the Twentieth (Leicester:\nLeicester University Press, 1969), 124–31; Wolfgang\nSchivelbusch, The Railway Journey: The\nIndustrialization of Time and Space in the 19th\nCentury (Berkeley: University of California Press,\n1986).\n3 For a detailed discussion of the unprecedented\npeacefulness of the last few decades, see in particular\nSteven Pinker, The Better Angels of Our Nature: Why\nViolence Has Declined (New York: Viking, 2011);\nJoshua S. Goldstein, Winning the War on War: The\nDecline of Armed Conflict Worldwide (New York:\nDutton, 2011); Gat, War in Human Civilization."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

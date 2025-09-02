@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_bn_000207_1_5_unordered-list.png",
+      "width": 2233,
+      "height": 1055
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        2233.0,
+        1055.0
+      ],
+      "area": 2355815.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          2233.0,
+          0.0,
+          2233.0,
+          1055.0,
+          0.0,
+          1055.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "মুঘলদের উৎপত্তি ও পূর্বসূরীদের বিষয়ে প্রাথমিক ধারণা।\nবাদশাহ, সার্বভৌম শাসক প্রভৃতি পদ ও উপাধি বিষয়ে প্রাথমিক ধারণা।\nবিভিন্ন যুদ্ধের মধ্য দিয়ে ভারতে মুঘল-শাসন প্রতিষ্ঠার বিষয়ে প্রাথমিক ধারণা। প্রসঙ্গত, মুঘল যুদ্ধকৌশল বিষয়ে প্রাথমিক\nধারণা।\nমুঘলদের উত্তরাধিকার নীতি বিষয়ে প্রাথমিক ধারণা।\nআফগান শক্তির সঙ্গে মুঘলদের সংঘাত, প্রসঙ্গত; শেরশাহের শাসন বিষয়ে প্রাথমিক ধারণা।\nখ্রিস্টীয় ষোড়শ থেকে অষ্টাদশ শতকের প্রথমভাগ পর্যন্ত মুঘল শাসন ও কর্তৃত্বের বিস্তার, বিবর্তন ও তার চরিত্র বিষয়ে প্রাথমিক\nধারণা। প্রসঙ্গত, মুঘলদের রাজপুত নীতি ও দাক্ষিণাত্য নীতির চরিত্র ও সেগুলির বিবর্তন, মুঘল প্রশাসনিক আদর্শ, মনসব ও\nজায়গির প্রভৃতির ধারণা। ভূমি-রাজস্ব ব্যবস্থা ইত্যাদি বিষয়ে প্রাথমিক ধারণা।\nপাঠ্যবইতে পঞ্চম অধ্যায়ে সন্নিবেশিত যুদ্ধ-বিষয়ক ছবিগুলির তুলনা-নির্ভর মুঘল রণকৌশলের উপরে প্রকল্প।\nমুঘল শাসনের বিভিন্ন গুরুত্বপূর্ণ বিষয় নিয়ে সময় সারণি তৈরি করা।\nবিভিন্ন মুঘল সম্রাটদের শাসনের বৈশিষ্ট্যগুলির তুলনামূলক আলোচনা-নির্ভর প্রকল্প।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

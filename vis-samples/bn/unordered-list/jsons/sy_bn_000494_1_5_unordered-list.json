@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_bn_000494_1_5_unordered-list.png",
+      "width": 2454,
+      "height": 793
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        2454.0,
+        793.0
+      ],
+      "area": 1946022.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          2454.0,
+          0.0,
+          2454.0,
+          793.0,
+          0.0,
+          793.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* স্নাতক সাধারণ (বাংলা) পাঠক্রমে ‘Discipline Centric Core Course’ স্তরে ২৪ ক্রেডিট-এর মোট ৪টি কোর্স প্রথম ৪টি সেমিস্টারে পড়তে হবে।\n* এই চারটি কোর্স থেকেই দুটি কোর্স সাম্মানিক বাংলা ছাড়া অন্য বিষয়ের সাম্মানিক প্রোগ্রামের পড়ুয়ারা Generic Elective (GE)-পর্যায়ের পাঠ্য হিসেবে\nগ্রহণ করবে/করতে পারে।\n* কলা বিভাগের সাধারণ (General) প্রোগ্রামে যে-সমস্ত শিক্ষার্থী Discipline Centric Core Course (CC) পর্যায়ের পাঠ্য হিসেবে বাংলা\nগ্রহণ করেনি এবং LCC(2) পর্যায়েও পাঠ্য হিসেবে বাংলা বিকল্পটি (MIL গুলির মধ্যে) গ্রহণ করেনি—শুধুমাত্র তারাই Generic Elective (GE)-পর্যায়ে\nএখান থেকে প্রথম দুটি কোর্স পাঠ্য হিসেবে নির্বাচন করতে পারে।\n* ৬ (৫ + ১) ক্রেডিট-এর প্রতিটি কোর্সের পূর্ণমান ১০০। এর মধ্যে ১০ নম্বর সংশ্লিষ্ট CC-র ক্লাসে পড়ুয়ার উপস্থিতির জন্য বরাদ্দ। ১০ নম্বর কোর্সভিত্তিক\nধারাবাহিক মূল্যায়ন বা ইন্টারনাল অ্যাসেসমেন্ট-এর জন্য এবং ১০ নম্বর কোর্সভিত্তিক টিউটোরিয়াল-এর জন্য বরাদ্দ। বাকি ৬৫ নম্বরের জন্য বিশ্ববিদ্যালয়ের\nসংশ্লিষ্ট কর্তৃপক্ষের তত্ত্বাবধানে লিখিত পরীক্ষা নেওয়া হবে। প্রতিটি সেমিস্টারে পনেরো সপ্তাহে ক্লাস করে হবে এবং নিয়ে Class Hours/Teaching\nHours-এর হিসেব দেওয়া হয়েছে।\n* ৬৫ নম্বরের লিখিত পরীক্ষায় ১০ নম্বরের তিনটি ব্যাখ্যামূলক, ৫ নম্বরের ৪টি বোধমূলক এবং ১ নম্বরের ১৫টি সংক্ষিপ্ত উত্তরভিত্তিক/তথ্যমূলক উত্তর\nদিতে হবে। নিম্নের তালিকার প্রশ্নপত্রের ধারণা পাওয়া যাবে।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

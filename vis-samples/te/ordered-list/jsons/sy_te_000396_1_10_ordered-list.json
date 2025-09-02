@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_te_000396_1_10_ordered-list.png",
+      "width": 435,
+      "height": 638
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        435.0,
+        638.0
+      ],
+      "area": 277530.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          435.0,
+          0.0,
+          435.0,
+          638.0,
+          0.0,
+          638.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "I. పాఠం పేరు : సంస్కృతి\\nII. పాఠ్యాంశ సంఖ్య : 5\\nIII. బోధనావధి : గం॥ 0-45 ని॥లు\\nIV. బోధనాభ్యసన సామగ్రి :\\n 1. వివరణ అవగాహన మాధ్యమం :\\n ♦ పిల్లలు పాఠాన్ని విని అడిగిన విషయం గురించి ఆలోచించి సొంతమాటల్లో చెప్పగలుగుతారు.\\n 2. భాషాంశంగా వివరణ - అవగాహనతో రాయగలుగుతారు.\\n ♦ పఠనం ద్వారాపదజాలం అవగాహనతో ప్రత్యేకతను బహుళంగా రాయగలుగు.\\n ♦ ప్రతి పేరాకు శీర్షికను పెట్టగలుగు.\\n ♦ కీలక పదజాలముపయోగించి సొంతవాక్యాలు చెప్పగలుగు. రాయగలుగు.\\n 3. సృజనాత్మకత : ♦ భారత సంపద రాయగలుగు.\\nV. బోధనా వ్యూహాలు / బోధనాభ్యసన\\n సోపానం\\n బోధనాభ్యసన ప్రక్రియ / అభ్యసన అనుభవాలు\\n అ) ఉన్ముఖీకరణ పిల్లలూ శుభోదయం! బాగున్నారా? సంస్కృతి పాఠం ఎలా అర్థమైంది మీకు?\\n i) సంస్కృతి\\n ii) పూర్వజ్ఞానం\\n నాటి సంస్కృతిలో నీతికి లభిస్తున్న మర్యాదలు ఏమైనా ఉన్నాయా? ఉంటే అవి\\n ఏమి?\\n ఆ) పాఠ్యాంశ\\n బోధనాభ్యసన\\n వ్యూహం -\\n అవగాహన\\n పిల్లలందరూ చదవమన్నప్పుడు పాఠాన్ని చదవాలి.\\n (14వ పుట మొదటి పేరా నుండి చివరి పేరా వరకు.\\n సంస్కృతిగురించి వివరాలతో పాఠాన్ని చదివిస్తారు.)\\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

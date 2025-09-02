@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_gu_000087_7_subsub-section-title.png",
+      "width": 515,
+      "height": 187
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 33,
+      "bbox": [
+        0.0,
+        0.0,
+        515.0,
+        187.0
+      ],
+      "area": 96305.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          515.0,
+          0.0,
+          515.0,
+          187.0,
+          0.0,
+          187.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "- આ પર્વ દર વર્ષે ભાદરવા સુદ ચોથને દિવસે ગણેશ ઉત્સવના રૂપે ઉજવવામાં આવે છે. આમાં વિદ્યા, બુદ્ધિ અને રિદ્ધિ - સિદ્ધિની પ્રાપ્તિ માટે\n  ભગવાન ગણેશનું પૂજન કરવામાં આવે છે.\n- આ દિવસે જ ભગવાન ગણેશનો જન્મ થયો હતો.\n- આઝાદી પૂર્વેના સમયમાં, લોકમાન્ય ટિળક મહારાજે લોકોને સંગઠિત કરવાના ભાગરૂપે ગણેશોત્સવનું આયોજન શરૂ કરેલું. આજે તે\n  સાંસ્કૃતિક પર્વ બની ગયું છે.\n- આ કહેવાર મહારાષ્ટ્રની સાથે સાથે ગુજરાત સહિત અનેક રાજ્યોમાં પણ ઉજવાય છે.\n- ગણેશની વિવિધ મુદ્રાઓની મૂર્તિઓ લાવીને તેની સ્થાપના કરવી અને તેનું અનંત - ચૌદશે વિસર્જન કરવું એ બંને કાર્યક્રમો સરઘસરૂપે\n  યોજાય છે અને લોકો ગણેશ ભક્તિમાં રમમાણ બની નાચતા - ગાતા હોય છે.\n- કેરળમાં આ સમયે જ ‘ઓણમ’ પર્વ મનાવવામાં આવે છે. પૌરાણિક કથાઓ પ્રમાણે ભગવાન વિષ્ણુએ વામનનું રૂપ લઈને અસુરરાજ\n  મહાબલિને પાતાળમાં ધકેલી દીધો હતો. આ રાજા પોતાની પ્રજાને મળવા વર્ષમાં એકવાર આવે છે. તેના સ્વાગત માટે કેરળની પ્રજા\n  ઓણમનો ઉત્સવ મનાવે છે. આ તહેવારનું વિશેષ આકર્ષણ નૌકાવિહારની સ્પર્ધા છે."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

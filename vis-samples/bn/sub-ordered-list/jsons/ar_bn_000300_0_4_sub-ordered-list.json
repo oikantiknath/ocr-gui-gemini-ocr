@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000300_0_4_sub-ordered-list.png",
+      "width": 557,
+      "height": 783
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        557.0,
+        783.0
+      ],
+      "area": 436131.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          557.0,
+          0.0,
+          557.0,
+          783.0,
+          0.0,
+          783.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ক) কর্মচ্যুত, পদচ্যুত বা ছাঁটাই কর্মচারী, তাহাকে কৃতক\nহইতে অভিমুক্ত করিবার কোন ন্যায়সঙ্গত কারণ ছিল না এই\nহেতুতে অথবা নিয়োগক যেরূপ প্রতিপন্ন করিয়াছে সেরূপ\nকোন অসদাচরণের জন্য সে দোষী নহে এই হেতুতে অথবা\nকর্মচ্যুত বা পদচ্যুত করিবার শাস্তি অত্যন্ত কঠোর হইয়াছে\nএই হেতুতে, যেরূপ বিহিত হইবে সেরূপ প্রাধিকারীর নিকট\nএবং সেরূপ সময়ের মধ্যে, আপীল করিতে পারিবে।\n\n(খ) আপীলী প্রাধিকারী, বিহিত প্রণালীতে নিয়োগক ও\nকর্মচারীকে নোটিস প্রদান করিবার পর, আপীল খারিজ\nকরিতে পারিবেন অথবা যে সময়সীমার জন্য কোন কর্মচারীকে\nনিয়োগন হইতে বহিষ্কৃত করা হইয়াছিল সেই সময়সীমার জন্য\nপ্রাপ্য মজুরিসহ বা মজুরি বাদে উক্ত কর্মচারীকে পুনর্বহাল\nকরিবার জন্য নির্দেশ দিতে অথবা পুনর্বহাল না করিয়া\nক্ষতিপূরণ প্রদান করিবার জন্য নির্দেশ দিতে পারিবেন অথবা\nঅবস্থাধীন ক্ষেত্রে যেরূপ তিনি উপযুক্ত গণ্য করিবেন সেরূপ\nঅন্য প্রতিকার মঞ্জুর করিতে পারিবেন।\n\n(৩) আপীলী প্রাধিকারীর সিদ্ধান্ত চূড়ান্ত এবং উভয় পক্ষের ক্ষেত্রে\nআবদ্ধকর হইবে এবং আপীলী প্রাধিকারীর আদেশে যেরূপ\nবিনির্দিষ্ট করা হইবে সেরূপ সময়ের মধ্যে কার্যকর করা\nহইবে।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

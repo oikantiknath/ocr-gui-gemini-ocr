@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_pa_000198_0_12_sub-ordered-list.png",
+      "width": 1012,
+      "height": 355
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        1012.0,
+        355.0
+      ],
+      "area": 359260.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1012.0,
+          0.0,
+          1012.0,
+          355.0,
+          0.0,
+          355.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "25. (1) ਜਿਥੇ ਕਾਨੂੰਨ ਦੁਆਰਾ ਲੋੜੀਂਦਾ ਹੈ ਉਸ ਨੂੰ ਛੱਡ ਕੇ ਪ੍ਰਬੰਧਕ ਵਿਕਾਸੀ ਬੈਂਕ\nਅਜਿਹੇ ਦਸਤੂਰਾਂ ਅਤੇ ਪ੍ਰਥਾਵਾਂ ਦਾ ਪਾਲਣ ਕਰੇਗਾ ਜੋ ਬੈਂਕਿੰਗ ਵਿੱਚ ਰਵਾਜੀ ਹਨ, ਖਾਸ ਕਰਕੇ, ਕੋਈ\nਅਜਿਹੀ ਜਾਣਕਾਰੀ ਜੋ ਉਸ ਦੇ ਗਾਹਕਾਂ ਦੇ ਸੰਬੰਧ ਵਿੱਚ ਹੋਵੇ ਜਾਂ ਉਨ੍ਹਾਂ ਦੇ ਕਾਰ-ਵਿਹਾਰ ਦੇ ਸੰਬੰਧ ਵਿੱਚ\nਹੋਵੇ, ਉਨ੍ਹਾਂ ਹਾਲਤ ਵਿੱਚ ਜਿਹੜੇ ਨਹੀਂ ਦੇਵੇਗਾ ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਕਾਨੂੰਨ ਜਾਂ ਬੈਂਕਿੰਗ ਰਵਾਜੀ ਦਸਤੂਰ\nਅਤੇ ਪ੍ਰਥਾ ਦੀ ਅਨੁਸਾਰਤਾ ਵਿੱਚ ਪ੍ਰਬੰਧਕ ਵਿਕਾਸੀ ਬੈਂਕ ਲਈ ਦਸਵੀਂ ਜ਼ਰੂਰੀ ਜਾਂ ਮੁਨਾਸਬ ਹੈ।\n\n(2) ਹਰ ਇੱਕ ਡਾਇਰੈਕਟਰ, ਪ੍ਰਬੰਧਕ ਵਿਕਾਸੀ ਬੈਂਕ ਦੀ ਕਮੇਟੀ ਦਾ ਮੈਂਬਰ ਜਾਂ ਆਡੀਟਰ,\nਅਫਸਰ ਜਾਂ ਹੋਰ ਕਰਮਚਾਰੀ ਆਪਣੇ ਕਰਤੱਵ ਸੰਭਾਲਣ ਤੋਂ ਪਹਿਲਾਂ ਇਸ ਐਕਟ ਦੀ ਅਨੁਸੂਚੀ ਵਿੱਚ ਦਿੱਤੇ\nਫਾਰਮ ਵਿੱਚ ਵਫਾਦਾਰੀ ਅਤੇ ਗੁਪਤਤਾ ਦਾ ਐਲਾਨ ਕਰੇਗਾ।\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

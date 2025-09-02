@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "tb_te_000732_1_11_subsub-section-title.png",
+      "width": 409,
+      "height": 133
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 33,
+      "bbox": [
+        0.0,
+        0.0,
+        409.0,
+        133.0
+      ],
+      "area": 54397.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          409.0,
+          0.0,
+          409.0,
+          133.0,
+          0.0,
+          133.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "వృత్త స్పర్శరేఖకు, ఛేదన రేఖకు గల భేదం\nఛేదన రేఖలచే ఏర్పడు జ్యావులు వృత్తములపై బిందువుకు జరుగుతున్నప్పుడు ఏర్పడే సందర్భాల ద్వారా స్పర్శరేఖను\nతెలుసుకొనుట.\n(నిరూపణ) ఒక వృత్తముపై గల ఏదైనా బిందువు గుండా గీయబడిన స్పర్శరేఖ, ఆ స్పర్శబిందువు వద్ద\nవ్యాసార్ధానికి లంబముగా ఉంటుంది.\n(నిరూపణ) వృత్తానికి బాహ్యబిందువు గుండా గీయబడిన స్పర్శరేఖల పొడవులు సమానము.\n(నిర్మాణము) వృత్తంపై గల దత్త బిందువు నుండి, ఆ వృత్తానికి స్పర్శరేఖను గీయడం\nఛేదన రేఖతో ఏర్పడే వృత్త ఖండము\nవృత్తఖండము యొక్క వైశాల్యము కనుగొనుట (అల్పవృత్తఖండం, అధిక వృత్త ఖండము)"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

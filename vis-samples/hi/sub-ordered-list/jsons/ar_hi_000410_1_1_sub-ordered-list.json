@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_hi_000410_1_1_sub-ordered-list.png",
+      "width": 480,
+      "height": 131
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        480.0,
+        131.0
+      ],
+      "area": 62880.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          480.0,
+          0.0,
+          480.0,
+          131.0,
+          0.0,
+          131.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "15. परीक्षाओं में निरीक्षक—(1) परिषद्, किसी विश्वविद्यालय या संस्था के, जहां पुनर्वास वृत्तिकों के रूप में व्यवसाय करने\nके लिए शिक्षा दी जाती है, निरीक्षण के लिए अथवा किसी विश्वविद्यालय या संस्था द्वारा ली जाने वाली परीक्षा में, उस विश्वविद्यालय\nया संस्था द्वारा मान्यताप्राप्त पुनर्वास अर्हताओं के रूप में अनुदत्त की जाने वाली अर्हताओं की मान्यता के लिए केन्द्रीय सरकार को\nसिफारिश करने के प्रयोजन से उपस्थित होने के लिए उतने निरीक्षक नियुक्त करेगी जितने वह आवश्यक समझे।\n\n(2) उपधारा (1) के अधीन नियुक्त निरीक्षक किसी प्रशिक्षण या परीक्षा के संचालन में हस्तक्षेप नहीं करेंगे किन्तु वे शिक्षा के\nस्तरों की, जिनके अंतर्गत कर्मचारिवृंद, उपस्कर, वास-सुविधा, प्रशिक्षण और ऐसी शिक्षा देने के लिए विहित अन्य सुविधाएं भी हैं,\nपर्याप्तता के बारे में या प्रत्येक ऐसी परीक्षा की, जिसमें वे उपस्थित होते हैं, पर्याप्तता के बारे में परिषद् को रिपोर्ट देंगे।\n\n(3) परिषद्, उपधारा (2) के अधीन निरीक्षक की रिपोर्ट की एक प्रति संबंधित विश्वविद्यालय या संस्था को भेजेगी और उस\nपर विश्वविद्यालय या संस्था की टिप्पणियों सहित एक प्रति केन्द्रीय सरकार को भी भेजेगी।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

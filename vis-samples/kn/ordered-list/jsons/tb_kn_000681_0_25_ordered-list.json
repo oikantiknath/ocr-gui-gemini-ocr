@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "tb_kn_000681_0_25_ordered-list.png",
+      "width": 846,
+      "height": 640
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        846.0,
+        640.0
+      ],
+      "area": 541440.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          846.0,
+          0.0,
+          846.0,
+          640.0,
+          0.0,
+          640.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "8.31 ಶ್ರೇಢಿಗಳಿಗೆ ಅನ್ವಯಿಸುವ ಕೆಲವು ಗುಣಗಳನ್ನು ಈಗ ಹೇಳುತ್ತೇವೆ:\na) ಒಂದು A.P. ಯ ಪ್ರತಿಯೊಂದು ಪದವನ್ನು ಒಂದು ನಿರ್ದಿಷ್ಟವಾದ\nಸ್ಥಿರಸಂಖ್ಯೆಯಿಂದ ಗುಣಿಸಿದರೆ ಅಥವಾ ಭಾಗಿಸಿದರೆ ಫಲಿಸುವ ಶ್ರೇಢಿಯು ಕೂಡ\nಒಂದು A.P.; ಇದರ ವ್ಯತ್ಯಾಸವು ದತ್ತ A.P. ಯ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸಕ್ಕಿಂತ\nಭಿನ್ನವಾಗಿರುತ್ತದೆ.\n\nb) ಒಂದು A.P. ಯ ಪ್ರತಿಯೊಂದು ಪದಗಳಿಗೆ ಒಂದು ನಿರ್ದಿಷ್ಟವಾದ\nಧನ ಅಥವಾ ಋಣ ಸಂಖ್ಯೆಯನ್ನು ಕೂಡಿದರೆ ಫಲಿಸುವ ಶ್ರೇಢಿಯು ಕೂಡ A.P.\nಆಗಿರುತ್ತದೆ. ಈ A.P. ಯ ಸಾಮಾನ್ಯ ವ್ಯತ್ಯಾಸವು ದತ್ತ A.P. ಯ ಸಾಮಾನ್ಯ\nವ್ಯತ್ಯಾಸಕ್ಕೆ ಸಮಾನವಾಗಿರುತ್ತದೆ.\n\nc) ಒಂದು G.P. ಯ ಪ್ರತಿಯೊಂದು ಪದವನ್ನು ಒಂದು ನಿರ್ದಿಷ್ಟವಾದ\nಸ್ಥಿರ ಸಂಖ್ಯೆಯಿಂದ ಗುಣಿಸಿದರೆ ಅಥವಾ ಭಾಗಿಸಿದರೆ ಫಲಿಸುವ ಶ್ರೇಢಿಯು ಒಂದು\nG.P. ಈ G.P. ಯ ಸಾಮಾನ್ಯ ಪ್ರಮಾಣವು ದತ್ತ G.P. ಸಾಮಾನ್ಯ\nಪ್ರಮಾಣಕ್ಕೆ ಸಮಾನವಾಗಿರುತ್ತದೆ.\n\n8.32 ಉದಾ: (a) a², b², c² ಗಳು A.P. ಯಲ್ಲಿದ್ದರೆ, b+c,\nc+a, a+b ಗಳು H.P. ಯಲ್ಲಿವೆಂದು ಸಾಧಿಸಿರಿ."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

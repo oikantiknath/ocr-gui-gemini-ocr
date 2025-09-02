@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_kn_000255_0_7_reference.png",
+      "width": 659,
+      "height": 475
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        659.0,
+        475.0
+      ],
+      "area": 313025.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          659.0,
+          0.0,
+          659.0,
+          475.0,
+          0.0,
+          475.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಪರಾಮರ್ಶನ ಪಠ್ಯಗಳು:\n1. ಸೌಂದರ್ಯ ಮೀಮಾಂಸೆ-ಜಿ.ಎಸ್. ಶಿವರುದ್ರಪ್ಪ\n2. ಸತ್ಯ ಮತ್ತು ಸೌಂದರ್ಯ-ಎಸ್.ಎಲ್. ಭೈರಪ್ಪ\n3. ಗಂಗಾವತರಣ- ಬೇಂದ್ರೆ\n4. ಅಳುವ ಕಂದನ ಹುಟ್ಟಿದು-ಜಾನಪದ\n5. ಮಲೆಗಳಲ್ಲಿ ಮದುಮಗಳು ಕಾದಂಬರಿಯ ಭಾಗಗಳು\n6. ಕವಿ ಶೈಲದಲ್ಲಿ ಒಂದು ಸಂಜೆ\n7. ಕಡಲಿಗೆ ಕಳಿಸಿದ ದೀಪ-ಯಲ್ಲಪ್ಪ. ಟಿ\n8. ಸೌಂದರ್ಯ ಮತ್ತು ಮೌಲ್ಯಗಳು-ರೋಡಿಯಾ.\n9. ಸೌಂದರ್ಯ ಪರಿಕಲ್ಪನೆಗಳನ್ನು ಕುರಿತಂತೆ ನಡೆದಿರುವ ಚರ್ಚೆಯ ಭಾಗಗಳು.\n10. ನಾಡೋಜ ಎಸ್. ಎಲ್. ಭೈರಪ್ಪನವರ ಬರಹಗಳು.\n11. ಸೃಷ್ಟಿ ಮತ್ತು ಸೌಂದರ್ಯ-ಕವಿತೆ, ಕುವೆಂಪು, ಕೋಳಲು ಸಂಕಲನ.\n12. ಸುವೇಗಿನಿ-ಬೇಂದ್ರೆ-20ನೇ ಭಾಗದ 457 ರಿಂದ 480ನೇ ಸಾಲು.\n13. ಕಂಗಿದುಸುತ್ತಲೇ ಬಂದಿದ ಸೌಂದರ್ಯದ ಕ್ರೂರ ಪಕ್ಷಿ -ಕೆ.ಎನ್. ಗಣೇಶಯ್ಯ."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

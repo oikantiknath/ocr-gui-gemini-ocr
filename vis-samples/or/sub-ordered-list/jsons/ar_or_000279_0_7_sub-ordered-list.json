@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_or_000279_0_7_sub-ordered-list.png",
+      "width": 851,
+      "height": 457
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        851.0,
+        457.0
+      ],
+      "area": 388907.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          851.0,
+          0.0,
+          851.0,
+          457.0,
+          0.0,
+          457.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "5. (1) ଏହି ଅଧିନିୟମର ଉଦ୍ଦେଶ୍ୟ ସାଧନାର୍ଥେ ପ୍ରତ୍ୟେକ ସମିତି ସଭ୍ୟର ପ୍ରବେଶର ଅନୁମତି\nପୂର୍ବ ଏବଂ ତାହାର ଗ୍ରହଣ ଦିନ ସମେତ ଏବଂ ସେହି ଦିନର ଅନୁମତି ସମ୍ବନ୍ଧୀୟ କାର୍ଯ୍ୟାବଳୀ ପାଇଁ\nତାହାର ଏକ ଉପଯୁକ୍ତ କାର୍ଯ୍ୟାବଳୀ ତାହାରି ବୈଧାନିକ ନିୟମ ଅନୁସାରେ ପ୍ରସ୍ତୁତି ପ୍ରକ୍ରିୟା ସଂକ୍ରାନ୍ତ\nପାଇଁ ପ୍ରତ୍ୟେକ ସମିତି ଉପସ୍ଥାପନ କରିବ ଏବଂ ତାହାର ନିୟାମାବଳୀ ଦାଖଲ ହେବ ।\n\nସ୍ପଷ୍ଟୀକରଣ—ଏହି ଉପଧାରାର ପ୍ରୟୋଜନ ନିମିତ୍ତ ତାହାରି ବୈଧାନିକ ନିୟମ ଅନୁସାରେ ସମିତି\nପ୍ରସ୍ତୁତ ହେଉଥିବା ଥିବା କାର୍ଯ୍ୟାବଳୀର ଅନୁମତିପୂର୍ବ ଦିନ ଓଡ଼ିଶା ସମବାୟ ନିୟମରେ ସମିତି\nକରିଥିବା ବିନିୟମାବଳୀ ପାଇଁ ତା ୧-୬-୧୯୫୩ ରିଖରେ ମଞ୍ଜୁର କରାଯାଇ ସର୍ବସାଧାରଣଙ୍କ\nମଞ୍ଜୁରି ଅଧିନିୟମ, 1948 ଅଧିନିୟମରେ ଧାର୍ଯ୍ୟକୃତ ବା ପରିବର୍ତ୍ତିତ କିମ୍ବା କିଛି ନୂଆ ନିୟମ\nସେହି ଅଧିନିୟମ ହେବ ତାହାକୁ ବୁଝାଇବ ।\n\n(2) କୌଣସି ସମିତି ପ୍ରସ୍ତୁତି ପ୍ରକ୍ରିୟା ତାହାକୁ ଉପସ୍ଥାପନ କରିବ ନାହିଁ ଯଦି ସେହି ସଂକ୍ରାନ୍ତ\nନିୟାମାବଳୀକୁ ପ୍ରସ୍ତୁତି ପ୍ରକ୍ରିୟା ପାଇଁ କରିଛି ସେହି ସଂକ୍ରାନ୍ତ ତାଲିକାଭୁକ୍ତ ପ୍ରଥମ ତାଲିକାର ଅନୁମତି\nପୂର୍ବ ବାଦ ନାମରେ ଅନୁମାନ ଅନୁମତି କାର୍ଯ୍ୟାବଳୀ ତାହାକୁ ଦାଖଲ କରି ନାହିଁ:\n\nଉପର ଉପବନ୍ଧର ଅନ୍ୟ କୌଣସି କାର୍ଯ୍ୟାବଳୀ ତାହାକୁ ଉପସ୍ଥାପନ ଆବଶ୍ୟକ ଆବଶ୍ୟକତା\nସମୟରେ କୌଣସି ସମିତି ସମିତି ହେବ ନାହିଁ ।\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

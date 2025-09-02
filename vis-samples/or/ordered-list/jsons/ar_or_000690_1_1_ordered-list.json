@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_or_000690_1_1_ordered-list.png",
+      "width": 492,
+      "height": 122
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        492.0,
+        122.0
+      ],
+      "area": 60024.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          492.0,
+          0.0,
+          492.0,
+          122.0,
+          0.0,
+          122.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "22.20 ଗ୍ରାମୀଣ ଶିଳ୍ପ ସମୃଦ୍ଧିକରଣ ନିମନ୍ତେ ସମସ୍ତ ସରକାରୀ ସହାୟିକା ସହିତ ରାଜ୍ୟର କାଶ, କଳା, ସଂସ୍କୃତି ସମ୍ବନ୍ଧିତ\nଉତ୍ପାଦିକା ଓ ସେବାପ୍ରଦାୟୀ ପୁଞ୍ଜି ସଂସ୍ଥାପିତ ହେବ । ରାଜ୍ୟର କାରିଗରୀକୁ ନୂତନ ଓ ନିର୍ମାଣାତ୍ମକ କଳ୍ପନାର ସହାୟତା ସହ\nବିଶେଷ ଭାବେ ଶିଳ୍ପ-ଶାସନ ପ୍ରକ୍ରିୟାରେ ବ୍ୟବହାର କରି ଏହାକୁ ସଂରକ୍ଷିତ କରାଯିବା ଉଦ୍ଦେଶ୍ୟରେ ପ୍ରଚାର ପ୍ରସାର\nକରାଯାଇଛି । ସମଗ୍ର ରାଜ୍ୟର ରାଜ୍ୟ କାରିଗରୀ ପାଇଁ ଶିଳ୍ପୀ ଉଦ୍ୟୋଗୀ ତଥା ସାହିତ୍ୟ, ହସ୍ତକଳା, ପର୍ଯ୍ୟାୟକ୍ରମରେ\nସୁରକ୍ଷାପ୍ରାପ୍ତ ସୁତ୍ର, ସାମାଜିକତା ଏବଂ ଅନ୍ୟାନ୍ୟ କାର୍ଯ୍ୟକ୍ରମ ପାଇଁ ପ୍ରୋତ୍ସାହନ ରାଶି ତଥା ସୁରକ୍ଷା ବ୍ୟବସ୍ଥା ରହିବ ।\nକାର୍ଯ୍ୟକାରୀ କ୍ଷେତ୍ରରେ ମଧ୍ୟ ରାଜ୍ୟର ରାଜ୍ୟମାନଙ୍କ ଉଦ୍ଦେଶ୍ୟ ଉପଦେଶ ଓ କାର୍ଯ୍ୟକାରୀ ସହାୟତା ଏକ ନିର୍ଦ୍ଦେଶିତ ହେବ ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

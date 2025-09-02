@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_hi_000134_0_0_reference.png",
+      "width": 1141,
+      "height": 1791
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        1141.0,
+        1791.0
+      ],
+      "area": 2043531.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1141.0,
+          0.0,
+          1141.0,
+          1791.0,
+          0.0,
+          1791.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "66. भोलाभाई पटेल, अज्ञेय : एक अध्ययन, वाणी प्रकाशन, 2012, पृ. 137\n67. आचार्य रामस्वरूप चतुर्वेदी, शेखर : एक जीवनी, गोदारण, भरत सिंह, अंक 11, पृ.\n102\n68. भोलाभाई पटेल, अज्ञेय : एक अध्ययन, वाणी प्रकाशन, 2012, पृ. 138\n69. वही, पृ. 139\n70. वही, पृ. 139\n71. डॉ दुर्गाशंकर मिश्र, अज्ञेय का उपन्यास साहित्य, विद्या मन्दिर प्रेस, 1976, पृ.\n306-51\n72. वही, पृ. 306-81\n73. भोलाभाई पटेल, अज्ञेय : एक अध्ययन, वाणी प्रकाशन, 2012, पृ. 140\n74. अज्ञेय, आत्मनेपद, भारतीय ज्ञानपीठ, 2010, पृ. 57\n75. रमेशचन्द्र शाह, अज्ञेय, साहित्य अकादेमी, 2014, पृ. 42\n76. गोपालराय, अज्ञेय और उनका कथा साहित्य, वाणी प्रकाशन 2010, पृ. 102\n77. विजयमोहन सिंह, अज्ञेय कथाकार और विचारक, वाणी प्रकाशन, पृ. 41\n78. डॉ. दुर्गाशंकर मिश्र, अज्ञेय का उपन्यास साहित्य, विद्या मन्दिर प्रेस, 1976, पृ.\n260-45\n79. अज्ञेय, नदी के द्वीप, राजकमल पेपरबैक्स, 2017, पृ. 312\n80. विजयमोहन सिंह, अज्ञेय कथाकार और विचारक, वाणी प्रकाशन, पृ. 48\n81. वही, पृ. 81\n82. गोपालराय, अज्ञेय और उनका कथा साहित्य, वाणी प्रकाशन 2010, पृ. 123\n83. रघुवीर चौधरी, अपने-अपने अजनबी : उत्तम सर्गशक्ति का निदर्शन, सहचर,\nविश्वनाथप्रसाद तिवारी (सम्पादक), किताबघर प्रकाशन, 2011, पृ. 296"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

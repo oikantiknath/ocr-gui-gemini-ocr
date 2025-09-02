@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ml_000824_1_5_subsub-headline.png",
+      "width": 471,
+      "height": 162
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        471.0,
+        162.0
+      ],
+      "area": 76302.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          471.0,
+          0.0,
+          471.0,
+          162.0,
+          0.0,
+          162.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ക) ഈ ആക്ടിന്റെ പ്രാബല്യം മുതൽ ഒരു മാസത്തിനകം വിവിധ നിയമസഭാ\nസ്പീക്കർമാരും, രണ്ടു മാസത്തിനകം ലോകസഭാ സ്പീക്കറും നടത്തേണ്ടതും;\n(ച) മുഖ്യ തെരഞ്ഞെടുപ്പ് കമ്മീഷണറേയും, നിയമസഭാ സ്പീക്കർമാരെയും ചെയ്യുന്ന\nസന്ദർഭത്തിൽ, ലോകസഭാ സ്പീക്കറേയും അറിയിക്കേണ്ടതും;\nആകുന്നു.\n(4) അസോസിയേറ്റ് അംഗങ്ങളിൽ യാതൊരാൾക്കും കമ്മീഷന്റെ ഏതെങ്കിലും തീരുമാ\nനത്തിൽ വോട്ടെടുക്കുവാനോ രൂപം കൊടുക്കുവാനോ അവകാശം ഉണ്ടായിരിക്കുന്നതല്ല.\n(5) കമ്മീഷൻ—\n(ക) ഓരോ രജിസ്ട്രാർ-ജനറലും സെൻസസ് കമ്മീഷണറും അഥവാ അദ്ദേഹത്തിന്റെ\nനോമിനിയും; അല്ലെങ്കിൽ\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

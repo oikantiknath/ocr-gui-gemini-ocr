@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_kn_000187_1_6_paragraph.png",
+      "width": 166,
+      "height": 254
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        166.0,
+        254.0
+      ],
+      "area": 42164.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          166.0,
+          0.0,
+          166.0,
+          254.0,
+          0.0,
+          254.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಕಾರ್ಯಕ್ರಮಕ್ಕೆ ಬರಲು, ಮದುವೆ ಅವರ ಸಮ್ಮುಖದಲ್ಲಿ ಮಾ\nದಕ ಕನ್ನಡ ಕ್ರೀಡೆಯ ಪ್ರಮುಖರಾದ ತಮ್ಮ ಮನೆಗೆ ಕರೆ\nದೊಯ್ದು ಭೋಜನಕ್ಕೆ ಕೂತು ಉಪಚರಿಸಿ, ಬದನವಾಳು\nಅರ್ಧ ದಿನ ತೋಟ-ಗದ್ದೆ, ಬಂಜಲು-ಬೀಳು ಎಂ\nಸುದ್ದಿಯಾಯಿತು. ಎಲ್ಲ ಕಡೆಗೂ ಊರುಗೋಲು ಹಿಡಿದು\nಹೋಗಲು ಅಸಾಧ್ಯ, ಹೀಗಿರುವಾಗ ಒಂದೆರಡು ಬಳಿ\nಕಾಣಲಿಲ್ಲ, ಪಕ್ಷಿಗಳು ತೂಗು ನಿಧಾನವಾಗಿತ್ತು ಎಂಬುದನ್ನು\nಬಿಟ್ಟರೆ, ಅವು ತಮ್ಮ ದೃಷ್ಟಿಯನ್ನು ಎಲ್ಲಿಯೂ ಕಳೆದುಕೊಂಡಿ\nರಲಿಲ್ಲ, ಅಂದರೆ ಬಹಳ ಅವರಿಗೆ ನೂರು ಮುವತ್ತರ ಸ\nಕಿರಿಯ ಪ್ರವರ್ತಕ ಗೀತಿ ಶ್ರೀಗಿರಿಯಪ್ಪನಿಗೆ ಹೇಳಿ ಒಂದು\nಮೂಲಿಕೆ ತರಿಸಿ,ನೀಡಿಸಿ, ಸಂದರ್ಶನಗೊಂಡ 'ಕ\nಮಾನ ನ್ಯೂಲರ್' ಎಂಬ ಶೀರ್ಷಿಕೆಯನ್ನು ಮುಖ್ಯ\nಲೇಖನವನ್ನು ಮಾಡಿದೆ. ಈ ಪತ್ರಿಕೆಗೆ ಐದು ಮೂರು\nಹೋಗಿಬಂದೆನು, ಬದುಕಲು ಹೀಗೆ ಬದುಕಬೇಕು ಎಂದು\nಎನಿಸಿತು ಆಗಲೇ. ಮೈಸೂರಿನಲ್ಲಿ, ಅಂದರೆ ಎರಡು ವಾರ\nದಿಂದ ಇಂಥ ನೆಲಮನೆ 'ಮೀಸಲಾಗುತ್ತುದೆ ಅಂದರೆ ಅ\nತಮ್ಮನೂರಾ ನಾಲ್ಕು 'ಪದವಿ'ದಲ್ಲಿ ಕಳಿಸಿಕೊಂಡಿರುತ್ತಾರೆ.\nಅವರನ್ನು ಕಳೆದುಕೊಂಡ ನೋವುಳ್ಳವರಾಗಿರುತ್ತಾರೆ, ಬ\nಬದುಕಿನಲ್ಲಿ ಎಲ್ಲವನ್ನೂ ಸಾಧಿಸಬೇಕಾದ ಅವರ ಜತೆಗೆ ವಿವಾ\nದದ ಮೂಲಕ ಇತ್ತು, ಮುಂದಿನ ಮೂರ‍್ನಾಲ್ಕು ತಿಂಗಳಿ\nಅರ್ಪವಾಗಿ ಬಾಳ ಹೊಸ ಅಸಂಖ್ಯಾತ ಅಥವ ಆ 'ಎತ್ತರ'\nಪತ್ರಿಕೆಗಳ ಬಗೆಗೆ ಅಂದು ಪ್ರಕಟಿಸಿದ್ದ ಬರಹಗಳೇ ಮರು\nಮೂಡಬಹುದಾದರೆ..."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

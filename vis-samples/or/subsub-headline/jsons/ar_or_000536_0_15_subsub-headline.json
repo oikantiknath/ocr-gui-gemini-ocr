@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_or_000536_0_15_subsub-headline.png",
+      "width": 819,
+      "height": 331
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        819.0,
+        331.0
+      ],
+      "area": 271089.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          819.0,
+          0.0,
+          819.0,
+          331.0,
+          0.0,
+          331.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(କ) ବାସସ୍ଥାନ, ଲିଖାପଢା ବା ପ୍ରସ୍ତୁତକାମ, ପ୍ରାର୍ଥନା ସଭା ବା ଆବାସ ସଭାପାଇଁ କୌଣସି\nଅନୁଷ୍ଠାନର ବଟନ ଠିକ୍ ଧରନର ଯେ କୌଣସି ଦୁଇ ବା ତିନି ଉପାୟରେ ଧରନ ଠିକ୍\nହେବାପାଇଁ ସେ କୌଣସି ବ୍ୟକ୍ତି,\n(ଖ) ଧରନ ଠିକ୍ ହେବା, ହେବା ବା ଠିକ୍ ହେବାପାଇଁ ସେ କୌଣସି ବ୍ୟକ୍ତି, ଏବଂ\n(ଗ) ଏହି ଅଧିନିୟମ ବଳେ ରାଜ୍ୟସରକାର ପ୍ରତି ବିଭାଗ ତରଫରୁ ଅଧିବାସୀ କରୁଥିବା କେଉଁ\nବ୍ୟକ୍ତି ଧରନର ଗୁଣମାନ, ପ୍ରାଞ୍ଜଳତା, ସାଫି, ବା ଉଚିତ୍ ହେବାପାଇଁ ଠିକ୍ ଏହି ଅଧିନିୟମ\nସାଙ୍ଗ ହେବାପାଇଁ ଏହିରେ ଉପରୋକ୍ତ ହେବାପାଇଁ କୌଣସି ବିଷୟ ସଂପର୍କରେ କେଉଁ\nକୌଣସି ବ୍ୟକ୍ତି ଠିକ୍ ଅଧିବାସୀ କିମ୍ବା ସେହି ଠିକ୍ ବାଟ ରୁହେ କୌଣସି ଲୋକାଳୟ ବା\nକେଉଁଠାକୁ ସାଙ୍ଗ ହେବାଆବଶ୍ୟକ ହେବା ପ୍ରସ୍ତାବିତ ନୁହେଁ ସେହି ଅନ୍ୟ ବ୍ୟକ୍ତି ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

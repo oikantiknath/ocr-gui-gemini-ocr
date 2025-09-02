@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_te_000365_0_24_unordered-list.png",
+      "width": 520,
+      "height": 298
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        520.0,
+        298.0
+      ],
+      "area": 154960.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          520.0,
+          0.0,
+          520.0,
+          298.0,
+          0.0,
+          298.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* I hereby agree that in addition to the Current Account there will be a Savings Account opened in my individual name. Both these accounts will be linked for the purpose of a) accessing all the\nmoney in both accounts through the Current Account and b) calculation of interest on the funds lying in the Savings Account.\nనా పేరున కరెంట్ అకౌంటుతో పాటు సేవింగ్స్ అకౌంటు కూడా తెరవబడుతుందని నేను అంగీకరిస్తున్నాను. ఎ) రెండు అకౌంట్లలోని డబ్బును కరెంట్ అకౌంటు ద్వారా పొందడానికి మరియు బి) సేవింగ్స్ అకౌంటులో ఉన్న డబ్బుపై వడ్డీని లెక్కించడానికి ఈ రెండు అకౌంట్లు అనుసంధానించబడతాయి.\n\n* I agree that the daily balances (minimum ₹ 1) in excess of ₹ 25,000/- in my Current Account will be transferred to the linked Savings Account automatically. This amount will be transferred to\nthe Saving Accounts at the beginning of the next working day.\nనా కరెంట్ అకౌంటులో (కనీసం రూ. 1) రూ. 25,000/- మించిన రోజువారీ నిల్వలు లింక్ చేయబడిన సేవింగ్స్ అకౌంటుకు స్వయంచాలకంగా బదిలీ చేయబడతాయని నేను అంగీకరిస్తున్నాను. ఈ మొత్తం తర్వాతి పనిదినం ప్రారంభంలో సేవింగ్స్ అకౌంటుకు బదిలీ చేయబడుతుంది.\n\n* I hereby agree that I would be eligible to get cheque book, Debit/ATM card, etc for my Current Account and the same will not be issued on the Savings Account.\nనా కరెంట్ అకౌంటుకు చెక్ బుక్, డెబిట్/ఎటిఎం కార్డు మొదలైనవి పొందడానికి నేను అర్హుడిని అని మరియు సేవింగ్స్ అకౌంటుకు అవి జారీ చేయబడవని నేను అంగీకరిస్తున్నాను.\n\n* I hereby agree that if there is any shortfall in my Current Account balance, the required amount will automatically get transferred from the linked Savings Account to the Current Account. The\ntransfer entry will be reflected in the statement/system at the end of the same day.\nనా కరెంట్ అకౌంటులో ఏదైనా లోటుపాట్లు ఉంటే, లింక్ చేయబడిన సేవింగ్స్ అకౌంటు నుండి కరెంట్ అకౌంటుకు అవసరమైన మొత్తం స్వయంచాలకంగా బదిలీ అవుతుందని నేను అంగీకరిస్తున్నాను. బదిలీ ఎంట్రీ అదే రోజు చివరిలో స్టేట్‌మెంట్/సిస్టమ్‌లో ప్రతిబింబిస్తుంది.\n\n* I hereby agree that in case the balance in the Current Account falls below ₹ 25,000/- a sum of money, equivalent to the extent of the amount required to fulfill the minimum threshold of ₹\n25,000/-, will be transferred from the linked Savings Account to the Current Account. The Bank's records of transfer (on account of sweep from Savings Account) posted to the Current\nAccount are conclusive and binding on me.\nకరెంట్ అకౌంటులోని నిల్వ రూ. 25,000/- కంటే తక్కువగా ఉంటే, కనీస పరిమితి రూ. 25,000/- ని నెరవేర్చడానికి అవసరమైన మొత్తానికి సమానమైన డబ్బు, లింక్ చేయబడిన సేవింగ్స్ అకౌంటు నుండి కరెంట్ అకౌంటుకు బదిలీ చేయబడుతుందని నేను అంగీకరిస్తున్నాను. (సేవింగ్స్ అకౌంటు నుండి స్వీప్ కారణంగా) కరెంట్ అకౌంటుకు పోస్ట్ చేయబడిన బదిలీకి సంబంధించిన బ్యాంక్ రికార్డులు నాకు ఖచ్చితమైనవి మరియు కట్టుబడి ఉంటాయి.\n\n* I hereby agree that the daily interest would accrue on the end of day balance of the linked Savings Account only. The interest would be credited to the Savings Account on a half yearly basis\n(i.e. in the months of September and March currently and subject to change at the sole discretion of the Bank). No interest will be paid on the balances lying in my Current Account.\nలింక్ చేయబడిన సేవింగ్స్ అకౌంటు యొక్క రోజు చివరి నిల్వపై మాత్రమే రోజువారీ వడ్డీ వస్తుందని నేను అంగీకరిస్తున్నాను. వడ్డీని అర్ధ సంవత్సర ప్రాతిపదికన (అంటే ప్రస్తుతం సెప్టెంబర్ మరియు మార్చి నెలల్లో మరియు బ్యాంక్ యొక్క ఏకైక అభీష్టానుసారం మార్పుకు లోబడి) సేవింగ్స్ అకౌంటుకు జమ చేయబడుతుంది. నా కరెంట్ అకౌంటులో ఉన్న నిల్వలపై వడ్డీ చెల్లించబడదు.\n\n* I agree that interest rates may be amended from time to time at the sole discretion of the Bank without any notice to me and that the rates would be made available at the Branch or on the\nBank's website.\nవడ్డీ రేట్లను ఎప్పటికప్పుడు బ్యాంక్ యొక్క ఏకైక అభీష్టానుసారం నాకు ఎటువంటి నోటీసు లేకుండా సవరించవచ్చని మరియు ఆ రేట్లు బ్రాంచ్‌లో లేదా బ్యాంక్ వెబ్‌సైట్‌లో అందుబాటులో ఉంచబడతాయని నేను అంగీకరిస్తున్నాను.\n\n* I will not hold the Bank responsible for failure to execute the above sweep transactions between the Savings Account and Current Account and vice versa on account of circumstances\nbeyond the control of the Bank.\nబ్యాంక్ నియంత్రణకు మించిన పరిస్థితుల కారణంగా సేవింగ్స్ అకౌంటు మరియు కరెంట్ అకౌంటు మధ్య పైన పేర్కొన్న స్వీప్ లావాదేవీలను అమలు చేయడంలో విఫలమైనందుకు నేను బ్యాంక్‌ను బాధ్యుడిని చేయను.\n\n* I agree that the request for closure of Current Account will entail closure of the linked Savings Account as well, failing which such closure requests shall be rejected by the Bank.\nకరెంట్ అకౌంటును మూసివేయమని అభ్యర్థన లింక్ చేయబడిన సేవింగ్స్ అకౌంటును కూడా మూసివేయడానికి దారితీస్తుందని, లేని పక్షంలో అటువంటి మూసివేత అభ్యర్థనలను బ్యాంక్ తిరస్కరిస్తుందని నేను అంగీకరిస్తున్నాను.\n\n* I agree that the Bank may exercise its discretion to effect transfers of funds under hold in the event of a court order or Income Tax or any other statutory or regulatory authority freeze order or\nany such instructions or for any other reasons that the Bank deems fit.\nకోర్టు ఉత్తర్వు లేదా ఆదాయపు పన్ను లేదా మరేదైనా చట్టబద్ధమైన లేదా నియంత్రణ అథారిటీ ఫ్రీజ్ ఆర్డర్ లేదా అటువంటి సూచనలు లేదా బ్యాంక్ సరియైనదిగా భావించే ఇతర కారణాల వల్ల నిలిపివేయబడిన నిధులను బదిలీ చేయడానికి బ్యాంక్ తన అభీష్టానుసారం వ్యవహరించవచ్చని నేను అంగీకరిస్తున్నాను."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

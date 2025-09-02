@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_pa_000325_0_36_paragraph.png",
+      "width": 465,
+      "height": 1225
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        465.0,
+        1225.0
+      ],
+      "area": 569625.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          465.0,
+          0.0,
+          465.0,
+          1225.0,
+          0.0,
+          1225.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ਮਜ਼ਬੂਰ ਲਾਣਾ ਕੇ “ਮਿਸਿਆ” ਦਾ\\nਕਾਰਨ ਪਛਾੜਾ। । ਉਹ ਇਹ ਸੀ ਕਿ ਫਤ\\nਕਿਤੀ ਤੇ ਸੁਖੀਆ ਕਾਰਨ ਲਈ ਲੜਾਈ\\nਦੇ ਮੁੱਲ ਵਲੋਂ ਚੋਕੀ ਸਾਬਤ ਹੁੰਦੇ ਹਨ,\\nਅਕਸਰ ਪਾਪ ਪ੍ਰਧਾਨ ਹੈ ਤੇ ਨਰਕ ਵਿਚ\\nਵਿਚਰਨ ਲਈ ਹੁੰਦੇ ਹਨ ਤੇ ਉਹ ਇਹ\\nਵਿਚਰਨ ਲਈ ਹੁੰਦੇ ਹਨ। ਸੋ ਮਜ਼ਬੂਰ ਨੇ ਫੇਰ\\nਸਿਧੀ ਗੱਲ ਸਿਖਾਈ ਕਿ ਧਰਮੀ ਤੇ ਚੰਗੇ\\nਪਾਪੀ ਤੋਂ ਪੈਂਦੀ ਹੈ, ਨਾ ਕਿ ਸਾਰੇ ਬੰਦਿਆਂ\\nਬਾਰੇ ਤੋਂ, ਸੋ ਪਹਿਲਾਂ ਦੀ ਸੰਗਤ ਨੀ ਕੀਤੀ,\\nਗੱਲ ਨੀ ਦੀ ਕੀਤੀ ਤੇ ਫੇਰ ਕੌਣ ਰਹੇ, ਫੇਰ\\nਗੱਲ ਦੀ ਕੀ ਹੋਈ? ਨਹੀਂ। ਇਥੋਂ\\nਪਾਪ ਨੇ ਆਪਣੇ ਮਜ਼ਬੂਰੀਆਂ ਤੋਂ ਹਾਰ ਪਾ\\nਧਰਮ ਦੇ ਅਸਲੀ ਪ੍ਰਬੰਧ ਨੂੰ ਮੰਨਣ ਵਾਲਾ\\nਦੀ ਲੋੜ ਨਹੀਂ, ਵਿਹੰਗੀ “ਧਰਮੀ” ਬਣਨ\\nਵਿਚਲੀ ਸੰਗਤ ਵਿਚ ਕਾਫੀ ਮਨਮਾਨੀਆਂ\\nਵਿਚ ਗੱਲ ਤੇ ਧਰਮ ਬਦਲਿਆ ਤੇ ਸਿੱਧਾ\\nਨਹੀਂ ਬਣੇ, ਫੇਰ ਰਹੇ। ਪਰ ਫੇਰ ਫੇਰ\\nਪੈਂਦਾ ਹੈ ਲਈ ਕਿ ਭਲੇ ਬੰਦਿਆਂ ਤੋਂ ਬਚਨ\\nਦਾ ਯਤਨ ਕਰਨਾ ਤੇ ਬੁਰੇ ਵਿਚ ਫੇਰ\\nਹੱਥਕ ਅਮਲ ਕਾ ਉਹਨਾਂ ਨਾਲ ਬੁਰਾ ਸਲੂਕ\\nਕਰਨਾ। ਨਿੰਦਾ, ਬਖੀਲੀ, ਬਦਸਲੂਕੀ\\nਵਿਚਲਾ ਵਡ ਮਜ਼ਬੂਰ ਨੇ ਫੇਰ ਦੱਸਿਆ ਕਿ\\nਭਲਿਆਈ ਤੇ ਭਲਿਆਈ, ਬੁਰਿਆਈ ਨਾਲ\\nਪਿਆਰ ਤੇ ਮਜ਼ਬੂਰਨ ਵੇਖਣ ਨੂੰ ਚੰਗਾ\\nਲਾਭ ਦੀ ਮੇਰਾ। । ਫੇਰ ਸਾਰੇ ਦੋ ਗੱਲਾਂ\\nਵਿਚ ਕਿ ਚੰਗੇ ਲੋਕ ਚਾਈਂ ਚਾਰੇ ਦੇ ਵਿਚ\\nਰਹੇ, ਚੰਗੇ ਮਾਪੇ ਵਿਚ ਮਿਲਕੇ ਸੁਖੀ ਹੋਵੇ\\nਤੇ ਚੰਗਾ ਚਾਈਂ ਚਾਰਾ ਧਰਮ\\nਤੇ ਮੱਧਿਆ ਤੇ ਉਹਨਾਂ ਨੇ ਉਥੇ ਕਰਨ ਦਾ\\nਯਤਨ ਕੀਤਾ, ਤੇ ਚਾਈਂਚਾਰੇ ਦੀ ਮੇਰਾ\\nਤਸੱਲੀ ਹੁੰਦੀ ਗਈ। ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

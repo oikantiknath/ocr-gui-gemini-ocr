@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_bn_000374_0_8_paragraph.png",
+      "width": 323,
+      "height": 479
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        323.0,
+        479.0
+      ],
+      "area": 154717.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          323.0,
+          0.0,
+          323.0,
+          479.0,
+          0.0,
+          479.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "দারতক হয়। কংগ্রেসের এই সকল কার্য্য\nদলেই চিত্তরঞ্জন স্বাসদনের পরিদর্শনা\nকরেন। আমরা জিজ্ঞাসা করি—স্বরাজদলের\nকংগ্রেসের মিলন বিষয়ক প্রস্তাব প্রত্যা-\nকরিয়া এই দল যেমন দেখাইতেছেন যে\nস্বরাজদলের নির্দ্দেশ না মানিয়া তাঁহারা\nযেমন কংগ্রেস চালাইতে পারেন, তেমনি কি\nতাঁহারা স্বরাজদলের নিকট হইতে\nস্বাসদনের সার্টিফিকেট না আনিয়া\nস্বাসদন চালাইতে পারেন? যদি উত্তর\nআমরা কামনা করি উপরোক্ত কারণগুলি যেন\nশুভমাত্রেই পর্য্যবসিত হয়, এবং ভবিষ্যতে\nযদি সত্যই কোন ত্রুটি স্বাসদন\nপরিচালনা ব্যাপারে থাকে, তবে জনসাধা-\nকর্ত্তৃপক্ষকে তাহা নিরাকরণ করিবার সুযোগ\nদিয়া স্বাসদনকে সাহায্য সাহায্য\nকরিবেন।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

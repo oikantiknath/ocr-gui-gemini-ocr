@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_or_000054_0_0_subsub-section-title.png",
+      "width": 942,
+      "height": 484
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 33,
+      "bbox": [
+        0.0,
+        0.0,
+        942.0,
+        484.0
+      ],
+      "area": 455928.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          942.0,
+          0.0,
+          942.0,
+          484.0,
+          0.0,
+          484.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "• ବାୟୁମଣ୍ଡଳରେ ଅଙ୍ଗାରକାମ୍ଳ ବିଭିନ୍ନ ଉତ୍ସରୁ, ଜଳୀୟ ବାଷ୍ପ ଏବଂ ଅନ୍ୟାନ୍ୟ ମାଧ୍ୟମରୁ ଅଙ୍ଗାରକାମ୍ଳ\nବିଭିନ୍ନତା ସାଧ୍ୟ କରେ ।\n• ଶିଳ୍ପ ବିଭିନ୍ନତା:ପରମାଣୁ ଅଙ୍ଗାରକାମ୍ଳ ରାଶି ଅଣୁ ଅଙ୍ଗାରକାମ୍ଳରେ ପରିଣତ ହୁଏ ଯାହା ରାସାୟନିକ\nରୂପ ନିର୍ମିତ ଉଚ୍ଚ ତାପମାତ୍ରା (400°C) ଏବଂ ଚାପ (200 atm)ରେ ଥାପିଆ ହୁଏ କରେ ।\n• ସାମାନ୍ୟ ବିଭିନ୍ନତା:ଦୁଇ ପ୍ରକାର ସାମାନ୍ୟ ଥାଏ ।\n➢ ବିଭିନ୍ନତା ସାମାନ୍ୟ (ସ୍ୟାଟେଲାଇଟ୍) ଯାହା କେନ୍ଦ୍ରୀୟ ବିଭିନ୍ନତା ହେଉଛି ଥାଏ ।\nଅଙ୍ଗାରକାମ୍ଳ ସ୍ତରର ଉପକାରିତା ସାମାନ୍ୟ ।\n➢ ବିଭିନ୍ନତା ନିମ୍ନ ସ୍ତର, ଅଙ୍ଗାରକାମ୍ଳ ପ୍ରଦୂଷଣରେ ଏକ ପ୍ରକାର ସାମାନ୍ୟ (ଅଳ୍ପ) ଯାହା ମାଟିରେ\nରହିଥାଏ । ଆଧୁନିକୀକରଣ, ଅଧିକାଂଶ ବାୟୁମଣ୍ଡଳୀୟ ନିମ୍ନସ୍ତରରୁ ଅଙ୍ଗାରକାମ୍ଳ\nରାସାୟନିକରୁ ଅଧିକ ନିର୍ମାଣ ଥାପିଆ ହୁଏ କରେ ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

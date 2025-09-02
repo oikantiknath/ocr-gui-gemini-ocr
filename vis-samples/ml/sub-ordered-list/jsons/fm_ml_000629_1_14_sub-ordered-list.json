@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_ml_000629_1_14_sub-ordered-list.png",
+      "width": 549,
+      "height": 43
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        549.0,
+        43.0
+      ],
+      "area": 23607.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          549.0,
+          0.0,
+          549.0,
+          43.0,
+          0.0,
+          43.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1.  ഓൺലൈൻ വഴി അപേക്ഷ സമർപ്പിക്കുന്നതിന് മുമ്പായി പ്രോസ്പെക്ടസ് ശ്രദ്ധാപൂർവ്വം വായിച്ച് മനസ്സിലാക്കണം. അപേക്ഷ സമർപ്പിക്കുന്നതിന് മുന്നോടിയായി പ്രോസ്പെക്ടസ്, അപേക്ഷാ ഫോം, മറ്റ്\nഅനുബന്ധ രേഖകൾ എന്നിവ ഡൗൺലോഡ് ചെയ്യണം.\n2. അപേക്ഷാ ഫീസ് ഓൺലൈൻ ആയിട്ടോ അല്ലെങ്കിൽ പ്രോസ്പെക്ടസിൽ രേഖപ്പെടുത്തിയിട്ടുള്ള ബാങ്ക് അക്കൗണ്ടിൽ പണം അടച്ച്, അപേക്ഷാ ഫോമിന്റെ അസൽ പ്രിന്റ് എടുത്ത് പൂരിപ്പിച്ച് മറ്റ് രേഖകൾ സഹിതം\nഅപേക്ഷാ ഫോമിൽ രേഖപ്പെടുത്തിയിട്ടുള്ള വിലാസത്തിൽ തപാൽ വഴിയോ നേരിട്ടോ സമർപ്പിക്കാവുന്നതാണ്. അപേക്ഷാ ഫീസ് അടച്ചതിന്റെ രസീത് അപേക്ഷാ ഫോമിനൊപ്പം സമർപ്പിക്കേണ്ടതാണ്.\n3. അപേക്ഷാ ഫോം പൂരിപ്പിക്കുമ്പോൾ അപേക്ഷകൻ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങൾ പ്രോസ്പെക്ടസിൽ വിശദമായി രേഖപ്പെടുത്തിയിട്ടുണ്ട്.\n4. അപേക്ഷാ ഫോമിന്റെ മാതൃകയും പ്രോസ്പെക്ടസും മറ്റ് അനുബന്ധ രേഖകളും വെബ്സൈറ്റിൽ ലഭ്യമാണ്.\n5. അപേക്ഷാ ഫോം പൂരിപ്പിക്കുമ്പോൾ തെറ്റുകൾ വരാതിരിക്കാൻ ശ്രദ്ധിക്കണം. അപേക്ഷയിൽ രേഖപ്പെടുത്തിയിട്ടുള്ള വിവരങ്ങൾ പ്രോസ്പെക്ടസിൽ വിശദമായി രേഖപ്പെടുത്തിയിട്ടുള്ള മാനദണ്ഡങ്ങൾ പ്രകാരം അപേക്ഷാ\nഫോമിൽ രേഖപ്പെടുത്തിയിട്ടുള്ള വിവരങ്ങൾ പ്രകാരം അപേക്ഷാ ഫോം പൂരിപ്പിക്കണം."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

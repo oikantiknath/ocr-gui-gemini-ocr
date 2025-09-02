@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_ml_000229_0_1_unordered-list.png",
+      "width": 539,
+      "height": 981
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        539.0,
+        981.0
+      ],
+      "area": 528759.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          539.0,
+          0.0,
+          539.0,
+          981.0,
+          0.0,
+          981.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* ചിത്രയെ ഉത്തേജിപ്പിക്കാനും\nപ്രശ്നനിർദ്ധാരണത്തിന് വിവിധ മാർഗ്ഗങ്ങൾ\nകണ്ടെത്താനും കുട്ടികളെ പ്രോത്സാഹിപ്പിക്കുന്ന\nസവിശേഷത ഈ പാഠ്യ പദ്ധതിക്കുണ്ട്.\n* ഗണിതത്തിന്റെ സാർവത്രികതയെക്കുറിച്ചും\nബഹുമുഖ ബുദ്ധിവികാസത്തിനും ഊന്നൽ\nനൽകുന്ന തരത്തിലാണ് പഠനപ്രവർത്തനങ്ങൾ\nക്രമീകരിച്ചിട്ടുള്ളത്.\n* കളിയും ചിത്രപ്രക്രിയയും ഒരുമിച്ച് കൊണ്ടു\nപോകുന്നു. സമാനമനസ്സുകളിൽ നിന്ന് കൊണ്ടും\nകൊടുത്തുമുള്ള അനുഭവങ്ങൾ കുട്ടികളിൽ\nപഠനശേഷിപരിവർത്തനമെന്ന തിരിച്ചറിവും\nപ്രയോജനപ്പെടുത്തിയിട്ടുണ്ട്.\n* പ്രശ്നപരിഹാരത്തിന്റെ വിവിധ ഘട്ടങ്ങളേയും\nഅതിന്റെ വികാസത്തേയും പാഠ്യപദ്ധതി\nഉൾക്കൊള്ളുന്നുണ്ട്. പ്രശ്നപരിഹാരം\nസാധ്യമാകുമ്പോഴുള്ള ആനന്ദവും\nആത്മവിശ്വാസവും കുട്ടിയെ പ്രചോദിപ്പിക്കും.\nഇതുവരെ പുതിയ കണ്ടെത്തലുകളിലേക്കു\nനയിക്കുന്നു.\n* വ്യക്തിചിന്തയെ പ്രോത്സാഹിപ്പിക്കുന്ന\nതരത്തിലാണ് പഠനപ്രവർത്തനങ്ങൾ വിഭാവനം\nചെയ്തിരിക്കുന്നത്.\n* പരീക്ഷയ്ക്ക് വേണ്ടി പഠനം എന്നതിനെ പാടെ\nതിരസ്കരിക്കുന്നതാണ് മഞ്ചാടി സമീപനം.\n* നിരന്തരവും സമഗ്രവുമായ മൂല്യ\nനിർണ്ണയത്തിനാണ് അവസരം നൽകുന്നത്.\nപലപ്പോഴും കുട്ടി അറിയാതെ തന്നെ ഒരു\nപഠനപ്രവർത്തനമായി ഇതു നടക്കുന്നു."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

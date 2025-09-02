@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_bn_000059_0_9_subsub-section-title.png",
+      "width": 825,
+      "height": 542
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 33,
+      "bbox": [
+        0.0,
+        0.0,
+        825.0,
+        542.0
+      ],
+      "area": 447150.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          825.0,
+          0.0,
+          825.0,
+          542.0,
+          0.0,
+          542.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "পত্রসংখ্যা ৪ : 'ইতিমধ্যে একদিন গো—বাবুদের ওখানে...' (৩০ এপ্রিল ১৮৮৬)\nপত্রসংখ্যা ৮ : 'বহুদিন চিঠিপত্র লিখি নি...' (২৭ জুলাই ১৮৮৭)\nপত্রসংখ্যা ৯ : 'এই তো দার্জিলিং এসে পড়লুম...' (১৮৮৭)\nপত্রসংখ্যা ১০ : 'শিলাইদহের অপর পারে একটা চরের সামনে...' (১৮৮৮)\nপত্রসংখ্যা ১১ : 'গাড়ি ছাড়াবার পর বে—...' (জুন ১৮৮৯)\nপত্রসংখ্যা ১৪ : 'আমার বোট কাছারির কাছ থেকে অনেক দূরে...' (১৮৯১)\nপত্রসংখ্যা ১৬ : 'ছোটো নদীটি ঈষৎ বেঁকে এইখানে...' (৭ মার্চ ১৮৯১)\nপত্রসংখ্যা ১৮ : 'ঐ-যে মস্ত পৃথিবীটা চুপ করে...' (জানুয়ারি ১৮৯১)\nপত্রসংখ্যা ২০ : 'আমার সামনে নানা-রকম গ্রাম্য দৃশ্য...' (ফেব্রুয়ারি ১৮৯১)\nপত্রসংখ্যা ২৮ : 'বিকেল বেলায় আমি এখানকার গ্রামের ঘাটের...'\nপত্রসংখ্যা ৩০ : 'আমাদের ঘাটে একটি নৌকা লেগে আছে...' (৪ জুলাই ১৮৯১)\nপত্রসংখ্যা ৪৮ : 'পূর্বেই লিখেছি, অপরাহ্ণে আমি আপন-মনে...' (১২ জ্যৈষ্ঠ ১৮৯২)"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

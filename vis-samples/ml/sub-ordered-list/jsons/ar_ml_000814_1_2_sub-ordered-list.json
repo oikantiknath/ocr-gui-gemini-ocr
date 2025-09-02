@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ml_000814_1_2_sub-ordered-list.png",
+      "width": 502,
+      "height": 247
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        502.0,
+        247.0
+      ],
+      "area": 123994.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          502.0,
+          0.0,
+          502.0,
+          247.0,
+          0.0,
+          247.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(2) (1)-ാം ഉപവകുപ്പുപ്രകാരമുള്ള ഏതൊരു അപേക്ഷയും നിർണ്ണയിക്കപ്പെട്ട ഫാറത്തിൽ ആയിരി\nക്കേണ്ടതും നിർണ്ണയിക്കപ്പെട്ട രീതിയിൽ പേറ്റന്റ് ആഫീസിൽ നൽകേണ്ടതും നിർണ്ണയിക്കപ്പെട്ട ഫീസും സഹിതം\nആയിരിക്കേണ്ടതാണ്.\n\n(3) ഒരു ഡിസൈൻ ഒന്നിലധികം വിഭാഗത്തിൽ രജിസ്റ്റർ ചെയ്യുന്നതാണെന്നിരുന്നാലും ഏത് വിഭാഗത്തി\nലാണ് രജിസ്റ്റർ ചെയ്യപ്പെടേണ്ടതെന്നതിനെക്കുറിച്ച് സംശയമുണ്ടാകുന്ന കണ്ട്രോളർക്ക് ആ പ്രശ്നം തീരുമാനിക്കാവുന്ന\nതാണ്.\n\n(4) കണ്ട്രോളർക്ക്, അപേക്ഷകൻ്റെ യാതൊരു യാതൊരു ന്യായമെന്ന് തോന്നുന്നവകയിൽ, രജിസ്ട്രേഷനുവേണ്ടി\nഅപേക്ഷകൻ നൽകിയ ഏതെങ്കിലും ഡിസൈൻ രജിസ്റ്റർ ചെയ്യുന്നത് നിഷേധിക്കാവുന്നതാണ്: എന്നാൽ\nഅങ്ങനെയുള്ള ഏതെങ്കിലും നിഷേധിക്കലും സങ്കടമനുഭവിക്കുന്ന ഏതൊരാൾക്കും ഹൈക്കോടതിയിൽ\nഅപ്പീൽ ബോധിപ്പിക്കാവുന്നതാണ്.\n\n(5) അപേക്ഷകൻ്റെ ഭാഗത്തുനിന്നുള്ള ഏതെങ്കിലും വിഷയം ഉപേക്ഷയോ കാരണം നിർണ്ണയി\nക്കപ്പെട്ട സമയത്തിനുള്ളിൽ രജിസ്ട്രേഷൻ നടത്തുന്നതിന് സാധ്യമാകാത്തതും പൂർത്തിയാക്കാത്തതുമായ ഒരു\nഅപേക്ഷ ഉപേക്ഷിക്കപ്പെട്ടതായി കരുതേണ്ടതാണ്.\n\n(6) ഒരു ഡിസൈൻ രജിസ്റ്റർ ചെയ്യപ്പെടുമ്പോൾ രജിസ്ട്രേഷനുള്ള അപേക്ഷയുടെ തീയതിയിൽ\nരജിസ്റ്റർ ചെയ്യപ്പെട്ടതാണെന്ന്."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

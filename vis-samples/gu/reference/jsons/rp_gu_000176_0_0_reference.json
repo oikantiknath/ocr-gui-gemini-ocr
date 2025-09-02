@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_gu_000176_0_0_reference.png",
+      "width": 835,
+      "height": 975
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        835.0,
+        975.0
+      ],
+      "area": 814125.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          835.0,
+          0.0,
+          835.0,
+          975.0,
+          0.0,
+          975.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "૧. ‘ઓલિવર’ ભાગ-૧, અશ્વિની ભટ્ટ, આર્થિક પ્રકાશન, અમદાવાદ, નવસંસ્કરણ : જાન્યુ., ૨૦૧૮, પૃ. ૧૩\n૨. એજન, પૃ. ૨૫૨\n૩. ‘ઓલિવર’ ભાગ-૨, અશ્વિની ભટ્ટ, આર્થિક પ્રકાશન, અમદાવાદ, નવસંસ્કરણ : જાન્યુ., ૨૦૧૮, પૃ. ૧૮૪\n૪. ‘ઓલિવર’ ભાગ-૧, અશ્વિની ભટ્ટ, આર્થિક પ્રકાશન, અમદાવાદ, નવસંસ્કરણ : જાન્યુ., ૨૦૧૮, પૃ. ૨૯૯\n૫. એજન, પૃ. ૩૦૧\n૬. એજન, પૃ. ૬૨\n૭. એજન, પૃ. ૪૧૫\n૮. એજન, પૃ. ૫૦૯\n૯. ‘ઓલિવર’ ભાગ-૨, અશ્વિની ભટ્ટ, આર્થિક પ્રકાશન, અમદાવાદ, નવસંસ્કરણ : જાન્યુ., ૨૦૧૮, પૃ. ૨૬૯\n૧૦. એજન, પૃ. ૧૯૬\n૧૧. એજન, પૃ. ૪૯૫\n૧૨. એજન, પૃ. ૪૦૦\n૧૩. ‘ઓલિવર’ ભાગ-૧, અશ્વિની ભટ્ટ, આર્થિક પ્રકાશન, અમદાવાદ, નવસંસ્કરણ : જાન્યુ., ૨૦૧૮, પૃ. ૨૪૪\n૧૪. એજન, પૃ. ૪૩૧\n૧૫. એજન, પૃ. ૧૦\n૧૬. એજન, પૃ. ૩૧૮\n૧૭. એજન, પૃ. ૨૬૬\n૧૮. એજન, પૃ. ૧૪૦\n૧૯. એજન, પૃ. ૫૮\n૨૦. એજન, પૃ. ૨૬૬\n૨૧. ‘ઓલિવર’ ભાગ-૨, અશ્વિની ભટ્ટ, આર્થિક પ્રકાશન, અમદાવાદ, નવસંસ્કરણ : જાન્યુ., ૨૦૧૮, પૃ. ૧૬૦\n૨૨. એજન, પૃ. ૩૫૬\n૨૩. ‘ઓલિવર’ ભાગ-૧, અશ્વિની ભટ્ટ, આર્થિક પ્રકાશન, અમદાવાદ, નવસંસ્કરણ : જાન્યુ., ૨૦૧૮, પૃ. ૪૫\n૨૪. એજન, પૃ. ૪૪\n૨૫. એજન, પૃ. ૭૩"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_or_000165_0_0_sub-ordered-list.png",
+      "width": 842,
+      "height": 331
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        842.0,
+        331.0
+      ],
+      "area": 278702.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          842.0,
+          0.0,
+          842.0,
+          331.0,
+          0.0,
+          331.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "୭. (୧) ଯଦି ଦରଖାସ୍ତ ମାଧ୍ୟମରୁ ସାଧାରଣ ଉଠାଣକ୍ରମ ପ୍ରସ୍ତାବରେ ରେଖାଥାଏ ତାହାହେଲେ\nମାଧ୍ୟମ ସାଧାରଣତଃ ସେହି ସ୍ଥାନରେ ବାସ କରେ ସେହି ସ୍ଥାନରେ କିମ୍ବା ମାଧ୍ୟମକୁ ଦରଖାସ୍ତ କରାଯିବ ।\n(୨) ଯଦି ଦରଖାସ୍ତ ମାଧ୍ୟମରୁ ସଂପତ୍ତିର ଉଠାଣକ୍ରମ ପ୍ରସ୍ତାବରେ ରେଖାଥାଏ ତାହାହେଲେ ଦରଖାସ୍ତ\nସ୍ୱୀକୃତ ସେହି ସ୍ଥାନରେ ମାଧ୍ୟମ ସାଧାରଣତଃ ସ୍ଥାନରେ ସେହି ସ୍ଥାନରେ ଉଠାଣିବା ସଂପତ୍ତି କିମ୍ବା ମାଧ୍ୟମକୁ\nବା ସେହି ସ୍ଥାନରେ ତାହାର ସଂପତ୍ତି ଥାଏ ସେହି ସ୍ଥାନରେ ଉଠାଣିବା ସଂପତ୍ତି କୌଣସି କିମ୍ବା ମାଧ୍ୟମକୁ\nଦିଆଯାଇ ପାରିବ ।\n(୩) ଯଦି କୌଣସି ମାଧ୍ୟମରୁ ସଂପତ୍ତିର ଉଠାଣକ୍ରମ ପ୍ରସ୍ତାବରେ ଏକ ଦରଖାସ୍ତ ମାଧ୍ୟମ ସାଧାରଣତଃ\nସେହି ସ୍ଥାନରେ ବାସ କରେ ସେହି ସ୍ଥାନରେ ଉଠାଣିବା ସଂପତ୍ତି ଭିନ୍ନ ଅନ୍ୟ କିମ୍ବା ମାଧ୍ୟମକୁ\nଦିଆଯାଇ ପାରିବେ ପ୍ରତି ମାଧ୍ୟମ ନଗରରେ ସେ ଦରଖାସ୍ତ ଉଠାଣିବା ସଂପତ୍ତି ଅନ୍ୟ କୌଣସି\nକିମ୍ବା ମାଧ୍ୟମ ଦ୍ୱାରା ଅଧିକରୁ ମାଧ୍ୟମ ସମସ୍ତ ରାଜ୍ୟ ବା ପ୍ରତିମାଧ୍ୟମ ରାଜ୍ୟରେ ସଂପତ୍ତି କରି ହେବ\nସେତେବେଳେ ମାଧ୍ୟମକୁ ଏହାକୁ ଦେବାଯାଇଛି ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

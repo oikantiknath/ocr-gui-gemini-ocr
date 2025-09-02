@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_or_000173_0_0_ordered-list.png",
+      "width": 274,
+      "height": 702
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        274.0,
+        702.0
+      ],
+      "area": 192348.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          274.0,
+          0.0,
+          274.0,
+          702.0,
+          0.0,
+          702.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(୧) ସାଧାରଣ ସମାଜର ହିତସାଧନ\\nପରିକଳ୍ପିତ ଥିବା ଓଡ଼ିଶାର ଉନ୍ନତି ଓ ପ୍ରତି-\\nଷ୍ଠାପନ ସାମଗ୍ରୀକ ବିକାଶ ଉଦ୍ଦେଶ୍ୟରେ\\nସେଠାରେ, ସେହି ସମାଜରେ ସେ ସବୁ ସ୍ୱତନ୍ତ୍ର\\nଲକ୍ଷ୍ୟରେ ସଫଳ ହେବେ । ଏବଂ ତାହାର\\nପରିଣାମରେ ସବୁ ସାଧୁ ସନ୍ତୁଷ୍ଟ ।\\n(୨) ସେ ତଳ ଥିବା ଓଡ଼ିଶାର ଉଦ୍ଦେଶ୍ୟ,\\nସ୍ୱତନ୍ତ୍ରରେ ସେ ଗୌରବୀୟ ପଦବୀକୁ ସେ ତାହାର\\nସେବା ଲାଗି ସର୍ବସାଧାରଣଠାରୁ ସାହାଯ୍ୟ ।\\n(୩) ସେ ଉନ୍ନତି ଅଭ୍ୟାସୀ ସେହିପରି\\nସହଜ ସରଳ ଓ ଧୀରେ ଧୀରେ ସେ ସବୁ\\nସ୍ଥାନ ଅଧିକାରୀ ।\\n(୪) ସେଠାରେ ସାଧାରଣରେ ଉନ୍ନତି ହେ-\\nବାରୁ ସ୍ଥାନୀୟ ସ୍ୱାସ୍ଥ୍ୟରେ ସେମାନେ ହିତସାଧନ\\nକରିବେ । ତେଣୁ ସବୁ ସେମାନେ ସର୍ବିତ ଉଦ୍ଦେଶ୍ୟ\\nପାଇଁ ଅଟେ । ସବୁସାଧୁ ସେମାନେ ଏଠି ପ୍ରସ୍ତୁତ\\nଅଭ୍ୟାସୀ ।\\n(୫) ସେ ହିତଠାରୁ ବା ତାହାରଠାରୁ ଉନ୍ନତି\\nହିତଠାରୁ ଓ ସ୍ଥାନୀୟ ସବୁ ସବୁ ସ୍ୱାସ୍ଥ୍ୟରୁ ସବୁ\\nସର୍ବିତ ସ୍ଥାନ ସବୁ ସବୁ ଓ ଧୀରେ ସବୁଠାରୁ\\nସହଜ ହିତ ପ୍ରାପ୍ତ ହେବେ ଏଠି ମୁଖ୍ୟତା ତାହା\\nସେଠାରେ ।\\n(୬) ସେସବୁସମୂହରୁ ସର୍ବସାଧାରଣ\\nସେବା ସେଠାରୁ ସବୁ ଅନୁସାରେଠାରୁ ସବୁଠାରୁ\\nସେବା ସମାଜେଠି ସବୁ ସର୍ବିତ ।\\n(୭) ସେହି ସବୁ ହିତା ଅଧିକାରୀ ସର୍ବିତ\\nଉଦ୍ଦେଶ୍ୟ ପ୍ରାପ୍ତ ହେବା ସାହାଯ୍ୟ, ସେଠାରେ\\nନିର୍ଦ୍ଦେଶ ପ୍ରାର୍ଥନା ତାହା ସବୁ ସବୁ ଓ ଧୀରୀ ସେ\\nସମସ୍ତେ ସଫଳ ହେବାକୁ ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

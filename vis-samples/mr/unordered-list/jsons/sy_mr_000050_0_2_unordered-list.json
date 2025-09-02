@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_mr_000050_0_2_unordered-list.png",
+      "width": 1351,
+      "height": 732
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        1351.0,
+        732.0
+      ],
+      "area": 988932.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1351.0,
+          0.0,
+          1351.0,
+          732.0,
+          0.0,
+          732.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "DSC व DSE अशा चारही सत्रातील प्रत्येक अभ्यास पत्रिकेसाठी ४० गुणांचे अंतर्गत मूल्यमापन केले\nजाईल.त्यासाठी २० गुणांसाठी सेमिनार/गटचर्चा/प्रश्मंजुषा/लघु संशोधन प्रकल्प/ पुस्तक परीक्षण/ क्षेत्रीय भेट\nयापैकी कोणत्याही एका घटकाची पूर्तता करून अंतर्गत मूल्यमापन करावे व २० गुणांसाठी १०-१० गुणांच्या\n०२ चाचणी परीक्षा घेण्यात याव्यात.\nप्रत्येक सत्रातील Research Project व On job Training (OJT) अभ्यासक्रमानुसार\nप्रात्यक्षिक/उपयोजनात्मक (प्रत्यक्ष कृती, उपक्रम किंवा उपयोजनात्मक स्वरूपाचे प्रश्न असलेली लेखी परीक्षा)\nअशी १०० गुणांची परीक्षा महाविद्यालयाच्या स्तरावर घ्यावयाची आहे.\nसदर परीक्षेचे स्वरूप महाविद्यालयाच्या स्तरावर संबंधित विषय शिक्षकांनी ठरवायचे आहे.मात्र ते प्रात्यक्षिक/\nउपयोजनात्मक स्वरूपाचे असणे अनिवार्य आहे.\nResearch Project सदर अभ्यासपत्रिकेच्या ४० गुणांच्या अंतर्गत मूल्यमापनासाठी विद्यार्थ्यांनी विशिष्ट\nविषयावरील दोन शोधनिबंधाचे लेखन करणे अनिवार्य आहे.\nसंशोधन प्रकल्पात ०२ लहान संशोधन प्रकल्प सादर करणे विद्यार्थ्यांना अनिवार्य राहील.\nDSC व DSE अशा चारही सत्रातील प्रत्येक अभ्यासपत्रिकेसाठी (०४ क्रेडीट) ६० गुणांची विद्यापीठ परीक्षा\nघेतली जाईल व (०२ क्रेडीटच्या) अभ्यासक्रमासाठी ३० गुणांची विद्यापीठ परीक्षा घेतली जाईल. त्यासाठी\nप्रश्नपत्रिकेचे स्वरूप खालीलप्रमाणे असेल."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

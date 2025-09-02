@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_bn_000342_0_1_ordered-list.png",
+      "width": 580,
+      "height": 312
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        580.0,
+        312.0
+      ],
+      "area": 180960.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          580.0,
+          0.0,
+          580.0,
+          312.0,
+          0.0,
+          312.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(৩) বোম্যানের পশ্চাৎবর্ত্তী স্থিতিস্থাপক ল্যামিনা (Posterior\nElastic Lamina or membrane of Descemet) দ্বারা সর্ব্বত্র একরূপ ঘন\nআকৃতি বিহীন হাইএলাইন স্তর গঠিত হয় ; এবং প্রকৃত কর্ণিয়ার পশ্চাৎ\nদিকের আবরণ রূপে অবস্থিতি করে। ইহা অতিশয় স্থিতিস্থাপক, এবং\nযদি কোন স্থান ছিঁড় হয়, তাহা হইলে সেই স্থান ভিতর দিকে গুড়াইয়া যায়।\n(৪) এই ঝিল্লির আভ্যন্তরিক পৃষ্ঠদেশ কেবল একটি মাত্র কিউবিক্যাল্\n(cubical) অথবা কিয়ৎ পরিমাণে চ্যাপ্টা এণ্ডোথিলিয়াল্ (Endothelial)\nকোষের একটি স্তর দ্বারা আবৃত আছে এবং প্রত্যেক কোষের একটি\nডিম্বাকৃতি নিউক্লিয়াস্ আছে।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

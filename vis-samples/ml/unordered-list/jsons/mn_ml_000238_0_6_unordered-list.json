@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_ml_000238_0_6_unordered-list.png",
+      "width": 940,
+      "height": 617
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        940.0,
+        617.0
+      ],
+      "area": 579980.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          940.0,
+          0.0,
+          940.0,
+          617.0,
+          0.0,
+          617.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* ഡിവിഷൻ എന്ന ബട്ടൺ ക്ലിക്ക് ചെയ്യുമ്പോൾ ലഭിക്കുന്ന സ്ക്രീനാണ് ഇവിടെ\nചേർത്തിരിക്കുന്നത്. തിരുത്തൽ വരുത്തേണ്ട സെല്ലിൽ ക്ലിക്ക് ചെയ്ത് ഡാറ്റാ എൻട്രി\nചെയ്തശേഷം സേവ് ബട്ടൺ ക്ലിക്ക് ചെയ്യുക.\n\n* റിക്കാർഡ് എന്ന ഭാഗത്ത് രണ്ട് ഓപ്ഷനുകൾ കാണാം, 1.Correction, 2. Change. “കറക്ഷൻ”\nഎന്നാൽ ഡാറ്റാ എൻട്രി സമയത്ത് സംഭവിച്ചിരിക്കുന്ന തെറ്റുകൾ തിരുത്തുവാനും ഈ\nഓപ്ഷൻ ഉപയോഗിക്കുക. “ചെയിഞ്ച്” എന്ന ഓപ്ഷൻ ഉപയോഗിക്കേണ്ടത് അസറ്റിൽ\nകൂട്ടിച്ചേർക്കലുകളോ, അപ്ഗ്രേഡേഷനിൽ രേഖപ്പെടുത്തിയിരിക്കുന്ന അസറ്റ് ഒഴിവാക്കുകയോ\nചെയ്യേണ്ടിവരുന്ന സാഹചര്യത്തിലാണ്. ആയതിനാൽ ഈ രണ്ട് ഓപ്ഷനുകളും ശ്രദ്ധയോടെ\nഉപയോഗിക്കേണ്ടതാണ്. ഈ രണ്ട് ഓപ്ഷനുകളും 10 കോമകളിലും ഒരുപോലെ\nഉപയോഗിക്കാവുന്നതാണ്.\n\n* മേൽവിവരിച്ചപ്രകാരം ഡാറ്റാ എൻട്രി ചെയ്തശേഷം ചിത്രം.11 പ്രകാരം കാണുന്ന\nപോലെ സേവ് ബട്ടൺ ക്ലിക്ക് ചെയ്യുക."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "qp_hi_000384_0_0_first-level-question.png",
+      "width": 694,
+      "height": 1681
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 8,
+      "bbox": [
+        0.0,
+        0.0,
+        694.0,
+        1681.0
+      ],
+      "area": 1166614.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          694.0,
+          0.0,
+          694.0,
+          1681.0,
+          0.0,
+          1681.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "99. जीएफआर, 2017 के संदर्भ में, भारत सरकार की गारंटी\nप्रदान किए जाने के संबंध में निम्नलिखित कथनों पर\nविचार कीजिए :\n\n1. निजी सेक्टर को सरकारी गारंटी प्रदान नहीं की\nजाएगी\n\n2. गारंटी सामान्यतः ऋण के मूल और सामान्य ब्याज\nघटक को चुकाने तक सीमित होगी, किंतु\nअपवादात्मक परिस्थितियों में, अन्य जोखिम भी\nगारंटी का हिस्सा होंगे\n\n3. भारत सरकार की विदेशी ऋणों पर गारंटी सहित,\nगारंटी प्रदान करने की शक्ति बजट प्रभाग, आर्थिक\nकार्य विभाग में निहित है\n\n4. अनुदानों के मामले में, भारत सरकार की गारंटी\nनहीं दी जाएगी, सिवाय जहाँ दाता निष्पादन\nसुनिश्चित करने पर बल देता है\n\nउपर्युक्त में से कौन-से कथन सही हैं ?\n\n(a) केवल 1, 2 और 3\n\n(b) केवल 1, 3 और 4\n\n(c) 1, 2, 3 और 4\n\n(d) केवल 1 और 3"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

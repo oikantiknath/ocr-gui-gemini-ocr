@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_hi_000588_1_1_ordered-list.png",
+      "width": 403,
+      "height": 267
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        403.0,
+        267.0
+      ],
+      "area": 107601.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          403.0,
+          0.0,
+          403.0,
+          267.0,
+          0.0,
+          267.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. आवेदन पत्र के साथ दल में शामिल सरकारी कर्मचारियों का कार्यरत विभाग से\nअनापत्ति प्रमाण-पत्र संलग्न करना अनिवार्य है।\n2. आवेदन पत्र के साथ सभी कलाकारों के चरित्र प्रमाण-पत्र की दो-दो प्रतियां एवं\nआधार कार्ड संलग्न होना अनिवार्य है।\n3. दल में शामिल कलाकारों की ग्रुप फोटो होना अनिवार्य है।\n4. आवेदन फार्म स्पीड पोस्ट/रजिस्टर्ड डाक द्वारा ही मान्य होगा।\n5. आवेदन फार्म रू0 50/- की फीस रसीद आवेदन फार्म के साथ संलग्न होना\nअनिवार्य है, अन्यथा आवेदन फार्म निरस्त समझा जायेगा।\n6. सूचना एवं जनसम्पर्क विभाग, उ०प्र०, लखनऊ में वर्ष 2016 एवं वर्ष 2018 में\nपंजीकृत समस्त सांस्कृतिक दलों को स्वर परीक्षा में शामिल होना अनिवार्य\nहै।\n7. आवेदन फार्म भेजने का पता :-\nनिदेशक सूचना,\nसूचना एवं जनसम्पर्क विभाग, उ०प्र०,\nपं० दीनदयाल उपाध्याय सूचना परिसर,\nगीत-नाट्य प्रभाग, तृतीय तल, कक्ष सं० 303,\nहजरतगंज, लखनऊ-226001।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

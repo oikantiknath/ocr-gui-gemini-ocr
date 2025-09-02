@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_te_000371_1_29_paragraph.png",
+      "width": 322,
+      "height": 489
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        322.0,
+        489.0
+      ],
+      "area": 157458.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          322.0,
+          0.0,
+          322.0,
+          489.0,
+          0.0,
+          489.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "హనుమంతుడి గుడి లేని ఊరు లేదు కెసిఆర్\nపథకం అందని ఇళ్లు లేదన్నారు. రాష్ట్రంలో మరో\nసారి కెసిఆర్ ప్రభుత్వం ఏర్పడగానే పెన్షన్లు\nరూ. 5వేలకు పెరుగుతుందని, ఎన్నికలు పూర్త\nయిన వెంటనే రూ.3 వేలకు పెరుగుతుంద\nన్నారు. తర్వాత ఏటేటా పెరుగుతూ ఐదేళ్లకు\nరూ. 5వేలకు చేరుతుందన్నారు. కటాఫ్ డేట్ లో\nసంబంధం లేకుండా బీడీ కార్మికులందరికీ పెన్ష\nన్లు ఇవ్వాలని కెసిఆర్ సంకల్పించారని, సౌభా\nగ్యలక్ష్మి పథకం కింద పేద మహిళలకు రూ. 3\nవేల పెన్షన్ ఇవ్వాలని నిర్ణయించారన్నారు.\nమూడోసారి ప్రభుత్వం ఏర్పాటు కాగానే కొత్త\nరేషన్కార్డులు మంజూరు చేస్తామని దీంతో కోటి\nకార్డులకు చేరుతామన్నారు. ఈ కార్యక్రమంలో\nడిసిఎంఎస్ చైర్మన్ శ్రీకాంత్రెడ్డి, మున్సిపల్ చైర్ప\nర్సన్ సంగ్ సత్యమ్మ, జడ్పిటిసి సభ్యులు బాదినేని\nరాజేందర్, బత్తిని అరుణ, ఎంపిపిలు ఎర్ర చిట్టి\nబాబు, బాదినేని రాజమణి, పార్టీ నాయకులు\nతదితరులు పాల్గొన్నారు."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

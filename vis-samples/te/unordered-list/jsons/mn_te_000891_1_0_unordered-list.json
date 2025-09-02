@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_te_000891_1_0_unordered-list.png",
+      "width": 363,
+      "height": 202
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        363.0,
+        202.0
+      ],
+      "area": 73326.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          363.0,
+          0.0,
+          363.0,
+          202.0,
+          0.0,
+          202.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* సేవా పని వెనుక ఉన్న విశాలమైన విజన్ ఏమిటి? సంస్థ యొక్క విజన్‌ను మీరు ఎలా\n  నిర్వహిస్తారు?\n* చెత్త సేకరించే మహిళలు తమ లక్ష్యాలను గుర్తించి వ్యక్తీకరించగలిగారా? వారు స్త్రీలు\n  అయినందువలన లక్ష్యాలను ఏర్పరచుకోవటంలో, వాటిని సాధించటంలో అనుసరించిన\n  పద్ధతులను ప్రభావితం చేయ గలిగారా?\n* కాగితాలు ఏరేవారు / ఆరోగ్య భాగీనులు అవసరాల కార్య రూపం దాల్చాయా?\n* ఆరోగ్య భాగీనులు నాయకత్వాన్ని అన్వేషించిన మార్గాలు? వారి తరచు నాయకత్వంలో మీరు\n  గ్రహించిన విలువలు? మీకు అనుభవంలో ఉన్న నాయకత్వ పద్ధతులకు ఈ విశిష్ట నాయకత్వ\n  పద్ధతికి ఉన్న తేడాలు?\n* వారి విజన్‌ను ఎలా పంచుకున్నారు?\n* పట్టువిడుపులతో కూడిన, మార్పుకు లోనయ్యే ఉమ్మడి దృక్పథం (షేర్డ్ విజన్) వారి సంస్థమన్న\n  ఏ రకంగా ప్రభావితం చేసింది."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

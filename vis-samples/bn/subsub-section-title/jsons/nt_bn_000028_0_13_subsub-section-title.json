@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_bn_000028_0_13_subsub-section-title.png",
+      "width": 1461,
+      "height": 586
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 33,
+      "bbox": [
+        0.0,
+        0.0,
+        1461.0,
+        586.0
+      ],
+      "area": 856146.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1461.0,
+          0.0,
+          1461.0,
+          586.0,
+          0.0,
+          586.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "HSP-MIS সফটওয়্যারে প্রবেশ করে মেনুবার অনুসরণ করে ‘পে-রোল’ অপশনে ক্লিক করুন;\n‘পে-রোল’ অপশনে ‘পেমেন্ট তথ্য সংশোধন’ অপশনে ক্লিক করুন;\n‘একাউন্টধারণ’ অপশনে ক্লিক করে ‘বাউন্সব্যাক হয়েছে’ অপশন সিলেক্ট করে ‘খুঁজুন’ বাটনে ক্লিক করুন;\nসংশোধন কলামের ‘কলম আইকন (এডিট অপশন)’ বাটনে ক্লিক করুন;\nবর্তমান পেমেন্ট তথ্য পেমেন্টের ধরণ এবং হিসাব নম্বর পরিবর্তন করে সঠিক তথ্য প্রদান করুন (HSP-\nMIS সফটওয়্যারে এন্ট্রিভুক্ত শিক্ষার্থীর অভিভাবকের তথ্য পরিবর্তন করা যাবে না। এন্ট্রিভুক্ত অভিভাবকের\nNID ব্যবহার করে খোলা বৈধ ও সচল মোবাইল ব্যাংকিং/অনলাইন ব্যাংক একাউন্ট নম্বর প্রদান করতে\nহবে!);\nতথ্য পরিবর্তনের কারণ অপশনে ‘বাউন্সব্যাক তথ্য সংশোধন’ নির্বাচন করতে হবে;\nবাউন্সব্যাক সংশোধন অপশনে ‘হ্যাঁ’ নির্বাচন করতে হবে;\nসর্বশেষ ‘সংশোধন’ করুন অপশনে ক্লিক করতে হবে।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

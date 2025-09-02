@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_bn_000266_0_8_ordered-list.png",
+      "width": 1623,
+      "height": 523
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        1623.0,
+        523.0
+      ],
+      "area": 848829.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1623.0,
+          0.0,
+          1623.0,
+          523.0,
+          0.0,
+          523.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "১. অতিরিক্ত সচিব (উন্নয়ন), মাধ্যমিক ও উচ্চ শিক্ষা বিভাগ, শিক্ষা মন্ত্রণালয়।\n(দৃঃআঃ উপ-সচিব, উন্নয়ন-১)\n২. প্রোগ্রাম পরিচালক, সেসিপ ও মহাপরিচালক, মাধ্যমিক ও উচ্চ শিক্ষা অধিদপ্তর, ঢাকা।\n৩. মহাপরিচালক, পাসপোর্ট ও বহিরাগমন অধিদপ্তর, আগারগাঁও, ঢাকা।\n৪. পরিচালক, অর্থ ও ক্রয় শাখা, মাধ্যমিক ও উচ্চ শিক্ষা অধিদপ্তর, ঢাকা।\n৫. পরিচালক, বৈদেশিক মুদ্রা নিয়ন্ত্রণ বিভাগ, বাংলাদেশ ব্যাংক, ঢাকা।\n৬. পরিচালক, হযরত শাহজালাল আন্তর্জাতিক বিমানবন্দর, ঢাকা।\n৭. ইমিগ্রেশন অফিসার, বেনাপোল স্থলবন্দর, শার্শা, যশোর/আখাউড়া স্থল বন্দর, ব্রাহ্মণবাড়িয়া/বুড়িমারী স্থলবন্দর, লালমনিরহাট/হিলি\nস্থলবন্দর, দিনাজপুর/দর্শনা, চুয়াডাঙ্গা।\n৮. প্রধান হিসাবরক্ষণ কর্মকর্তা, শিক্ষা মন্ত্রণালয়, ৪৫ পুরানা পল্টন, ঢাকা।\n৯. অজিত কুমার রায়, কম্পিউটার অপারেটর, সংযুক্ত: অর্থ ও ক্রয় শাখা, মাধ্যমিক ও উচ্চ শিক্ষা অধিদপ্তর, ঢাকা।\n১০. অফিস কপি।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

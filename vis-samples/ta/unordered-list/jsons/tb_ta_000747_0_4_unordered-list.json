@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "tb_ta_000747_0_4_unordered-list.png",
+      "width": 831,
+      "height": 410
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        831.0,
+        410.0
+      ],
+      "area": 340710.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          831.0,
+          0.0,
+          831.0,
+          410.0,
+          0.0,
+          410.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* உமது கணினியில் பாதுகாக்கப்பட்ட கோப்பொன்று மீண்டும் தேவைப்படும்\nசந்தர்ப்பம் ஒன்றில் அக்கோப்பு இருக்கும் இடம் மறந்திருப்பின், கோப்பின்\nபெயர், கோப்பு வகை, சேமிக்கப்பட்ட திகதி போன்றவற்றைக் கொண்டு,\nஅக்கோப்பினை உங்களால் கண்டுபிடிக்க முடியும். கோப்பு வகையின்\nஅடிப்படையில் கோப்பொன்றைத் தேடும் விதத்தைக் கண்டறிவோம். கோப்பு\nவகை தெரியுமாயின் கணினியில் காணப்படும் அவ்வகைக் கோப்புகள்\nஅனைத்தினதும் பட்டியலைப் பெற்றுக்கொள்ள முடியும். கோப்பு\nபெயரொன்றின் கோப்புவகைக்குறிப்பது கோப்புப் பெயரைத் தொடர்ந்துள்ள\nநீட்சி (Extention) ஆகும். ஆகவே, அந்நீட்சியைப் பயன்படுத்தி அவ்வகை\nஅனைத்து கோப்புகளையும் எவ்வாறு தேடுவதென்பதைப் பார்ப்போம்.\n* உதாரணமாக “docx” நீட்சியுடைய அனைத்துக் கோப்புகளையும் தேடுவோம்.\nகீழே தரப்பட்டுள்ள படிமுறைகளைப் பின்பற்றவும். இங்கு docx, Microsoft\nWord செயலினால் உருவாக்கப்படும் கோப்புகளின் நீட்சி ஆகும்."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

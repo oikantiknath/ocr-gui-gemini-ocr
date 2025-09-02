@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_bn_000504_1_4_sub-ordered-list.png",
+      "width": 2362,
+      "height": 3152
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        2362.0,
+        3152.0
+      ],
+      "area": 7445024.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          2362.0,
+          0.0,
+          2362.0,
+          3152.0,
+          0.0,
+          3152.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "i. Dialogues.\na. About your aim in life/Choice of career.\nb. About your hobbies.\nc. Advantages and disadvantages of village life and city life.\nd. Necessity of physical exercise.\ne. Importance of reading newspaper\nf. Benefits of early rising\ng. Merits and demerits of mobile phone\nh. About the importance of punctuality in life.\nii. Formal/Informal: E-mail.\na. Write an e-mail to your friend telling him about the importance\nof learning English.\nb. Write an e-mail to your friend thanking him for hospitality.\nc. Write an e-mail to your friend describing the annual sports of\nyour school.\nd. Write an e-mail to your friend describing your preparation for\nthe JSC Examination.\ne. Write an e-mail to your friend inviting him to join a picnic.\nf. Write an e-mail to your friend inviting him to join your birthday\nparty.\ng. Write an e-mail to your friend consoling on his mother's/\nfather's death.\nh. Write an e-mail to your friend inviting him to attend the wedding\nceremony of your elder sister.\ni. Write an e-mail to your Headmaster for a transfer certificate.\nj. Write an e-mail to your Head master arranging a study tour/an\nexcursion.\niii. Paragraphs:\na. Your School Library\nb. A Book Fair\nc. A Street Beggar\nd. Life of a farmer\ne. Your Favorite Teacher\nf. A Day Laborer\ng. Your Visit to a Book Fair\nh. Computer\ni. Mobile Phone\nj. A Street Hawker"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

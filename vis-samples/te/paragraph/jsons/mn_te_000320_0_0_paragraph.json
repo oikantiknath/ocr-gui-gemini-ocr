@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_te_000320_0_0_paragraph.png",
+      "width": 673,
+      "height": 273
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        673.0,
+        273.0
+      ],
+      "area": 183729.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          673.0,
+          0.0,
+          673.0,
+          273.0,
+          0.0,
+          273.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ఆన్‌లైన్ కౌన్సిలింగ్, కెరీర్ సమాచారం, ఆన్‌లైన్ ట్యుటోరియల్, ఆప్టిట్యూడ్\nటిప్సులు, విదేశాల్లో విద్యాభ్యాసం విషయంలో మార్గనిర్దేశనం, సెలవుల్లో విద్యార్థుల కొరకు\nపార్ట్‌టైమ్ ఉద్యోగావకాశాల సమాచారం, పరీక్షాఫలితాలు, పుస్తకాల మార్పులు, విద్యార్థుల\nపర్యవేక్షణ కొరకు హెల్ప్‌లైన్, వినోదాత్మక కార్యక్రమాలు, ఇంకా ఎన్నో సౌలభ్యాలు,\nఇంటర్ క్యాంపస్‌కు చెందిన కౌన్సిలర్లు, డీన్ స్కూల్‌కు చెందిన కెరీర్ కౌన్సిలర్ అయిన\nపి.జి. బెనర్జీ B.Tech., I.I.T., M.B.A., I.I.M. గారి సేవలను, ఇంకా ఎందరో నిపుణుల\nసేవలను ఈ వెబ్‌సైట్ ద్వారా పొందవచ్చు."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

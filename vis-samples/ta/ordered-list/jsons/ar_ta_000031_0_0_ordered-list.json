@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_000031_0_0_ordered-list.png",
+      "width": 912,
+      "height": 350
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        912.0,
+        350.0
+      ],
+      "area": 319200.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          912.0,
+          0.0,
+          912.0,
+          350.0,
+          0.0,
+          350.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "10. குடிமை உரிமைகள் தொடர்ந்திருத்தல்:\nஇந்திப் பகுதியின் மேலகண்ட வகைகளில் எதன்படியும் இந்தியாவின் குடிமக்களாக\nஇருக்கின்ற அல்லது இருப்பதாகக் கொள்ளப்பெறுகின்ற ஒவ்வொருவரும், நாடாளுமன்றம்\nஇயற்றூம் சட்டத்தின் வகையங்களுக்கு உட்பட்டு, தொடர்ந்து அத்தகைய குடிமக்களாக\nஇருந்துவருவார்.\n\n11. நாடாளுமன்றம் சட்டத்தினால் குடிமை உரிமையை ஒழுங்குறுத்துதல்:\nஇந்திப் பகுதியின் மேலகண்ட வகைகளிலுள்ளன எதுவும், குடிமை பெறுதல், குடிமை\nஅறுதல் பொறுத்தூம் குடிமை தொடர்பான் பிற அனைத்துப் பொருட்பாடுகள் பொறுத்தூம்\nவகையப் எதுவும் செய்வதற்கு நாடாளுமன்றத்திற்குள் அதிகாரத்தைத் திறக்குறைவு\nசெய்வதில்லை."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

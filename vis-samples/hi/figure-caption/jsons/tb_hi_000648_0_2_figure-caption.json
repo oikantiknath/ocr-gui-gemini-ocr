@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "tb_hi_000648_0_2_figure-caption.png",
+      "width": 1333,
+      "height": 608
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 7,
+      "bbox": [
+        0.0,
+        0.0,
+        1333.0,
+        608.0
+      ],
+      "area": 810464.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1333.0,
+          0.0,
+          1333.0,
+          608.0,
+          0.0,
+          608.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "INDEX OF SYMBOLS\n▲ LOWER PALAEOLITHIC\n▲ MIDDLE PALAEOLITHIC\nO UPPER PALAEOLITHIC\n⊕ EPI PALAEOLITHIC\n● EARLY MESOLITHIC\n⊙ NON GEOMETRIC MICROLITHS\n□ GEOMETRIC MICROLITHS WITH TRAINGLE\n☑ GEOMETRIC MICROLITHS WITH TRAPEZE\n■ GEOMETRIC MICROLITHS WITH TRIANGLE & TRAPEZE\n* NEOLITHIC\nName of sites\nLower Palaeolithic\n1 Dhavarahya Pahadi (Jadkuda)\n2 Chaurasi Pahadi (Jarbada)\n3 Cejahawa Pahadi (Ghaghawa)\n4 Baheraha Pahadi (Magha)\n5 Patehar Pahadi (Manigada)\n6 Pokhara\nMiddle Palaeolithic\n1 Jraunha Pahadi (Ghaghawa)\n2 Badka Daur (Magha)\n3 Piparahya Pahadi (Manigada)\n4 Songara\nUpper Palaeolithic\n1 Koliha Tola (Bahera Dabar)\n2 Bhondkodwai (Harrai)\n3 Hardi\n4 Bhodiyan Tola (Piprahi)\n5 Jogibir\n6 Kudiya\n7 Teldah\n8 Hardihava Dandi (Thengarahi)\n9 Putpunya Dandi (Thengarahi)\n10 Kajendih (Mahadeva)\n11 Nigodi Dandi (Amahta)\n12 Jignahwa Dandi (Amahta)-N\n13 Tendahariya Dandi (Amahta)-S\n14 Vijai wali Dandi (Amahta)\n15 Tendahariya Dandi (Amahta)-N\n16 Dhenkuha\n17 Danluan (Murhai-I)\n18 Chakargahata Dandi (Bagheli Tola)\n19 Samamawa Dandi (Magha)\n20 Samamawa Dandi (Manigada)\n21 Mahadevan Dandi (Pokhra)\n22. Hathada\n23. Madhor\n24. Patharaha\n25. Subawana\nNon-Geometric Microliths\n1 Dahiya Tola (Harrai)\n2 Kharabaha Dandi (Sardaman)\n3 Kandala Tola (Sardaman)\n4 Amahiya Dandi (Amahta)\n5 Charahiya\n6 Karkachh\n7 Badaka Daur (Magha)\n8 Bardahiya Dandi (Manigada)\n9 Nimahiya Dandi (Pokhra)\n10 Mudhuliya Dandi (Kauhar)\n11 Cherahava Dandi (Baidha)\n12 Basuli Dandi (Gorg)\n13 Tikuri Dandi (Ahugi Kala)\n14 Barahula-Badaunhi\n15 Banjań\n16 Purva\n17 Dohar\n18 Kotar\nGeometric Microliths with Triangle\n1 Bhela Pahadi (Bahera Dabar)\n2 Majhari Tola (Adalpur)\n3 Barachhiva\n4 Dhanuhinar\n5 Pokhrai\n6 Kakrahava Dandi (Magha)\n7 Bhaunriya Dandi (Manigada)\n8 Hadahiya Dandi (Manigada)\n9 Tita\n10 Kothi Khurd\n11 Ahugi Khurd\n12 Chinihiya Dandi (Baidha)\n13 Pathahiya Dandi (Baidha)\n14 Bairiya\n15. Dhandhi\nEpi-Palaeolithic\n1 Chiriha Tola (Baheradabar)\n2 Modar Tola (Adalpur)\n3 Biradei\n4 Belha\n5 Jignahwa Dandi (Amahta)-S\n6 Tendauhi Dandi (Amahta)\n7 Bhadakaha Dandi (Amahta)\n8 Pipariya Dandi (Murhai-I)\n9 Chaura Dandi (Murha-II)\n10 Basahwa Dandi (Nebuhua)\n11 Chaurasi Dandi (Jarbada)\n12 Bhodiyan Tola\n13 Dihwa\n14 Kushahwa Dandi (Magha)\n15 Miruva Daur (Manigada)\n16 Piprahiya Dandi (Manigada)\n17 Suldhta\n18 Baidihwa Dandi (Pokhra)\n19. Karaundahagram\n20 Khadichahwa Dandi (Songara)\n21 Bhalwai\n22. Bedaur\nEarly Mesolithic\n1 Gadaha Tola (Harrai)\n2 Mijhawa Dandi (Piprahi)\n3 Amahiya Dandi (Piprahi)\n4 Magahwa\n5 Bahariya Dandi (Mahadeva)\n6 Pakarawa Dandi (Nebuhua)\n7 Lakadariya\n8 Nevasa Pahadi (Jadakuda)\n9 Baigan\n10 Bahaha Dandi (Magha)\n11 Lavarahiya Dandi (Manigada)\n12 Bhaldawa Dandi (Songara)\n13. Balauva Barham\n14. Amaha\nGeometric Microliths with Trapeze\n1 Baghodari\n2 Nakvar\n3 Samvahya\n4 Barahwa Dandi (Baidha)\n5. Haliya\nGeometric Microliths with Triangle & Trapeze\n1 Kashiyar Tola (Adalpur)\n2 Dudiya Dandi (Sardaman)\n3 Patharahiya\n4 Chauld Dandi (Songara)\nNeolithic\n1 Kakra Dandi (Magha)\n2 Bhakhuriya Dandi (Indari)\n3 Tohan Dandi (Tokwa)\n4 Baraunha\n5. Kosala Khand (Manigada)"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

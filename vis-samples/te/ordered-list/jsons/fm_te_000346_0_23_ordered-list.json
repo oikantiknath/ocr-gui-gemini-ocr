@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_te_000346_0_23_ordered-list.png",
+      "width": 559,
+      "height": 453
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        559.0,
+        453.0
+      ],
+      "area": 253227.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          559.0,
+          0.0,
+          559.0,
+          453.0,
+          0.0,
+          453.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1) None of my family members including myself own a Pucca House (all weather dwelling unit) in any part of India. The housing loan availed by me from DCB Bank is for purchasing\nthe first house of my family.\nనా కుటుంబంలో నేను సహా ఎవ్వరూ కూడా భారతదేశంలో ఎక్కడ కూడా పక్కా ఇల్లు (అన్ని వాతావరణాలకు తగిన నివాస గృహం) లేరు. డీసీబీ బ్యాంక్ నుండి\n2) My household annual family income from all sources (including all earning members) is INR. (in words Indian Rupees\nనా కుటుంబ వార్షిక ఆదాయం నుండి (అన్ని సంపాదన సభ్యులతో సహా) అన్ని వనరుల నుండి రూపాయలు\nTotal Adult Family Members (to be filled by all loan applicants and property owners only)\nమొత్తం వయోజన కుటుంబ సభ్యులు (అన్ని రుణ దరఖాస్తుదారులు మరియు ఆస్తి యజమానులు మాత్రమే నింపాలి)\nName\nపేరు\nRelationship\nwith Applicant\nదరఖాస్తుదారుడితో\nసంబంధం\nAge (Years)\nవయస్సు\n(సంవత్సరాలు)\nUID Type (Aadhaar, Voter's Card,\nPAN Card, Passport No., Revenue\nAuthority Certificate, Others)\nఆధార్ రకం (ఆధార్, ఓటర్స్ కార్డ్, పాన్ కార్డ్,\nపాస్పోర్ట్ నం, రెవెన్యూ అథారిటీ సర్టిఫికేట్, ఇతరవి)\nUID Number\nఆధార్ నంబర్\n1.\n2.\n3.\n4.\n5.\n3) If at any stage it is found that, I have provided any false information including false self-certificate / affidavit as proof of income, then DCB bank will have the right to take\naction, at its discretion, as and when it deems fit.\nఏ దశలోనైనా నేను ఆదాయానికి రుజువుగా తప్పుడు సమాచారం, తప్పుడు స్వీయ-ధృవీకరణ పత్రం / అఫిడవిట్ సహా ఏదైనా తప్పుడు సమాచారం ఇచ్చానని తేలితే, అప్పుడు\n4) I understand that asa DCB Home Loan customer and beneficiary of CLSS, on transfer/ shifting of the home loan to another financial institution, I shall not be eligible to claim any\nbenefit of interest subvention again under CLSS.\nడీసీబీ హోమ్ లోన్ కస్టమర్ మరియు సిఎల్ఎస్ఎస్ లబ్ధిదారుడిగా, గృహ రుణాన్ని మరొక ఆర్థిక సంస్థకు బదిలీ చేసినట్లయితే / మార్చినట్లయితే, నేను సిఎల్ఎస్ఎస్ కింద\n5) I understand that I shall be eligible to avail the benefit under CLSS only once.\nసిఎల్ఎస్ఎస్ కింద లబ్ధిని పొందటానికి నేను ఒక్కసారి మాత్రమే అర్హుడిని అవుతానని నేను అర్థం చేసుకున్నాను.\n6) I understand that, for a dwelling whose construction has been stalled due to any reason, the Subsidy released by Ministry of Housing and Urban Poverty Alleviation (MoHUPA)will\nbe recovered by DCB Bank along with the loan recovery.\nఏదైనా కారణం చేత నిర్మాణం నిలిచిపోయిన గృహం కోసం, గృహ మరియు పట్టణ పేదరిక నిర్మూలన మంత్రిత్వ శాఖ (MoHUPA) విడుదల చేసిన సబ్సిడీని డీసీబీ బ్యాంక్ రుణ వసూలుతో\n7) I understand and agree that in the event of default in repayment of the Loan by the borrower/ beneficiary and the Loan becoming Non-Performing Asset (NPA), the lender,that is,\nDCB Bank will proceed for recovery of the dues through such measures as considered appropriate, including foreclosure of the property. In all such cases, the amount of the\nrecoveries will be charged to the Subsidy amount on a proportionate basis (that is, in proportion to the Loan outstanding and the Subsidy amount disbursed).\nరుణగ్రహీత / లబ్ధిదారుడు రుణాన్ని తిరిగి చెల్లించడంలో విఫలమై, రుణం నిరర్థక ఆస్తి (ఎన్పిఎ) గా మారినట్లయితే, రుణదాత, అంటే డీసీబీ బ్యాంక్, ఆస్తిని జప్తు చేయడంతో సహా, అవసరమైన\n8) I understand that the Subsidy processing is subject to audit by the appropriate Government authority. For any recovery notice of Subsidy from an appropriate authority, the same\nwill be recovered by DCB Bank from my loan account accordingly.\nసబ్సిడీ ప్రాసెసింగ్ తగిన ప్రభుత్వ అధికారం ద్వారా ఆడిట్ చేయబడుతుందని నేను అర్థం చేసుకున్నాను. తగిన అధికారం నుండి సబ్సిడీకి ఏదైనా రికవరీ నోటీసు\n9) Processing fees will be charged only when original loan amount is in excess of INR 6,00,000 for EWS / LIG and INR 9,00,000 and INR 12,00,000 for MIG-I & MIG-II respectively and\nno refund for the same will be provided.\nఅసలు రుణ మొత్తం EWS / LIG కోసం INR 6,00,000 మరియు INR 9,00,000 మరియు MIG-I & MIG-II కోసం INR 12,00,000 కంటే ఎక్కువగా ఉన్నప్పుడు మాత్రమే ప్రాసెసింగ్ ఫీజు వసూలు చేయబడుతుంది మరియు దీనికి ఎటువంటి\nతిరిగి చెల్లింపు ఉండదు."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

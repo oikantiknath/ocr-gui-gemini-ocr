@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_te_000012_0_6_options.png",
+      "width": 551,
+      "height": 96
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 18,
+      "bbox": [
+        0.0,
+        0.0,
+        551.0,
+        96.0
+      ],
+      "area": 52896.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          551.0,
+          0.0,
+          551.0,
+          96.0,
+          0.0,
+          96.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "Maker-Checker Facility / మేకర్-చెక్ర్ సదుపాయం\nTick below if Single User Facility is required / సింగిల్ యూజర్ సదుపాయం అవసరమైతే క్రింద టిక్ చేయండి\nWe understand that Maker-Checker facility in BIB is a risk control mechanism of the Bank. However, due to our business / process compulsions, we are consciously\nopting for transaction facility with single user at our own risk, responsibility and liability. We hereby agree and undertake that the Bank will not be held liable and\nresponsible under any circumstances, in case of any losses incurred by me / us as a result of using the transaction facility with single user.\nBIB లోని మేకర్-చెక్ర్ సదుపాయం బ్యాంక్ యొక్క రిస్క్ కంట్రోల్ మెకానిజం అని మేము అర్థం చేసుకున్నాము. అయినప్పటికీ, మా వ్యాపారం / ప్రక్రియ అవసరాల కారణంగా, మా స్వంత రిస్క్, బాధ్యత మరియు లయబిలిటీతో లావాదేవీల సదుపాయాన్ని మేము\nసింగిల్ యూజర్‌తో ఎంచుకుంటున్నాము. సింగిల్ యూజర్‌తో లావాదేవీల సదుపాయాన్ని ఉపయోగించడం వల్ల నాకు / మాకు ఏవైనా నష్టాలు జరిగితే, ఏ పరిస్థితులలోనైనా బ్యాంక్ బాధ్యత వహించదని మరియు బాధ్యత వహించదని మేము దీని ద్వారా అంగీకరిస్తున్నాము మరియు హామీ\nఇస్తున్నాము."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

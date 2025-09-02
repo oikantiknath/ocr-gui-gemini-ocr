@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_bn_000158_0_0_ordered-list.png",
+      "width": 673,
+      "height": 760
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        673.0,
+        760.0
+      ],
+      "area": 511480.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          673.0,
+          0.0,
+          673.0,
+          760.0,
+          0.0,
+          760.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "৬. অ এ কোর্সের মেয়াদ : ১ বছর ❑ সেমিস্টার : ২ ❑ প্রতি সেমিস্টারের\\nসময় : ২৬ সপ্তাহ।\\n\\n৭. ২ সেমিস্টারের ৫২ সপ্তাহের সুসংহত বিন্যাস :\\n    ক. ক্লাস : প্রতি সেমিস্টারে ১৫ সপ্তাহ, ২ সেমিস্টারে ৩০ সপ্তাহ\\n    খ. মিড-সেমিস্টার পরীক্ষা [২ সেমিস্টারে] : ২ সপ্তাহ\\n    গ. সেমিস্টার সমাপ্তি পরীক্ষা [প্রতি সেমিস্টারে শেষ] : ৬ সপ্তাহ\\n    ঘ. উত্তরপত্র মূল্যায়ন ও ফল-প্রকাশ : ৬ সপ্তাহ\\n    ঙ. ছুটি : ৮ সপ্তাহ\\n\\n৩. মোট কোর্স, মান বন্টন, ক্রেডিট ও গ্রেড :\\n    ৪ ক্রেডিট কোর্স : ৮ নম্বর : ৮ × ১০০ = ৮০০ প্রতি কোর্স : ৪ ক্রেডিট\\n    ১ ক্রেডিট কোর্স : ২ নম্বর : ২ × ২৫ = ৫০ প্রতি কোর্স : ১ ক্রেডিট\\n\\n    মোট নম্বর : ৮০০+৫০ = ৮৫০ মোট ক্রেডিট : ৮ × ৪+২ × ১ = ৩৪\\n    বি.দ্র. :\\n    ক. ১৫ ঘণ্টার ক্লাস ১ ক্রেডিট ঘণ্টার সমান এবং ১ ক্রেডিট হিসাবে গণ্য।\\n    খ. প্রতি ৪ ক্রেডিট কোর্স = ৪ ক্রেডিট ঘণ্টা মোট পাস : ৬০\\n    গ. প্রতি ১ ক্রেডিট কোর্স = ১ ক্রেডিট ঘণ্টা মোট পাস : ১৫\\n    ঘ. অ এ ডিগ্রির জন্য ২ সেমিস্টারে ন্যূনতম ক্রেডিট ঘণ্টা : ৩০\\n\\n৪. ২ সেমিস্টারে ৮টি ৪ ক্রেডিট কোর্স এবং ৪টি ১ ক্রেডিট এবং ২ কোর্সের প্রতি ১ ক্রেডিট\\n    কোর্সের পাঠ্যবিন্যাস :\\n    ১ম সেমিস্টার : ৪টি ৪ ক্রেডিট এবং ২টি ১ ক্রেডিট কোর্স : মোট ১৮ ক্রেডিট\\n    ২য় সেমিস্টার : ৪টি ৪ ক্রেডিট এবং ২টি ১ ক্রেডিট কোর্স : মোট ১৮ ক্রেডিট"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

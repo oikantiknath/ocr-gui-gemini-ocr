@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "qp_mr_000667_1_6_sub-ordered-list.png",
+      "width": 463,
+      "height": 100
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        463.0,
+        100.0
+      ],
+      "area": 46300.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          463.0,
+          0.0,
+          463.0,
+          100.0,
+          0.0,
+          100.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(अ) या प्रश्नपुस्तिकतील प्रत्येक प्रश्नाला 4 पर्यायी उत्तरे सुचविली असून त्यांना 1, 2, 3 आणि 4 असे क्रमांक दिलेले आहेत. त्या\nचार उत्तरांपैकी सर्वात योग्य उत्तराचा क्रमांक उत्तरपत्रिकेवरील सूचनेप्रमाणे तुमच्या उत्तरपत्रिकेवर नमूद कराया. अशा\nप्रकारे उत्तरपत्रिकेवर उत्तरक्रमांक नमूद करताना तो संबंधित प्रश्नक्रमांकासमोर छायांकित करून दर्शविला जाईल याची\nकाळजी घ्यावी. ह्याकरिता फक्त काळ्या शाईचे बॉलपेन वापरावे, पेन्सिल बा शाईचे पेन वापरू नये.\n(ब) आयोगाने ज्या विषयासाठी मराठी बरोबर इंग्रजी माध्यम विहित केलेले आहे. त्या विषयाचा प्रत्येक प्रश्न मराठी बरोबर इंग्रजी भाषेत देखील\nछापण्यात आला आहे. त्यामधील इंग्रजीतील किंवा मराठीतील प्रश्नामध्ये मुद्रणदोषांमुळे अथवा अन्य कारणांमुळे विसंगती निर्माण झाल्याची\nशंका आल्यास, उमेदवाराने संबंधित प्रश्न पर्यायी भाषेतील प्रश्नाशी ताडून पहावा."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

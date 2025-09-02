@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "qp_or_000627_1_1_first-level-question.png",
+      "width": 441,
+      "height": 676
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 8,
+      "bbox": [
+        0.0,
+        0.0,
+        441.0,
+        676.0
+      ],
+      "area": 298116.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          441.0,
+          0.0,
+          441.0,
+          676.0,
+          0.0,
+          676.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "୨୩ ଲେଖା ଓ ଲେଖକଙ୍କ ନାମୋଲ୍ଲେଖ ସହ ପ୍ରତ୍ୟେକ ବିଭାଗରୁ ଅଧିକ\nତିନୋଟି ଲେଖାଏଁ ପ୍ରଶ୍ନର ଉତ୍ତର ଦିଅ ।\n୨ X ୧୦ = ୨୦\n‘କ’ – ବିଭାଗ\n(i) ପୁଷ୍ପପୁରରେ ବର୍ଷା ସାହି ବନ୍ଧ ଉପରେ କି କି କବିତାକୁ\nରାତିସାରାକୁ ଲାଗି ଉପଭୋଗ କରାଯାଉଛି ?\n(ii) କବିତାପର ପ୍ରତିକ୍ରିୟାରେ କିଏ କେଉଁ କ’ଣ କାନ୍ଦିବାକୁ ନିର୍ଦ୍ଦେଶ ?\n(iii) ଶିଶୁର ବନ୍ଧୁ ମୋବାଇଲ୍‌ରେ ନିଜର ଧ୍ୟାନରେ ଲେଖାମାନେ\nକରିବା ପାଇଁ ପ୍ରଥମ ଥର ଲାଗି ହେବା ସହିତ ?\n\n(iv) କେଉଁ ଲେଖାମାନଙ୍କରେ ତୁମ ଉପରେ ପ୍ରାଣାପ୍ରାଣୀ ହିଁ ବିଶେଷ\nଭାବରେ ମାନ କରିଥାଏ ?\n(v) ତୁମେଇଁ କବିତାର ମାଧ୍ୟମ ଅନେକ ଅତିକ୍ରମ କରିବାକୁ କ’ଣ\nକ’ଣ ?\n(vi) ଆମ ତୁମେଇଁ ପ୍ରତିକ୍ରିୟା ସହିତ କ’ଣ ବିଭିନ୍ନ କବିତା\nକହିବ ?\n\n‘ଖ’ – ବିଭାଗ\n(i) ଆତ୍ମୀୟ ବନ୍ଧୁର ପ୍ରାମାଣିକ ପ୍ରଶ୍ନ କିପରି ଥିଲା ?\n(ii) କ’ଣ ଶାନ୍ତ ମଧ୍ୟ ତିନି ତୁମେଇଁ ଲାଗି ହେବାକୁ ?\n(iii) ଶିଶୁର ମାତା ପତି ସହିତ ଲାଗି ହେବାକୁ ପ୍ରାଣାପ୍ରାଣୀ ?"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

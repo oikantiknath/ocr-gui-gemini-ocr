@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_001312_0_2_subsub-headline.png",
+      "width": 759,
+      "height": 322
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        759.0,
+        322.0
+      ],
+      "area": 244398.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          759.0,
+          0.0,
+          759.0,
+          322.0,
+          0.0,
+          322.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(அ) உரிமைமாற்றம் செய்பவரின் வாழ்நாளுக்கு, அல்லது\n(ஆ) உரிமைமாற்றத்தின் தேதியிலிருந்து பதினைந்து ஆண்டுக்கால அளவிற்கு\nமேற்பட்டதொரு காலஅளவிற்கு முழுமையாக அல்லது பகுதியாகச் சேர்த்து\nவைக்கப்படுதல் வேண்டும் என்று பணிக்கிறதுதவிர, அத்தகைய பணிப்புரையானது,\nஇதில் இதன்பின்பு வகை செய்யப்பட்டவாறுதவிர, எந்தக் கால அளவின்போது\nசேர்த்து வைக்கப்பட வேண்டும் என்று பணிக்கப்பட்டதோ அந்தக்கால அளவில்\nமேற்சொன்ன கால அளவுகளில் நீண்ட கால அளவுக்கு மேற்படுகிற அளவு\nஇல்லாததாகும். மேலும் கடைசியாக சொல்லப்பட்ட அத்தகைய கால அளவின்\nஇறுதியில் அந்தச் சொத்தும் அதன் வருமானமும், சேர்த்துவைக்கப்பட்ட\nபணிக்கப்பட்ட கால அளவு கழிவுற்றிருந்தாற்போன்று வகை செய்யப்படுதல்\nவேண்டும்."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

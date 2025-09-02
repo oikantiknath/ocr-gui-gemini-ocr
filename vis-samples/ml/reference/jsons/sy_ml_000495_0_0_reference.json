@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_ml_000495_0_0_reference.png",
+      "width": 855,
+      "height": 1085
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        855.0,
+        1085.0
+      ],
+      "area": 927675.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          855.0,
+          0.0,
+          855.0,
+          1085.0,
+          0.0,
+          1085.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ദ്രാവിഡൻ വി.എസ്, 2016, ആദിവാസി ജീവിതം. ഗ്രീൻ ബുക്ക് പ്രസിദ്ധീകരണം,\nസൂര്യോദയ വി., 2017, ചൂളയുടെ ജലത്തിന്റെ രാഷ്ട്രീയം, ഗ്രീൻ ബുക്ക്\nപ്രസിദ്ധീകരണം.\nBaviskar, Amita, 1997, \"Tribal Politics and Discourses of\nEnvironmentalism\" Contribution toIndian Sociology, 31: 195–223.\nChakrabarti, Ranjan. Ed., 2007, Situating Environmental History.\nNew Delhi:\nManohar. Cederlof, Gunnel and Sivaramakrishnan, K. 2005, Ed. Ecological\nNationalisms Nature, Livelihoods, and Identities in South Asia.\nNew Delhi: Permanent Black,\nCrosby, Alfred W., 1995, Imperialism: The Biological Expansion of Europe,\n900–1900, Cambridge: Cambridge University Press,\nD'Souza, Rohan, 2006, Drowned and Dammed: Colonial Capitalism and\nFlood Control in Eastern in India. New Delhi:Oxford University\nPress.\nGadgil, Madhav and Ramachandra Guha., 1993, The Fissured Land: An\nEcological History of India. Berkeley: University of California Press.\nGuha, Ramachandra, 1983, \"Forestry in British and Post-British India: A\nHistorical Analysis\".Economic and Political Weekly 18, no. 44:\n1882–1896.\nHarari Y.N., 2011, Sapiens: a brief history of humankind. Harper\npublishers, US.\nMackenzie, John M., 1988, The Empire of Nature:Hunting, Conservation,\nand British Imperialism. Manchester: Manchester University Press.\nSchumacher, E.F., 1993, Small is Beautiful A Study of Economics as if\nPeople Mattered. London: Vintage Books.\nSimmons, IG,1993, Environmental History: A Concise Introduction.\nCambridge:Blackwell.\nSivaramakrishnan, K., 1999, Modern Forests: State Making and\nEnvironmental Change in Colonial Eastern India. New Delhi: Oxford\nUniversity Press."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

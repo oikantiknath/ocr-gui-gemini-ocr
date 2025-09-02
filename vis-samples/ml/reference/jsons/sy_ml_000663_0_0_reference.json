@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_ml_000663_0_0_reference.png",
+      "width": 888,
+      "height": 1364
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        888.0,
+        1364.0
+      ],
+      "area": 1211232.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          888.0,
+          0.0,
+          888.0,
+          1364.0,
+          0.0,
+          1364.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "Burrell, Ian, 2003, Museum grants tied to rise in ethnic minority visitors, 6th December,\nLondon: The Independent.\nCamarena, C., & Morales, T., 2006, Community Museums and Global Connections: the\nUnion of Community Museums of Oaxaca, in I. Karp, C.A. Kratz et.al. (ed)\nMuseum Frictions: Public cultures/global transformations, 322–346, Durham,\nN.C.: Duke University Press.\nCandlin, Fiona, 2012, Independent Museums, Heritage, and the Shape of Museum\nStudies, Museum & Society, March 2012 10(1) 28–41.\nCarlin, John, W., 2001, Your Past is Disappearing: What Museums should know about\nthe 20th century Archive's crisis, (Lord & Lord 2001).\nCarnegie, E., 1994, Trying to Be an Honest Woman: Making women's histories, in\nG.Kavanagh (ed) Making Histories in Museums, 54–65, London: Leicester\nUniversity Press.\nCherry, D. and Cullen, F., 2008, Spectacle and Display, Maiden, Mass.; Oxford:\nBlackwell Publishing.\nCorsane, Gerard, 2005, Heritage, Museums and Galleries: An Introductory Reader,\nNew York: Routledge.\nCrooke, Elizebath, 2007, Museums and Community: Ideas, issues and challenges,\nLondon: Routledge.\nCummings, Neil, Lewandowska, Marysia, 2000, The Value of Things, Basel: Birkhauser.\nDebary, O, 2004, Deindustrialisation and Museumification: From Exhibited Memory to\nforgotten history.\nDeuchar, Stephen, 2002, Whose Art History? Curators, academics, and the museum\nvisitor in Britain in the 1980s and 1990s', in C.W. Haxthausen (ed) The Two Art\nHistories: The museum and the university, 3–13, Yale University Press.\nDicks, B., 2000, Heritage, Place and Community, Cardiff: University of Wales Press.\nDudley, Sandra, 2009, Museum Materialities: Objects, Engagements, Interpretations,\nLondon: Routledge.\nDuncan, Carol, 1995, Civilizing Rituals: Inside Public Art Museums, London: Routledge.\nFitzgerald, L., 1996, Hard men, hard facts and heavy metal: making histories of\ntechnology, in G. Kavanagh (ed) Making Histories in Museums, 116–130,\nLondon: Leicester University Press.\nGiebelhausen, Michaela, 2003, The Architecture of the Museum: Symbolic structures,\nurban contexts, Manchester/New York: Manchester University Press.\nHaan, R.B., 2006, Re–Staging Histories and Identities in S. Macdonald (ed) A\nCompanion to Museum Studies, 186–197, Malden, Mass. Oxford: Blackwell\nPublishing.\nLord, Barry and Lord, Gail Dexter, 2001, The Manual of Museum Exhibitions, New York\nand Oxford: Alta Mira Press.\nMc Lean, Kathleen, 2001, Museum Exhibitions and the Dynamics of Dialogue, (Lord\nand Lord 2001).\nMoses, Richard Pearce, 2001, Janus in Cyberspace: Archives on the threshold of\nDigital Era, The American Archivist Vol. 70.\nMaroevic, Ivo, 1998, Introduction to Museology: The Euoropean Approach, London:\nMuller–Straten.\nSchlebecker, John, T., 1977, The Use of objects in Historical Research, Quarterly\njournal of the Agricultural History Society Vol. 51.\nThakurta, Tapati Guha, 2002, The Endangered Yakshi: Careers of An Ancient Art\nObject in Modern India, in Partha Chatterjee and Anjan Ghosh, ed., History and\nthe Present, New Delhi: Permanent Black."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

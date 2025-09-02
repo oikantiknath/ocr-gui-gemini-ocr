@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_ml_000092_0_0_reference.png",
+      "width": 937,
+      "height": 899
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        937.0,
+        899.0
+      ],
+      "area": 842363.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          937.0,
+          0.0,
+          937.0,
+          899.0,
+          0.0,
+          899.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. മമ്മുണ്ണി, എം.എ. മലയാളം സാഹിത്യ മനോരമ, തൃശ്ശൂർ, 2003.\n2. അബ്ദുറഹിമാൻ അഴീക്കോട്, ഡോ.സി.വി. രാമൻപിള്ള, എം.എ. നോവൽ.\n3. ആർ.രാമചന്ദ്രൻ നായർ, മലയാളത്തിലെ ദേവഗീതങ്ങൾ, ഡോ.എസ്.എസ്. ചന്ദ്രശേഖരൻ, കേരള ഭാഷാ\nഇൻസ്റ്റിറ്റ്യൂട്ട്, തിരുവനന്തപുരം. -\n4. ആധുനിക മലയാളസാഹിത്യചരിത്രം പ്രസ്ഥാനങ്ങളിലൂടെ, ഡോ. കെ.എം.ജോർജ്ജ്\n(എഡി.). ഡി.സി. ബുക്സ്, കോട്ടയം.\n5. കെ.എം. ജോർജ്ജ്, പി.കെ.ഗോപാലകൃഷ്ണൻ, തത്ത്വമസി ബുക്സ്, കൊല്ലം.\n6. കെ.എം. ജോർജ്ജ്, ഭാരതീയസാഹിത്യചരിത്രം, കെ.എസ്.വി.മണികണ്ഠൻ. ഒന്നാംവാല്യം, കറന്റ് ബുക്സ്,\nകോട്ടയം.\n7. കാക്കനാടൻ, എം.പി. പോൾ, എം.ടി.വാസുദേവൻ നായർ, ഡി.സി.ബുക്സ്, കോട്ടയം.\n8. കെ.പി.അപ്പൻ, എം.ടി.വാസുദേവൻ നായർ, ഡോ.എം.ആർ. രാഘവവാരിയർ, എം.എ.\nജോൺ, മാതൃഭൂമി ബുക്സ്, കോഴിക്കോട്.\n9. കെ.വി.രാമകൃഷ്ണൻ, എം.എൻ. വിജയൻ. ഡി.സി.ബുക്സ്, കോട്ടയം.\n10. കെ.വി.രാമകൃഷ്ണൻ, എം.പി.പോൾ. സാഹിത്യപ്രവർത്തക സഹകരണസംഘം,\nകോട്ടയം."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

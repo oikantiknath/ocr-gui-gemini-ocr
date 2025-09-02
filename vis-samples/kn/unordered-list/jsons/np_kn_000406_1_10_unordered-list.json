@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_kn_000406_1_10_unordered-list.png",
+      "width": 104,
+      "height": 103
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        104.0,
+        103.0
+      ],
+      "area": 10712.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          104.0,
+          0.0,
+          104.0,
+          103.0,
+          0.0,
+          103.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* ಕೇಂದ್ರ ಸರ್ಕಾರ 17,000 ಕೋಟಿ ರೂ.ಗಳ ಬೃಹತ್‌ ಪರಿಹಾರಕ್ಕೆ\nಮತ್ತು ಸಣ್ಣ ನೀರಾವರಿ, ರಸ್ತೆ, ಸೇತುವೆ ಪುನರ್‌ ನಿರ್ಮಾಣ ಹಾಗೂ\nನಮ್ಮಲ್ಲಿ ಭೂಕುಸಿತವನ್ನು ತಡೆಯಲು ಮತ್ತು ಗುಡ್ಡ ಕುಸಿತದ\nಅಪಾಯವನ್ನು ತಗ್ಗಿಸಲು ನೆರವು ನೀಡಿದ್ದಾರೆ. ನೀರಾವರಿ ಸಚಿವ\nಅಂಗಾರ ಅವರು ಸಚಿವಾಲಯವನ್ನು ಪ್ರವೇಶ ಮಾಡಿದ\nನಂತರ, ಮಹಾರಾಷ್ಟ್ರದ ಕೊಂಕಣದಲ್ಲಿ, ಇತ್ತೀಚೆಗೆ\nಭೂಕುಸಿತದ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ರಾಜ್ಯದ ಭೂಕುಸಿತದ ಬಗ್ಗೆ\nವರದಿಯನ್ನು ನಮ್ಮ ಇಲಾಖೆಯು ಸಲ್ಲಿಸಿತು. ಅದು ಪ್ರಗತಿಯಲ್ಲಿದೆ.\n* ರೈತರು ಬೆಳೆ ನಷ್ಟದಿಂದಾಗಿ ರಾಜ್ಯದ 10 ಲಕ್ಷಕ್ಕೂ ಹೆಚ್ಚು\nಸಣ್ಣ ರೈತರಿಗೆ ಕೃಷಿ ಇಲಾಖೆಯು ಪರಿಹಾರವನ್ನು ನೀಡಿದೆ. ಕೇಂದ್ರ\nಸರ್ಕಾರದ ನೆರವಿನಿಂದ ಕೊಂಕಣ, ಬದನವಾಳ, ಕೊಲ್ಲಾಪುರದಲ್ಲಿ\nನಮ್ಮ ಇಲಾಖೆಯು ಮಣ್ಣು ಪರೀಕ್ಷೆಗಳನ್ನು ನಡೆಸಿದೆ. ಇದರ\nಅನುಸಾರವಾಗಿ, ಕೃಷಿ, ಅರಣ್ಯ ಇಲಾಖೆಗಳ ಸಹಭಾಗಿತ್ವದಲ್ಲಿ\nಮಣ್ಣು ಸಂರಕ್ಷಣೆ ಕುರಿತು ಸಮೀಕ್ಷೆ ನಡೆಸಿದೆ. ಕೃಷಿ ಕ್ಷೇತ್ರಕ್ಕೆ\nಹೊಸದಾಗಿ ತಂತ್ರಜ್ಞಾನ ಅಳವಡಿಕೆ, ನೀರಾವರಿ ಅಳವಡಿಕೆ\nಕುರಿತಂತೆ, ಮಣ್ಣು ಮತ್ತು ಮಳೆ ನೀರನ್ನು ಸಂರಕ್ಷಿಸುವುದು."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

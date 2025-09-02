@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_gu_000511_0_5_subsub-headline.png",
+      "width": 956,
+      "height": 523
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        956.0,
+        523.0
+      ],
+      "area": 499988.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          956.0,
+          0.0,
+          956.0,
+          523.0,
+          0.0,
+          523.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(૧) જ.મ.કાયદાની કલમ– ૧૫૨ મુજબ માગણાની નોટીસ જમીન મહેસુલ નકકી કરેલા હપ્તાની તારીખ\nસુધીમાં જો મહેસુલ ન ભરવામાં આવે તો તરત જ માગણાની નોટીસ નિયમ–૧૧૮ હેઠળ નકકી કરેલા\nનમુનામાં જે તે ખાતેદારને બજાવવી જોઇએ. નોટીસ ફી ખાતેદાર પાસેથી નીચે પ્રમાણે લેવામાં આવે છે.\n– ૧ થી ૫ રૂપિયા સુધી–૨૫ પૈસા\n– ૫ થી ૨૦ રૂપિયા સુધી–૫૦ પૈસા\n– ૨૦ થી ઉપર રૂપિયા સુધી ૧ રૂપિયો\nઆવા અધિકારીઓ તા.વિ. અધિકારીના છે.\n(૨) જ.મ.કાયદાની કલમ–૧૪૮ મુજબ ચોથાઇ દંડ:–\nજો નોટીસ આપ્યા છતાં ખાતેદાર જ.મ.ભરપાઇ ન કરે તો આ કલમ મુજબ ચોથાઇ દંડ કરવામાં આવે છે.\nજ.મ.ની. બકાતની ૨૫ ટકા રકમ લેવામાં આવે છે.\nઆવો દંડ લેવાનો અધિકાર તા.વિ.અધિકારીનો છે.\n(૩) જ.મ.કાયદાની કલમ–૧૫૪ મુજબ જંગમ મિલકતની જપ્તી:–\nજંગમ મિલકત જપ્તી કરવા કલેકટરનો હુકમ મેળવવો જોઇએ. જપ્ત કરવાના મકાનમાં દાખલ થતા\nપહેલા જ.મ.કાયદાની કલમ–૨૦૦ મુજબની નોટીસ આપવી જોઇએ. આ નોટીસ જે તે વ્યકિતને કે ચોરે\nપ્રસિધ્ધ કરવી જોઇએ. જપ્તીના નિયમોનું પાલન કરીને સક્ષમ અધિકારીએ જપ્તી કરવાની હોય છે.\nલેણી રકમ જેટલી કિંમતની જંગમ મિલકત જપ્તીમાં લેવી દિવાની કાયદા મુજબ જે તે વસ્તુઓ જપ્તીને પાત્ર\nનથી તે વસ્તુઓની જપ્તી થઇ શકશે નહી."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

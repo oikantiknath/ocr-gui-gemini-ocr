@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "tb_mr_000870_0_0_ordered-list.png",
+      "width": 1150,
+      "height": 1801
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        1150.0,
+        1801.0
+      ],
+      "area": 2071150.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1150.0,
+          0.0,
+          1150.0,
+          1801.0,
+          0.0,
+          1801.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(१२३) विज्ञान आणि बुद्धिवाद, पृ. १६\n(१२४) Avataras (2002) Annie Besant. रावणाने सीतेचे अपहरण केल्यानंतर 'माझी\nसीता' म्हणून राम झाडांना मिठी मारतो, पशुपक्ष्यांना तिच्याविषयी विचारतो, हे काहींना\nरामाच्या ईश्वरी अवताराशी विसंगत वाटते. पण अवतार हा मानव कल्याणासाठी, त्याला मार्गदर्शन\nकरण्यासाठी आहे याचा ज्यांना विसर पडतो अशा लोकांनाच असे वाटते व खटकते. एकदा\nअवतार घेतला की सर्वसामान्य माणसाप्रमाणे, म्हणजे कर्मबंधनात अडकल्याप्रमाणे अवतारी\nपुरुषांना वागावे लागते हे विसरून चालणार नाही. आदर्श पतीपत्नीचे संबंध कसे असावेत हे\nआपल्या अशा प्रकारच्या वर्तनातून त्यांना दाखवायचे असते असे ॲनी बेझंट जे म्हणतात ते\nअवताराच्या वरील उद्देशांची त्यांना कल्पना असल्यामुळेच होय. मानवाच्या आध्यात्मिक\nउत्क्रांतीसाठी 'अवतार' आहे, हे अध्यात्मशास्त्रीय सत्य मान्य असेल तर अवतारी पुरुषांना\nवैवाहिक जीवन जगणाऱ्या सामान्य माणसासाठी एखादा आदर्श त्यांच्यापुढे ठेवावाच लागतो,\nहे मान्य करावे लागेल. रामाला मर्यादा पुरुषोत असे याच कारणासाठी म्हटले आहे. 'कृष्णावतार'\nव 'दशावतार' यांचे बेझंटनी या दृष्टीने मूल्यमापन केले असून ते एकाच वेळी वैज्ञानिक आणि\nआध्यात्मिकही आहे.\n\n(१२५) उदा. Children Who Remember Their Past Lives (1987) Ian\nStevenson. Twenty Cases Suggestive of Reincarnation (1966), Cases of\nReincarnation Type, Vol I., II., & III ही त्यांचीच पुस्तके पाहावीत.\n\n(१२६) Reincarnation : Fact or Fallacy ? (1980) Geoffrey Hodson.\n\n(१२७) उदा. I) Man : Whence, How and Whither (1954) Annie Besant\nand C. W. Leadbeater (याची पहिली आवृत्ती १९१३ साली प्रसिद्ध झाली. II) The Lives\nof Alcyon (1911) ed. C. Jinarajadasa (यात जे. कृष्णमूर्तींच्या अनेक पूर्वजन्मांचा इतिहास\nआहे.) III) The Soul's Growth Through Reincarnation I, II (1941) and III\n(1946) ed. C. Jinarajadasa\n\n(१२८) Man : Whence, How and Whither. p. vi\n\n(१२९) Ibid p. vi\n\n(१३०) थिऑसॉफीच्या आधुनिक ब्रह्मवैज्ञानिकांनी (म्हणजे त्या विज्ञानाच्या सिद्ध पुरुषांनी\nव त्यांच्या हाताखाली कार्य करणाऱ्या ब्लॅव्हेडस्की, लेडबीटर, ॲनी बेझंट इ. कार्यकर्त्यांनी)\nअतींद्रिय दृष्टीने पाहून बऱ्याच विषयातील गोष्टींची भाकिते केली असून त्यापैकी अनेक भाकिते\nकशी खरी ठरली आहेत हे येथे विस्ताराने सांगणे शक्य नाही. याविषयी 'अंतर्ज्ञान खरे असते\nकाय?' या वा. ल. चिपळूणकर व रा. स. भागवतलिखित (आवृत्ती २ री, १९९५) दोन\nभागाच्या पुस्तकात सविस्तर माहिती असून जिज्ञासूंनी ते पुस्तक अवश्य पाहावे. त्यात\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

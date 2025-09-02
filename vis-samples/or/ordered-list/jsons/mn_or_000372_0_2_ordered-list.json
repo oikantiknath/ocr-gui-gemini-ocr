@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_or_000372_0_2_ordered-list.png",
+      "width": 388,
+      "height": 387
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        388.0,
+        387.0
+      ],
+      "area": 150156.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          388.0,
+          0.0,
+          388.0,
+          387.0,
+          0.0,
+          387.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(୪) ସମୟେ ସମୟେ ସେମାନେ ଏକା ସଙ୍ଗରେ ଥଳ୍ପ\nକଥା ।\n(୫) ଏକା ସାଙ୍ଗରେ ଗୋଡ଼ାଇ ଖେଳିବା ଥଳ୍ପ । ଉଭୟ\nଗୁଣ ୨ ଗୋଡ଼ି ବଡ଼ି ଥୁଆ ହଳ, ଡାଳ, ମାଛ, ଶାଗ, ଲୁଣ\nଏକା ସାଙ୍ଗରେ, ଏକା ସମୟରେ ସେମାନଙ୍କର ନିଜର ହୁଏ ।\n(ଉଭୟ ଅର୍ଥାତ୍—ମାତା—ପିତାଙ୍କ ସେବା, ରାଜା\nଲୁଣ ଛଡ଼ା ଏକା ସଙ୍ଗେ ଏକା ଥରକେ ହିଁ ଦିଗ ଦିଗ ସହିତରେ\nନାହିଁ) । ଅଶ୍ଳୀଳତା ବଦଳାଇବାକୁ ସେ ସେମାନଙ୍କର ଉଭୟ\nଗୁଣାଧିକ୍ୟ ଓ ସ୍ଵାଭାବୀ ସେବା ସଂପୂର୍ଣ୍ଣରୂପେ ଲିପିବଦ୍ଧ ହୁଏ ।\nକିନ୍ତୁ ଏକା ଗୁଣ ଉଭୟଙ୍କୁ ସମୟେ ଏକା ଥରକେ\nସଂପୂର୍ଣ୍ଣ କରୁଥାଏ । କର୍ମ, ସେବା ବା ମାତାଙ୍କର ଅନୁଗତ\nସାଧାରଣ ଗୋଡ଼ାଇ ସେମାନେ ସହଯୋଗ ହୁଏ । ଦିଗ ଦିଗ\nସେବକଙ୍କୁ ଲୁଣ ଛଡ଼ା ସ୍ଵାଦ ଥରେ ନିର୍ଦ୍ଦିଷ୍ଟ ନିର୍ଦ୍ଦିଷ୍ଟ ଥର ଅନୁଗତ\nରହିବାରେ ସେମାନେ ପ୍ରସ୍ତୁତ ହୁଏ । ସ୍ଵାଭାବିକତାରେ ଶାଗ\nଲୁଣ ଲୁଣ ସେମାନେ ପ୍ରସ୍ତୁତ କରିଥାଏ ; ହିଁତ° ବଦଳାଇବା\nଶାଗ ଲୁଣ ଲୁଣ ସେମାନେ ପ୍ରସ୍ତୁତ କରିଥାଏ ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

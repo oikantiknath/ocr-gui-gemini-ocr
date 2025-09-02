@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_ml_000704_1_2_subsub-headline.png",
+      "width": 430,
+      "height": 63
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        430.0,
+        63.0
+      ],
+      "area": 27090.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          430.0,
+          0.0,
+          430.0,
+          63.0,
+          0.0,
+          63.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "a) \"खाता\" उन ऋणपत्रों द्वारा गैर-व्यक्तिगत खाते को संदर्भित करता है, प्रत्येक ऋण खाता (गैर-व्यक्तिगत। ट्रस्ट / लाभ सरकारी निकाय) और चालू खाता (व्यक्तिगत चालू खाते के अलावा)।\nb) \"खाता खोलने का फॉर्म\" आवेदक गैर-व्यक्तिगत खाता धारकों के लिए संबंधित खाता फॉर्म को संदर्भित करता है।\nc) \"ग्राहक, खाता रखने वाले किसी भी व्यक्ति / इकाई / अधिकृत हस्ताक्षरकर्ता को संदर्भित करता है।\nd) \"महीने\" का अर्थ वित्तीय कैलेंडर के अनुसार एक मास महीना होगा।\ne) \"तिमाही\" का अर्थ किसी भी वित्तीय वर्ष में एक तिमाही जिसमें अप्रैल-जून, जुलाई-सितंबर, अक्टूबर-दिसंबर, जनवरी-मार्च होगा।\nf) \"सेवाओं\" का अर्थ उन विभिन्न सेवाओं से होगा जो बैंक द्वारा खाते के संबंध में दी जा सकती है और इस पर और / या वेबसाइट पर विशेष रूप से वर्णित / वर्णित है।\ng) \"सेवा पुस्तिका\" का अर्थ होगा और इसमें ऐसे अतिरिक्त नियम होंगे जिनके द्वारा ग्राहकों और उन दरों के बारे में विवरण दिया जाएगा जिन पर, उपलब्ध संबंधित प्रकार के खाते के लिए सेवाएं प्रदान की जाती हैं।\nh) \"उत्कर्ष\" बैंक के संबंधित सभी, स्थापित और अनुसूचित वेबसाइट को संदर्भित करता है जो सुशासन www.utkarsh bank पर है।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

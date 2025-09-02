@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_or_000282_0_8_sub-ordered-list.png",
+      "width": 769,
+      "height": 461
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        769.0,
+        461.0
+      ],
+      "area": 354509.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          769.0,
+          0.0,
+          769.0,
+          461.0,
+          0.0,
+          461.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(କ) ସମସ୍ତ ସଙ୍ଗତ ସମୟରେ ଯେ ଉପଯୁକ୍ତ ଭାବିବା ସମ୍ପାଦକ ସହିତ ବସି କହି ଥାଏ କି\nସମ୍ପାଦକୀୟ କୌଣସି ଗ୍ରାମୀୟ ବା ଅନ୍ୟ କଲେଜ ପ୍ରାଧାନାଚାର୍ଯ୍ୟଙ୍କ ବିନା ବ୍ୟକ୍ତି ହୋଇପାରେ\nକୌଣସି ସଭିବର ବା ସ୍ଥାନ ସହିତ ସେ ନିଯୁକ୍ତ ହୋଇଥାଆନ୍ତି ବା କୌଣସି ସଂସ୍ଥାରେ\nସେମାନଙ୍କୁ ଲାଗି ଦିଆହୋଇଥାଏ ଓଡ଼ିଶାରେ ଏହି ଅଧିନିୟମ ଦ୍ଵାରା ଅଧୀନରେ ରହିଥିବା ବା\nପ୍ରବର୍ତ୍ତିତ ହେବା ଆବଶ୍ୟକ ବିନା କୌଣସି ସେବିଷ୍ଟର, ଅଧିବେଶନ ଏବଂ ସୂଚନା ପ୍ରକାଶ\nପ୍ରକାଶନରେ ପ୍ରବେଶ କରିପାରିବେ ଏବଂ ନିରସନ ପାଇଁ ସେସବୁର ଦାୟକ ଆବଶ୍ୟକ\nକରିପାରିବେ,\n(ଖ) କୌଣସି ସେବିଷ୍ଟର ବା ସ୍ଥାନରେ ଯେ କେଉଁ ବ୍ୟକ୍ତିଙ୍କୁ ସେବିଷ୍ଟ ଓ ଯେ କି ସଂସ୍ଥାରେ\nନିଯୁକ୍ତ ଥିବା ବିଭାଗ ବିଭାଗ କରିବାକୁ ଦାୟକ ସର୍ବାଧିକ ମାତ୍ରା ଥାଏ ତାଙ୍କୁ ପ୍ରକାଶ\nକରିପାରିବେ:\nସମସ୍ତ କୌଣସି ବ୍ୟକ୍ତିଙ୍କୁ ନିଯୁକ୍ତ ଅଧିନିୟମିତ କରିପାରିବେ କୌଣସି ପ୍ରକୃତ ସହର ହେବାକୁ ବା କୌଣସି\nବାଧ୍ୟ ହେବାକୁ ଅଛି, ଯାହା ଅଧୀନରେ ରାଜ୍ୟ କରାଯାଇଛି ନାହିଁ ।\n(ଗ) ନିଯୁକ୍ତ ଥିବା ସେମାନଙ୍କର ନାମ ଏବଂ ଠିକଣା, ତାଙ୍କୁ କରାଯାଇଥିବା ପ୍ରଦାନ ଏବଂ ଏହି ଅଧିନିୟମ\nଅଧୀନରେ ତାଙ୍କଠାରୁ ପ୍ରାପ୍ତ ହେବାକୁ ଏବଂ ସୂଚନା ସଂସ୍ଥାରେ ସେସବୁକୁ ନିଯୋଗିତ\nଆବଶ୍ୟକ କରିପାରିବେ, ଏବଂ\n(ଘ) କୌଣସି ସେବିଷ୍ଟର ଓ ଅଧିବେଶନ ବା ସ୍ଥାନର ବା ତାହାର କୌଣସି ଅଂଶ ନକଲ ହେବାଯୋଗ୍ୟ ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

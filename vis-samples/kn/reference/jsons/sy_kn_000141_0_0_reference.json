@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_kn_000141_0_0_reference.png",
+      "width": 1008,
+      "height": 1272
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        1008.0,
+        1272.0
+      ],
+      "area": 1282176.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1008.0,
+          0.0,
+          1008.0,
+          1272.0,
+          0.0,
+          1272.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "57. A Glossary of Litrary Terms, Abrams M.H. 1993\n58. Contemporary Criticism, Edward Arnold, London, 1970\n59. Selected Prose, Elliot T.S. 1953\n60. Literary Theory, An Introduction: Eagleton Terry, 1983\n61. A Hand Book of Critical Approaches, Guerin Wilfred Et.al. ed. 1979\n62. Twentieth Century Criticism. Handy William and Max Westbrook, 1976\n63. Principles of Literary Criticism: Richards, I.A. 1926\n64. Understanding Poetry. Brooks, Cleanth,-3.ed.-- New York: Holt, Rineharat & Winston,\n1960.\n65. Approach to Poetry.- Dauby, John F - London: Heinemann, 1940.\n66. Art of Poetry.- Kenner, Hugh,- New York: Holt, Rineharat & Winston, 1966.\n67. Art and Craft of Poetry: An Introduction. Zillman, Lawrence John, New York: Collier,\n1967.\n68. Poetic Tradition: Essays on Greek Latin and English Poetry- Allen,\nDon Cameron Ed.Baltimore: Johns Hopkins, 1968.\n69.Structuralist Poetics: StructuralismLLinguistics and the Study of Literature- Culler,\nJonathan,- London: R & K.P, 1975.\n70. On Poetic Language- The Peter de Ridder, - Lisse: Mukarovsky, Jan, Press, 1976.\n71. Introduction to Poetics.- Todorov, Tzvetan Sussex: Harvesterpaper,1981\n72. Western Poetics and Eastern Thought: Singh, Gurbhagat. Delhi: Ajanta,\n73.Translation:Poetics and Practice.- Rahman,Anisur ed.New Delhi:\nCreative books, 2002.\n74.Revolution in Poetic Langugage, Krishteva, Julia. New York: Columbia University,\n1984.\n75.Comparative Aesthetis, G. Hanumantha Rao,D.V.K. Murthy, Mysore 1974\n೭೬. ಕಾವ್ಯದ ಕಲೆ ಮತ್ತು ವಿಮರ್ಶೆ, ತೇಜಸ್ವಿ ವಿ.ವಿ. ಎಚ್‌, ನೀಲ ಬ್ಲೂಮ್‌ ಪುಸ್ತಕದ ಮನೆ ೧೯೫೦\n೭೭. ನಾಗರಿಕ ವಿ. ಆರ್‌. , ಸಾಹಿತ್ಯ, ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ\n೭೮. ವಿಮರ್ಶೆಯ ಕಾರ್ಯ ಬ್ಲೂಮ್‌ : ಎ ವಿಮರ್ಶೆ ಬ್ಲೂಮ್‌ ಅಂಡ್ ಕುವೆಂಪು\n೭೯. ಕುವೆಂಪು ದರ್ಶನ : ಕುವೆಂಪು ಅಂಡ್ ಕುವೆಂಪು ಅಂಡ್ ಕುವೆಂಪು\n೮೦. ವಿಮರ್ಶೆಯ ಮೂಲ ಸಿದ್ಧಾಂತ : ಜಿ.ಎಸ್‌. ಶಿವರುದ್ರಪ್ಪ, ಸಾಹಿತ್ಯ ಭಂಡಾರ, ಬೆಂಗಳೂರು, ೧೯೬೦\n೮೧. ಪಾಶ್ಚಾತ್ಯ ವಿಮರ್ಶೆಯ ಪ್ರಮುಖ ಪರಂಪರೆ : ವಿ.ಎಂ. ಇನಾಂದಾರ್‌\n೮೨. ಪಾಶ್ಚಾತ್ಯ ವಿಮರ್ಶೆಯ ಸಿದ್ಧಾಂತಗಳು : ವಿ.ಎಂ. ಇನಾಂದಾರ್‌, ಕನ್ನಡ ಅಧ್ಯಯನ ಪೀಠ, ಕರ್ನಾಟಕ ವಿವಿ ಧಾರವಾಡ ೧೯೬೬\n೮೩. ಸಾಹಿತ್ಯ, ವಿಮರ್ಶೆಯ ಮಾರ್ಗದರ್ಶನ ಸೂತ್ರಗಳು : ಎಂ.ಜಿ. ಮಗನ್‌, ಕರ್ನಾಟಕ ವಿಶ್ವವಿದ್ಯಾಲಯ ಧಾರವಾಡ, ೧೯೬೯\n೮೪. ಸಾಹಿತ್ಯ : ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್‌\n೮೫. ಸಾಹಿತ್ಯ, ವಿಮರ್ಶೆಯ ಮೂಲತತ್ವಗಳು : ಎಚ್‌. ತೇಜಸ್ವಿಪ್ರಸಾದ್‌, ಪ್ರಸಾರಂಗ ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ, ಮೈಸೂರು\n೧೯೬೦\n೮೬. ಜಿ.ಎಂ. ಶಿವರುದ್ರಪ್ಪ : ಭಾರತೀಯ ಕಾವ್ಯಮೀಮಾಂಸೆ, ಪ್ರಸಾರಂಗ ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ ೧೯೬೮\n೮೭. ಹೊಸಗನ್ನಡ ಸಾಹಿತ್ಯ ವಿಮರ್ಶೆ : ವಿ.ಎಂ. ಗೌಡ\n೮೮. ಸಾಹಿತ್ಯ, ವಿಮರ್ಶೆ : ಸಿ.ಎಸ್‌. ರಾಮಚಂದ್ರನ್‌, ಕರ್ನಾಟಕ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಬೆಂಗಳೂರು, ೧೯೯೭\n೮೯. ಕವಿಸಮಯಗಳ ಮಹಾಕೋಶ ಕನ್ನಡ : ಬಿ.ವಿ. ಸುಬ್ರಹ್ಮಣ್ಯ ಕನ್ನಡ ಪುಸ್ತಕ ಪ್ರಾಧಿಕಾರ, ೨೦೦೯\n೯೦. ಕನ್ನಡ ಕಾವ್ಯಮೀಮಾಂಸೆ : (೫೦) ಮಹೇಶ್‌ ತಿರುಕೇಶ\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

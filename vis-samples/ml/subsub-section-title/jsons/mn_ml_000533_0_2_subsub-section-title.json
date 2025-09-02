@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_ml_000533_0_2_subsub-section-title.png",
+      "width": 852,
+      "height": 451
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 33,
+      "bbox": [
+        0.0,
+        0.0,
+        852.0,
+        451.0
+      ],
+      "area": 384252.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          852.0,
+          0.0,
+          852.0,
+          451.0,
+          0.0,
+          451.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "വസ്തുതകൾ- വസ്തുതകൾ അടച്ചതിന്റെ വിവരങ്ങളാണ് ഇവിടെ\nചേർക്കപ്പെടുന്നത്. ഇതിൽ തീയതി, തീയതി, കാലയളവ് ഇവ\nചേർക്കപ്പെടുന്നു. വസ്തുതകൾ ബാധകമല്ല എന്ന\nചെക്ക്ബോക്സ് ടിക്ക് ചെയ്യുക.\n\n* തൊഴിൽ തീയതി- തൊഴിൽ തീയതി അടച്ചതിന്റെ വിവരങ്ങളാണ് ഇവിടെ\nചേർക്കപ്പെടുന്നത്. ഇതിൽ തീയതി, തീയതി, കാലയളവ് ഇവ\nചേർക്കപ്പെടുന്നു. തൊഴിൽ തീയതി ബാധകമല്ല എന്ന\nചെക്ക്ബോക്സ് ടിക്ക് ചെയ്യുക.\n\n* വടക്ക്- ചോദ്യോത്തരത്തിന്റെ അടിസ്ഥാനത്തിലുള്ള വടക്ക് നഷ്ട്ടത്തിലെന്ന് സമാനം\nപ്രവർത്തനക്ഷമതയിൽ വടക്ക് അടച്ചതിന്റെ വിവരങ്ങളാണ് ഇവിടെ\nചേർക്കപ്പെടുന്നത്. ഇതിൽ തീയതി, തീയതി, കാലയളവ് ഇവ\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

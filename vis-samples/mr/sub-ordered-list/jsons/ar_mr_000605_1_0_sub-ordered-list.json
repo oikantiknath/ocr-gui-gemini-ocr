@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_mr_000605_1_0_sub-ordered-list.png",
+      "width": 388,
+      "height": 139
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        388.0,
+        139.0
+      ],
+      "area": 53932.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          388.0,
+          0.0,
+          388.0,
+          139.0,
+          0.0,
+          139.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "३३०. (१) जेव्हा केव्हा कलम ३२८ किंवा कलम ३२९ खाली, एखादी व्यक्ती मनोविकृत\nअसल्याचे आणि आपला बचाव करण्यास अक्षम असल्याचे आढळून येईल तेव्हा, दंडाधिकारी किंवा प्रकरणपरत्वे,\nन्यायालय,—मग तो खटला ज्यात जामीन घेता येतो अशा प्रकारचा असो वा नसो—त्या व्यक्तीची यथा-\nयोग्य काळजी घेतली जावी व स्वतःला किंवा अन्य कोणत्याही व्यक्तीला इजा पोहोचवण्यास तिला प्रतिबंध\nव्हावा यासाठी आणि दंडाधिकाऱ्यासमोर किंवा न्यायालयासमोर अथवा दंडाधिकारी किंवा न्यायालय या\nसंबंधात नियुक्त करील अशा अधिकाऱ्यासमोर आवश्यक असेल तेव्हा तिने उपस्थित व्हावे यासाठी पुरेसा\nजामीन देण्यात आल्यावर तिला सोडून देईल.\n\n(२) दंडाधिकाऱ्याच्या किंवा न्यायालयाच्या मते ज्यात जामीन घेण्यात येऊ नये अशा प्रकारचा\nतो खटला असेल तर, अथवा पुरेसा जामीन देण्यात आला नसेल तर, दंडाधिकारी किंवा, प्रकरणपरत्वे\nन्यायालय त्यास योग्य वाटेल अशा स्थळी व अशा रीतीने आरोपीस सुरक्षित हवालातीत स्थानबद्ध\nकरण्याचा आदेश देईल, आणि केलेली कारवाई राज्य शासनाला कळवील :"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

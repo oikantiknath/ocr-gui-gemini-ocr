@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_kn_000254_0_1_unordered-list.png",
+      "width": 405,
+      "height": 253
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        405.0,
+        253.0
+      ],
+      "area": 102465.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          405.0,
+          0.0,
+          405.0,
+          253.0,
+          0.0,
+          253.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ಮಾನವ - ವನ್ಯಪ್ರಾಣಿಗಳ ಸಂಘರ್ಷ ತಡೆಗಟ್ಟಲು 5 ಅ ಕಾಪರ್ದಗಳು\nಮತ್ತು ಒಂದು ಜಂಟಿ ಕಾರ್ಯಪಡೆಯನ್ನು ಸ್ಥಾಪಿಸಲಾಗಿದೆ.\n* ವನ್ಯಪ್ರಾಣಿಗಳ ಹಾವಳಿಯಿಂದ ಉಂಟಾಗುವ ಮಾನವ ಪ್ರಾಣಹಾನಿ,\nಅಂಗವಿಕಲತೆ, ಆಸ್ತಿಹಾನಿ ಮತ್ತು ಬೆಳೆ ಹಾನಿ ಪ್ರಕರಣಗಳಲ್ಲಿ ಹೇಗಾರಿ\nನೀಡಲಾಗುತ್ತಿದ್ದ ಪರಿಹಾರಧನವನ್ನು ಪರಿಷ್ಕರಿಸಿ ದ್ವಿಗುಣ ಗೊಳಿಸಲಾಗಿದೆ.\n* ಸಾರ್ವಜನಿಕರಲ್ಲಿ ಅರಿವು ಮೂಡಿಸುವ ನಿಟ್ಟಿನಲ್ಲಿ ಇಕೋತ್ಸವ,\nವನಮಹೋತ್ಸವ, ಇಬ್ಬರವರದರ್ಶನ ಶಿಬಿರಗಳು ಮತ್ತು ವನ್ಯಜೀವಿ\nಸಪ್ತಾಹ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ಆಯೋಜಿಸಲಾಗಿದೆ.\n* ನರೇಗಾ ಯೋಜನೆಯಲ್ಲಿ 61,399 ಲಕ್ಷ ಮಾನವ ದಿನಗಳು ಉತ್ಪಾದಿಸಲಾಗಿದೆ.\n* ಶ್ರೀಗಂಧ ಕಳ್ಳಯನ್ನು ತಡೆಗಟ್ಟಲು ಹೊಸ ಶ್ರೀಗಂಧ ನೀತಿಯನ್ನು ತರಲಾಗಿದೆ.\n* 9877.47 ಹೆಕ್ಟೇರ್ ಪ್ರದೇಶವನ್ನು ಮೀಸಲು ಅರಣ್ಯವನ್ನಾಗಿ ಮತ್ತು 41.62 ಹೆಕ್ಟೇರ್\nಪ್ರದೇಶವನ್ನು ರಕ್ಷಿತ ಅರಣ್ಯವನ್ನಾಗಿ ಘೋಷಿಸಿದೆ."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

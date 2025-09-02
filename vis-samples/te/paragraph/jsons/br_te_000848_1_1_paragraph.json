@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_te_000848_1_1_paragraph.png",
+      "width": 237,
+      "height": 146
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        237.0,
+        146.0
+      ],
+      "area": 34602.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          237.0,
+          0.0,
+          237.0,
+          146.0,
+          0.0,
+          146.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "75వ గణతంత్ర దినోత్సవం సందర్భంగా తెలంగాణ\nప్రజలకు, ముఖ్యమంత్రి ఎనుముల రేవంత్ రెడ్డి మంత్రివర్గ\nసహచరులకు, ప్రభుత్వ యంత్రాంగానికి నా శుభాకాంక్షలు. భిన్న\nజాతులు, మతాలు, కులాల సమాహారంగా ఉన్న దేశంలో\nఅందరినీ ఐక్యం చేసి, భారతజాతిగా నిలబెట్టిన ఘనత మన\nరాజ్యాంగానికి దక్కుతుంది. అతిపెద్ద ప్రజాస్వామ్య దేశానికి ఒక\nలిఖిత రాజ్యాంగం రాసుకుని 74 ఏళ్ళకు దిగ్విజయం, ఆ\nరాజ్యాంగ మార్గదర్శకత్వంలో దేశం ముందుకు సాగడం నిజంగా\nప్రతి భారతీయడు గర్వించదగ్గ విషయం. ఈ ఘనత రాజ్యాంగ\nనిర్మాతలకు, ఈ దేశ ప్రజలకు దక్కుతుంది."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

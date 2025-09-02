@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_gu_000087_8_subsub-section-title.png",
+      "width": 515,
+      "height": 121
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 33,
+      "bbox": [
+        0.0,
+        0.0,
+        515.0,
+        121.0
+      ],
+      "area": 62315.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          515.0,
+          0.0,
+          515.0,
+          121.0,
+          0.0,
+          121.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "– આ પર્વ દર વર્ષે શ્રાવણ વદ આઠમના દિવસે ભગવાન શ્રી કૃષ્ણના જન્મ દિવસના રૂપે ઉજવવામાં આવે છે.\n– જન્માષ્ટમીનો તહેવાર લોક સમુદાયમાં ગોકુળ આઠમ તરીકે જાણીતો છે. ગોપસંસ્કૃતિની યાદ અપાવતો તહેવાર રબારીઓ અને ભરવાડ\nપ્રજા માટે સર્વશ્રેષ્ઠ તહેવાર મનાય છે. મધ્યરાત્રિએ શ્રીકૃષ્ણનો જન્મોત્સવ ઉજવી પંજરીનો પ્રસાદ વહેંચી, બીજે દિવસે દૂધપાકનું જમણ\nઘેરઘેર તૈયાર કરવામાં આવે છે. ગામના મંદિરમાં માલપુડાનો પ્રસાદ વહેંચવામાં આવે છે.\n– શ્રીકૃષ્ણ ભારતના હિંદુ પ્રજાના હૃદયમાં અનોખું સ્થાન પ્રાપ્ત કર્યું છે. શુદ્ધ ચારિત્ર્ય ધરાવતા શ્રીકૃષ્ણ ભારે શૃંગારિક પણ છે એટલે તેઓ\nઆબાલ વૃદ્ધ - સૌમાં ખૂબ જ લોકપ્રિય છે.\n– વિવિધ સ્થળોએ ભગવાન શ્રીકૃષ્ણ સંબંધિત વિવિધ પ્રકારની ઝાંખીઓ શોભાવવામાં કાઢવામાં આવે છે."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

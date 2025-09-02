@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_kn_000154_0_1_unordered-list.png",
+      "width": 454,
+      "height": 969
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        454.0,
+        969.0
+      ],
+      "area": 439926.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          454.0,
+          0.0,
+          454.0,
+          969.0,
+          0.0,
+          969.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* ಗುಣಮುಖರಾದ ನಂತರ 14 ದಿನಗಳು\nಮನೆಯಲ್ಲೇ ಕ್ವಾರಂಟೈನ್ ಆಗಿರಬೇಕು\n* ವೈದ್ಯರು ತಿಳಿಸಿರುವ ಚಿಕಿತ್ಸೆ ಹಾಗೂ ಇತರ\nಸಾಮಾನ್ಯ ಅಂಶಗಳನ್ನು\nಮುಂದುವರಿಸುವುದು\n* ಇತರರ ಸಂಪರ್ಕಕ್ಕೆ ಬಾರದಂತೆ ಮನೆಯಲ್ಲೇ\nಪ್ರತ್ಯೇಕವಾಗಿ ಇರುವುದು\n* ಹೊರಗೆ ಬಾರದಂತೆ ಮನೆಯಲ್ಲೇ\nದಿನದಿಂದನಿಡರುವುದು\n* ಶುಚಿತ್ವವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವುದು\n* ಮಾನಸಿಕ ಆರೋಗ್ಯವನ್ನು\nಕಾಪಾಡಿಕೊಳ್ಳುವುದು (ಫೋನ್ ಮೂಲಕ\nಇತರರೊಂದಿಗೆ ಸಂಪರ್ಕದಲ್ಲಿರುವುದು)\n* ಆಲ್ಕೋಹಾಲ್, ತಂಬಾಕು ಹಾಗೂ ಇನ್ನಾವುದೇ\nಡ್ರಗ್ಸ್‌ಗಳನ್ನು ಸೇವಿಸದೇ ಇರುವುದು\n* ಒಂದು ವೇಳೆ ಏನಾದರೂ ಆರೋಗ್ಯ ಸಮಸ್ಯೆ\nಪ್ರಾರಂಭವಾದರೆ ಕೂಡಲೇ ಸಹಾಯವಾಣಿ\nಸಂಖ್ಯೆಗೆ ಕರೆ ಮಾಡುವುದು\n* ಇದಾದ ನಂತರ ಮತ್ತೆ 14 ದಿನಗಳು\nವೈಯಕ್ತಿಕ ವರದಮಾಡಿಕೊಳ್ಳುವ\nಕ್ವಾರಂಟೈನ್‌ನಲ್ಲಿ ಇರಬೇಕು\n* ಈ ಸಮಯದಲ್ಲಿ ಸಾಧ್ಯವಾದಷ್ಟು ಪ್ರತ್ಯೇಕ\nಕೋಣೆಗೆ ಸೀಮಿತವಾಗಿರಿ ಹಾಗೂ ಮಾಸ್ಕ್\nಬಳಕೆ, ಕೈಗಳನ್ನು ಆಗಾಗ್ಗೆ ತೊಳೆದುಕೊಳ್ಳುವ\nಹಾಗೂ ವ್ಯಕ್ತಿಗಳ ಅಂತರವನ್ನು\nಕಾಯ್ದುಕೊಳ್ಳುವ ಸ್ಥಿತಿಯನ್ನು ಮುಂದುವರಿಸಿ"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_ml_000448_0_1_ordered-list.png",
+      "width": 399,
+      "height": 1163
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        399.0,
+        1163.0
+      ],
+      "area": 464037.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          399.0,
+          0.0,
+          399.0,
+          1163.0,
+          0.0,
+          1163.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1038. സത്യപാൽ പാഠിക്\n1039. സത്യപാൽ ശാസ്ത്രി\n1040. സത്യബന്ധുദാസ്\n1041. സത്യഭൂഷണ യോഗി വേശാലാകർ\n1042. സത്യവ്രത അഗ്നിവേശ്\n1043. സത്യവ്രത ഉപാദ്ധ്യായ\n1044. സത്യവ്രത രാജേഷ്\n1045. ഡോ. സത്യവ്രത ശർമ്മാ അജയ\n1046. സത്യവ്രത സിദ്ധാന്താലങ്കാർ\n1047. സത്യവ്രത സ്നാതക്\n1048. സത്യവ്രത\n1049. സത്യാനന്ദ ആര്യ\n1050. സത്യവീര ശാസ്ത്രി\n1051. സ്വാമി സത്യാനന്ദ\n1052. സത്യാനന്ദ നൈഷധീക\n1053. സത്യാനന്ദ വേദവാഗിശ്\n1054. സത്യാനന്ദ ശാസ്ത്രി\n1055. സത്യാനന്ദ സരസ്വതി\n1056. സത്യേന്ദ്രബന്ധു ആര്യ\n1057. സതീശ് കുമാർ ശർമ്മാ\n1058. സതീശ് ചന്ദ്ര ശർമ്മാ\n1059. സതീശ് ചന്ദ്ര ശുക്ല\n1060. സദാനന്ദ സന്ന്യാസി\n1061. സദാശിവ കൃഷ്ണ ഘട്ടക\n1062. പ്രൊഫ. സന്ദ്‌രാമ\n1063. സന്ദ്‌രാമ\n1064. വേദരത സന്ദ്‌രാമ ശർമ്മാ\n1065. സനേലാൽ ദാധിമ\n1066. സന്തോഷ് കന്യ\n1067. സന്നേലാൽ ശുക്ല\n1068. സ്വാമി സന്ദർപ്പണാനന്ദ\n(പണ്ഡിറ്റ്. ഋഷഭദേവ വിദ്യാങ്കാർ)\n1069. മൻഷി സന്ദർഭദാസ്\n1070. കവി സന്ദർഭ ശർമ്മാ സോമ\n1071. സർവ്വദയാൽ\n1072. ഡോ. സരസ്വതി പണ്ഡിത\n1073. ഡോ. സരോജ ഭിക്ഷാ വിദ്യാങ്കാർ\n1074. സ്വാമി സർവ്വദാനന്ദ\n1075. സർവ്വേന്ദ്ര ശാസ്ത്രി"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

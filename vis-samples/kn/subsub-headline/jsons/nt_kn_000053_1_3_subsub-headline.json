@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_kn_000053_1_3_subsub-headline.png",
+      "width": 484,
+      "height": 307
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        484.0,
+        307.0
+      ],
+      "area": 148588.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          484.0,
+          0.0,
+          484.0,
+          307.0,
+          0.0,
+          307.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(1) (ಎ) ಈ ಅಧಿನಿಯಮದ ಉಪಬಂಧಗಳ ಮೇರೆಗೆ ಅಥವಾ ಅವುಗಳ ಮೂಲಕ ಪ್ರಾಧಿಕಾರಕ್ಕೆ\nವಿಧಿಸಲಾಗಿದ್ದ ಪ್ರಕಾರ್ಯಗಳನ್ನು ಮತ್ತು ಕರ್ತವ್ಯಗಳನ್ನು ನಿರ್ವಹಿಸಲು ಗಂಭೀರ ಪರಿಮಿತಿಯ ಕಾರಣದಿಂದಾಗಿ\nಅದಕ್ಕೆ ಸಾಧ್ಯವಾಗಿಲ್ಲವೆಂದೂ; ಅಥವಾ\n\n(ಬಿ) ಪ್ರಾಧಿಕಾರವು, ಈ ಅಧಿನಿಯಮದ ಮೇರೆಗೆ ಕೇಂದ್ರ ಸರ್ಕಾರವು ಹೊರಡಿಸಿದ ಯಾವುದೇ\nನಿರ್ದೇಶನವನ್ನು ಪಾಲಿಸಿಲ್ಲ, ಅಥವಾ ಈ ಅಧಿನಿಯಮದ ಉಪಬಂಧಗಳ ಮೇರೆಗೆ ಅಥವಾ ಅವುಗಳ ಮೂಲಕ\nತನಗೆ ವಿಧಿಸಲಾದ ಪ್ರಕಾರ್ಯಗಳನ್ನು ಮತ್ತು ಕರ್ತವ್ಯಗಳನ್ನು ನಿರ್ವಹಿಸಿಲ್ಲವೆಂದು ಪ್ರಾಧಿಕಾರವು ಸತತವಾಗಿ\nತಪ್ಪಿದೆಯೆಂದು ಮತ್ತು ತಪ್ಪಳಿಕೆಯು ಪರಿಣಾಮವಾಗಿ ಪ್ರಾಧಿಕಾರದ ಹಣಕಾಸು ಪರಿಸ್ಥಿತಿ ಅಥವಾ ಯಾವುದೇ\nರಾಜ್ಯದ ಸಾರ್ವಜನಿಕ ಹಿತಾಸಕ್ತಿಗೆ ಹಾನಿ ಉಂಟಾಗಿದೆಯೆಂದು; ಅಥವಾ\n\n(ಸಿ) ಸಾರ್ವಜನಿಕ ಹಿತದೃಷ್ಟಿಯಿಂದ ಪ್ರಾಧಿಕಾರವನ್ನು ರದ್ದುಪಡಿಸುವುದು ಅವಶ್ಯಕವಾಗಿರುವ\nಸಂದರ್ಭಗಳು ಉಂಟಾಗಿವೆಯೆಂದು:\n- ಅಧಿಸೂಚನೆಯಲ್ಲಿ ನಿರ್ದಿಷ್ಟಪಡಿಸಬಹುದಾದಂತೆ ಆರು ತಿಂಗಳಿಗೆ ಮೀರದ ಅವಧಿಯವರೆಗೆ ಪ್ರಾಧಿಕಾರವನ್ನು\nರದ್ದುಗೊಳಿಸಬಹುದು:\n\nಪರಂತು, (ಬಿ) ಖಂಡದಲ್ಲಿ ನಮೂದಿಸಿದ ಕಾರಣಗಳಿಗಾಗಿ ಈ ಉಪಖಂಡದ ಮೇರೆಗೆ\nಅಧಿಸೂಚನೆಯನ್ನು ಹೊರಡಿಸುವುದಕ್ಕೆ ಮುಂಚೆ, ಕೇಂದ್ರ ಸರ್ಕಾರವು, ಪ್ರಾಧಿಕಾರವನ್ನು ಏಕೆ ರದ್ದುಗೊಳಿಸಬಾರದು\nಎಂಬುದಕ್ಕೆ ಕಾರಣ ತೋರಿಸಲು ಪ್ರಾಧಿಕಾರಕ್ಕೆ ಸೂಕ್ತ ಅವಕಾಶ ನೀಡತಕ್ಕದ್ದು ಮತ್ತು ಈ ಬಗ್ಗೆ ಪ್ರಾಧಿಕಾರವು\nನೀಡುವ ವಿವರಗಳು ಮತ್ತು ಆಕ್ಷೇಪಣೆಗಳಾದ್ಯಂತ ಅವುಗಳನ್ನು ಪರಿಶೀಲಿಸತಕ್ಕದ್ದು."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

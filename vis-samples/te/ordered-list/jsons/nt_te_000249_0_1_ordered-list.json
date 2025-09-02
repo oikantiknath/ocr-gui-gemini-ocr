@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_te_000249_0_1_ordered-list.png",
+      "width": 504,
+      "height": 472
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        504.0,
+        472.0
+      ],
+      "area": 237888.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          504.0,
+          0.0,
+          504.0,
+          472.0,
+          0.0,
+          472.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "11. ఎ.ఎమ్‌.ఎ.1 మరియు ఎ-3లలోని వేలిముద్రలు సరిపోవుట లేదని నిర్ణయించి క్రింద\nకోర్టు యొక్క విధానము రెండవ దావాంశము, మరియు అవి ఎడమ చేయివేలి ముద్రలా లేక కుడి\nచేయివేలి ముద్రలా అని దానిపై ఎటువంటి ప్రస్తావన లేదని దిగువ కోర్టు నిర్ధారణకు వచ్చింది.\n\n12. సాక్ష్య చట్టంలోని విభాగము 73 క్రింద, ఒక కక్షిదారుడు ఆరాధన మరియు\nస్వీకరించబడిన సాక్ష్య పత్రములోని సంతకము, వ్రా, లేక ముద్రలను సరిపోల్చుట ఒక\nన్యాయస్థానమునకు సాధ్యమే ఉండగా, చేతి వేలి ముద్రలను సరిపోల్చుట న్యాయస్థానమునకు ఎలా\nసాధ్యమో, మాకు తెలియజేయలేదు. చేతివేలి ముద్రలను సరిపోల్చుట, నిపుణులకు మాత్రమే సాధ్యము,\nకానీ కేవలం కోర్టుతో మాత్రమే కాదు. “ఎడమచేయి వేలు కుడిచేయివేలు “అను పదములను\nతెలియజేయకపోవుట వాస్తవముగా దానికి ఎటువంటి ప్రాముఖ్యము లేదు అందువలన, వివాదము\nకోర్టు యొక్క ఎటువంటి నిర్ణయములు చేయుటలో పూర్వగామిమితిదినముగా మా యొక్క ఆలోచనతో\nకూడిన అభిప్రాయము. అందువల్ల, దావాంశము నెం. 2 కూడా అప్పీలుదారులకు అనుకూలంగా\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_ml_000712_0_5_reference.png",
+      "width": 867,
+      "height": 828
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        867.0,
+        828.0
+      ],
+      "area": 717876.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          867.0,
+          0.0,
+          867.0,
+          828.0,
+          0.0,
+          828.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "Barker, Chris, 2002, Making Sense of Cultural Studies, London: Sage.\nBennet, Tony, 1998, Culture: A Reformers Science, Allen & Unwin, st. Leomands.\nBennett, Tony (etal), 2006, New York Words, Oxford University Press.\nBhabha, H., 1994, The Location of Culture, London: Routledge.\nFiske, J., 1989, Understanding Popular Culture, London: Unwin Hyman.\nHall, Garry & Clare Birchall (eds), 2006, New Cultural Studies: Adventures in Theory,\nEdinburgh: Edinburgh University Press.\nHall, Stuart, et.al., 1981, Encoding/Decoding. In Culture Media Language, London:\nHutchinson.\nHall, Stuart, Grossberg et.al., 1992, Cultural Studies and its Theoritical Legacies in\nCultural Studies, London: Routledge.\nHasslet, Moyra, 2000, Marxist Literacy and Cultural Theories, London: Macmillan.\nHoggart, Richard, 1957, The Uses of Literacy, London: Penguin.\nLewis, Jeff, 2002, Cultural Studies: The Basics, London: Sage Publications.\nNayar, Pramod, K., 2006, Reading Culture: Theory, Prexis, Politics, New Delhi: Sage\nPublications.\nStorey, John (ed), 1996, What is Cultural Studies, London: Arnold.\nThompson, E.P., 1963, The Making of English Working Class, NewYork: Vintage.\nTurner, G., 1990, British Cultural Studies: An Introduction, London: Unwin Hyman.\nWilliams, Raymond, 1981, Culture, London: Fontana.\nWilliams, Raymond, 1983, Keywords, London: Fontana.\nWilliams, Raymond, 1959, Culture and Society, London: Fontana."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_bn_000139_0_6_reference.png",
+      "width": 649,
+      "height": 561
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        649.0,
+        561.0
+      ],
+      "area": 364089.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          649.0,
+          0.0,
+          649.0,
+          561.0,
+          0.0,
+          561.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "সহায়ক গ্রন্থ\nঅচিন্ত্য বিশ্বাস : অদ্বৈত মল্লবর্মণ ও তিতাস একটি নদীর নাম\nঅনীক মাহমুদ : বাংলা কথাসাহিত্যে শওকত ওসমান\nঅরুণকুমার মুখোপাধ্যায় : কালের প্রতিমা\nআনু মুহাম্মদ (সম্পাদক) : তৃণমূল, আখতারুজ্জামান ইলিয়াস সংখ্যা\nউপল তালুকদার : মানিক বন্দ্যোপাধ্যায়ের কথাসাহিত্যে ফ্রয়েডীয় প্রভাব\nএজাজ ইউসুফী (সম্পাদক) : লিরিক, আখতারুজ্জামান ইলিয়াস সংখ্যা\nকায়েস আহমেদ (সম্পাদক) : মানিক বন্দ্যোপাধ্যায়\nকুদরত-ই-হুদা : শওকত ওসমান ও সত্যেন সেনের উপন্যাস : আঙ্গিক বিচার\nগিয়াস শামীম : বাংলাদেশের আঞ্চলিক উপন্যাস; বাংলা সাহিত্যে আঞ্চলিক উপন্যাস\nতপোধীর ভট্টাচার্য : উপন্যাসের প্রতিবেদন\nদেবীপ্রসাদ ঘোষ : অদ্বৈত মল্লবর্মণ : এক ভিন্ন প্রতিস্রোত\nনিতাই বসু : মানিক বন্দ্যোপাধ্যায়ের সমাজজিজ্ঞাসা\nবাংলা একাডেমী (প্রকাশক) : উত্তরাধিকার, মানিক বন্দ্যোপাধ্যায় জন্মশতবর্ষ সংখ্যা\nভীষ্মদেব চৌধুরী ও সৈয়দ আজিজুল হক (সম্পাদক) : মানিক বন্দ্যোপাধ্যায় :\nশতবার্ষিক স্মরণ"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

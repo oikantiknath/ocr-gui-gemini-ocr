@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_hi_000478_1_7_subsub-headline.png",
+      "width": 472,
+      "height": 158
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        472.0,
+        158.0
+      ],
+      "area": 74576.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          472.0,
+          0.0,
+          472.0,
+          158.0,
+          0.0,
+          158.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(क) ऐसे किसी अनिवासी भारतीय या विदेशी निगमित निकाय से, जिसके पास विदेशी मुद्रा बंधपत्रों का स्वामित्व\nहै या भारत में निवासी ऐसे किसी व्यक्ति से जिसे ऐसे अनिवासी भारतीय या विदेशी निगमित निकाय द्वारा ऐसे बंधपत्र दान\nमें दिए गए हैं, किसी भी प्रयोजन के लिए, ऐसे बंधपत्रों में विनिधान की प्रकृति और स्रोत को प्रकट करने की अपेक्षा नहीं की\nजाएगी ;\n\n(ख) खंड (क) में निर्दिष्ट व्यक्तियों में से किसी के विरुद्ध उक्त अधिनियमों में से किसी के अधीन इस आधार पर\nकोई जांच या अन्वेषण प्रारंभ नहीं किया जाएगा कि ऐसा व्यक्ति ऐसे बंधपत्रों का स्वामी है ;\n\n(ग) इस तथ्य पर ध्यान नहीं दिया जाएगा कि खंड (क) में निर्दिष्ट व्यक्तियों में से कोई ऐसे बंधपत्रों का स्वामी है\nऔर ऐसा तथ्य उक्त अधिनियमों में से किसी के अधीन किसी अपराध से या कोई शास्ति अधिरोपित करने से संबंधित किन्हीं\nकार्यवाहियों में साक्ष्य के रूप में ग्राह्य नहीं होगा ।\n\n(2) उपधारा (1) की कोई बात ऐसी विदेशी मुद्रा को लागू नहीं होगी, जिसे,—"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

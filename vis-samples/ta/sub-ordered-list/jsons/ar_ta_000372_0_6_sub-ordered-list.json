@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_000372_0_6_sub-ordered-list.png",
+      "width": 763,
+      "height": 574
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        763.0,
+        574.0
+      ],
+      "area": 437962.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          763.0,
+          0.0,
+          763.0,
+          574.0,
+          0.0,
+          574.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(அ) “வழக்கம்” மற்றும் “வழக்காறு” என்னுஞ்சொற்கள், வட்டாரப்\nபரப்பு எதுவும் பழங்குடி, சமூகம், குழுவினம் அல்லது குடும்பம்,\nஇவற்றில் தொன்றிலும் உள்ள இந்துக்களிடையே தொடர்ந்து ஒரே\nசீராக, நீண்ட காலம் பின்பற்றப்பட்டுவந்து, அதனால் சட்டநெறியின்\nஆற்றலைப் பெற்றிருக்கும் விதிமுறை எதனையும் குறிக்கும் :\n\nவரம்புரையாக :- அந்த விதிமுறை நிச்சயத் தன்மை உடையதாகவும் அறி\nவுக்கு முரணாக இல்லாததாகவும் அல்லது அரசுக் கொள்கைக்கு எதிராக இல்லாத\nதாகவும் இருத்தல் வேண்டும் :\n\nமேலும் வரம்புரையாக :- ஒரு குடும்பத்துக்கு மட்டுமே பொருந்துறும் ஒரு\nவிதிமுறை இருக்கும் நேர்வில், அது அந்தக் குடும்பத்தால் பின்பற்றப்படாமல்\nகைவிடப்பட்டதாக இருத்தல் கூடாது.\n\n(ஆ) “வாழ்க்கை பொருளுதவி” என்பது பின்வருவனவற்றை\nஉள்ளடக்கும் :-\n\n(i) அனைத்து நேர்வுகளிலும், உணவு, உடை, இருப்பிடம், கல்வி,\nமருத்துவ உதவி, மருத்துவ சிகிச்சை ஆகியவற்றிற்கான ஏற்பாடு ;\n\n(ii) திருமணமான மகளாக இருக்கும் நேர்வில்; மேற்கண்டவற்\nறுடன், அவளுடைய திருமணத்திற்கான தகுமான செலவுகளும்,\nதிருமணத்தைச் சார்ந்த செலவுகளும் ;\n\n(இ) “இளவர்” என்பது பதினெட்டு வயது நிரம்பப்பெறாத ஆண்\nஅல்லது பெண் என்று பொருள்படும்."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

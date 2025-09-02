@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_gu_001200_7_answer.png",
+      "width": 543,
+      "height": 190
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        543.0,
+        190.0
+      ],
+      "area": 103170.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          543.0,
+          0.0,
+          543.0,
+          190.0,
+          0.0,
+          190.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "મેં અગાઉ કહ્યું છે. રતિક્રીડાએ માનવજીવનનો એક ભાગ છે. સ્ત્રી હોય, પુરુષ હોય, ગે હોય કે લેસ્બીયન હોય\\nદરેકના માટે જીવનમાં ચાલતી એક ક્રિયા છે અને એ થવાની. અને રોકનાર માટે વિકૃતરૂપે બહાર આવશે પણ આ\\nસહજ રીતે સ્વીકારનાર ને એનો વિવેકપૂર્વક વિનિયોગ કરનારને માટે એ જીવનના ઉત્તમ આનંદનું માધ્યમ બની\\nરહેશે. સાહિત્યમાં પણ એનું નિરૂપણ જ્યારે પ્રતિકાત્મક સ્તરે, વ્યંજનાના સ્તરે કે ફ્લેશબેક, સ્વપ્ન જેવી\\nપ્રયુક્તિઓના સ્તરે થાય છે ત્યારે ઉત્તમ પ્રકારની કૃતિઓનું સર્જન શક્ય બને છે. આ માટે મણિલાલ હ. પટેલની\\n‘પડતર’ જેવી વાર્તાઓ વાંચવાથી વધુ ખ્યાલ આવશે. આપણે ત્યાં સંભોગ શૃંગારનું ઉદાહરણ કાલિદાસની\\nકૃતિઓમાં વધુ મળી શકે. કુમારસંભવ વાંચીને કાલિદાસને શાપ મળ્યાની દંતકથા પણ આપણે ત્યાં પ્રચલિત છે.\\nઆ બધું વાંચવું જોઈએ."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

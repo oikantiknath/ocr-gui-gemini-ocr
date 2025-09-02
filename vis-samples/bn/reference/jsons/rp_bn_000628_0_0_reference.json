@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_bn_000628_0_0_reference.png",
+      "width": 926,
+      "height": 1478
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        926.0,
+        1478.0
+      ],
+      "area": 1368628.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          926.0,
+          0.0,
+          926.0,
+          1478.0,
+          0.0,
+          1478.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "¢œ p' ¡¢ z বিংশ শতাব্দীর ছোটগল্পে নারী চরিত্রের আধুনিকতার উন্মেষ ও বিকাশ\\n(1301 - 1348) । গবেষণা পত্র । কলিকাতা বিশ্ববিদ্যালয়, কলিকাতা,\\n1999 z ¢£ z\\n°j nm, l h2œÊb z বিংশ শতাব্দীর কথাসাহিত্যে নারী : সামাজিক শোষণ ও উত্তরণ z\\nগবেষণা পত্র । কল্যাণী বিশ্ববিদ্যালয়, কল্যাণী, 200৪ । প্রিন্ট ।\\nসেন, শান্তনু । রবীন্দ্রনাথের নাটকে শিক্ষার উপাদান : বিশ্লেষণাত্মক অনুসন্ধান z\\nগবেষণা পত্র । কল্যাণী বিশ্ববিদ্যালয়, কল্যাণী, 2010 । প্রিন্ট ।\\nসেনশর্মা, নির্মাল্য । রবীন্দ্রনাথের ছোট গল্পে নর-নারী সম্পর্ক LM গবেষণা পত্র ।\\nLœL¡j¡ ¢nñ¢cÊmu, LœL¡j¡, 2008 z ¢£ z\\nAhmed, K. Social Background of Women under-graduates of Delhi\\nUniversity. Ph.D thesis.University of Delhi, Delhi, 1968.web.\\nBakshi, S. Socio-Economic Background of Undergraduate Scheduled\\nCastes Students in District Yamunanagar. Ph.D\\nThesis.University of Jammu, 1993.web.\\nBhatt, Rushiraj. The role of woman in Rabindranath Tagore's short\\nstories.Ph.D thesis.Visva-Bharati, Santiniketan, 2013. Print.\\nChakraborty, Paulomi. The Refugee Woman : Partition of Bengal,\\nWomen, and the Everyday of the Nation. Ph.D thesis.University\\nof Alberta, Edmonton, 2010.web.\\nChattopadhyay, Santinath. The Religion of Man : A critical and\\ncomparative study on Rabindranath Tagore. Ph.D\\nthesis.University of Calcutta,Calcutta, 1984. Print."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

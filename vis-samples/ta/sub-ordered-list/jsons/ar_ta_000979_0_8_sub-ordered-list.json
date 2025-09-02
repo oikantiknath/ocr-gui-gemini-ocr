@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_000979_0_8_sub-ordered-list.png",
+      "width": 702,
+      "height": 366
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        702.0,
+        366.0
+      ],
+      "area": 256932.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          702.0,
+          0.0,
+          702.0,
+          366.0,
+          0.0,
+          366.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(அ) “முன்னேற்றமடைந்த நாடு” என்பது, ஒரு முன்னேற்றமடைந்து வருகிற ஒரு நாடாக இல்லாத நாடு என்று\\nபொருள்படும்;\\n(ஆ) “முன்னேற்றமடைந்து வருகிற நாடு” என்பது, ஐக்கிய நாடுகளின் போது அவையின் நடைமுறைக்கு இணங்க அப்போதைக்கு\\nமுன்னேற்றமடைந்து வருகிற நாடாகக் கருதப்படுகிற நாடு என்று\\nபொருள்படும்;\\n(இ) “ஆராய்ச்சி நோக்கத்திற்காக” என்பது, தொழில்துறை ஆராய்ச்சி\\nநோக்கங்களை அல்லது (அரசாங்கத்திற்குச் சொந்தமான அல்லது\\nஅரசாங்கத்தால் கட்டுப்பாடு செய்யப்படுகிற கூட்டுறவுக் குழுமங்கள்\\nஅல்லாத) கூட்டுறவுக் குழுமங்களின் ஆராய்ச்சி நோக்கங்களை\\nஉள்ளடக்கியது;\\n(ஈ) “கற்பிக்கும், ஆராய்ச்சி செய்யும் அல்லது புலமை பெறு\\nவதற்கான நோக்கங்கள்”,—"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

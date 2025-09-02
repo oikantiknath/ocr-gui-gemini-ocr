@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_ta_000031_0_8_subsub-headline.png",
+      "width": 875,
+      "height": 284
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        875.0,
+        284.0
+      ],
+      "area": 248500.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          875.0,
+          0.0,
+          875.0,
+          284.0,
+          0.0,
+          284.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(அ) “சட்டம்” என்பது, இந்திய ஆட்சிநிலவரையில் சட்டச் செல்லாற்றல் கொண்ட\nஅவசரச் சட்டம், ஆணை, துணை விதி, விதி, ஒழுங்குறுத்துவிதி, அறிவிக்கை,\nவழக்கம், வழக்காறு இவற்றை உள்ளடக்கும்;\n\n(ஆ) “செல்லாற்றலிலுள்ள சட்டங்கள்” என்பது, இந்த அரசமைப்பின் தொடக்கநிலைக்கு\nமுன்பு, இந்திய ஆட்சிநிலவரையில் இருந்த ஒரு சட்டமன்றத்தினாலோ தகுதிமுழுள்ள\nபிறவகை அதிகார அமைப்பினாலோ நிறைவேற்றப்பட்டு அல்லது இயற்றப்பட்டு,\nமுன்னரே நீக்கறவு செய்யப்படாத சட்டங்களை, அத்தகைய சட்டம் எதுவும்\nஅல்லது அதன் பகுதி எதுவும் அப்போது முற்றிலுமாகவோ குறிப்பிட்ட\nபரப்பில்களிலோ செயற்பாட்டில் இல்லாதிருப்பினும், உள்ளடக்கும்."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

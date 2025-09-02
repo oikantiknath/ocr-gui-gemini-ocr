@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_bn_000346_0_6_sub-ordered-list.png",
+      "width": 593,
+      "height": 832
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        593.0,
+        832.0
+      ],
+      "area": 493376.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          593.0,
+          0.0,
+          593.0,
+          832.0,
+          0.0,
+          832.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(১) কেন্দ্রীয় সরকার যথাসম্ভব শীঘ্র কেন্দ্রীয় উপদেষ্টা\nটিকা শ্রমিক পর্ষদ (অত্র অতঃপর কেন্দ্রীয় পর্ষদ বলিয়া উল্লিখিত)\nনামে অভিহিত একটি পর্ষদ গঠন করিবেন যাহা এই আইনের প্রয়োগ\nহইতে উদ্ভূত যে সকল বিষয় তন্বিকট প্রেরিত হইবে তৎসম্পর্কে\nকেন্দ্রীয় সরকারকে উপদেশ দিবে এবং এই আইন অনুযায়ী তত্রতি\nনির্দিষ্ট অন্যান্য কৃত নিষ্পন্ন করিবে।\n(২) কেন্দ্রীয় পর্ষদ নিম্নলিখিত ব্যক্তিগণকে লইয়া গঠিত\nহইবে—\n(ক) একজন সভাপতি যিনি কেন্দ্রীয় সরকার কর্তৃক নিযুক্ত\nহইবেন;\n(খ) প্রধান শ্রম কমিশনার (কেন্দ্রীয়), পদাধিকারবলে;\n(গ) অনধিক সতেরো কিন্তু অন্যুন এগারো এরূপ সংখ্যক\nসদস্য যাঁহাদের কেন্দ্রীয় সরকার, সেই সরকারের এবং\nরেল, কয়লা-শিল্প, খনি-শিল্প, ঠিকাদারগণ, কর্মকারিগন\nও কেন্দ্রীয় সরকারের অভিমতে অন্যান্য যে স্বার্থের\nপ্রতিনিধিত্ব থাকা উচিত তাঁহাদের কেন্দ্রীয় পর্ষদে\nপ্রতিনিধিত্ব করিবার জন্য মনোনীত করিবেন।\n(৩) (২) উপধারায় বিনির্দিষ্ট প্রত্যেক শ্রেণী হইতে কেন্দ্রীয়\nপর্ষদে কতজন ব্যক্তি সদস্যরূপে নিযুক্ত হইবেন তাঁহাদের সংখ্যা,\nসদস্যগণের পদের মেয়াদ ও প্রত্যেকের অন্যান্য শর্ত, তাঁহাদের নিজ\nকৃত্য সম্পাদনে অনুসরণীয় প্রক্রিয়া এবং তাঁহাদের মধ্যে শূন্যপদ-\nসমূহ পূরণের প্রণালী যেরূপ বিহিত হইবে সেরূপই হইবে :\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

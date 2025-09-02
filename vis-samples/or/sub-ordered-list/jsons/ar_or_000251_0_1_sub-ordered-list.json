@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_or_000251_0_1_sub-ordered-list.png",
+      "width": 841,
+      "height": 372
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        841.0,
+        372.0
+      ],
+      "area": 312852.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          841.0,
+          0.0,
+          841.0,
+          372.0,
+          0.0,
+          372.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "14. (1) କୌଣସି ନିୟମମାନ ଅବିଧାନୀୟ କ୍ଷମାଯାଚୀ ଅଟେନା । କଲିକତେ କୌଣସି ସମସ୍ତ ପର୍ଯ୍ୟନ୍ତ ବାବା\nଗୁଣ ବାବର ନ୍ୟାୟାଳୟରେ ହେଉ କିମ୍ବା ଅଧିନସ୍ଥ ବା ଗୁରୁତ୍ୱାଧୀନ ନ୍ୟାୟାଳୟରେ ହେଉ ପ୍ରତିବାଦୀଙ୍କ ବିରୁଦ୍ଧରେ ଅନ୍ୟ\nଏକ ବିଭିନ୍ନ କାର୍ଯ୍ୟବିଧି ସମ୍ପୂର୍ଣ୍ଣ ହେଉଥିବା ସହ ଅଧିଯୋଗିତ ମକଦ୍ଦମା ଅନୁଯାୟୀ କୌଣସି ସମସ୍ତ ପର୍ଯ୍ୟନ୍ତ ଏକେ ସମ୍ପୂର୍ଣ୍ଣ କରି-\nରଖାଯିବ ସେଠାରେ କି ସେହି କାର୍ଯ୍ୟବିଧି ସେହି ଏକା ବିବାଦୀୟ ବିଷୟ ବସ୍ତୁ ସମ୍ପର୍କିତ ହେଉଥାଏ ଏବଂ ସଂପ୍ରତିକ୍ରିୟା\nପୂର୍ବକ ଏପରି ଏକ ନ୍ୟାୟାଳୟରେ ଅଧିଯୋଗିତ ମକଦ୍ଦମାଥାଏ ସେ ହିଁ ଅଧିମାନୀତାରେ ରୁଚି ବା । ସମଗ୍ରକ୍ରିୟାର\nଅନ୍ୟ ହେତୁ ହେତୁ ତାହା ଗ୍ରହଣ କରିବାକୁ ଅସମର୍ଥ ହେଉଥାଏ ।\n\n(2) କୌଣସି ଆବେଦନର ଅବିଧାନୀୟ କ୍ଷମାଯାଚୀ ସଂଗଠିତ । କଲିକତେ କୌଣସି ସମସ୍ତ ପର୍ଯ୍ୟନ୍ତ ବାବା\nଗୁଣ ବାବର ନ୍ୟାୟାଳୟରେ ହେଉ କିମ୍ବା ଅଧିନସ୍ଥ ବା ଗୁରୁତ୍ୱାଧୀନ ନ୍ୟାୟାଳୟରେ ହେଉ ସେହି ଏକା ଅସମ୍ପୂର୍ଣ୍ଣ\nବିରୁଦ୍ଧରେ ସେହି ଏକା ଅନୁରୋଧ ପାଇଁ ଅନ୍ୟ ଏକ ବିଭିନ୍ନ କାର୍ଯ୍ୟବିଧି ସମ୍ପୂର୍ଣ୍ଣ ହେଉଥିବା ସହ ଅଧିଯୋଗିତ\nଅନୁଯାୟୀ କୌଣସି ସମସ୍ତ ପର୍ଯ୍ୟନ୍ତ ଏକେ ସମ୍ପୂର୍ଣ୍ଣ କରିରଖାଯିବ, ସେଠାରେ କି ସେହି କାର୍ଯ୍ୟବିଧି ସଂପ୍ରତିକ୍ରିୟା-\nପୂର୍ବକ ଏପରି ଏକ ନ୍ୟାୟାଳୟରେ ଅଧିଯୋଗିତ ମକଦ୍ଦମାଥାଏ ସେ ହିଁ ଅଧିମାନୀତାରେ ରୁଚି ବା । ସମଗ୍ରକ୍ରିୟାର\nଅନ୍ୟ ହେତୁ ହେତୁ ତାହା ଗ୍ରହଣ କରିବାକୁ ଅସମର୍ଥ ହେଉଥାଏ ।\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_mr_000832_1_10_sub-ordered-list.png",
+      "width": 390,
+      "height": 192
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        390.0,
+        192.0
+      ],
+      "area": 74880.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          390.0,
+          0.0,
+          390.0,
+          192.0,
+          0.0,
+          192.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "२१०. (१) पोलीस अहवालांव्यतिरिक्त अन्य प्रकारे गुजरलेल्या खटल्यात (यात यापुढे ‘फिर्यादजन्य\nखटला’ म्हणून निर्दिष्ट), आपण चालविलेल्या चौकशीच्या किंवा संपरिक्षेच्या ओघात जर दंडाधिकाऱ्याच्या असे\nनिदर्शनास आणून देण्यात आले की, त्याने चालवलेल्या चौकशीचा किंवा संपरिक्षेचा विषय असलेल्या\nअपराधाच्या संबंधात पोलीस अधिकाऱ्याकडून अन्वेषण चालू आहे, तर तो दंडाधिकारी अशा चौकशीचे\nकिंवा संपरिक्षेचे कामकाज स्थगित करील आणि अन्वेषण करणाऱ्या पोलीस अधिकाऱ्याकडून त्या बाबी-\nवरील अहवाल मागवील.\n\n(२) जर कलम १७३ खाली अन्वेषण करणाऱ्या पोलीस अधिकाऱ्याने अहवाल दिला आणि\nफिर्यादजन्य खटल्यात आरोपी असलेल्या कोणत्याही व्यक्तीविरुद्ध दंडाधिकाऱ्याने अशा अहवालावरून\nकोणत्याही अपराधाची दखल घेतली तर, फिर्यादजन्य खटला व पोलीस अहवालातून उद्भवणारा खटला\nहे दोन्ही खटले जनु काही पोलीस अहवालावरून गुजरलेले आहेत असे समजून दंडाधिकारी दोन्हींची\nएकत्रितपणे चौकशी किंवा संपरिक्षा करील.\n\n(३) जर पोलीस अहवाल हा फिर्यादजन्य खटल्यातील कोणत्याही आरोपीशी संबंधित नसेल\nकिंवा पोलीस अहवालावरून दंडाधिकाऱ्याने कोणत्याही अपराधाची दखल घेतली नसेल तर, तो आपण\nस्थगित केलेली चौकशी किंवा संपरिक्षा या संहितेच्या उपबंधानुसार पुढे चालवील."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

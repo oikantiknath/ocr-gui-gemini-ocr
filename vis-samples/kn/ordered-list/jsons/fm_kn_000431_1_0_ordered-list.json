@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_kn_000431_1_0_ordered-list.png",
+      "width": 500,
+      "height": 293
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        500.0,
+        293.0
+      ],
+      "area": 146500.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          500.0,
+          0.0,
+          500.0,
+          293.0,
+          0.0,
+          293.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "6. ಕಂಪನಿಯ ಜವಾಬ್ದಾರಿ ಪತ್ರ ಮತ್ತು ಲೀಸುಗಳು/ತಾಲುಕಾದಾರ ತಾಲುಕಾದಾರಿಕೆ ಪತ್ರ ಇತ್ಯಾದಿ.\n7. ಇತ್ತೀಚಿನ ಆದಾಯ ತೆರಿಗೆ ರಿಟರ್ನ್‌ಗಳ ಜೊತೆಗೆ ಪ್ರವರ್ತಕರು ಮತ್ತು ಪಾಲುದಾರರ ಅಸೆಟ್ಸ್ ಮತ್ತು ಲಯಬಿಲಿಟಿಸ್\nಸ್ಟೇಟ್‌ಮೆಂಟ್.\n8. ಬಾಡಿಗೆ ಒಪ್ಪಂದ (ವ್ಯಾಪಾರ ಆವರಣವನ್ನು ಬಾಡಿಗೆಗೆ ಪಡೆದಿದ್ದರೆ) ಮತ್ತು ಅನುಮೋದಿತ ಮಾರ್ಟಿನ್ ನಿಯಂತ್ರಣ\nಮಂಡಳಿಯಿಂದ ತರವು.\n9. ಅನುಮೋದಿತ SSI / MSME ನೋಂದಣಿ.\n10. ವರ್ಕಿಂಗ್ ಕ್ಯಾಪಿಟಲ್ ಮಿತಿಗಳ ಸಂದರ್ಭದಲ್ಲಿ ಮತ್ತು ಅವಧಿ ಸಾಲದ ಸಂದರ್ಭದಲ್ಲಿ (2 ಲಕ್ಷ ಮತ್ತು ಅದಕ್ಕಿಂತ ಹೆಚ್ಚಿನ\nಎಲ್ಲಾ ಪ್ರಕರಣಗಳಿಗೆ) ಸಾಲದ ಅವಧಿಗೆ ಮುಂದಿನ ಎರಡು ವರ್ಷಗಳವರೆಗೆ ಅಂದಾಜು ಬ್ಯಾಲೆನ್ಸ್ ಶೀಟ್‌ಗಳು.\n11. ಮುಂಗಡಗಳನ್ನು ಸ್ವೀಕರಿಸಿದಲ್ಲಿ/ಪಡೆಯುವ ಸಂದರ್ಭದಲ್ಲಿ, ವಿವರವಾದ ನಿಯಮಗಳು ಮತ್ತು ಷರತ್ತುಗಳೊಂದಿಗೆ\nಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಬ್ಯಾಂಕುಗಳು/ಹಣಕಾಸು ಸಂಸ್ಥೆಯಿಂದ ಸೌಲಭ್ಯ ಮಂಜೂರಾತಿ ಪತ್ರಗಳನ್ನು ಪಡೆಯಲಾಗುತ್ತದೆ.\n12. ವ್ಯಾಪಾರ ಮತ್ತು ಮೂಲಾದಾರ ಭದ್ರತೆಗೆ ನೀಡಲಾಗುತ್ತಿರುವ ಎಲ್ಲಾ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಲೋನ್ ಡೀಟೇಲ್ಸ್/ಕ್ಯಾಶ್ ಡೀಟೇಲ್ಸ್\nನಕಲು ಪ್ರತಿಗಳು.\n13. ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಬ್ಯಾಂಕುಗಳಿಂದ ಖಾತೆಗೆ ಸ್ಥಾನ ಮತ್ತು ಆಯವ್ಯಯದೊಂದಿಗೆ ಪ್ರಮಾಣೀಕರಿಸಿದ ಒಂದು ಬಗ್ಗೆ\nದೃಢೀಕರಣ. (ಸ್ಥಾಪಿಸಿದ ಸಂದರ್ಭದಲ್ಲಿ).\n14. ಅನುಮೋದಿತ VAT ರಿಟರ್ನ್ ನಕಲು."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

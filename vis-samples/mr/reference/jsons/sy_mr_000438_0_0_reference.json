@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_mr_000438_0_0_reference.png",
+      "width": 1290,
+      "height": 1720
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        1290.0,
+        1720.0
+      ],
+      "area": 2218800.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1290.0,
+          0.0,
+          1290.0,
+          1720.0,
+          0.0,
+          1720.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "5. Peasant State and Society in Medieval South India (Delhi, OUP, 1980) - Burton,\nStein,\n6. Rise and Fall of the Mughal Empire (Allahabad, Central Book Depot, 1963) - R.P.\nTripathi\n7. Madhya Kalin Bharat 1540-1701, Part II (Delhi, Hindi Directorate, 1993) - H.C.\nVerma\n8. Madhya Kalin Bharat 750-1540, Part-1 (Delhi, Hindi Directorate, 1983)-H.C. Verma\n9. A.L Srivastava: Delhi Sultanate (English or Hindi Version), Shiv Lal Agarwal & Co.,\nAgra, Reprint, 2017\n10. A.L. Srivastva : The Mughal Empire (English or Hindi Version), Shiv Lal Agarwal &\nCo., Agra, Reprint, 2017\n11. B.N.S Yadav: Society and Culture in North India in the 12th century. Raka Prakashan,\nPrayagraj, 2012\n12. B.P. Majumdar, Socio-Economic History of Northern India, Firma K. L.\nMukhopadhyay (1960)\n13. Herman Kulke (ed.) The State in India (1000-1700), OUP, 1995\n14. Ishwari Prasad : Medieval India (English or Hindi version)\n15. J.N Sarkar: Life and Times of Shivaji, Orient Blackswan Pvt. Ltd., New Delhi, 2010\n16. K.A. Nilkantha Shastri: A History of South India, Oxford, 1997\n17. K.N Chitnis: Socio- Economic History of Medieval India, Atlantic Publishers, 2018\n18. Majumdar, Raychaudhary & Dutta : An Advanced History of India, Laxmi\nPublications, 2016\n19. Mohammad Habib and K.A. Nizami, ed. : Comprehensive History of India, Vol. V,\nThe Delhi Sultanate, PPH, 1992\n20. R.C.Majumdar & others (ed.): The History and Culture of the Indian People Vol. 6,\nthe Delhi Sultanate, Bhartiya Vidya Bhawan, 2006\n21. R.C.Majumdar & others (ed.): The history and Culture of the Indian People Vol. 7,\nthe Mughal Empire, Bhartiya Vidya Bhawan, 2006\n22. R.P Tripathi : Rise and fall of the Mughal Empire (English or Hindi), Surjeet\nPublications, 2012\n23. S.R. Sharma : The Crescent in India: A Study in Medieval History, Bhartiya Kala\nPrakashan, 2005\n24. Ishwari Prasad : A Short History of Muslim Rule in India, Surjeet Publications, 2018\n25. V.S Bhargava: Marwar and the Mughal Emperors, Munshiram Manoharlal, 1966\n26. Rekha Pande: Religious Movements in Medieval India, Gyan Publishing House, 2005\n27. Satish Chandra: Uttar Mughal Kalin Bharat Ka Itihas, Minakshi Prakashan, 1974\n28. Dr. Satish Chandra Mittal: मुस्लिम शासक तथा भारतीय जनसमाज, Suruchi\nPrakashan, 2014"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

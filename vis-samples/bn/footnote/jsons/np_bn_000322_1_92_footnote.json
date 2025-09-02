@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "np_bn_000322_1_92_footnote.png",
+      "width": 885,
+      "height": 60
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 12,
+      "bbox": [
+        0.0,
+        0.0,
+        885.0,
+        60.0
+      ],
+      "area": 53100.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          885.0,
+          0.0,
+          885.0,
+          60.0,
+          0.0,
+          60.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "Printed and Published by Krishnanand Singh on behalf of Narsingha Broadcasting Pvt. Ltd. Printed at L.S.Publication, 4, Canal West Road, Kolkata 700015 and Published at 1, Old Court House Corner, 3rd Floor, Room no. 306(S),\nTobacco House, Kolkata- 700001 RNI No. WBBEN/2006/17404, Phone: 033-4001 9663 email# dailyekdin1@gmail.com Editor: Santosh Kumar Singh\nনরসিংহ ব্রডকাস্টিং প্রাইভেট লিমিটেড-এর পক্ষে কৃষ্ণানন্দ সিং কর্তৃক ১, ওল্ড কোর্ট হাউস কর্ণার, ৩য় তল, রুম নম্বর ৩০৬ (এস), টোবাকো হাউস, কলকাতা-৭০০০০১ থেকে প্রকাশিত ও এল.এস.পাবলিকেশনস প্রাইভেট লিমিটেড, ৪ ক্যানাল ওয়েস্ট রোড, কলকাতা-৭০০০০১ থেকে মুদ্রিত।\nRNI No. WBBEN/2006/17404, ফোন-০৩৩-৪০০১ ৯৬৬৩, ইমেল dailyekdin1@gmail.com সম্পাদক-সন্তোষ কুমার সিং"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_or_000300_0_3_subsub-headline.png",
+      "width": 792,
+      "height": 644
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        792.0,
+        644.0
+      ],
+      "area": 510048.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          792.0,
+          0.0,
+          792.0,
+          644.0,
+          0.0,
+          644.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(କ) କୌଣସି ଖାତାରୁ ପରିବହନ ଉପଯୋଗୀ ହେଉଥିବା ମାଟି ଆବେଦନ କରି, ସେଭଳି\nଆବେଦନ କଲେ ସମସ୍ତ ମଧ୍ୟସ୍ଥ ଓ କ୍ଷେତ୍ର ସ୍ୱାଭାବୀକ ଥିବାରୁ ;\n\n(ଖ) ଖାତାରୁ ପରିବହନ ଉପଯୋଗୀ ସମସ୍ତେ ହେଉଥିବା ଡ୍ରାଇଭରଙ୍କ ଅନୁମାନ ଏବଂ ସେଭଳି\nହେଉଥିବା ମାଟି ସେଇ ସ୍ଥିତି ;\n\n(ଗ) ମୃତ୍ୟୁ ନିରାକରଣ ଓ ନିରାକରଣ ନିମନ୍ତେ ଆବଶ୍ୟକ ହୋଇଥିବା ;\n\n(ଘ) ନିରାକରଣ ଦ୍ୱାରା କେଉଁ ସମସ୍ତ ପ୍ରକାର ମାଲାମାଲ ସାମିଲ ଏବଂ କେଉଁ ସ୍ଥିତିରେ ସେଭଳି\nସମସ୍ତ ପ୍ରକାର ମାଲାମାଲ ସାମିଲ ।\n\n(ଙ) ସମାଲୋଚନା ସମର୍ଥନ ଦ୍ୱାରା ପ୍ରକାର ମଇଳା ନିଷ୍କାସନ ସର୍ବୋଚ୍ଚ ;\n\n(ଚ) ମୃତ୍ୟୁ ନିରାକରଣ ବା ନିରାକରଣର କୌଣସି ଆବେଦନ ଅଧିକ ଏବଂ କେଉଁ ତାରିଖରେ\nକେଉଁ ସମସ୍ତ ମଧ୍ୟସ୍ଥ ତଥା କ୍ଷେତ୍ର ସ୍ୱାଭାବୀକ ସେଭଳି ମଇଳାମାଲିନ ;\n\n(ଛ) କେଉଁ ସମସ୍ତ ମଧ୍ୟସ୍ଥ, ଉପରୋକ୍ତ ମଇଳା ଓ ଅନୁମତି ଦେବା ମାଟି ଏହି ଅଧିକାର ଦ୍ୱାରା\nଆବଶ୍ୟକ ହେଉଥିବା, ସେ ରୂପେ ଉପଲବ୍ଧ ଓ ମଇଳାମାଲିନ ;\n\n(ଜ) ଖାତାରୁ ପରିବହନ ସମର୍ଥନ ମାଟି କେଉଁ ତାରିଖରୁ ହେଉଥିବା ଥିବା ରହିବ ;\n\n(ଝ) ଅଭିଯୋଗର କାର୍ଯ୍ୟରେ କେଉଁ ସମାନ ଉପଲବ୍ଧ ରହିଥିବା ରହିବ ;\n\n(ଞ) କେଉଁ ସ୍ଥିତିରେ ବିଗତ ସ୍ୱାଭାବୀକ ଦ୍ୱାରା ନୂତନ ରୂପେ ମାର୍ଗଦର୍ଶନ, ଉପର ଓ ଅନ୍ୟାନ୍ୟ ଅପର ସିନ\nଅଧିକୃତ କରିବ ;"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

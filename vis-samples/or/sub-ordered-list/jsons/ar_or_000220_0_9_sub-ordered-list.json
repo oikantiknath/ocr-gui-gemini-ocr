@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_or_000220_0_9_sub-ordered-list.png",
+      "width": 799,
+      "height": 332
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        799.0,
+        332.0
+      ],
+      "area": 265268.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          799.0,
+          0.0,
+          799.0,
+          332.0,
+          0.0,
+          332.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(କ) “ଜୀବନ ବ୍ୟାପୀ” ଅର୍ଥ, ଜୀବନର ସମସ୍ତ ଉଦ୍ଦେଶ୍ୟସାଧନ ନିମନ୍ତେ ଦିଆ ଯାଇଥିବା ଜୀବନବୀମା\nବା ଏକକାଳୀନତା ବା କୌଣସି ଜୀବନ ବା ବାର୍ଷିକ ବେତନ ସହିତ ଜୀବନ ବୀମା ବା ନିୟମିତ\nପ୍ରଦାନ ହେବା ବାଞ୍ଛନୀୟା କୌଣସି ଅଧିକାର ବା ବ୍ୟବସ୍ଥା ଓ\n(ଖ) “ବ୍ୟବସ୍ଥା”ରେ ପ୍ରତ୍ୟେକ ବ୍ୟବସ୍ଥା, ଉପ-ବ୍ୟବସ୍ଥା ଓ ଉପବିଭାଗ ଓ\n(ଗ) “ବିହିତ” ଅର୍ଥ ଏହି ଅଧିନିୟମ ଅନୁଯାୟୀ ପ୍ରଣୀତ ନିୟମାବଳୀ ଦ୍ୱାରା ବିହିତ ;\n(ଘ) କୌଣସି ଜୀବନ ବା ବୀମା ଓ କୌଣସି ଉଦ୍ଦେଶ୍ୟରେ ବ୍ୟବହୃତ “ବୀମା ଫଣ୍ଡ” ଅର୍ଥ\nଜୀବନ ବୀମା ଉଦ୍ଦେଶ୍ୟରେ ବ୍ୟବହୃତ ବୀମା କୌଣସି ପାଣ୍ଠି ; ଏବଂ\n(ଙ) ଏହି ଅଧିନିୟମରେ ବ୍ୟବହୃତ ଉଦ୍ଦେଶ୍ୟସାଧନ, କିନ୍ତୁ ଅନ୍ୟାନ୍ୟ ଉଦ୍ଦେଶ୍ୟ ନିମନ୍ତେ ବୀମା ଓ ଉଦ୍ଦେଶ୍ୟସାଧନ\nବୀମା ଅଧିନିୟମ, 1872 (1872 ର 9) ରେ ଉଦ୍ଦେଶ୍ୟରେ ରେଖାଙ୍କିତ ଅଧିନିୟମ ପାଇଁ କୌଣସି\nଅଧିନିୟମରେ ଯେଉଁ ଅର୍ଥ ରହିଛି ଏହି ଅଧିନିୟମରେ ମଧ୍ୟ ସେହି ଏକା ଅର୍ଥ ରହିବ ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

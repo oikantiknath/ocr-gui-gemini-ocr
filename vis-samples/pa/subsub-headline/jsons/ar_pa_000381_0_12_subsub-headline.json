@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_pa_000381_0_12_subsub-headline.png",
+      "width": 884,
+      "height": 798
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        884.0,
+        798.0
+      ],
+      "area": 705432.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          884.0,
+          0.0,
+          884.0,
+          798.0,
+          0.0,
+          798.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ੳ) ਕਿਸੇ ਉਲੰਘਣ ਜਹਿਰ ਦੀ ਬੱਕ ਜਾਂ ਪਰਦੂਸ਼ਣ ਵਿਰੁੱਧ ਲਈ ਉਮੰਗ ਕਬਜੇ ਵਿੱਚ\nਰੱਖਣ ਲਈ ਸਮੱਸੇ ਦੇਣੇ, ਅਤੇ ਅਜਿਹੇ ਸਮੱਸੇ ਲਈ ਹਰਜਾ ਕੀਤੀ ਜਾਣ\nਵਾਲੀ ਰਕਮ (ਜੇ ਕੋਈ ਹੋਵੇ) ਨਿਯਤ ਕਰਨ;\n(ਅ) ਉਨ੍ਹਾਂ ਵਿਅਕਤੀਆਂ ਦੇ ਵਰਗ ਕਲੇਸ ਜਿਨ੍ਹਾਂ ਨੂੰ ਅਜਿਹੇ ਸਮੱਸੇ ਦਿੱਤੇ ਜਾ\nਸਕਣਗੇ;\n(ੲ) ਉਨ੍ਹਾਂ ਵਿਅਕਤੀਆਂ ਦੇ ਵਰਗ ਕਲੇਸ ਜਿਨ੍ਹਾਂ ਨੂੰ ਕੋਈ ਅਜਿਹਾ ਜਹਿਰ ਦੇਤੀ ਜਾ\nਸਕਦੀ;\n(ਸ) ਕਿਸੇ ਅਜਿਹੀ ਜਹਿਰ ਦੀ ਵੱਧ ਤੋਂ ਵੱਧ ਮਿਕਦਾਰ ਜੋ ਕਿਸੇ ਇੱਕ ਵਿਅਕਤੀ\nਨੂੰ ਦੇਤੀ ਜਾ ਸਕਦੀ;\n(ਹ) ਕਿਸੇ ਅਜਿਹੀ ਜਹਿਰ ਦੇ ਵਿਕਰੀਕਾਰਾਂ ਦੁਆਰਾ ਵਿਕਰੀ ਦੇ ਰਜਿਸਟਰ ਰੱਖਣ,\nਅਜਿਹੇ ਰਜਿਸਟਰਾਂ ਵਿੱਚ ਦਰਜ ਕੀਤੇ ਜਾਣ ਵਾਲੇ ਵੇਰਵੇ, ਅਤੇ ਉਨ੍ਹਾਂ ਦਾ\nਨਿਰੀਖਣ;\n(ਕ) ਅਜਿਹੀਆਂ ਜਹਿਰਾਂ ਦੀ ਸੁਰੱਖਿਅਤ ਸੰਭਾਲ ਅਤੇ ਉਨ੍ਹਾਂ ਵਰਤਨ, ਪੈਕਿੰਗ ਜਾਂ\nਕਵਰਾਂ ਤੇ ਲੇਬਲ ਲਾਉਣ ਜਿਨ੍ਹਾਂ ਵਿੱਚ ਕੋਈ ਅਜਿਹਾ ਜਹਿਰ ਦੇਤੀ ਜਾਵੇ, ਤੇ\nਜੋ ਜਾਂ ਵਿਕਰੀ ਲਈ ਕਬਜੇ ਵਿੱਚ ਰੱਖੀ ਜਾਂਦੀ ਹੈ; ਅਤੇ"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

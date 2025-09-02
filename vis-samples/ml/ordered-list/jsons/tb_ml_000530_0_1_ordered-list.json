@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "tb_ml_000530_0_1_ordered-list.png",
+      "width": 1966,
+      "height": 838
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        1966.0,
+        838.0
+      ],
+      "area": 1647508.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1966.0,
+          0.0,
+          1966.0,
+          838.0,
+          0.0,
+          838.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. കൊണ്ടാകാനവർമ്മ(എഡി 400)\n2. മാധിലരാജ മാധവ 1 (എഡി 425) ഭാനകസ്വാമ്യം എന്ന കാവ്യഗ്രന്ഥകർത്താവാണ്.\n3. ഹരിവർമ്മനെന്ന ആര്യവർമ്മ(എഡി 450).സഹോദരൻ കൃഷ്ണ\nകാമിലവല്ലഭൻവർമ്മനാൽ ഹരിവർമ്മനെ അടിച്ചമർത്തി. മേക്കാട്ട്\nമേമസ്വാമ്യം. മാറ്റിയത് ഇദ്ദേഹമാണ്. കൃഷ്ണവർമ്മ കോലൊന്നിനെന്നെ തുടർന്നു.\nരണ്ടുമേടേയും മക്കൾക്ക് സിംഹവർമ്മനെന്ന പേരിട്ടു.\n4. ആര്യവർമ്മപുത്രനായ സിംഹവർമ്മ 2 (475) അഥവാ മാധവ 2.\n5. കൃഷ്ണവർമ്മപുത്രനായ സിംഹവർമ്മ 2 (475).യുവരാജാവ് വീരവർമ്മനെന്ന\nസഹോദരനാണ്.\n6. സിംഹവർമ്മ മാധവ രണ്ടാമന്റെ പുത്രനായ അവിനിത(500)."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

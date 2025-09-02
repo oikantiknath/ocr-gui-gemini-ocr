@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_hi_001152_1_0_unordered-list.png",
+      "width": 355,
+      "height": 194
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        355.0,
+        194.0
+      ],
+      "area": 68870.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          355.0,
+          0.0,
+          355.0,
+          194.0,
+          0.0,
+          194.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "अगर आप ग्रहणी, सेवानिवृत्त व्यक्ति, व्यवसायी, आदि हैं, और आपको नए लोगो से मिलना,\nअनुभव साझा करना अच्छा लगता है, तो आप होमस्टे प्रारंभ कर सकते हैं।\nअगर आप घर में रहकर अपना नवीन कार्य प्रारंभ करना चाहती हैं।\nयदि आप तेजी से बढ़ते हुए पर्यटन व्यवसाय से जुड़ना चाहते हैं, एवं वर्तमान कार्य के साथ-\nसाथ पर्यटन के माध्यम से घर बैठे अतिरिक्त आय अर्जित करना चाहते हैं।\nयदि आपको नए लोगो से मिलना, अपनी संस्कृति, खान पान, वेश भूषा, गीत संगीत,\nहस्तशिल्प-हस्तकला एवं पारंपरिक परम्पराओं से पर्यटकों को परिचित करवाना चाहते हैं।\nयदि परम्परागत भारतीय चिकित्सा पद्धतियो जैसे योगा, नेचुरोपैथी, वेलनेस सेंटर के\nप्रेक्टिशनर हैं एवं इन पद्धति के माध्यम से पर्यटकों को लाभान्वित करना चाहते हैं।\nयदि आपके घर में कम से कम 01 एवं अधिकतम 06 अतिरिक्त कक्ष हैं, और आप अपने घर के\nअतिरिक्त कक्ष के माध्यम से अतिरिक्त आय अर्जित करना चाहते हैं।\nयदि आप अपने व्यवसाय को नए लोगों के साथ मेल जोल (नेटवर्किंग) के माध्यम से बढ़ाना\nचाहते हैं और अन्य शहरों एवं देशों के लोगों के साथ मेल जोल रखना चाहते हैं।\nतो होमस्टे योजनाएँ आपके लिये बिल्कुल उपयुक्त हैं।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

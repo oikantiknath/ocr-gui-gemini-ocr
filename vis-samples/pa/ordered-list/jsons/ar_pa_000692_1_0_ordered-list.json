@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_pa_000692_1_0_ordered-list.png",
+      "width": 364,
+      "height": 629
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        364.0,
+        629.0
+      ],
+      "area": 228956.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          364.0,
+          0.0,
+          364.0,
+          629.0,
+          0.0,
+          629.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "371 ਮਹਾਰਾਸ਼ਟਰ ਅਤੇ ਗੁਜਰਾਤ ਰਾਜਾਂ ਬਾਰੇ ਵਿਸ਼ੇਸ਼ ਉਪਬੰਧ\n371ੳ ਨਾਗਾਲੈਂਡ ਰਾਜ ਬਾਰੇ ਵਿਸ਼ੇਸ਼ ਉਪਬੰਧ\n371ਅ ਅਸਾਮ ਰਾਜ ਬਾਰੇ ਵਿਸ਼ੇਸ਼ ਉਪਬੰਧ\n371ੲ ਮਨੀਪੁਰ ਰਾਜ ਬਾਰੇ ਵਿਸ਼ੇਸ਼ ਉਪਬੰਧ\n371ਸ ਆਂਧਰਾ ਪ੍ਰਦੇਸ਼ ਰਾਜ ਜਾਂ ਤੇਲੰਗਾਨਾ ਰਾਜਾਂ ਦੇ ਸਬੰਧ ਵਿੱਚ\nਵਿਸ਼ੇਸ਼ ਉਪਬੰਧ\n371ਹ ਆਂਧਰਾ ਪ੍ਰਦੇਸ਼ ਵਿੱਚ ਕੇਂਦਰੀ ਯੂਨੀਵਰਸਿਟੀ ਦੀ ਸਥਾਪਨਾ\n371ਕ ਸਿੱਕਮ ਰਾਜ ਬਾਰੇ ਵਿਸ਼ੇਸ਼ ਉਪਬੰਧ\n\n371ਖ ਮਿਜ਼ੋਰਮ ਰਾਜ ਦੇ ਸਬੰਧ ਵਿੱਚ ਵਿਸ਼ੇਸ਼ ਉਪਬੰਧ\n\n371ਗ ਅਰੁਣਾਚਲ ਪ੍ਰਦੇਸ਼ ਰਾਜ ਦੇ ਸਬੰਧ ਵਿੱਚ ਵਿਸ਼ੇਸ਼ ਉਪਬੰਧ\n371ਘ ਗੋਆ ਰਾਜ ਦੇ ਸਬੰਧ ਵਿੱਚ ਵਿਸ਼ੇਸ਼ ਉਪਬੰਧ\n371 ਙ ਕਰਨਾਟਕ ਰਾਜ ਦੇ ਸਬੰਧ ਵਿੱਚ ਵਿਸ਼ੇਸ਼ ਉਪਬੰਧ\n372 ਮੌਜੂਦਾ ਕਾਨੂੰਨਾਂ ਦਾ ਨਾਗਰ ਰਹਿਣਾ ਅਤੇ ਉਨ੍ਹਾਂ ਦਾ\nਅਨੁਕੂਲਣ\n372ੳ ਰਾਸ਼ਟਰਪਤੀ ਦੀ ਕਾਨੂੰਨਾਂ ਦਾ ਅਨੁਕੂਲਣ ਕਰਨ ਦੀ ਸ਼ਕਤੀ\n373 ਨਿਰਦੇਸ਼ਕ ਨਜ਼ਰਬੰਦੀ ਵਿੱਚ ਰੱਖੇ ਗਏ ਵਿਅਕਤੀਆਂ ਬਾਰੇ\nਕੁਝ ਸੁਰੱਖਿਆਵਾਂ ਵਿੱਚ ਰਾਸ਼ਟਰਪਤੀ ਦੀ ਹੁਕਮ ਦੇਣ ਦੀ\nਸ਼ਕਤੀ\n374 ਫੈਡਰਲ ਕੋਰਟ ਦੇ ਜੱਜਾਂ ਅਤੇ ਫੈਡਰਲ ਕੋਰਟ ਵਿੱਚ ਜਾਂ\nਹਿੰਦ ਮੈਜਿਸਟੀ ਵਿੱਚ ਕੰਮ ਲੱਗੇ ਅੰਮ੍ਰਿਤ ਕਾਰਵਾਈਆਂ\nਬਾਬਤ ਉਪਬੰਧ\n375 ਸੰਵਿਧਾਨ ਦੇ ਉਪਬੰਧਾਂ ਦੇ ਤਾਬੇ ਅਦਾਲਤਾਂ, ਅਧਿਕਾਰੀਆਂ\nਅਤੇ ਅਫਸਰਾਂ ਦਾ ਕਾਰੋਬਾਰ ਕਰਦੇ ਰਹਿਣਾ\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

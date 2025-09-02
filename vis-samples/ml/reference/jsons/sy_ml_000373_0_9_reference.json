@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_ml_000373_0_9_reference.png",
+      "width": 769,
+      "height": 591
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        769.0,
+        591.0
+      ],
+      "area": 454479.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          769.0,
+          0.0,
+          769.0,
+          591.0,
+          0.0,
+          591.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "അയ്യപ്പൻ, എം., പാശ്ചാത്യ സാഹിത്യദർശനം.\nഅയ്യപ്പപ്പണിക്കർ, പാശ്ചാത്യം, ലോകകവിതയുടെ കൈവഴികൾ.\nഅയ്യപ്പപ്പണിക്കർ, പാശ്ചാത്യം, ധ്വനി വിവർത്തനകവിതയും.\nഅയ്യപ്പപ്പണിക്കർ, പാശ്ചാത്യം, ഭാരതീയ സാഹിത്യദർശനം.\nഅയ്യപ്പപ്പണിക്കർ, പാശ്ചാത്യം, സാഹിത്യമീമാംസ : തത്ത്വവും പ്രയോഗവും.\nഅയ്യപ്പപ്പണിക്കർ, പാശ്ചാത്യം, ലോകോത്തര സാഹിത്യസിദ്ധാന്തം മലയാളത്തിൽ.\nഅയ്യപ്പപ്പണിക്കർ, ഉന്നത സാഹിത്യസിദ്ധാന്തങ്ങൾ, തത്ത്വവും പ്രയോഗവും.\nഉണ്ണിത്തിരി, എൻ.വി. ഡോ., വക്രോക്തി കാവ്യജീവിതം.\nകുട്ടികൃഷ്ണമാരാർ, 1991, സാഹിത്യഭൂഷണം, കോഴിക്കോട്: മാതൃഭൂമി സാഹിത്യ\nപ്രകാശം.\nകേരളസാഹിത്യ അക്കാദമി, ഭാരതീയ കാവ്യശാസ്ത്രം.\nകൃഷ്ണനെഴുത്തച്ഛൻ, സംസ്‌കൃതത്തിലെ സാഹിത്യചിന്താമണി.\nകൃഷ്ണൻ നായർ, സി.കെ. ഡോ., സൗന്ദര്യശാസ്ത്രം.\nതങ്കപ്പൻ, കെ.എം. ഡോ., പാശ്ചാത്യ സാഹിത്യചിന്താമണ്ഡലം.\nതോമസ് മാത്യു, എം., സാഹിത്യദർശനം.\nനാരായണപിള്ള, പി.കെ., കൈരളീധ്വനി.\nനാരായണൻകുട്ടി, പി., മലയാളസാഹിത്യം.\nമാത്യു, ടി.വി., പുത്തൻകവിത.\nമാറ്റിവെത്ത്, നെൽസൺ ഡോ., വിശ്വസാഹിത്യദർശനങ്ങൾ.\nമേനോൻ, എം.എസ്. (എഡി.), പാശ്ചാത്യസാഹിത്യദർശനം.\nരാമകൃഷ്ണൻ, ദേവരാജൻ (എഡി.), പുതിയ ദൃശ്യപഠനങ്ങൾ, തിരുവനന്തപുരം\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

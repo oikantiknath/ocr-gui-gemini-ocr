@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "nt_ml_000163_0_4_paragraph.png",
+      "width": 2008,
+      "height": 560
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        2008.0,
+        560.0
+      ],
+      "area": 1124480.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          2008.0,
+          0.0,
+          2008.0,
+          560.0,
+          0.0,
+          560.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ഹാജരാക്കുന്നതിനായി അനന്തരാവകാശ സർട്ടിഫിക്കറ്റിനായ് വാത്തിക്കടി വില്ലേജിൽ പരേതന്റെ മകൻ അരൂപ്\nസെബാസ്റ്റ്യൻ, പാലനിൽക്കകത്തൊടിയിൽ, ബോധിപ്പിച്ച അപേക്ഷ വാത്തിക്കടി വില്ലേജ് ഓഫീസർ മുഖാന്തിരം അവകാശ\nവിചാരണ നടത്തി വന്ന റിപ്പോർട്ട് മരണം സർട്ടിഫിക്കറ്റിൽ രേഖപ്പെടുത്തിയിട്ടുള്ള തീയതി 18-08-2021-ലും ഭാര്യ ലില്ലി ദേവസ്യ 23-\n04-2010 മരണപ്പെട്ടതായും പരേതരുടെ നിയമാനുസൃത അവകാശികളായി താഴെ പറയുന്നവർ മാത്രമേയുള്ളുവെന്നും\nഅറിയിവാക്കിയിരിക്കുന്നു. അത്തരമൊരു അവകാശ സർട്ടിഫിക്കറ്റ് നൽകുന്നതിൽ ആർക്കെങ്കിലും ആക്ഷേപമുള്ളപക്ഷം ആയത്\nഈ പരസ്യം കേരള ഗവൺമെന്റ് ഗസറ്റിൽ പ്രസിദ്ധീകരിച്ച് 30 ദിവസത്തിനുള്ളിൽ ഈ ഓഫീസിൽ നേരിട്ട് രേഖാമൂലം\nബോധിപ്പിച്ചു കൊള്ളേണ്ടതും. കാലാവധി കഴിഞ്ഞും തപാൽ മാർഗ്ഗവും ലഭിക്കുന്ന അപേക്ഷകൾ\nസ്വീകരിക്കുന്നതല്ലാത്തതുമാകുന്നു."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

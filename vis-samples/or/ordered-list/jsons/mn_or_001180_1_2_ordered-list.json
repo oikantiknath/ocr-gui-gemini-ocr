@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_or_001180_1_2_ordered-list.png",
+      "width": 477,
+      "height": 273
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        477.0,
+        273.0
+      ],
+      "area": 130221.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          477.0,
+          0.0,
+          477.0,
+          273.0,
+          0.0,
+          273.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "5.2 ଦ୍ୱିତୀୟ ପର୍ଯ୍ୟାୟ ସର୍ବେକ୍ଷଣ ନମୁନା ଗ୍ରାମରେ ଆବୃତ୍ତିମୁକ୍ତ ରାଜକୋଷ ସମ୍ପତ୍ତି ଅଧ୍ୟାୟ ରାଜକୋଷ ଉପଲବ୍ଧ ଥିଲେ\nଏହାର ନମୁନା ସଂପୂର୍ଣ୍ଣ କାର୍ଯ୍ୟ କରିବାକୁ ପଡିବ । ବିଶେଷ ବିବରଣୀ ନିମନ୍ତେ ଧାରା 5.5 ନମୁନା ଗ୍ରାମ ନିର୍ଦ୍ଧାରଣ ଓ ନମୁନା\nଗ୍ରାମରେ ରାଜକୋଷ ନିର୍ଦ୍ଧାରଣ ଦେଖନ୍ତୁ ।\n5.3 ଦ୍ୱିତୀୟ ପର୍ଯ୍ୟାୟ ସର୍ବେକ୍ଷଣେ ଅନ୍ୟ ଆବୃତ୍ତିମୁକ୍ତ ରାଜକୋଷ ଗୁଡ଼ିକ ଅନୁସୂଚୀ H ପ୍ରଦତ୍ତ ନିମନ୍ତେ ଗ୍ରହଣ କରାଯିବ ।\n5.4 Common Software ବ୍ୟବହାର ପାଇଁ ସମସ୍ତ non-land record ରାଜ୍ୟ ମାନେ ଉପଯୋଗ କରିବା ଅନୁସୂଚନା\nକରିବେ ।\n5.5 ଓଡ଼ିଶା, ପଶ୍ଚିମବଙ୍ଗ ଓ କେରଳ ରାଜ୍ୟ ନିମନ୍ତେ ନମୁନା ସଂଗ୍ରହର ତଥ୍ୟ ଓ ନମୁନା ଆକାର ଧାରା 5.1 ରୁ 5.3\nମଧ୍ୟରେ ବର୍ଣ୍ଣନା କରାଯାଇଛି । ପ୍ରଥମ ପର୍ଯ୍ୟାୟରେ ନମୁନା ଗ୍ରାମର ସଂଖ୍ୟାକୁ ଦ୍ୱିତୀୟ ପର୍ଯ୍ୟାୟରେ ରାଜକୋଷ ନିର୍ଦ୍ଧାରଣ ନିମନ୍ତେ\nଶତକଡ଼ା 20% ଓ 25% ଅଧିକାଂଶ ନିଆଯିବ ।\n5.6 ରାଜକୋଷ ଗୁଡ଼ିକରୁ ନମୁନା ନିର୍ଦ୍ଧାରଣ ନିମନ୍ତେ ପ୍ରତ୍ୟେକ ବର୍ଗର ରାଜ୍ୟ ମାନଙ୍କ ପାଇଁ ପ୍ରଥମ, ଆଦିବାସୀ ଓ\nଅନାଦିବାସୀ ପାଇଁ ପୃଥକ ପୃଥକ ନିର୍ଦ୍ଧାରଣ ଲାଗିଲା ପ୍ରସ୍ତୁତ କରାଯିବ ।\nପ୍ରଣାଳୀ Section 20.6 ରେ ସୁବିସ୍ତୃତ ଭାବେ ବର୍ଣ୍ଣନା କରାଯାଇଅଛି ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

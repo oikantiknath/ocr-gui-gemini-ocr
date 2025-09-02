@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_or_000278_0_1_sub-ordered-list.png",
+      "width": 756,
+      "height": 329
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        756.0,
+        329.0
+      ],
+      "area": 248724.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          756.0,
+          0.0,
+          756.0,
+          329.0,
+          0.0,
+          329.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(i) ସରକାରଙ୍କ ନିୟନ୍ତ୍ରଣାଧୀନ ଥିବା କୌଣସି ସଂସ୍ଥା ସଂସ୍ଥାଙ୍କରେ କର୍ତ୍ତୃପକ୍ଷଙ୍କର ଉପଦେଶକ୍ରମେ\nଏବଂ ନିୟନ୍ତ୍ରଣ ପାଇଁ ସରକାରଙ୍କ ଦ୍ୱାରା ନିଯୁକ୍ତ ବ୍ୟକ୍ତି ବା ପ୍ରାଧିକାରୀଙ୍କ ଦ୍ୱାରା କୌଣସି\nବ୍ୟକ୍ତି ବା ପ୍ରାଧିକାରୀ ଯେଉଁଠି ନିଯୁକ୍ତ ହୋଇଥାନ୍ତି । ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ବ୍ୟକ୍ତିଙ୍କୁ ବୁଝାଇବ,\n(ii) କୌଣସି ସ୍ଥାନୀୟ ପ୍ରାଧିକାରୀ ଅଧୀନରେ କୌଣସି ସଂସ୍ଥା ସଂସ୍ଥାଙ୍କରେ କର୍ତ୍ତୃପକ୍ଷଙ୍କର\nଉପଦେଶକ୍ରମେ ଏବଂ ନିୟନ୍ତ୍ରଣ ପାଇଁ ସେହି ପ୍ରାଧିକାରୀଙ୍କ ଦ୍ୱାରା ନିଯୁକ୍ତ ବ୍ୟକ୍ତି କିମ୍ବା\nକୌଣସି ବ୍ୟକ୍ତି ନିଯୁକ୍ତ ହୋଇ ନଥିବା । ଏକ ସ୍ଥାନୀୟ ପ୍ରାଧିକାରୀଙ୍କର ମୁଖ୍ୟ ନିର୍ବାହୀ ଅଧିକାରୀଙ୍କୁ\nବୁଝାଇବ,\n(iii) ଅନ୍ୟ କୌଣସି କ୍ଷେତ୍ରରେ ସେହିବ୍ୟକ୍ତି ବା ପ୍ରାଧିକାରୀଙ୍କର ସଂସ୍ଥାର କାର୍ଯ୍ୟକଳାପ ଉପରେ ତର\nନିୟନ୍ତ୍ରଣ ଥାଏ ଓ ସାହାଯ୍ୟ ଏବଂ ସେହିଭଳି ଅନ୍ୟ କାର୍ଯ୍ୟକଳାପ ଅନ୍ୟ କୌଣସି ବ୍ୟକ୍ତିଙ୍କୁ ମଧ୍ୟ\nସହାୟତାକାରୀ ସେ ହିଁ ହୁଅନ୍ତି । ମନେକରନ୍ତୁ, ମନେକରି ଏକାଡେମୀ ମାନଙ୍କରେ\nବା ଅନ୍ୟ କୌଣସି ମାନେରେ ତଥା ଉପସ୍ଥିତ ହୋଇଥାନ୍ତି ସେଠାରେ ସେହି ବ୍ୟକ୍ତିଙ୍କୁ ବୁଝାଇବ;\n"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

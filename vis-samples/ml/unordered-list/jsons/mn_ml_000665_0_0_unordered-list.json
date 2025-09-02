@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_ml_000665_0_0_unordered-list.png",
+      "width": 896,
+      "height": 457
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        896.0,
+        457.0
+      ],
+      "area": 409472.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          896.0,
+          0.0,
+          896.0,
+          457.0,
+          0.0,
+          457.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* ആദ്യ മതിയോറിഡ് കോളം ആണെങ്കിലും തിരിച്ച് വന്ന് മാറ്റം\\nവരുത്താനാണെങ്കിൽ, തിരിച്ച് വന്ന തുക\\nചോദ്യോത്തരത്തിന് വേണ്ടിയുള്ള സംവിധാനമാണ്.\\n* ഡിസ്ബേഴ്സ്മെന്റ് മെനുവിൽ നിന്നും എം ഒ റീഫണ്ട് ക്ലിക്ക് ചെയ്യുക.\\n* അതിൽ പെൻഷൻ തുക തിരഞ്ഞെടുക്കുക, തിരിച്ച് വന്ന മതിയോറിഡ് ചോദ്യങ്ങളുടെ\\nഎണ്ണം രേഖപ്പെടുത്തുക എന്നിതിനുശേഷം സേവ് ബട്ടൺ ക്ലിക്ക് ചെയ്യുക.\\n* തിരിച്ച് വന്ന ഒറിജിനൽ നമ്പർ, തീയതി, റീഫണ്ട് എമൗണ്ട് ഇവ ചോദ്യോത്തരത്തിൽ സേവ് ചെയ്യുക.\\n(ചിത്രം 13 ശ്രദ്ധിക്കുക)\\n* എം ഒ റീഫണ്ട് എം ഒ റീഫണ്ട് ഇവ ചോദ്യോത്തരത്തിൽ മാത്രമേ അടുത്ത തവണ തിരിച്ച്\\nവരാൻ സാധ്യതയുള്ളൂ.\\n* റീഫണ്ട് റിപ്പോർട്ട് ക്ലിക്ക് ചെയ്താൽ ചിത്രം 13(1) കാണുന്നതുപോലെയുള്ള റിപ്പോർട്ട്\\nലഭിക്കും. ഇത് തിരിച്ച് വന്ന പെൻഷൻ തുക ശ്രദ്ധയിൽ അടങ്ങുമ്പോൾ ആവശ്യമാണ്."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

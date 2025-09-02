@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_te_000609_0_5_paragraph.png",
+      "width": 539,
+      "height": 310
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 21,
+      "bbox": [
+        0.0,
+        0.0,
+        539.0,
+        310.0
+      ],
+      "area": 167090.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          539.0,
+          0.0,
+          539.0,
+          310.0,
+          0.0,
+          310.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "అప్పుడప్పుడు చెట్ల క్రింద లేత ఆకులు తొడిమతోపాటు\nరాలిపడిపోయిన దృశ్యం కనిపిస్తుంది. వీటిపై తెల్ల పొరలు కనిపించి\nనట్టైతే ఇవి ఆకు తొలుచు పురుగు చేసే నష్టంగా గుర్తించాలి. ఆకుసార\nపురుగు లేక ఆకు తొలుచు పురుగు లేతఆకులు ముదిరే దశలో ఎక్కువగా\nకనబడుతుంది. ఈ పొరలు, లేత తొడిమలు, కాండం చివర మీద కూడా\nగమనించవచ్చు. వీటి రెక్కల పురుగు ఆకు పొరలలో గ్రుడ్లు పెడతాయి.\nవీటి నుండి వెలువడే పసుపు పచ్చ లేదా ఎరుపు రంగు పిల్లపురుగులు\nఆ పొరలలో పత్ర హరితాన్ని తింటూ నిద్రావస్థకు చేరుతాయి. తీవ్రతను\nబట్టి ఆకుపై ఒకటినుండి 4-5 పొరలు వుండటం వలన ఆకులు ఎండి\nరాలిపోతాయి."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

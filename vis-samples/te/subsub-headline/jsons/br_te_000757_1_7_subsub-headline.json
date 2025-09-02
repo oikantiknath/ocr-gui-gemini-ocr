@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_te_000757_1_7_subsub-headline.png",
+      "width": 239,
+      "height": 358
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        239.0,
+        358.0
+      ],
+      "area": 85562.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          239.0,
+          0.0,
+          239.0,
+          358.0,
+          0.0,
+          358.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "i) బేస్‌లైన్ అసెస్‌మెంట్: బేస్‌లైన్ స్టడీ ODOP ను\nగుర్తించడానికి చేపట్టింది. ఈ అధ్యయనం ప్రతి\nరాష్ట్రంలో 2020 జూలై 31 లోగా ముగియాలి. ఈ\nఅధ్యయనం కోసం రూ. 2.5-10.0 లక్షల రాష్ట్రాలకు\nఅందించబడతాయి.\n\nii) రాష్ట్ర స్థాయి అభివృద్ధి ప్రణాళిక (SLUP): ODOP పై\nనిర్ణయం తీసుకున్న తర్వాత, జిల్లాలో ఆ ఉత్పత్తి\nయొక్క ప్రాసెసింగ్ చేపట్టే యూనిట్ల సంఖ్య,\nవ్యవసాయ స్థాయి కార్యకలాపాలు, మొత్తం\nవాల్యూమ్ మరియు వివరించే వివరాలత్మక\nఅధ్యయనాలు రాష్ట్రంలో జరిగాయి. ఉత్పత్తి విలువ,\nసాంకేతికత, వ్యవసాయ గేట్ స్థాయి ప్రాసెసింగ్, నిల్వ\nగెడ్డంగి మొదలైనవి. ఈ అధ్యయనాన్ని 2020\nడిసెంబర్ 31 లోగా ముగించాలి. పై అధ్యయనం\nకోసం అందించిన మొత్తం రూ. రాష్ట్రాలకు 25.0 -\n75.0 లక్షలు."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_ml_000148_0_0_reference.png",
+      "width": 984,
+      "height": 1005
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        984.0,
+        1005.0
+      ],
+      "area": 988920.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          984.0,
+          0.0,
+          984.0,
+          1005.0,
+          0.0,
+          1005.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "04.ജയരാമൻ നായർ, പുതിയ സാഹിത്യവിമർശനം, മദ്രാസ് സാഹിത്യപ്രവർത്തക സഹകരണ\nസംഘം, തിരുവനന്തപുരം, ചങ്ങനാശ്ശേരി, 1997.\n05.തോമസ് കെ. വി., ഡോ., വിമർശനവും ആധുനികവിമർശനവും, ലിപി പബ്ലിക്കേഷൻസ്,\n2010.\n06.ദാമോദരൻ ആർ വി എം., യുഗവിമർശനം, കേരളഭാഷാഇൻസ്റ്റിറ്റ്യൂട്ട്, 2014\n07.പ്രേമചന്ദ്രൻ വി. ആർ., വിമർശനചിന്തകൾ, കേരളഭാഷാഇൻസ്റ്റിറ്റ്യൂട്ട്, 1996.\nസന്തോഷ് ഡി.ഡോ., സാഹിത്യവിമർശനം, മാതൃഭൂമി, 2000.\n08.ഉഷാകുമാരി കെ.എൻ. വി ഡോ(എഡി.), വിമർശനത്തെപ്പറ്റി, തിരുവനന്തപുരം,\nപ്രസാധകർ, ഉത്തരാനന്തേശ്വരി ദേവസ്വം. സ്വർഗ്ഗാലയം, 2018.\n09.രാജേന്ദ്രൻ പി. എസ്., എതിർദിശകൾ: സാഹിത്യവിമർശനത്തിലെ പക്ഷാന്തരങ്ങൾ,\nകേരളഭാഷാഇൻസ്റ്റിറ്റ്യൂട്ട്, തിരുവനന്തപുരം 2017.\n10.ശ്രീധരൻ സി., ആധുനികാനന്തര നോവൽവായനകൾ, നോവൽവായനകൾ, പാപ്പായി\nപ്രസാധകർ, 2021\n11.ശ്രീധരൻ എം. എം.(എഡി.). വിമർശനവും സാഹിത്യവും, പ്രസാധകൻ,\nതൃശ്ശൂർ, 2012.\n12.വിജിത എസ് കറുപ്പൻ എം.എം.\nനിലപാടുകൾ, ശ്രീശങ്കരാചാര്യ സംസ്കൃത സർവകലാശാല, തൃശ്ശൂർ, 2019.\n13.പുതിയ സാഹിത്യം, മലയാളസാഹിത്യവിമർശനവിദ്യയുടെ നാനാർത്ഥത്തെ പഠനങ്ങൾ,\nസാഹിത്യപ്രവർത്തക സഹകരണസംഘം, കോട്ടയം, 2019.\n14.സദാശിവൻ എം. പി., ഭാവവും പഠനവും, കേരളഭാഷാഇൻസ്റ്റിറ്റ്യൂട്ട്, 2008\n15.സന്തോഷ് മാമ്പാടി, നേർരേഖ, കോഴിക്കോട്, ജൂലൈ, 2015.\nhttps://www.sanghaditha.com/july-2015-pdf\n16.സന്തോഷ് പി. ഡോ. വിമർശനപഠനങ്ങൾ, കേരളഭാഷാഇൻസ്റ്റിറ്റ്യൂട്ട്, 2014.\nhttp://changampuzha.com/ghandakavyangal-sudhangatha.html\nhttps://www.sanghaditha.com/july-2015-pdf"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

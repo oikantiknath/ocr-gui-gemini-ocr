@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_or_000663_1_1_ordered-list.png",
+      "width": 434,
+      "height": 218
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 19,
+      "bbox": [
+        0.0,
+        0.0,
+        434.0,
+        218.0
+      ],
+      "area": 94612.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          434.0,
+          0.0,
+          434.0,
+          218.0,
+          0.0,
+          218.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(କ) ସମସ୍ତ ବିଭାଗରେ ସମସ୍ତ ପ୍ରକାର ପ୍ରତିଯୋଗିତାମୂଳକ, ସହଯୋଗୀତା ମୂଳକ ତଥା ସ୍ୱେଚ୍ଛାସେବୀ ଅନୁଷ୍ଠାନ\nପ୍ରସ୍ତୁତ ପାଇଁ ଆର୍ଥିକ ସହାୟତା;\n(ଖ) ଏପରି କୌଣସି ଅନୁଷ୍ଠାନଗୁଡ଼ିକୁ ଯେଉଁମାନେ ବିଭିନ୍ନ କ୍ଷେତ୍ରରେ ବିଶେଷଜ୍ଞମାନଙ୍କରେ, ସ୍ୱେଚ୍ଛାସେବୀ କାର୍ଯ୍ୟ\nକରିବାକୁ ଏକ ନୂତନ ପର୍ଯ୍ୟାୟରେ ଅଛି, ସେହି ସଂସ୍ଥାରେ ସ୍ୱେଚ୍ଛାସେବୀ ମିଶି ଯୋଡ଼ିବା, କାର୍ଯ୍ୟ ଆରମ୍ଭ\nସ୍ୱେଚ୍ଛାସେବା ଓ ସ୍ୱେଚ୍ଛାସେବୀ କାର୍ଯ୍ୟକୁ ସହାୟତା ନିମନ୍ତେ ସହଜ କରିବା;\n(ଗ) ସ୍ୱେଚ୍ଛାସେବା ଓ ସହଯୋଗ ପ୍ରଣାଳୀର ସାକ୍ଷାତ୍କାରକୁ ଅତି ଶୀଘ୍ର ମଧ୍ୟରେ ଏକ ସଂପୂର୍ଣ୍ଣ ପ୍ରାଧାନ୍ୟତା ରୂପେ କାର୍ଯ୍ୟ\nକରିବା, ତଥା ସ୍ୱେଚ୍ଛାସେବୀମାନେ ସର୍ବଦା ସହଜ ସ୍ୱେଚ୍ଛାସେବୀ ପ୍ରସଙ୍ଗଗୁଡ଼ିକ ବିଷୟରେ ଅବଗତ ହୋଇ\nପାରିବେ, ଏବଂ ନୀତି ନିର୍ଦ୍ଧାରଣକାରୀମାନେ ସୁଗମ ଭାବେ ସର୍ବଶେଷ ସ୍ୱେଚ୍ଛାସେବା ସୂଚନା ବିଷୟରେ\nଅବଗତ ହେବେ; ଯେଉଁଠି ସରକାରୀ ନୀତି ଏବଂ/କିମ୍ବା କାର୍ଯ୍ୟକ୍ରମରେ ସହଯୋଗ ଭାବେ ଅଣାଯାଇ\nପାରିବ; ଏବଂ\n(ଘ) ସ୍ୱେଚ୍ଛାସେବା ସ୍ୱେଚ୍ଛାସେବୀ ଓ ପ୍ରଗତିକୁ ଚିହ୍ନିତ କରିବା।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

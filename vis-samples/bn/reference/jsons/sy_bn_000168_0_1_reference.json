@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sy_bn_000168_0_1_reference.png",
+      "width": 663,
+      "height": 607
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        663.0,
+        607.0
+      ],
+      "area": 402441.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          663.0,
+          0.0,
+          663.0,
+          607.0,
+          0.0,
+          607.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "আবদুল মান্নান সৈয়দ : সৈয়দ ওয়ালীউল্লাহ্\nকুণ্ডল মিত্র : অ্যাবসার্ড নাটক : মাতৃভাষায় বিদ্রোহ\nজয়ন্তী রায় : চিত্তা দর্পণে টিনের তলোয়ার\nজিন্নাত ইমতিয়াজ আলী : সৈয়দ ওয়ালীউল্লাহ্র জীবনদর্শন ও সাহিত্যকর্ম\nদর্শন চৌধুরী : গণনাট্য আন্দোলন; রিচার্ডবয়েলা উপেন দত্ত; টিনের তলোয়ার\nনিয়ে; গণনাট্যের দায় : পূর্ণমূল্যায়ন\nদীপক চন্দ্র : বাংলা নাটকে আধুনিকতা ও গণচেতনা\nবিশ্বজিৎ ঘোষ : বাংলাদেশের সাহিত্য\nমন্দিরা রায় : বিজন ভট্টাচার্য্যের নাট্যরূপ ও সমকালীন প্রেক্ষিত\nলুৎফর রহমান : বাংলা নাটক ও সেলিম আল দীনের নাটক\nশঙ্কর শীল : উপেন দত্ত : মনন ও সৃজন\nসত্য বন্দ্যোপাধ্যায় : উপেন দত্ত ও তাঁর থিয়েটার\nসাজ্জাদ আরেফিন (সম্পাদক) : নাট্যপাঠ, সৈয়দ ওয়ালীউল্লাহ্ সংখ্যা\nসাবিত্রী রায় : বাংলাদেশের নাট্যচর্চা [১৯৭২-১৯৯৭]\nসুকুমার বিশ্বাস : বাংলাদেশের নাট্যচর্চা ও নাটকের ধারা\nসৈয়দ আবুল মকসুদ : সৈয়দ ওয়ালীউল্লাহ্র জীবন ও সাহিত্য (২ খণ্ড)\nMartin Esslin : The Theatre of the Absurd"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

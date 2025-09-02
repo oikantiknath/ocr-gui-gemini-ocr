@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "br_or_000077_0_0_unordered-list.png",
+      "width": 1088,
+      "height": 639
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        1088.0,
+        639.0
+      ],
+      "area": 695232.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1088.0,
+          0.0,
+          1088.0,
+          639.0,
+          0.0,
+          639.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "ଡେଙ୍ଗୁଫିଭର ମଶା କାମୁଡ଼ା ଦ୍ୱାରା ବ୍ୟାପିଥାଏ ଏବଂ ଏହା ଅତି ଶୀଘ୍ର ବ୍ୟାପିଥାଏ |\n* ସହର ମାନଙ୍କ 1% ଲୋକଙ୍କୁ (ଆବାଦୀଲୋକଙ୍କୁ ନୁହେଁ) 60% ଲୁକ୍କାୟିତଭାବେ ଦୂଷିତ ବ୍ୟକ୍ତିଙ୍କୁ, ଯାହା ଏହି ଏବଂ ଏହି\n  ଆକ୍ରମଣକୁ |\n* ଏହା ମଧ୍ୟମ ଏବଂ ଡେଙ୍ଗୁଫିଭର ମଧ୍ୟମ ବ୍ୟକ୍ତିଙ୍କୁ ମାଧ୍ୟମ, ଲୋକଙ୍କୁ / ଡେଙ୍ଗୁ ଫିଭର, ଲୋକଙ୍କୁ ଏବଂ ଡିଫିସିଟ୍ ମଧ୍ୟମ |\n\nନିର୍ଦ୍ଦିଷ୍ଟ ମରୁଡ଼ି କେଉଁ ଅନ୍ୟ କାର୍ଯ୍ୟକାରୀମାନେ ଏବେଳେ ହୋଇଛନ୍ତି ଏବଂ ଅଧିକାଂଶ ସର୍ବଦା ଅସମର୍ଥ ମରିବାକୁ ପଡ଼ିଥାଏ |\n* କାର୍ଯ୍ୟକ୍ରମରେ କୋଭିଡ୍-19 ର ସହାୟ ଏବେଳେ ନିର୍ମାଣକାରୀମାନଙ୍କୁ ମାତ୍ର କିଛି ଲୋକମାନଙ୍କୁ ସହାୟ ରଖନ୍ତୁ |\n* କେଉଁ କାର୍ଯ୍ୟକାରୀମାନେ ସେଠୁ ମାତ୍ର ତିନି ମାସି ଏବଂ ତାଙ୍କୁ / ସମାପ୍ତିରେ ଏପରି ବ୍ୟକ୍ତିଙ୍କ ସହିତ ସମ୍ପର୍କରେ ଥାନ୍ତି (ଅଧିକ 2\n  ମିଟର ମଧ୍ୟରେ) ସେ ସମସ୍ତ କାର୍ଯ୍ୟକାରୀ 14 ଦିନ ପର୍ଯ୍ୟନ୍ତ ଘରେ କ୍ୱାରେଣ୍ଟାଇନ କରିବାକୁ, ଯଦି ସମ୍ଭବ ହେଲେ ହୋମ୍-କ୍ୱାର୍ଟ, ମାସ୍କ ଏବଂ\n  ଆତ୍ମ-ନିର୍ଭର ଏବଂ ସୋସିଆଲ ଡିଷ୍ଟାନ୍ସିଂ ନିର୍ଦ୍ଦେଶ ଦିଅନ୍ତୁ ଏବଂ MOHFW / ରାଜ୍ୟ ସରକାରୀ ନିର୍ଦ୍ଦେଶାବଳୀ ଅନୁସରଣ କରନ୍ତୁ |\n* ଅନ୍ୟ କାର୍ଯ୍ୟକାରୀମାନେ ମାଧ୍ୟମ ମାସି ସବୁଠାରୁ ଏବଂ କୌଣସି ମସଲା ଉପରେ ତାଙ୍କୁ ନିଜ ବ୍ୟକ୍ତିଙ୍କୁ ଏବଂ ଡିସେମ୍ବର ମସଲାକୁ\n  ସହାୟତାକାରୀରେ |\n* ନିୟନ୍ତ୍ରଣାତ୍ମକ ମଧ୍ୟ ଏବଂ ମାସିକୁ ଅଛି ସେ ସହାୟ ଏବେଳେ ଗ୍ରାମ ମାଧ୍ୟମୁଁ ହୋଇଛନ୍ତି ସେହି ସହାୟରେ, ଯାହା ସେହି ଗ୍ରାମ,\n  ସେମାନଙ୍କ ସହକର୍ମୀ ଏବଂ ସାଧାରଣ ସହାୟ ସୁରକ୍ଷିତ କରିବାକୁ ସହାୟ ହେବ |"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

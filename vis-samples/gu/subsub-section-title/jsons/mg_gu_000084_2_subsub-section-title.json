@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mg_gu_000084_2_subsub-section-title.png",
+      "width": 517,
+      "height": 172
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 33,
+      "bbox": [
+        0.0,
+        0.0,
+        517.0,
+        172.0
+      ],
+      "area": 88924.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          517.0,
+          0.0,
+          517.0,
+          172.0,
+          0.0,
+          172.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "- દિવાળીનો તહેવાર ગુજરાતના ડાંગના આદિવાસીઓ વાધબારસથી ઉજવે છે. ડાંગ જિલ્લામાં ગામનો મુખી પોતે ઉપવાસ કરે છે અને આમ\n  સામાજિક ઉત્સવનો પ્રારંભ કરે છે. દિવાળીને દિવસે ‘ભોળાવા’ નામની એક અનોખી વિધિ થાય છે.\n- સૌરાષ્ટ્રનાં કેટલાંક ગામોમાં ધનતેરસને દિવસે સાંજે ગામને પાદરે ગાયોનું ધણ એકઠું કરવામાં આવે છે અને પછી ઢોલ નગારાં વગાડી આ\n  ગાયોને દોડાવવામાં આવે છે. ગામ લોકો એટલે જ આ તહેવારને ‘ધણ-તેરસ’ કહે છે.\n- અમુક ગામોમાં ગાયોને બદલે શણગારેલાં સાંઢો સાથે છોડવા બળદની દોડની સ્પર્ધા રાખવામાં આવે છે. આની પહેલાં ભગવાન હનુમાનદાદાના\n  મંદિરની આસપાસ આ બળદગાડાં પાંચ વખત દોડી પ્રદક્ષિણા કરે છે.\n- ગુજરાતના પંચમહાલના આદિવાસીઓ દિવાળીમાં ‘બખોલણાં’ કરે છે. આ બખોલણાંમાં એક તૂટેલા કોડિયામાં ગામના યુવાનો અગ્નિ\n  સળગાવી એના પર મીઠું મરચું ભભરાવી એમાંથી નીકળતો ધુમાડો ઘરમાં અને પછી ગામની બહાર જઈ ખેતરમાં ફેલાવે છે ત્યારબાદ\n  પોતાને ઘેર પાછા ફરી કોડિયું ફેંકી દે છે અને અગ્નિ ઓલવી નાખે છે. આની પાછળ માન્યતા છે કે આખા વર્ષ સુધી ઘેર અને ખેતર સુરક્ષિત\n  રહે છે."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_kn_000760_0_7_subsub-headline.png",
+      "width": 1021,
+      "height": 361
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 31,
+      "bbox": [
+        0.0,
+        0.0,
+        1021.0,
+        361.0
+      ],
+      "area": 368581.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1021.0,
+          0.0,
+          1021.0,
+          361.0,
+          0.0,
+          361.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(ಎ) ಅವನು ತಪ್ಪಿಸಿ ಮಾಡಿದ್ದರೆ, ಎಂದರೆ ಯುಕ್ತ ಕಾರಣವಿಲ್ಲದೆಯೆ ಮತ್ತು ಒಬ್ಬಿಗೆ ಇಲಿದ ಅಥವಾ ಒಬ್ಬಿಗೆ\nವಿರೋಧವಾಗಿ ಅವನನ್ನು ತಪ್ಪಿಸಿದರೆ ಅಥವಾ ಬುದ್ಧಿ ಪೂರ್ವಕವಾಗಿ ಅವನನ್ನು ಉಪೇಕ್ಷಿಸಿದರೆ;\n\n(ಬಿ) ಅವನು ತನ್ನ ಗಂಡಹೆಂಡತಿಯು ವಾಸಿಗಾರ ಅಥವಾ ಕ್ಷೇಮಿಕಾರ ಎಂಬ ಸಹಕಾರ ಭಯವು ಅವಳ ಮನಸ್ಸಿನಲ್ಲಿ\nಉಂಟಾಗುವಷ್ಟು ಕ್ರೂರ ರೀತಿಯಲ್ಲಿ ಅವನು ಅವಳೊಂದಿಗೆ ವರ್ತಿಸಿದರೆ;\n\n(ಸಿ) ಅವನು ಉಗ್ರವಾದ ಕುಷ್ಠ ರೋಗದಿಂದ ನರಳುತ್ತಿದ್ದರೆ;\n\n(ಡಿ) ಅವನಿಗೆ ಬೇರೊಬ್ಬ ಜೀವಂತ ಪತ್ನಿ ಇದ್ದರೆ;\n\n(ಇ) ಅವನು, ತನ್ನ ಪತ್ನಿಯು ವಾಸಿಸುವ ಮನೆಯಲ್ಲಿಯೆ ಒಬ್ಬಳು ಉಪ ಪತ್ನಿಯನ್ನು ಇಟ್ಟುಕೊಂಡಿದ್ದರೆ ಅಥವಾ ಉಪಪತ್ನಿಯೊಂದಿಗೆ\nಬೇರೆಯಲ್ಲಿ ರೂಢಿಯಾಗಿ ವಾಸಿಸುತ್ತಿದ್ದರೆ;\n\n(ಎಫ್) ಬೇರೊಂದು ಮತಕ್ಕೆ ಮತಾಂತರ ಹೊಂದಿರುವದರಿಂದ ಅವನು ಹಿಂದೂವಾಗುದು ಕೊನೆಗೊಂಡಿದ್ದರೆ;\n\n(ಜಿ) ಅವನು ಪ್ರತ್ಯೇಕವಾಗಿ ವಾಸಿಸುವದನ್ನು ಸಮರ್ಥಿಸುವಂತಹ ಇತರ ಯಾವುದಾದರೂ ಕಾರಣವಿದ್ದರೆ."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

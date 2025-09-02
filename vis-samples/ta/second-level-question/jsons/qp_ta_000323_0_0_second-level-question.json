@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "qp_ta_000323_0_0_second-level-question.png",
+      "width": 690,
+      "height": 485
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 25,
+      "bbox": [
+        0.0,
+        0.0,
+        690.0,
+        485.0
+      ],
+      "area": 334650.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          690.0,
+          0.0,
+          690.0,
+          485.0,
+          0.0,
+          485.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "1. நிதியியல் பொருள் விளக்கம் தருக.\n2. நிதி மேலாண்மை இலக்கணம் தருக.\n3. பொருளாதார நலத்தை உயர்த்துவதற்கான இரு\nஅணுகுமுறைகள் யாவை?\n4. மூலதனக் கட்டமைப்பின் ஏதேனும் இரண்டு அணுகுமுறைகளை\nவிவரிக்க.\n5. மூலதனக் கட்டமைப்பின் ஏதேனும் நான்கு அகக் காரணிகளை\nதருக.\n6. இடைக்கால பங்காாதாயம் என்றால் என்ன?\n7. பங்காாதாயக் கொள்கை என்றால் என்ன?\n8. நடப்பு மூலதனம் பற்றி விளக்குக.\n9. ரொக்க மேலாண்மையில் உட்படும் மூன்று காரணிகள் யாவை?\n10. எவ்வாறு ரொக்க அளவைக் கட்டுப்படுத்துதல் வேண்டும்?"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

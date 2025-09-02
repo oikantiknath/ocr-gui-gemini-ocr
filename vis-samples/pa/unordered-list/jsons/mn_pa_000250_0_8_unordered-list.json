@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_pa_000250_0_8_unordered-list.png",
+      "width": 1258,
+      "height": 430
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 40,
+      "bbox": [
+        0.0,
+        0.0,
+        1258.0,
+        430.0
+      ],
+      "area": 540940.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1258.0,
+          0.0,
+          1258.0,
+          430.0,
+          0.0,
+          430.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "* ਆਪਣੀ ਸੀਟ ਬੈਲਟ ਬੰਨ੍ਹੋ।\n* ਬੱਚਿਆਂ ਨੂੰ ਬੇਬੀ ਆਟੋਮੈਟਿਕ ਫਿੱਟੇਡ ਬੈਲਟ ਤੱਕ ਸੁਰੱਖਿਅਤ ਕਰੋ। ਜੇਕਰ ਪੁਰਾਣਾ ਫਿੱਟੇਡ ਨਹੀਂ ਹੁੰਦਾ ਕਿ ਇਹ ਬਿਜਲੀ ਪ੍ਰਣਾਲੀ ਨੂੰ ਨੁਕਸਾਨ ਪਹੁੰਚਾਵੇ।\n* ਬੱਚਿਆਂ ਨੂੰ ਪਿਛਲੀ ਸੀਟ ਬੈਲਟ ਅਤੇ ਖਾਸ ਨਿਯਮਾਂ ਤੋਂ ਬਾਹਰ ਕੱਢੋ, ਵੱਡੇ ਬੱਚਿਆਂ ਨੂੰ ਛੋਟੇ ਬੱਚਿਆਂ ਦੀ ਸਹਾਇਤਾ ਕਰਨ ਲਈ ਕਿੰਨਾ ਸੰਭਵ ਹੋ ਸਕੇ ਯਾਤਰੀਆਂ ਨੂੰ\nਅਗਲੀਆਂ ਸੀਟਾਂ 'ਤੇ ਲੈ ਜਾਓ।\n* ਵਾਹਨ ਤੋਂ ਬਾਹਰ ਨਿਕਲੋ ਅਤੇ 'ਤੇ ਜਾਓ, ਇਹ ਤੁਹਾਨੂੰ ਕਿੰਨਾ ਸੰਭਵ ਹੋ ਸਕੇ ਸੁਰੱਖਿਅਤ ਅਤੇ ਚਲਦੇ ਪਾਣੀ ਵਿੱਚ ਵੀ ਤੁਸੀਂ ਬੇਲੋੜੇ ਸਮੇਂ ਲਈ ਫਸੇ\nਵਾਹਨ ਦੀ ਸਹਾਇਤਾ ਕਰ ਸਕਦੇ ਹੋ। ਇੱਕ ਵਾਰ ਫੇਰ ਬੈਠੋ 'ਤੇ, 911 'ਤੇ ਕਾਲ ਕਰੋ ਅਤੇ ਨਜ਼ਦੀਕੀ ਸੁਰੱਖਿਆ ਜ਼ਮੀਨ ਦਾ ਪਤਾ ਦਿਓ।\n* ਸਿਰਫ ਇੱਕ ਅਸਥਾਈ ਉਪਾਅ ਬਣੇ ਜਾਨਵਰ ਲਈ ਤਿਆਰੀ ਕਰੋ। ਜੇਕਰ ਤੁਹਾਨੂੰ ਗੰਭੀਰ ਚੋਟਾਂ ਵਾਲੀ ਵਾਟਰਲਾਈਨ ਦੇ ਹੇਠਾਂ ਡੁੱਬਣ ਤੱਕ ਐਮਰਜੈਂਸੀ\nਨਾ ਹੋਰ ਸਹਾਇਤਾ ਨਹੀਂ ਪਹੁੰਚਦੀ ਹੈ, ਤਾਂ ਤੁਹਾਨੂੰ ਤੈਰਨ ਲਈ ਮਜਬੂਰ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।\n* ਸਮਾਨ ਇਕੱਠਾ ਕਰਨ ਲਈ ਕਦੇ ਵੀ ਵਾਹਨ ਵਿੱਚ ਦੁਬਾਰਾ ਦਾਖਲ ਨਾ ਹੋਵੋ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

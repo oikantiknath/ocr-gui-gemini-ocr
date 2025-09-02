@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "rp_or_000363_0_0_reference.png",
+      "width": 937,
+      "height": 1462
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 24,
+      "bbox": [
+        0.0,
+        0.0,
+        937.0,
+        1462.0
+      ],
+      "area": 1369894.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          937.0,
+          0.0,
+          937.0,
+          1462.0,
+          0.0,
+          1462.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "d - ଯେଉଁ ମାନଙ୍କର ହୃଦୟକୁ ଲକ୍ଷ୍ୟ କରି କବିଲେଖେ, ସେମାନଙ୍କୁ ସଚେତନ ଓ ସେମାନଙ୍କୁ\nସଚେତନ କରି ଥାଏ ।\nP0 - ଅଧ୍ୟାପକ ଖର୍ଚ୍ଚ ହେଉଛି ଛାତ୍ରଙ୍କୁ ଶିକ୍ଷା ଦିଏନି କିନ୍ତୁ ଲକ୍ଷ୍ୟନିଷ୍ଠ ହେଉଥିବା,\nସଂସ୍କୃତି ସମ୍ପନ୍ନ ହେଉଥିବା ଏବଂ ଆତ୍ମ ବିଶ୍ୱାସ ବଢ଼ାଉଥିବା ଛାତ୍ର ଛାତ୍ରୀ\nଅନୁସନ୍ଧାନ ।\nPP - ସେମାନଙ୍କୁ ଆଧୁନିକ ଶିକ୍ଷାଦାନ ଦ୍ୱାରା ଶୃଙ୍ଖଳିତ କରିବାକୁ ମାଧ୍ୟମ\nକାମ ଦିଏନି ମାତ୍ର ବୈଜ୍ଞାନିକ ସହ ସମ୍ପର୍କ ।\nP9 - ଶିକ୍ଷକ ଶିକ୍ଷାଦାନ ପ୍ରକ୍ରିୟାକୁ ସାମାଜିକରଣ ଦ୍ୱାରା ସହଜସାଧ୍ୟ ହେଉଥିବା\nସୁଯୋଗ ଦେଇ ନିଜକୁ ସବୁ ପ୍ରକାରର ଉନ୍ନତୀ ପାଇଁ ଉପଯୁକ୍ତ କରି\nପାରିଥାନ୍ତି ।\nPm - ତାହାକୁ ହିଁ ଲକ୍ଷ୍ୟ କରି ସାମାଜିକରଣ ଶିକ୍ଷକ ଶିକ୍ଷାଦାନ କରି ।\nPR - ପ୍ରକଳ୍ପ ପଦ୍ଧତି ଉପରେ ପ୍ରତିକ୍ରିୟା ପ୍ରକାଶ କରି ଉପଯୁକ୍ତ\nମିଳିପାରିବ ।\nPX - ମାତୃଭାଷା ପଠନ ଶକ୍ତି ମାପି ମନସ୍ତାତ୍ତ୍ୱିକ ଶିକ୍ଷାଦାନ ପଦ୍ଧତିରୁ\nଶିକ୍ଷକ ଓ ଛାତ୍ର ଓ ସେମାନଙ୍କୁ ସଠିକ୍ ଭାବରେ ଅବଗତ କରାଇ ଛାତ୍ରଙ୍କ\nପରିପୂର୍ଣ୍ଣ ମୂଲ୍ୟାୟନ କରି ବୈଜ୍ଞାନିକ ମନ୍ତବ୍ୟ ଦେଇପାରିବେ ।\nPY - ୫୦ ବର୍ଷରେ, ଛଅ ପ୍ରକାର ଅନୁସନ୍ଧାନ ହେବାର ସମ୍ଭାବନା ଥାଏ ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

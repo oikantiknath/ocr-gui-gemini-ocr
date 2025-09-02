@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "ar_pa_000631_0_10_sub-ordered-list.png",
+      "width": 1012,
+      "height": 847
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        1012.0,
+        847.0
+      ],
+      "area": 857164.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          1012.0,
+          0.0,
+          1012.0,
+          847.0,
+          0.0,
+          847.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "20. (1) ਜੇ ਨਿਗਮ ਵਿਚ ਗੱਲ ਲੋਕ-ਹਿੱਤ ਵਿਚ ਹਾਲਾਤ ਅਨੁਸਾਰ ਉਚਿਤ ਸਮਝਦਾ ਹੈ ਕਿ ਆਪਣੀਆਂ\nਕੋਈ ਸਭਾ ਟਰਾਂਸਪੋਰਟ ਸੇਵਾਵਾਂ ਦੇ ਚਲਾਉਣ ਦਾ ਕਿਸੇ ਹੋਰ ਰਾਜ ਵਿਚ ਸਥਿਤ ਕਿਸੇ ਰੂਟ ਜਾਂ ਖੇਤਰ ਵਿਚ\nਵਿਸਤਾਰ ਕੀਤਾ ਜਾਵੇ, ਤਾਂ ਉਸ ਰਾਜ ਦੀ ਵਿਸ਼ਵਾਸ ਨਾਲ ਤਸਦੀਕ ਕੀਤੇ ਵਿਸਤਾਰ ਦੇ ਵਿਸ਼ੇ ਵਿਚ ਉਸ ਹੋਰ\nਰਾਜ ਦੀ ਸਰਕਾਰ ਨਾਲ ਗੱਲਬਾਤ ਕਰ ਸਕੇਗਾ।\n\n(2) ਜੇ ਉਸ ਹੋਰ ਰਾਜ ਦੀ ਸਰਕਾਰ ਤਸਦੀਕ ਕੀਤੇ ਵਿਸਤਾਰ ਦੀ ਪ੍ਰਵਾਨਗੀ ਦੇ ਦਿੰਦੀ ਹੈ ਤਾਂ\nਨਿਗਮ ਇਸ ਪ੍ਰਯੋਜਨ ਲਈ ਇਕ ਸਕੀਮ ਤਿਆਰ ਕਰੇਗਾ ਅਤੇ ਉਸ ਹੋਰ ਸਰਕਾਰ ਦੀ ਸੰਮਤੀ ਲਈ ਉਸ\nਨੂੰ ਭੇਜੇਗਾ ਅਤੇ ਅਜਿਹੀ ਸੰਮਤੀ ਪ੍ਰਾਪਤ ਹੋਣ ਤੇ, ਉਸ ਰਾਜ ਸਰਕਾਰ ਦੀ ਪੂਰਨ ਪ੍ਰਵਾਨਗੀ ਨਾਲ ਉਹ\nਸਕੀਮ ਲਾਗੂ ਕਰ ਸਕੇਗਾ।\n\n(3) ਸਕੀਮ ਦੇ ਇਸ ਤਰ੍ਹਾਂ ਲਾਗੂ ਹੋ ਜਾਣ ਪਿੱਛੋਂ, ਨਿਗਮ ਅਜਿਹੇ ਰੂਟ ਜਾਂ ਖੇਤਰ ਵਿਚ\nਆਪਣੀ ਸਭਾ ਟਰਾਂਸਪੋਰਟ ਸੇਵਾ ਦੇ ਚਲਾਉਣ ਦਾ ਵਿਸਤਾਰ ਕਰਨ ਲਈ ਸ਼ਕਤੀਵਾਨ ਹੋਵੇਗਾ ਅਤੇ ਜਦ\nਅਜਿਹੀ ਸੇਵਾ ਦਾ ਚਲਾਉਣਾ ਅਜਿਹੇ ਇਸ ਤਰ੍ਹਾਂ ਵਿਸਤਾਰਿਤ ਕਰ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ, ਤਾਂ ਨਿਗਮ ਉਸ ਰੂਟ ਤੇ\nਜਾਂ ਖੇਤਰ ਵਿਚ, ਉਸ ਹੋਰ ਰਾਜ ਦੀ, ਜਿਸ ਵਿਚ ਅਜਿਹਾ ਰੂਟ ਜਾਂ ਖੇਤਰ ਸਥਿਤ ਹੈ, ਨਾਲ ਕਾਨੂੰਨ ਦੇ\nਉਪਬੰਧਾਂ ਦੇ ਤਾਬੇ, ਉਸ ਸੇਵਾ ਨੂੰ ਚਲਾਏਗਾ।\n\n(4) ਨਿਗਮ ਉਪ-ਧਾਰਾ (2) ਅਧੀਨ ਲਾਗੂ ਕੀਤੀ ਸਕੀਮ ਵਿਚ ਇਸ ਧਾਰਾ ਦੇ ਪ੍ਰਯੋਜਨਾਂ\nਉਪਬੰਧਾਂ ਵਿਚ ਉਪਬੰਧਤ ਤਰੀਕੇ ਨਾਲ ਤਿਆਰ ਅਤੇ ਲਾਗੂ ਕੀਤੀ ਅਨੁਪੂਰਕ ਸਕੀਮ ਦੁਆਰਾ ਸਮੇਂ ਸਮੇਂ\nਤੇ ਬਦਲ-ਬਦਲ ਜਾਂ ਉਸਦਾ ਵਿਸਤਾਰ ਕਰ ਸਕੇਗਾ।"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

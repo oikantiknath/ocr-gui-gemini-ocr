@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "mn_te_000587_0_0_sub-ordered-list.png",
+      "width": 461,
+      "height": 354
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        461.0,
+        354.0
+      ],
+      "area": 163194.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          461.0,
+          0.0,
+          461.0,
+          354.0,
+          0.0,
+          354.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "(1) ఓం, కామాకర్షిణీ నిత్యాకలాదేవీ, (2) ఓం, బుద్ధ్యా\\nకర్షిణీ నిత్యాకలాదేవీ..., (3) ఓం, అహంకారాకర్షిణీ .... (4)\\nఓం, శబ్దాకర్షిణీ.... (5) ఓం, స్పర్శాకర్షిణీ.... (6) ఓం.\\nరూపాకర్షిణీ.... (7) ఓంం, రసాకర్షిణీ.... (8) ఓంం....గంధా\\nకర్షిణీ...., (9) ఓం, చిత్తాకర్షిణీ . (10) ఓంం, ధైర్యాక\\nర్షిణీ ... (11) ఓం, స్మృత్యాకర్షిణీ...., (12) ఓం నామాక\\nర్షిణీ..., (13) ఓం, బీజాకర్షిణీ...., (14) ఓం, ఆత్మాక\\nర్షిణీ...., (15) ఓం, అమృతాకర్షిణీ.... (16) ఓం, శరీరాక\\nర్షిణీ నిత్యా కలాదేవీ. దేహ్యుగ్రదళమహారత్న వామావర్తస్థాన పూజ,\\nనకారా ప్రణవకః; షోడశకలాత్మకై; చంద్రసూర్యాగ్ని; త్రిపురేణ\\nచక్రేశ్వరీ; సర్వసిద్ధిప్రదముద్రా; తైపురుషుగ, గుహ యోగినీ,\\nఉపన్యాసం స్థాయీభావం, వీరరసాత్మకం."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "fm_te_000475_0_30_sub-ordered-list.png",
+      "width": 561,
+      "height": 152
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 29,
+      "bbox": [
+        0.0,
+        0.0,
+        561.0,
+        152.0
+      ],
+      "area": 85272.0,
+      "segmentation": [
+        [
+          0.0,
+          0.0,
+          561.0,
+          0.0,
+          561.0,
+          152.0,
+          0.0,
+          152.0
+        ]
+      ],
+      "iscrowd": 0,
+      "text": "a) In case of renewed deposits, the new deposit amount consists of the original deposit amount plus interest less Tax Deducted at Source (TDS) if any, less compounding effect of TDS. For reinvestment deposit, the interest reinvested is post TDS\nrecovery and hence the maturity amount for reinvestment deposits would vary to the extent of tax and compounding effect on tax for the period subsequent to deduction till maturity. If Deposit is opened under Monthly/Quarterly Interest\nPayment Mode, then the renewed deposit shall not comprise of the interest part.\nb) No deduction of tax shall be made for taxable interest in the case of Non-individual resident in India, if such Non-individual furnishes to the Bank, a declaration in writing in the prescribed form 15G (as applicable, with PAN CARD details) to the\neffect that the tax on his/her estimated total income for the year in which such interest income is to be included in computing his/her total income will be NIL. TDS rates will be as applicable from time to time as per the Income Tax Act, 1961 and\nIncome Tax rules which are subject to change as per directives of Ministry of Finance, Govt. of India). If TDS is not to be deducted, please submit Income Tax Exemption letter along with this Form.\nc) Form 15G is required to be submitted separately for each financial year.\nd) The Bank shall not be liable for any consequences or loss arising due to delay or non-submission of form 15G.\ne) As per section 139A (5A) of the Income Tax Act, every person receiving any sum of income or amount from which tax has been deducted under the provision of income tax act shall provide his/her PAN number to the person responsible for\ndeducting such tax. In case the PAN number is not provided the Bank shall not be liable for the non availment of the credit of tax deducted at source.\nf) PAN is required to be submitted to the Bank for Fixed deposit of ₹50,000/- or more.\ng) PAN is required to be submitted to the Bank at a time of Term Deposit of amount exceeding ₹50,000 or once and/or the aggregate Term Deposit amount (including accrued interest) in a financial year exceeds ₹5,00,000/- with the Bank. In case,\nthe PAN number is not provided to the Bank, the Bank shall not be liable for the non-availment of credit of Tax deducted at source and non-issuance of TDS certificate.\nh) As per section 206 AA introduced by Finance (no.2) Act, 2009 w.e.f. 01.04.2010, every person who receives income on which TDS is deductible shall furnish his/her PAN failing which TDS shall be deducted as at the rate of 20% in case of\ndomestic deposits. \"Please further note that the absence of PAN, form 15G and other exemption certificate will be invalid even if submitted & penal TDS will be applicable.\"\ni) The above terms and conditions are subject to change as per regulatory guidelines issued from time to time.\nj) A new section 206AB introduced in the Finance Bill, 2021 w.e.f. 01.07.2021 for deduction of tax at source at higher rates i.e 20% (for interest on deposit where prevailing TDS rate is 10%) if an amount is paid or payable to the specified person\nwho did not file his income tax return for respective year as mentioned in said section.\nk) The extant TDS law requires tax to be deducted in case the projected interest exceeds threshold limit (₹50,000/- for senior citizens and ₹40,000/- for others). This threshold limit is to be calculated at the time of payment/credit of interest.\nSubsequently, in case the total interest falls below the threshold limit due to premature withdrawal of one or more FDs, the TDS deducted on earlier occasions will not be refunded. The deposit holder can claim the credit for TDS while filing\nhis/her income tax return."
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "advertisement"
+    },
+    {
+      "id": 1,
+      "name": "answer"
+    },
+    {
+      "id": 2,
+      "name": "author"
+    },
+    {
+      "id": 3,
+      "name": "chapter-title"
+    },
+    {
+      "id": 4,
+      "name": "contact-info"
+    },
+    {
+      "id": 5,
+      "name": "dateline"
+    },
+    {
+      "id": 6,
+      "name": "figure"
+    },
+    {
+      "id": 7,
+      "name": "figure-caption"
+    },
+    {
+      "id": 8,
+      "name": "first-level-question"
+    },
+    {
+      "id": 9,
+      "name": "flag"
+    },
+    {
+      "id": 10,
+      "name": "folio"
+    },
+    {
+      "id": 11,
+      "name": "footer"
+    },
+    {
+      "id": 12,
+      "name": "footnote"
+    },
+    {
+      "id": 13,
+      "name": "formula"
+    },
+    {
+      "id": 14,
+      "name": "header"
+    },
+    {
+      "id": 15,
+      "name": "headline"
+    },
+    {
+      "id": 16,
+      "name": "index"
+    },
+    {
+      "id": 17,
+      "name": "jumpline"
+    },
+    {
+      "id": 18,
+      "name": "options"
+    },
+    {
+      "id": 19,
+      "name": "ordered-list"
+    },
+    {
+      "id": 20,
+      "name": "page-number"
+    },
+    {
+      "id": 21,
+      "name": "paragraph"
+    },
+    {
+      "id": 22,
+      "name": "placeholder-text"
+    },
+    {
+      "id": 23,
+      "name": "quote"
+    },
+    {
+      "id": 24,
+      "name": "reference"
+    },
+    {
+      "id": 25,
+      "name": "second-level-question"
+    },
+    {
+      "id": 26,
+      "name": "section-title"
+    },
+    {
+      "id": 27,
+      "name": "sidebar"
+    },
+    {
+      "id": 28,
+      "name": "sub-headline"
+    },
+    {
+      "id": 29,
+      "name": "sub-ordered-list"
+    },
+    {
+      "id": 30,
+      "name": "sub-section-title"
+    },
+    {
+      "id": 31,
+      "name": "subsub-headline"
+    },
+    {
+      "id": 32,
+      "name": "subsub-ordered-list"
+    },
+    {
+      "id": 33,
+      "name": "subsub-section-title"
+    },
+    {
+      "id": 34,
+      "name": "subsub-unordered-list"
+    },
+    {
+      "id": 35,
+      "name": "sub-unordered-list"
+    },
+    {
+      "id": 36,
+      "name": "table"
+    },
+    {
+      "id": 37,
+      "name": "table-caption"
+    },
+    {
+      "id": 38,
+      "name": "table-of-contents"
+    },
+    {
+      "id": 39,
+      "name": "third-level-question"
+    },
+    {
+      "id": 40,
+      "name": "unordered-list"
+    },
+    {
+      "id": 41,
+      "name": "website-link"
+    }
+  ]
+}
